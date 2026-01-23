@@ -1,0 +1,35 @@
+Dimensão,Indicador,Valor_TO,Valor_Brasil,Ano,Posição_Nacional,Tendência,Fonte,Observações
+Dados Sociais,Taxa de extrema pobreza (%),3.8,3.5,2024,,,IBGE/PNAD,"60 mil pessoas. Queda de 4,2% em 2023"
+Dados Sociais,Taxa de pobreza (%),23.9,23.1,2024,13º menor,↓,IBGE/SIS,465 mil pessoas. Queda de 28,6% em 2023
+Dados Sociais,Índice de Gini,0.477,0.506,2024,9º melhor,↓,IBGE/PNAD,Menor nível histórico nacional
+Dados Sociais,Rendimento médio domiciliar per capita (R$),1725,2020,2024,13º nacional / 1º Norte-Nordeste,↑,IBGE/PNAD,Crescimento de 11,72% em relação a 2023
+Dados Sociais,População com alguma renda (%),65.6,66.1,2024,,,IBGE/PNAD,Recorde histórico desde 2012
+Dados Sociais,Famílias no Bolsa Família,144000,,,2025-09,,,144 mil famílias com valor médio R$ 694
+Dados Sociais,Taxa de desocupação (%),5.5,,,2024,,,Menor valor desde 2012
+Dados Sociais,Taxa de formalização (%),44.5,,,2024,,,
+Dados Sociais,Nível de ocupação (%),60.3,,,2024,,,754 mil pessoas ocupadas
+Economia,PIB Total (R$ bilhões),64.3,10900,2023,,,IBGE Contas Regionais,Crescimento de 7,9% em relação a 2022
+Economia,Crescimento do PIB (%),7.9,3.2,2023,4º maior,↑,IBGE,Atrás de Acre (14,7%), MS (13,4%) e MT (12,9%)
+Economia,Participação no PIB Brasil (%),0.6,100,2023,,,IBGE,
+Economia,Participação no PIB Região Norte (%),10.1,100,2023,,,IBGE,
+Economia,PIB per capita (R$),42553.36,53886.67,2023,2º Norte / 13º Brasil,↑,IBGE,
+Economia,Crescimento acumulado 2002-2023 (%),173.1,,,2002-2023,2º maior,↑,IBGE,"Taxa média anual de 4,9% (dobro da nacional)"
+Economia,VAB Agropecuária (% do PIB),15.5,,,2023,,↑,IBGE,Principal motor do crescimento
+Economia,VAB Indústria - crescimento (%),3.3,,,2023,,↑,IBGE,Destaque energia elétrica (+8,9%)
+Economia,VAB Serviços (% do PIB),62.9,,,2023,,,IBGE,Crescimento de 5,4%
+Economia,"PIB Palmas (R$ bilhões, % estadual)","14.1 (21,9%)",,,2023,,,IBGE,39% concentrado em Palmas+Araguaína+Gurupi
+Economia,PIB Araguaína (R$ bilhões),7.3,,,2023,,,IBGE,
+Economia,PIB Gurupi (R$ bilhões),3.7,,,2023,,,IBGE,
+Educação,IDEB Anos Iniciais - Rede Estadual,6.1,6.0,2023,1º Norte / 3º Nacional,↑,INEP,Crescimento de 11,7% em relação a 2021
+Educação,IDEB Anos Finais - Rede Estadual,6.2,5.0,2023,3º Norte / 11º Nacional,→,INEP,Superou meta MEC (5,9)
+Educação,IDEB Ensino Médio - Rede Estadual,4.2,4.3,2023,2º Norte / 10º Nacional,↑,INEP,Crescimento de 5,1% em relação a 2019
+Educação,Média geral IDEB todas etapas,4.9,,,2023,1º Norte,,INEP,
+Educação,Investimento em obras educação (R$ milhões),119.5,,,2024,,,Governo TO,
+Educação,Investimento transformação digital (R$ milhões),49,,,2024,,,Governo TO,
+Educação,Investimento formação profissionais (R$ milhões),20,,,2024,,,Governo TO,
+Educação,Novos servidores concursados,4000,,,2024,,,Governo TO,
+Educação,Taxa de analfabetismo 15+ anos (%),6.6,5.3,2024,2ª maior Norte,↑,IBGE/PNAD,
+Educação,Frequência escolar 6-14 anos (%),99.7,,,2024,,,IBGE/PNAD,
+Educação,Ensino em tempo integral (%),36.3,,,2024,,↑,MEC/INEP,Crescimento de 26,3% em 2022
+Saúde,Cobertura vacinal menores 2 anos (%),87,,,2024,1º Nacional,↑,DATASUS/MS,Primeiro lugar nacional por 2 anos consecutivos
+Saúde,Comitê Prevenção Óbitos,Reativado,,,2023,,,SES-TO,Cepomfi-TO reativado em 2023
