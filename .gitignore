@@ -1,0 +1,99 @@
+# Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.log
+*.cache
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dados sensíveis
+*.env
+.env.local
+.env.*.local
+credentials.json
+secrets.json
+*.key
+*.pem
+
+# Arquivos grandes
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.iso
+
+# Dados temporários do projeto
+dados/temp/
+dados/raw/
+dados/backup/
+*.xlsx~
+
+# Google Drive
+.gdrive/
+*.gdoc
+*.gsheet
+
+# Arquivos de recuperação
+.recovery/
+recovery/
+
+# Builds e distribuições
+dist/
+build/
+*.egg-info/
+
+# Documentação gerada
+site/
+_site/
+
+# Arquivos de teste
+test_*.csv
+test_*.md
+sandbox/
