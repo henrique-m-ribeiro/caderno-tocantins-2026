@@ -1,0 +1,111 @@
+Município,Indicador,Valor,Ano,Fonte,Observações
+Palmas,População Censo,302692,2022,IBGE Censo 2022,
+Palmas,População Estimada,328499,2025,IBGE,
+Palmas,Área Territorial (km²),2227.329,2024,IBGE,
+Palmas,Densidade Demográfica (hab/km²),135.90,2022,IBGE,
+Palmas,PIB per capita (R$),46808.20,2023,IBGE PIB Municipal,
+Palmas,PIB Total (milhões R$),14100,2023,IBGE PIB Municipal,PIB mais alto do estado
+Palmas,IDHM,0.788,2010,PNUD,
+Palmas,Taxa de Escolarização 6-14 anos (%),98.85,2022,IBGE,
+Palmas,Mortalidade Infantil (por mil),11.56,2023,DATASUS,
+Porto Nacional,População Censo,64418,2022,IBGE Censo 2022,
+Porto Nacional,População Estimada,69551,2025,IBGE,
+Porto Nacional,Densidade Demográfica (hab/km²),N/D,2022,IBGE,Dado não especificado
+Porto Nacional,PIB per capita (R$),68063.36,2021,IBGE PIB Municipal,
+Porto Nacional,PIB Total (milhões R$),3200,2023,IBGE PIB Municipal,3ª maior economia do estado
+Porto Nacional,IDHM,0.740,2010,PNUD,
+Porto Nacional,Taxa de Escolarização 6-14 anos (%),98.59,2022,IBGE,
+Porto Nacional,Mortalidade Infantil (por mil),15.43,2023,DATASUS,
+Lajeado,População Censo,3357,2022,IBGE Censo 2022,
+Lajeado,População Estimada,3559,2025,IBGE,
+Lajeado,Área Territorial (km²),318.292,2024,IBGE,
+Lajeado,Densidade Demográfica (hab/km²),10.55,2022,IBGE,
+Lajeado,PIB per capita (R$),20132.79,2021,IBGE PIB Municipal,
+Lajeado,IDHM,0.675,2010,PNUD,
+Lajeado,Taxa de Escolarização 6-14 anos (%),99.47,2022,IBGE,
+Lajeado,Mortalidade Infantil (por mil),43.48,2023,DATASUS,
+Ipueiras,População Censo,1590,2022,IBGE Censo 2022,
+Ipueiras,População Estimada,1626,2025,IBGE,
+Ipueiras,Área Territorial (km²),821.152,2024,IBGE,
+Ipueiras,Densidade Demográfica (hab/km²),1.94,2022,IBGE,
+Ipueiras,PIB per capita (R$),22879.08,2021,IBGE PIB Municipal,
+Ipueiras,IDHM,0.620,2010,PNUD,
+Ipueiras,Taxa de Escolarização 6-14 anos (%),97.23,2022,IBGE,
+Ipueiras,Mortalidade Infantil (por mil),N/D,2023,DATASUS,Dado não disponível
+Bom Jesus do Tocantins,População Censo,4038,2022,IBGE Censo 2022,
+Bom Jesus do Tocantins,População Estimada,4181,2024,IBGE,
+Bom Jesus do Tocantins,Área Territorial (km²),1326.947,2023,IBGE,
+Bom Jesus do Tocantins,Densidade Demográfica (hab/km²),3.04,2022,IBGE,
+Bom Jesus do Tocantins,PIB per capita (R$),27228.47,2021,IBGE PIB Municipal,
+Bom Jesus do Tocantins,IDHM,0.660,2010,PNUD,
+Bom Jesus do Tocantins,Taxa de Escolarização 6-14 anos (%),97.50,2010,IBGE,Dado de 2010
+Bom Jesus do Tocantins,Mortalidade Infantil (por mil),11.76,2022,DATASUS,
+Pedro Afonso,População Censo,14055,2022,IBGE Censo 2022,
+Pedro Afonso,População Estimada,14895,2025,IBGE,
+Pedro Afonso,Área Territorial (km²),2019.556,2024,IBGE,
+Pedro Afonso,Densidade Demográfica (hab/km²),6.96,2022,IBGE,
+Pedro Afonso,PIB per capita (R$),77584.01,2023,IBGE PIB Municipal,PIB per capita mais alto da microrregião
+Pedro Afonso,IDHM,0.732,2010,PNUD,
+Pedro Afonso,Taxa de Escolarização 6-14 anos (%),98.02,2022,IBGE,
+Pedro Afonso,Mortalidade Infantil (por mil),13.89,2023,DATASUS,
+Monte do Carmo,População Censo,5694,2022,IBGE Censo 2022,
+Monte do Carmo,População Estimada,5722,2024,IBGE,
+Monte do Carmo,Área Territorial (km²),3601.205,2024,IBGE,
+Monte do Carmo,Densidade Demográfica (hab/km²),1.58,2022,IBGE,
+Monte do Carmo,PIB per capita (R$),36212.17,2021,IBGE PIB Municipal,
+Monte do Carmo,PIB Total (milhões R$),296.3,2021,Caravela/IBGE,70.8% advém da agropecuária
+Monte do Carmo,IDHM,0.622,2010,PNUD,
+Monte do Carmo,Taxa de Escolarização 6-14 anos (%),99.26,2022,IBGE,
+Monte do Carmo,Mortalidade Infantil (por mil),12.05,2023,DATASUS,
+Tocantínia,População Censo,7459,2022,IBGE Censo 2022,
+Tocantínia,População Estimada,7802,2025,IBGE,
+Tocantínia,Área Territorial (km²),2609.775,2024,IBGE,
+Tocantínia,Densidade Demográfica (hab/km²),2.86,2022,IBGE,
+Tocantínia,PIB per capita (R$),24892.41,2021,IBGE PIB Municipal,
+Tocantínia,IDHM,0.589,2010,PNUD,
+Tocantínia,Taxa de Escolarização 6-14 anos (%),98.11,2022,IBGE,
+Tocantínia,Mortalidade Infantil (por mil),5.75,2023,DATASUS,
+Silvanópolis,População Censo,5108,2022,IBGE Censo 2022,
+Silvanópolis,População Estimada,5259,2025,IBGE,
+Silvanópolis,Área Territorial (km²),1258.771,2024,IBGE,
+Silvanópolis,Densidade Demográfica (hab/km²),4.06,2022,IBGE,
+Silvanópolis,PIB per capita (R$),44080.81,2021,IBGE PIB Municipal,
+Silvanópolis,IDHM,0.675,2010,PNUD,
+Silvanópolis,Taxa de Escolarização 6-14 anos (%),100.00,2022,IBGE,100% de escolarização
+Silvanópolis,Mortalidade Infantil (por mil),N/D,2023,DATASUS,Dado não disponível
+Aparecida do Rio Negro,População Censo,4856,2022,IBGE Censo 2022,
+Aparecida do Rio Negro,População Estimada,5067,2024,IBGE,
+Aparecida do Rio Negro,Área Territorial (km²),1159.034,2024,IBGE,
+Aparecida do Rio Negro,Densidade Demográfica (hab/km²),4.19,2022,IBGE,
+Aparecida do Rio Negro,PIB per capita (R$),52216.34,2021,IBGE PIB Municipal,
+Aparecida do Rio Negro,IDHM,0.651,2010,PNUD,
+Aparecida do Rio Negro,Taxa de Escolarização 6-14 anos (%),97.60,2010,IBGE,Dado de 2010
+Aparecida do Rio Negro,Mortalidade Infantil (por mil),N/D,2022,DATASUS,Dado não disponível
+Santa Maria do Tocantins,População Censo,2680,2022,IBGE Censo 2022,
+Santa Maria do Tocantins,População Estimada,2726,2024,IBGE,
+Santa Maria do Tocantins,Área Territorial (km²),1412.318,2023,IBGE,
+Santa Maria do Tocantins,Densidade Demográfica (hab/km²),1.90,2022,IBGE,Menor densidade da microrregião
+Santa Maria do Tocantins,PIB per capita (R$),39477.03,2021,IBGE PIB Municipal,
+Santa Maria do Tocantins,IDHM,0.634,2010,PNUD,
+Santa Maria do Tocantins,Taxa de Escolarização 6-14 anos (%),98.00,2010,IBGE,Dado de 2010
+Santa Maria do Tocantins,Mortalidade Infantil (por mil),N/D,2022,DATASUS,Dado não disponível
+TOTAL MICRORREGIÃO,População Censo Total,415947,2022,Cálculo próprio,Soma dos 11 municípios
+TOTAL MICRORREGIÃO,% da População Estadual,27.52,2022,Cálculo próprio,Em relação aos 1.511.460 hab do TO
+TOTAL MICRORREGIÃO,PIB Total Estimado (milhões R$),17596.3,2021-2023,Estimativa,Soma dos PIBs disponíveis
+Palmas,IDEB Anos Iniciais,6.1,2023,INEP/QEdu,Superou meta estabelecida pelo INEP
+Palmas,IDEB Anos Finais,5.5,2023,INEP/QEdu,Cumpriu meta estabelecida
+Palmas,Água Tratada Área Urbana (%),100,2023,Prefeitura/SNIS,
+Palmas,Coleta de Esgoto (% imóveis),93.3,2023,Prefeitura/SNIS,
+Palmas,Ranking Saneamento Nacional,26,2024,Instituto Trata Brasil,Entre 100 cidades mais populosas
+Porto Nacional,IDEB Anos Iniciais,5.2,2023,INEP/QEdu,
+Porto Nacional,IDEB Anos Finais,4.9,2023,INEP/QEdu,
+Porto Nacional,Atendimento de Água (%),86.4,2022,SNIS,Acima da média estadual (85,2%)
+Porto Nacional,Habitantes sem Água,8886,2022,SNIS,
+CONTEXTO ESTADUAL,Cobertura Água TO (%),97.92,2023,SNIS,Melhor da Região Norte
+CONTEXTO ESTADUAL,Cobertura Esgoto TO (%),78.31,2023,SNIS,Melhor da Região Norte
+CONTEXTO ESTADUAL,Tratamento Esgoto TO (%),66.79,2023,SNIS,
+CONTEXTO ESTADUAL,Rebanho Bovino TO (milhões),11.6,2024,IBGE PPM,9º lugar nacional
+CONTEXTO ESTADUAL,VBP Agrícola TO (bilhões R$),15.0,2023,IBGE PAM,Crescimento 250% (2018-2023)
+CONTEXTO ESTADUAL,Produção Leite TO (mil litros),419000,2024,IBGE PPM,
+Porto Nacional,Terminal Multimodal,Sim,2024,Governo TO,Ferrovia Norte-Sul - escoamento grãos
+Porto Nacional,Esmagadoras de Soja,2,2024,Governo TO,Única cidade do TO com 2 esmagadoras

@@ -1,0 +1,45 @@
+municipio,pop_2010,pop_2022,crescimento_perc,pop_2025_est,area_km2,densidade,pib_pc,idhm,escol_6_14,mort_inf,obs
+Guaraí,23200,24775,6.8,25831,2106.753,11.76,33344.81,0.741,98.87,nd,"Maior município, capital subregional"
+Miracema do Tocantins,20684,18566,-10.2,18679,2663.745,6.97,46.344.84,0.684,99.37,16.13,"Ex-capital provisória, Campus UFT, maior PIB per capita"
+Miranorte,12623,12701,0.6,13073,1033.301,12.29,38059.52,0.662,99.06,11.11,"Próximo a Miracema (24km)"
+Colméia,8611,8941,3.8,nd,nd,nd,nd,nd,nd,nd,
+Divinópolis do Tocantins,6363,7024,10.4,nd,nd,nd,nd,nd,nd,nd,"Crescimento expressivo"
+Dois Irmãos do Tocantins,7161,6327,-11.6,nd,nd,nd,nd,nd,nd,nd,"Perda populacional significativa"
+Araguacema,6317,5927,-6.2,nd,nd,nd,nd,nd,nd,nd,
+Couto de Magalhães,5009,5331,6.4,nd,nd,nd,nd,nd,nd,nd,
+Pequizeiro,5054,4921,-2.6,nd,nd,nd,nd,nd,nd,nd,
+Caseara,4847,4847,5.3,nd,nd,nd,nd,nd,nd,nd,"Parte APA Cantão"
+Barrolândia,5349,4846,-9.4,nd,nd,nd,nd,nd,nd,nd,
+Goianorte,4956,4738,-4.4,nd,nd,nd,nd,nd,nd,nd,
+Marianópolis do Tocantins,4352,4615,6.0,nd,nd,nd,nd,nd,nd,nd,"Parte APA Cantão"
+Fortaleza do Tabocão,2419,3455,42.8,nd,nd,nd,nd,nd,nd,nd,"Maior crescimento relativo da microrregião"
+Presidente Kennedy,3681,3047,-17.2,nd,nd,nd,nd,nd,nd,nd,"Maior perda relativa da microrregião"
+Rio dos Bois,2570,2738,6.5,nd,nd,nd,nd,nd,nd,nd,
+Abreulândia,2391,2576,7.7,nd,nd,nd,nd,nd,nd,nd,
+Itaporã do Tocantins,2445,2404,-1.7,nd,nd,nd,nd,nd,nd,nd,
+Monte Santo do Tocantins,2085,2396,14.9,nd,nd,nd,nd,nd,nd,nd,"Crescimento expressivo"
+Juarina,2231,2243,0.5,nd,nd,nd,nd,nd,nd,nd,
+Brasilândia do Tocantins,2064,1974,-4.4,nd,nd,nd,nd,nd,nd,nd,
+Tupirama,1574,1909,21.3,nd,nd,nd,nd,nd,nd,nd,"Crescimento expressivo"
+Tupiratins,2097,1874,-10.6,nd,nd,nd,nd,nd,nd,nd,
+Bernardo Sayão,4456,4229,-5.1,nd,nd,nd,nd,nd,nd,nd,
+
+TOTAIS,142293,142404,0.08,,,4.10,,,,,"Estagnação demográfica: 11 municípios em declínio"
+
+LEGENDAS:
+nd = dado não disponível
+pop = população
+crescimento_perc = crescimento percentual 2010-2022
+pop_2025_est = população estimada 2025 (IBGE)
+area_km2 = área territorial em km²
+densidade = densidade demográfica (hab/km²)
+pib_pc = PIB per capita (R$)
+idhm = Índice de Desenvolvimento Humano Municipal (2010)
+escol_6_14 = taxa de escolarização 6-14 anos (%)
+mort_inf = mortalidade infantil (óbitos por mil nascidos vivos)
+obs = observações
+
+NOTA: Versão V0.5 - Preliminar
+Dados completos: 3 municípios (Guaraí, Miracema, Miranorte)
+Dados parciais: 21 municípios (apenas população)
+Coleta completa prevista: 22/01/2026

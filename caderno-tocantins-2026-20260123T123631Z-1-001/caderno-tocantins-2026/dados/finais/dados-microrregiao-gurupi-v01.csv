@@ -1,0 +1,35 @@
+municipio,pop_2010,pop_2022,crescimento_perc,pop_2025_est,area_km2,densidade,pib_pc,idhm,escol_6_14,mort_inf,obs
+Gurupi,76765,83817,9.2,90209,1844.164,45.45,43406.95,0.759,98.71,13.26,"Sede da microrregião, 3ª maior cidade do TO, polo regional do sul, Campus UFT e IFTO"
+Peixe,10389,9431,-9.2,9384,5303.612,1.78,61181.18,0.674,99.08,24.79,"Declínio populacional significativo, alta dependência rural"
+Alvorada,8380,8802,5.0,9128,1207.201,7.29,56569.78,0.708,98.96,12.99,"Economia agropecuária forte, alto PIB per capita"
+Palmeirópolis,7342,7262,-1.1,nd,nd,nd,nd,nd,nd,nd,"Ligeira perda populacional"
+Brejinho de Nazaré,5188,4753,-8.4,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional acentuado"
+Figueirópolis,5340,5185,-2.9,nd,nd,nd,nd,nd,nd,nd,"Perda populacional moderada"
+Aliança do Tocantins,5663,4932,-12.9,nd,nd,nd,nd,nd,nd,nd,"Maior perda relativa da microrregião"
+Cariri do Tocantins,3754,3555,-5.3,nd,nd,nd,nd,nd,nd,nd,"Perda populacional moderada"
+Jaú do Tocantins,3507,3475,-0.9,nd,nd,nd,nd,nd,nd,nd,"Estagnação demográfica"
+São Salvador do Tocantins,2910,2481,-14.7,nd,nd,nd,nd,nd,nd,nd,"Segunda maior perda relativa"
+Talismã,2562,2661,3.9,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+Santa Rita do Tocantins,2128,2177,2.3,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+Sucupira,1739,1576,-9.4,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional acentuado"
+Crixás do Tocantins,1566,1411,-9.9,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional acentuado"
+
+TOTAIS,141233,145839,3.3,,,10.29,,,,,"Crescimento moderado: 7 municípios em declínio"
+
+LEGENDAS:
+nd = dado não disponível
+pop = população
+crescimento_perc = crescimento percentual 2010-2022
+pop_2025_est = população estimada 2025 (IBGE)
+area_km2 = área territorial em km²
+densidade = densidade demográfica (hab/km²)
+pib_pc = PIB per capita (R$)
+idhm = Índice de Desenvolvimento Humano Municipal (2010)
+escol_6_14 = taxa de escolarização 6-14 anos (%)
+mort_inf = mortalidade infantil (óbitos por mil nascidos vivos)
+obs = observações
+
+NOTA: Versão V0.1 - Preliminar
+Dados completos: 3 municípios (Gurupi, Alvorada, Peixe)
+Dados parciais: 11 municípios (apenas população)
+Coleta completa prevista: 22/01/2026

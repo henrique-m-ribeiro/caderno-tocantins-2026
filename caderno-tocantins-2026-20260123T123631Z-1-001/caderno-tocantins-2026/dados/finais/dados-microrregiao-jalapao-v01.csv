@@ -1,0 +1,40 @@
+municipio,pop_2010,pop_2022,crescimento_perc,pop_2025_est,area_km2,densidade,pib_pc,idhm,escol_6_14,mort_inf,obs
+Ponte Alta do Tocantins,7180,7284,1.4,7874,6542.838,1.11,18656.92,0.624,99.17,25.42,"Portal do Jalapão, sede turística regional, acesso principal ao Parque Estadual do Jalapão"
+Goiatins,12064,12798,6.1,nd,nd,nd,nd,nd,nd,nd,"Maior município da microrregião em população, crescimento moderado"
+Campos Lindos,8139,8661,6.4,8990,3234.445,2.68,76950.96,0.544,99.18,12.27,"Crescimento populacional positivo, economia ligada ao agronegócio"
+Itacajá,7104,6780,-4.6,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional moderado"
+Rio Sono,6259,5600,-10.5,nd,nd,nd,nd,nd,nd,nd,"Maior declínio populacional da microrregião em termos relativos"
+Barra de Ouro,4123,4643,12.6,nd,nd,nd,nd,nd,nd,nd,"Crescimento significativo de 12,6%"
+Itapiratins,3534,3936,11.4,nd,nd,nd,nd,nd,nd,nd,"Crescimento populacional positivo"
+Novo Acordo,3762,3828,1.8,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+Recursolândia,3768,3380,-10.3,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional acentuado"
+Lizarda,3731,2994,-19.8,nd,nd,nd,nd,nd,nd,nd,"Maior perda relativa da microrregião, declínio severo de quase 20%"
+Lagoa do Tocantins,3525,3501,-0.7,nd,nd,nd,nd,nd,nd,nd,"Estagnação populacional, perda mínima"
+Santa Tereza do Tocantins,2523,2715,7.6,nd,nd,nd,nd,nd,nd,nd,"Crescimento moderado"
+Centenário,2565,2133,-16.8,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional severo"
+Mateiros,2219,2076,-6.4,2922,9589.273,0.22,170006.81,0.607,99.5,nd,"Coração do Jalapão, centro turístico, comunidade Mumbuca (artesanato capim dourado), PIB per capita muito elevado devido ao turismo"
+São Félix do Tocantins,1445,1780,23.2,nd,nd,nd,nd,nd,nd,nd,"Maior crescimento relativo da microrregião (+23,2%)"
+
+TOTAIS,73941,72109,-2.5,,,,,,,,"Declínio populacional: perda de 1.832 habitantes, 9 municípios em declínio"
+
+LEGENDAS:
+nd = dado não disponível
+pop = população
+crescimento_perc = crescimento percentual 2010-2022
+pop_2025_est = população estimada 2025 (IBGE)
+area_km2 = área territorial em km²
+densidade = densidade demográfica (hab/km²)
+pib_pc = PIB per capita (R$)
+idhm = Índice de Desenvolvimento Humano Municipal (2010)
+escol_6_14 = taxa de escolarização 6-14 anos (%)
+mort_inf = mortalidade infantil (óbitos por mil nascidos vivos)
+obs = observações
+
+NOTA: Versão V0.1 - Preliminar
+Dados completos: 3 municípios (Ponte Alta do Tocantins, Campos Lindos, Mateiros)
+Dados parciais: 12 municípios (apenas população)
+Coleta completa prevista: 23/01/2026
+
+FONTE: IBGE - Censo Demográfico 2010 e Prévia do Censo 2022
+Data de referência: 25/12/2022
+Elaborado em: 22/01/2026

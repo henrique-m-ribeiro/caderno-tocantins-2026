@@ -1,0 +1,38 @@
+municipio,pop_2010,pop_2022,crescimento_perc,pop_2025_est,area_km2,densidade,pib_pc,idhm,escol_6_14,mort_inf,obs
+Paraíso do Tocantins,44432,51494,15.9,55704,1292.267,40.52,28820.73,0.764,97.39,11.87,"Maior município da microrregião, importante polo comercial e industrial, Portal da Amazônia, facilidade logística BR-153"
+Formoso do Araguaia,18428,20471,11.1,19473,13431.861,1.41,77025.73,0.670,98.34,nd,"Sede regional, Projeto Rio Formoso (maior projeto irrigação América Latina), forte agricultura irrigada (arroz, soja), maior município em área do Tocantins"
+Lagoa da Confusão,10215,16117,57.8,16629,10563.181,1.45,71373.60,0.627,98.54,16.13,"Maior crescimento da microrregião (+57,8%), polo de agricultura irrigada (arroz, soja, melancia), PIB per capita elevado devido agronegócio"
+Araguaçu,8786,8666,-1.4,nd,nd,nd,nd,nd,nd,nd,"Leve declínio populacional, próximo a Pium"
+Pium,6696,7132,6.5,nd,nd,nd,nd,nd,nd,nd,"Crescimento moderado, localização próxima a Palmas, parte da Ilha do Bananal"
+Cristalândia,7218,6331,-12.3,nd,nd,nd,nd,nd,nd,nd,"Maior declínio relativo da microrregião, município histórico (deu origem a Formoso do Araguaia em 1963)"
+Sandolândia,3326,4631,39.2,nd,nd,nd,nd,nd,nd,nd,"Segundo maior crescimento da microrregião (+39,2%)"
+Dueré,4589,4284,-6.6,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional moderado"
+Fátima,3805,3445,-9.5,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional"
+Nova Rosalândia,3770,3334,-11.6,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional acentuado"
+Pugmil,2366,2185,-7.7,nd,nd,nd,nd,nd,nd,nd,"Pequeno município em declínio"
+Chapada de Areia,1335,1358,1.7,nd,nd,nd,nd,nd,nd,nd,"Crescimento populacional muito leve, município de pequeno porte"
+Oliveira de Fátima,1035,1172,13.2,nd,nd,nd,nd,nd,nd,nd,"Menor município da microrregião, crescimento moderado"
+
+TOTAIS,116001,130620,12.6,,,,,,,,"Crescimento populacional: ganho de 14.619 habitantes, 7 municípios em crescimento, 6 em declínio"
+
+LEGENDAS:
+nd = dado não disponível
+pop = população
+crescimento_perc = crescimento percentual 2010-2022
+pop_2025_est = população estimada 2025 (IBGE)
+area_km2 = área territorial em km²
+densidade = densidade demográfica (hab/km²)
+pib_pc = PIB per capita (R$) [2021]
+idhm = Índice de Desenvolvimento Humano Municipal (2010)
+escol_6_14 = taxa de escolarização 6-14 anos (%)
+mort_inf = mortalidade infantil (óbitos por mil nascidos vivos) [2023]
+obs = observações
+
+NOTA: Versão V0.1 - Preliminar
+Dados completos: 3 municípios (Paraíso do Tocantins, Formoso do Araguaia, Lagoa da Confusão)
+Dados parciais: 10 municípios (apenas população)
+Coleta completa prevista: 23/01/2026
+
+FONTE: IBGE - Censo Demográfico 2010 e Prévia do Censo 2022
+Data de referência: 25/12/2022
+Elaborado em: 22/01/2026

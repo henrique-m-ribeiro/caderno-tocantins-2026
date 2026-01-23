@@ -1,0 +1,39 @@
+municipio,pop_2010,pop_2022,crescimento_perc,pop_2025_est,area_km2,densidade,pib_pc,idhm,escol_6_14,mort_inf,obs
+Dianópolis,19110,17658,-7.6,17966,3318.094,5.32,44065.23,0.701,97.79,19.08,"Sede da microrregião, histórico de mineração de ouro, polo regional do sudeste do TO"
+Almas,7595,9044,19.1,nd,nd,nd,nd,nd,nd,nd,"Maior crescimento populacional da microrregião"
+Arraias,10643,10253,-3.7,nd,nd,nd,nd,nd,nd,nd,"Ligeiro declínio populacional"
+Paranã,10335,10492,1.5,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+Natividade,9000,8643,-4.0,nd,nd,nd,nd,nd,nd,nd,"Histórico de mineração, declínio moderado"
+Santa Rosa do Tocantins,4568,4701,2.9,nd,nd,nd,nd,nd,nd,nd,"Crescimento moderado"
+Taguatinga,15053,13986,-7.1,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional significativo"
+Combinado,4669,4751,1.8,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+Ponte Alta do Bom Jesus,4548,4222,-7.2,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional significativo"
+Conceição do Tocantins,4182,3891,-7.0,nd,nd,nd,nd,nd,nd,nd,"Declínio populacional significativo"
+Aurora do Tocantins,3446,3338,-3.1,nd,nd,nd,nd,nd,nd,nd,"Declínio moderado"
+Chapada da Natividade,3280,3118,-4.9,nd,nd,nd,nd,nd,nd,nd,"Declínio moderado"
+Porto Alegre do Tocantins,2795,2869,2.6,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+Novo Jardim,2457,2235,-9.0,nd,nd,nd,nd,nd,nd,nd,"Declínio acentuado"
+Novo Alegre,2286,1845,-19.3,nd,nd,nd,nd,nd,nd,nd,"Maior perda relativa da microrregião"
+Taipas do Tocantins,1945,2023,4.0,nd,nd,nd,nd,nd,nd,nd,"Crescimento moderado"
+Rio da Conceição,1714,1747,1.9,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+Lavandeira,1605,1625,1.2,nd,nd,nd,nd,nd,nd,nd,"Crescimento leve"
+
+TOTAIS,113231,106841,-5.6,,,,,,,,"Declínio populacional: 11 municípios em declínio"
+
+LEGENDAS:
+nd = dado não disponível
+pop = população
+crescimento_perc = crescimento percentual 2010-2022
+pop_2025_est = população estimada 2025 (IBGE)
+area_km2 = área territorial em km²
+densidade = densidade demográfica (hab/km²)
+pib_pc = PIB per capita (R$)
+idhm = Índice de Desenvolvimento Humano Municipal (2010)
+escol_6_14 = taxa de escolarização 6-14 anos (%)
+mort_inf = mortalidade infantil (óbitos por mil nascidos vivos)
+obs = observações
+
+NOTA: Versão V0.1 - Preliminar
+Dados completos: 1 município (Dianópolis)
+Dados parciais: 17 municípios (apenas população)
+Coleta completa prevista: 23/01/2026
