@@ -1,9 +1,11 @@
 # Caderno Tocantins 2026
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Refatora%C3%A7%C3%A3o%20Planejada-orange)
 ![Parte I](https://img.shields.io/badge/Parte%20I-100%25%20Conclu%C3%ADda-green)
 ![Parte II](https://img.shields.io/badge/Parte%20II-100%25%20Conclu%C3%ADda-green)
+![Parte III](https://img.shields.io/badge/Parte%20III-Planejada-blue)
 ![Cobertura](https://img.shields.io/badge/Cobertura-139%2F139%20munic%C3%ADpios-blue)
+![Dados](https://img.shields.io/badge/Cobertura%20de%20Dados-35%25-yellow)
 
 Sistema de Inteligência Territorial para subsidiar a campanha eleitoral ao governo do Estado do Tocantins em 2026.
 
@@ -73,9 +75,76 @@ Análise detalhada de cada microrregião:
 **Média de Notas:** 9.4/10
 
 ### Parte III - Fichas Municipais (139 Municípios)
-**Status:** ⏸️ Não iniciada (aguarda conclusão da Parte I)
+**Status:** 📋 Planejada (aguarda refatoração V02)
 
 Análise individual detalhada de cada município do Tocantins.
+
+---
+
+## 🔄 Refatoração V02 - Em Planejamento
+
+**Data do Plano:** 27 de Janeiro de 2026
+**Status:** ✅ Planejamento Concluído | ⏳ Aguardando Implementação
+
+### Objetivos da Refatoração
+
+A refatoração V02 visa corrigir decisões de design não aprovadas que foram implementadas automaticamente e integrar uma nova fonte de dados muito mais rica: os **Perfis Socioeconômicos Municipais da SEPLAN-TO** (139 PDFs, um por município).
+
+**Problemas identificados para correção:**
+- ❌ Remoção não aprovada da coluna `territorio_tipo`
+- ❌ Remoção não aprovada de sufixos `_ano_ref` de indicadores
+- ❌ Linhas consolidadas misturadas com municípios na mesma planilha
+- ❌ Uso exclusivo da classificação IBGE antiga (1989-2017)
+
+**Principais mudanças aprovadas:**
+- ✅ Restaurar colunas `_ano_ref` para permitir análise temporal
+- ✅ Separar consolidações em planilhas independentes por tipo de classificação
+- ✅ Adicionar 6 tipos de classificações regionais (IBGE 1989, IBGE 2017, SEPLAN 2024)
+- ✅ Implementar extração automatizada de dados dos 139 PDFs SEPLAN-TO
+- ✅ Gerar fichas municipais da Parte III simultaneamente
+- ✅ Revisar Partes I e II com dados completos
+
+### Entregas Planejadas
+
+**Infraestrutura de Dados:**
+- 1 planilha principal: 139 municípios × ~65 colunas
+- 6 planilhas de consolidação separadas (microrregiões, mesorregiões, regiões planejamento, macrorregiões, estadual)
+- 1 planilha de metadados expandida (~65-70 variáveis)
+- 17 scripts Python para automação
+
+**Conteúdo:**
+- 139 fichas municipais (Parte III) geradas automaticamente
+- Revisão completa das Partes I e II com novos dados
+- Cobertura de dados: meta de 85%+ (vs. 35% atual)
+
+**Documentação:**
+- Plano completo: [PLANO_REFATORACAO_V02_2026-01-27.md](./docs/PLANO_REFATORACAO_V02_2026-01-27.md)
+- Estimativa: 41-61 horas = 7-10 dias úteis (6h/dia)
+- Estratégia: Trabalho em paralelo em 4 sprints
+
+### Nova Fonte de Dados: SEPLAN-TO
+
+**Perfis Socioeconômicos Municipais (8ª Edição - Dezembro 2024)**
+- 📄 139 PDFs (um por município, ~40MB cada)
+- 📊 10 capítulos estruturados por perfil
+- ✅ Cobertura: ~85-95% dos indicadores necessários
+- ✅ Dados oficiais e atualizados
+- 🔗 Fonte: [SEPLAN-TO](https://www.to.gov.br/seplan/perfil-socioeconomico-municipal/)
+
+**Indicadores cobertos:**
+- Demografia, Economia, Educação, Saúde, Saneamento
+- Agropecuária, Assistência Social, Meio Ambiente
+- Finanças Públicas, Infraestrutura Urbana
+
+### Classificações Regionais (8 Regiões + 3 Macrorregiões)
+
+**Regiões de Planejamento SEPLAN-TO 2024** (Portaria nº 91 - 22/10/2024):
+1. Bico do Papagaio (25), Norte (15), Meio Norte (25)
+2. Vale do Araguaia (15), Central (14), Jalapão (9)
+3. Sul (17), Sudeste (19)
+
+**Macrorregiões:**
+- Norte: 65 municípios | Central: 38 municípios | Sul: 36 municípios
 
 ---
 
@@ -124,24 +193,31 @@ caderno-tocantins-2026/
 ### ✅ Concluído
 
 - ✅ Estrutura do repositório organizada
+- ✅ **Parte I - Visão Estadual** (100% concluída - 9 documentos, 35+ indicadores)
+- ✅ **Parte II - Fichas Regionais** (100% concluída - 8 microrregiões, 139 municípios)
 - ✅ 8 datasets CSV das microrregiões
-- ✅ 4 fichas regionais completas (Gurupi, Dianópolis, Jalapão, Rio Formoso)
-- ✅ 130 municípios com dados de população coletados
 - ✅ Metodologia de análise estabelecida
 - ✅ Sistema de governança implementado
+- ✅ **Plano de Refatoração V02** (27/01/2026 - documentado e aprovado)
 
 ### 🚧 Em Andamento
 
-- 🚧 Integração das 4 primeiras fichas regionais ao repositório
-- 🚧 Coleta de dados complementares (IDEB 2023, Saneamento, Agropecuária)
-- 🚧 Refinamento de dados para versão V2.0 das fichas
+- 🚧 **Refatoração V02** - Fase de documentação
+  - ✅ Planejamento completo (41-61h, 7-10 dias)
+  - ✅ Validação de viabilidade dos PDFs SEPLAN-TO
+  - ✅ Acesso aos 139 PDFs confirmado
+  - ⏳ Aguardando início da implementação
 
-### ⏳ Planejado
+### ⏳ Próximos Passos (Refatoração V02)
 
-- ⏳ Elaboração da Parte I (Visão Geral do Estado)
-- ⏳ Elaboração da Parte III (Fichas Municipais)
-- ⏳ Integração com Google Drive
-- ⏳ Dashboard de visualização de dados
+1. **Fase 0:** Preparação (criar branch, estrutura de diretórios, download de PDFs)
+2. **Fase 1:** Análise de viabilidade dos PDFs (2-3h)
+3. **Fase 2:** Refatoração da estrutura das planilhas (4-6h)
+4. **Fase 3:** Infraestrutura de extração de PDFs (10-15h)
+5. **Fase 4:** Execução da extração em lote (4-6h)
+6. **Fase 5:** Geração de fichas municipais da Parte III (10-15h)
+7. **Fase 6:** Revisão das Partes I e II (8-12h)
+8. **Fase 7:** Documentação e encerramento (3-4h)
 
 ---
 
@@ -252,6 +328,6 @@ Para dúvidas sobre o projeto, entre em contato com a equipe de coordenação.
 
 ---
 
-**Última atualização:** 23 de janeiro de 2026
-**Versão:** 1.0.0
-**Status:** Em Desenvolvimento
+**Última atualização:** 27 de janeiro de 2026
+**Versão:** 1.1.0-dev (Refatoração V02 em planejamento)
+**Status:** Refatoração Planejada
