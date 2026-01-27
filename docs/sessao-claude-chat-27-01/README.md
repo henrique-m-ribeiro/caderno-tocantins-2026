@@ -32,7 +32,12 @@ Durante o projeto, duas instâncias do Claude trabalharam em paralelo:
 - Detalhamento de cada arquivo
 - Estatísticas e métricas
 
-**⚠️ Nota:** Os scripts Python mencionados (extrator_v3_refinado.py, etc.) **não estão nesta pasta** pois não foram incluídos no ZIP enviado para o GitHub.
+**✅ Atualização (27/01/2026 - noite):** Os scripts Python mencionados foram **integrados com sucesso** ao projeto:
+- `scripts/extracao_pdfs/extrator_v3_refinado.py` ⭐ (principal)
+- `scripts/extracao_pdfs/extrator_prioridade_alta_v2.py` (histórico)
+- `scripts/extracao_pdfs/teste_correcao_extrator.py` (validação)
+
+Ver documentação completa em: `scripts/extracao_pdfs/README.md`
 
 ### 3. GUIA_COMMIT_GITHUB.md
 **Propósito:** Instruções de como fazer commit dos arquivos
@@ -48,26 +53,35 @@ Durante o projeto, duas instâncias do Claude trabalharam em paralelo:
 
 ## 🔗 Relação com o Projeto Principal
 
-**Status:** Documentação de referência
+**Status:** ✅ Scripts integrados e prontos para validação
 
-Estes documentos descrevem um trabalho de desenvolvimento de parser stateful v3 para extração de PDFs. No entanto:
+Estes documentos descrevem o desenvolvimento de parser stateful v3 para extração de PDFs:
 
 - ✅ A **documentação** está presente (esta pasta)
-- ❌ Os **scripts Python** não foram incluídos no ZIP
-- ✅ O projeto principal (Claude Code) seguiu com abordagem diferente: Fase 1 - Análise de Viabilidade
+- ✅ Os **scripts Python** foram integrados em `scripts/extracao_pdfs/`
+- ✅ O projeto principal (Claude Code) completou Fase 1 - Análise de Viabilidade
+- 🎯 **Próximo passo:** Validar extrator v3 com PDF real (Fase 2)
 
 ## 🎯 Próximos Passos
 
-Para integrar o trabalho das duas sessões:
+✅ **Scripts integrados com sucesso!** Próximas ações:
 
-1. **Se os scripts Python estiverem disponíveis localmente:**
-   - Copiá-los para `scripts/extracao_pdfs/`
-   - Testar com PDF de Palmas
-   - Validar taxa de sucesso
+1. **Fase 2: Validação com PDF Real (15 minutos)**
+   - Executar `extrator_v3_refinado.py` com PDF de Palmas
+   - Validar que ~40 indicadores são extraídos corretamente
+   - Comparar valores com análise da Fase 1
 
-2. **Caso contrário:**
-   - Seguir com desenvolvimento da Fase 2 (PoC) usando pdfplumber
-   - Usar esta documentação como referência de requisitos
+2. **Fase 3: Processamento em Massa (3-4 horas)**
+   - Criar script de processamento paralelo
+   - Processar todos os 139 municípios
+   - Gerar base de dados consolidada
+
+**Comando para testar:**
+```bash
+python scripts/extracao_pdfs/extrator_v3_refinado.py \
+    "Perfil Municipios Tocantins/palmas_perfil_2024pdf.pdf" \
+    dados/brutos/extraidos-perfis/palmas.json
+```
 
 ## 📊 Metodologia IA-Collab-OS
 
@@ -80,10 +94,12 @@ Este é um exemplo interessante de **colaboração entre IAs**:
 
 - **27/01/2026 (manhã):** Claude Code - Fases 0 e 1
 - **27/01/2026 (tarde):** Claude Chat - Desenvolvimento do parser v3
-- **27/01/2026 (noite):** Integração da documentação
+- **27/01/2026 (noite):** Claude Code - Integração da documentação
+- **27/01/2026 (noite):** Claude Code - Integração dos scripts Python ✅
 
 ---
 
 **Criado por:** Claude Code
 **Data:** 27 de janeiro de 2026
-**Status:** Documentação de referência arquivada
+**Atualizado em:** 27 de janeiro de 2026 (noite)
+**Status:** ✅ Scripts integrados e prontos para validação
