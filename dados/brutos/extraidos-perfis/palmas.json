@@ -1,0 +1,16 @@
+{
+  "municipio": "",
+  "codigo_ibge": "",
+  "fonte": "SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição)",
+  "indicadores": {
+    "pop_2000": 18.9,
+    "pop_2010": 18.9,
+    "pop_2022": 18.9,
+    "densidade_2000": 2000.0,
+    "densidade_2010": 2010.0,
+    "densidade_2022": 2022.0,
+    "taxa_urbanizacao_2000": 2000.0,
+    "taxa_urbanizacao_2010": 2010.0,
+    "taxa_urbanizacao_2022": 2022.0
+  }
+}
