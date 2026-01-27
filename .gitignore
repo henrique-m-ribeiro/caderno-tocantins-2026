@@ -103,5 +103,6 @@ sandbox/
 # Não fazer commit - manter apenas localmente
 dados/brutos/perfis-seplan-to-2024/*.pdf
 dados/brutos/perfis-seplan-to-2024/amostra/*.pdf
+dados/brutos/perfis-seplan-to-2024/temp/
 !dados/brutos/perfis-seplan-to-2024/README.md
 !dados/brutos/perfis-seplan-to-2024/amostra/README.md
