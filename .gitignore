@@ -101,6 +101,7 @@ sandbox/
 # PDFs da SEPLAN-TO (arquivos muito grandes - 40MB cada)
 # Total: ~5.5 GB (139 PDFs)
 # Não fazer commit - manter apenas localmente
+Perfil Municipios Tocantins/*.pdf
 dados/brutos/perfis-seplan-to-2024/*.pdf
 dados/brutos/perfis-seplan-to-2024/amostra/*.pdf
 dados/brutos/perfis-seplan-to-2024/temp/
