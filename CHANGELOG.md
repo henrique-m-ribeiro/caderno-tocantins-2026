@@ -8,10 +8,109 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 ## [Não Lançado]
 
 ### Em Desenvolvimento
-- Coleta de dados complementares (IDEB 2023, Saneamento, Agropecuária)
-- Cálculo de consolidações de microrregiões, mesorregiões e estado
-- Atualização para V02 com dados completos
-- Planejamento e implementação da Parte III (139 municípios)
+- 🔄 **Refatoração V02** - Planejamento completo finalizado
+- Implementação da nova estrutura de planilhas (139 municípios × ~65 colunas)
+- Extração automatizada de dados dos 139 PDFs SEPLAN-TO
+- Geração automática da Parte III (139 fichas municipais)
+- Revisão das Partes I e II com dados atualizados
+
+## [1.2.0-dev] - 2026-01-27
+
+### Adicionado
+
+#### Planejamento da Refatoração V02
+- **PLANO_REFATORACAO_V02_2026-01-27.md** - Plano completo e validado
+  - Contexto detalhado dos problemas identificados
+  - Estrutura alvo das planilhas revisada (~65 colunas)
+  - 6 planilhas de consolidação separadas por classificação
+  - Estratégia de extração de PDFs SEPLAN-TO
+  - 7 fases de implementação (41-61h estimadas)
+  - 4 sprints de trabalho em paralelo
+  - Critérios de sucesso e validação
+  - 17 scripts Python planejados
+
+#### Nova Fonte de Dados Identificada
+- **Perfis Socioeconômicos Municipais SEPLAN-TO** (8ª Edição - Dezembro 2024)
+  - 139 PDFs oficiais (um por município, ~40MB cada)
+  - 10 capítulos estruturados por perfil
+  - Cobertura de ~85-95% dos indicadores necessários
+  - Dados atualizados e metodologia consistente
+  - Fonte: https://www.to.gov.br/seplan/perfil-socioeconomico-municipal/
+
+#### Classificações Regionais SEPLAN-TO 2024
+- **8 Regiões de Planejamento** (Portaria nº 91 - 22/10/2024):
+  - Bico do Papagaio (25), Norte (15), Meio Norte (25)
+  - Vale do Araguaia (15), Central (14), Jalapão (9)
+  - Sul (17), Sudeste (19)
+- **3 Macrorregiões**:
+  - Norte: 65 municípios
+  - Central: 38 municípios
+  - Sul: 36 municípios
+
+### Decisões Técnicas Aprovadas
+
+#### Correções de Design Não Aprovadas
+- ✅ Restaurar coluna `territorio_tipo` (removida automaticamente)
+- ✅ Restaurar sufixos `_ano_ref` para TODOS os indicadores (permitir análise temporal)
+- ✅ Separar consolidações em planilhas independentes (6 planilhas vs linhas misturadas)
+- ✅ Adicionar 6 tipos de classificações regionais (IBGE 1989, IBGE 2017, SEPLAN 2024)
+
+#### Nova Estratégia de Dados
+- ✅ Extração automatizada de 139 PDFs (vs coleta manual via APIs)
+- ✅ Geração automática de fichas municipais da Parte III
+- ✅ Revisão das Partes I e II integrada ao fluxo
+- ✅ Trabalho em paralelo em 4 sprints (aprovado pelo usuário)
+
+### Estrutura Planejada
+
+#### Planilhas de Dados (Nova Arquitetura)
+1. **BASE_DADOS_TOCANTINS_V02.csv** - Planilha principal
+   - 139 municípios × ~65 colunas
+   - 11 colunas de identificação territorial
+   - Colunas `_ano_ref` restauradas para análise temporal
+
+2. **Planilhas de Consolidação** (6 arquivos separados):
+   - `BASE_CONSOLIDACOES_MICRORREGIOES_IBGE_1989.csv` (8 linhas)
+   - `BASE_CONSOLIDACOES_MESORREGIOES_IBGE_1989.csv` (2 linhas)
+   - `BASE_CONSOLIDACOES_REGIOES_PLANEJAMENTO_SEPLAN_2024.csv` (8 linhas)
+   - `BASE_CONSOLIDACOES_MACRORREGIOES_SEPLAN_2024.csv` (3 linhas)
+   - `BASE_CONSOLIDACAO_ESTADUAL.csv` (1 linha)
+
+3. **METADADOS_BASE_DADOS_TOCANTINS_V02.csv** - Expandido
+   - ~65-70 variáveis × 14 campos de documentação
+
+#### Scripts de Automação (17 planejados)
+- `migrar_v01_para_v02.py` - Migração de dados existentes
+- `mapear_regioes_planejamento.py` - Mapeamento classificações regionais
+- `download_perfis_seplan_to.py` - Download de PDFs
+- `extrair_tabelas_perfis_seplan.py` - Extração automatizada
+- `consolidar_extraidos_perfis.py` - Consolidação e validação
+- `calcular_consolidacoes.py` - Gerar planilhas de consolidação
+- `gerar_fichas_municipais.py` - Geração automática Parte III
+
+#### Documentação de Mapeamento (3 documentos)
+- `MAPEAMENTO_INDICADORES_SEPLAN_TO.md` - PDFs → estrutura
+- `MAPEAMENTO_REGIOES_PLANEJAMENTO_2024.md` - Municípios → Regiões
+- `RELATORIO_REFATORACAO_V02.md` - Relatório de execução
+
+### Modificado
+- README.md - Atualizado com seção de Refatoração V02
+  - Badges atualizados (status, Parte III, cobertura de dados)
+  - Seção completa sobre Refatoração V02
+  - Status do projeto atualizado com 8 fases
+  - Próximos passos detalhados
+- Estrutura de governança - Preparada para trabalho em paralelo
+
+### Meta de Cobertura de Dados V02
+- **Atual:** ~35% em média
+- **Meta V02:** ≥85% em média
+- **Fonte:** Extração dos 139 PDFs SEPLAN-TO + APIs complementares
+
+### Estimativas
+- **Esforço:** 41-61 horas de trabalho
+- **Duração:** 7-10 dias úteis (com 6h/dia) OU 10-15 dias úteis (com 4h/dia)
+- **Estratégia:** 4 sprints de trabalho em paralelo
+- **Status:** ✅ Planejamento concluído | ⏳ Aguardando implementação
 
 ## [1.1.0] - 2026-01-23
 
