@@ -246,33 +246,50 @@ PDF → Extração de texto → Identificação de seções → Extração de ta
 
 ## Fases do Plano
 
-### FASE 1: Análise de Viabilidade dos PDFs (2-3 horas)
+### FASE 1: Análise de Viabilidade dos PDFs (3-5 horas) ⚠️ EXPANDIDA
 
-**Objetivo:** Validar se os PDFs da SEPLAN-TO realmente contêm os dados necessários
+**Objetivo:** Validar se os PDFs da SEPLAN-TO realmente contêm os dados necessários e mapear variações estruturais
 
 **Ações:**
 1. ✅ Solicitar ao usuário acesso aos PDFs (upload de amostra ou link do Drive)
-2. ✅ Baixar 3-5 PDFs de exemplo (municípios de tamanhos variados)
-3. ✅ Análise exploratória manual:
+2. ✅ **Baixar 10-15 PDFs de amostra estratificada** (EXPANDIDO conforme recomendação Manus):
+   - **3-4 municípios grandes** (pop > 50.000): Palmas, Araguaína, Gurupi, Porto Nacional
+   - **4-5 municípios médios** (pop 10.000-50.000): Diferentes regiões
+   - **3-4 municípios pequenos** (pop < 10.000): Diferentes regiões
+   - **Cobrir todas as 8 Regiões de Planejamento** para detectar variações regionais
+3. ✅ Análise exploratória manual detalhada:
    - Abrir PDFs e identificar estrutura
    - Listar indicadores presentes em cada seção
    - Verificar formato das tabelas
    - Identificar padrões de nomenclatura
    - Detectar se há OCR necessário (PDF de imagem vs texto)
-4. ✅ Criar documento de mapeamento:
+   - **Documentar variações de estrutura entre municípios**
+   - **Identificar exceções e casos especiais**
+4. ✅ **Criar Relatório de Variabilidade de Estrutura** (NOVO - Recomendação Manus):
+   - `RELATORIO_VARIABILIDADE_PDFS_SEPLAN.md`
+   - Tipos de exceções encontradas
+   - Padrões de layout por porte de município
+   - Indicadores com nomenclatura variável
+   - Estimativa de taxa de sucesso de extração automatizada
+   - Estratégias de fallback necessárias
+5. ✅ Criar documento de mapeamento:
    - `MAPEAMENTO_INDICADORES_SEPLAN_TO.md`
    - Indicador SEPLAN-TO → Indicador nossa estrutura
    - Seção do PDF onde encontrar cada dado
    - Página aproximada
+   - Variações conhecidas
 
 **Critério de sucesso:**
 - PDFs contêm pelo menos 70% dos indicadores que precisamos
-- Estrutura é suficientemente padronizada para automação
+- Estrutura é suficientemente padronizada para automação (≥80% dos PDFs seguem padrão principal)
 - Qualidade do PDF permite extração (não é imagem de baixa resolução)
+- **Variações de estrutura identificadas e documentadas**
+- **Estratégias de tratamento de exceções definidas**
 
 **Arquivos gerados:**
 - `/docs/MAPEAMENTO_INDICADORES_SEPLAN_TO.md`
-- `/dados/brutos/perfis-seplan-to-2024/amostra/` (3-5 PDFs)
+- `/docs/RELATORIO_VARIABILIDADE_PDFS_SEPLAN.md` ← **NOVO**
+- `/dados/brutos/perfis-seplan-to-2024/amostra/` (10-15 PDFs)
 
 ---
 
@@ -400,11 +417,123 @@ PDF → Extração de texto → Identificação de seções → Extração de ta
 - Atualizar metadados com fontes e datas
 - Gerar relatório de cobertura
 
-#### 3.4: Testes e Validação (2h)
+#### 3.4: Script de Validação de Dados (3-4h) ⚠️ DETALHADO
+```python
+# scripts/validar_dados.py
+```
+
+**Objetivo:** Garantir qualidade e consistência dos dados extraídos
+
+**4 Tipos de Validação Implementados** (Recomendação Manus):
+
+**1. Validação de Schema (Estrutural):**
+```python
+def validar_schema(df):
+    """Verifica se tipos de dados correspondem ao esperado"""
+    validacoes = {
+        'territorio_cod_ibge': 'numeric',
+        'demo_pop_2010': 'numeric',
+        'demo_pop_2022': 'numeric',
+        'econ_pib_total_mil_reais': 'numeric',
+        'econ_pib_per_capita_reais': 'numeric',
+        'edu_ideb_anos_iniciais_2021': 'float',
+        'saude_mort_infantil_2022': 'float',
+        'demo_tx_urban_pct': 'percentage',  # 0-100
+        # ... todos os campos
+    }
+    # Verificar tipos, detectar strings em campos numéricos
+    # Reportar campos fora do tipo esperado
+```
+
+**2. Validação de Intervalo (Range):**
+```python
+def validar_ranges(df):
+    """Verifica se valores estão dentro de limites plausíveis"""
+    ranges = {
+        'demo_pop_2022': (500, 350000),  # População TO: menor=534, maior=313.349
+        'edu_ideb_anos_iniciais_2021': (0, 10),  # IDEB: 0-10
+        'edu_ideb_anos_finais_2021': (0, 10),
+        'demo_tx_urban_pct': (0, 100),  # Percentual
+        'econ_vab_agro_pct': (0, 100),
+        'econ_vab_industria_pct': (0, 100),
+        'econ_vab_servicos_pct': (0, 100),
+        'dev_idhm_2010': (0, 1),  # IDHM: 0-1
+        'dev_idhm_renda_2010': (0, 1),
+        'dev_idhm_longevidade_2010': (0, 1),
+        'dev_idhm_educacao_2010': (0, 1),
+        'saude_mort_infantil_2022': (0, 100),  # Por 1.000 nascidos vivos
+        # ... todos os indicadores numéricos
+    }
+    # Detectar outliers e valores impossíveis
+    # Gerar relatório de valores fora do range
+```
+
+**3. Validação Cruzada (Cross-field):**
+```python
+def validar_consistencia_cruzada(df):
+    """Compara indicadores relacionados para detectar inconsistências"""
+
+    # Regra 1: VAB setorial deve somar ~100%
+    df['vab_soma'] = (df['econ_vab_agro_pct'] +
+                      df['econ_vab_industria_pct'] +
+                      df['econ_vab_servicos_pct'])
+    inconsistencias_vab = df[abs(df['vab_soma'] - 100) > 2]  # Tolerância 2%
+
+    # Regra 2: PIB per capita = PIB total / População
+    df['pib_pc_calculado'] = (df['econ_pib_total_mil_reais'] * 1000) / df['demo_pop_2022']
+    inconsistencias_pib = df[abs(df['pib_pc_calculado'] - df['econ_pib_per_capita_reais']) > 100]
+
+    # Regra 3: Taxa de urbanização plausível com população urbana/rural (se disponível)
+    # Regra 4: Crescimento populacional consistente entre 2010-2022
+    # Regra 5: Densidade demográfica = População / Área
+
+    # Gerar relatório de inconsistências cruzadas
+```
+
+**4. Validação de Consistência Histórica:**
+```python
+def validar_consistencia_historica(df_novo, df_v01):
+    """Compara dados extraídos com dados manualmente coletados na V01"""
+
+    # Comparar indicadores que já existiam na V01
+    campos_comparaveis = [
+        'demo_pop_2010',
+        'demo_pop_2022',
+        'econ_pib_total_mil_reais',
+        'edu_ideb_anos_iniciais_2021',
+        'dev_idhm_2010',
+        # ... outros campos já coletados
+    ]
+
+    for campo in campos_comparaveis:
+        if campo in df_v01.columns:
+            # Calcular diferença percentual
+            diff = abs((df_novo[campo] - df_v01[campo]) / df_v01[campo] * 100)
+            # Reportar divergências > 5%
+            divergencias = df_novo[diff > 5]
+
+    # Gerar relatório de consistência com V01
+```
+
+**Saídas do Script de Validação:**
+- `/dados/validacao/RELATORIO_VALIDACAO_SCHEMA.txt`
+- `/dados/validacao/RELATORIO_VALIDACAO_RANGES.txt`
+- `/dados/validacao/RELATORIO_VALIDACAO_CRUZADA.txt`
+- `/dados/validacao/RELATORIO_VALIDACAO_HISTORICA.txt`
+- `/dados/validacao/RELATORIO_VALIDACAO_CONSOLIDADO.md` (síntese executiva)
+
+**Critérios de Aprovação:**
+- ✅ Schema: <5% de campos com tipos incorretos
+- ✅ Ranges: <10% de valores fora do range plausível
+- ✅ Cruzada: <5% de inconsistências entre campos relacionados
+- ✅ Histórica: <10% de divergências significativas (>5%) com V01
+
+#### 3.5: Testes e Ajustes (2h)
 - Testar com 10 municípios de tamanhos variados
 - Validar integridade dos dados extraídos
 - Ajustar parsing conforme necessário
-- Executar validações de consistência
+- Executar todas as 4 validações
+- Iterar até atingir critérios de aprovação
 
 **Arquivos gerados:**
 - `/scripts/download_perfis_seplan_to.py`
@@ -512,7 +641,8 @@ PDF → Extração de texto → Identificação de seções → Extração de ta
 **Documentação:**
 1. `/docs/PLANEJAMENTO_PLANILHAS_V02_REVISADA.md` - Nova especificação completa
 2. `/docs/MAPEAMENTO_INDICADORES_SEPLAN_TO.md` - Mapeamento PDFs → estrutura
-3. `/docs/MAPEAMENTO_REGIOES_PLANEJAMENTO_2024.md` - Municípios → Regiões SEPLAN
+3. `/docs/RELATORIO_VARIABILIDADE_PDFS_SEPLAN.md` - Análise de variações estruturais ← **NOVO**
+4. `/docs/MAPEAMENTO_REGIOES_PLANEJAMENTO_2024.md` - Municípios → Regiões SEPLAN
 
 **Planilhas de Dados:**
 4. `/dados/finais/BASE_DADOS_TOCANTINS_V02.csv` - 139 municípios (planilha principal)
@@ -530,9 +660,10 @@ PDF → Extração de texto → Identificação de seções → Extração de ta
 12. `/scripts/mapear_regioes_planejamento.py` - Mapeamento classificações regionais
 13. `/scripts/download_perfis_seplan_to.py` - Download de PDFs (ou importação do Drive)
 14. `/scripts/extrair_tabelas_perfis_seplan.py` - Extração automatizada de tabelas
-15. `/scripts/consolidar_extraidos_perfis.py` - Consolidação e validação
-16. `/scripts/calcular_consolidacoes.py` - Gerar todas as planilhas de consolidação
-17. `/scripts/gerar_fichas_municipais.py` - Geração automática Parte III
+15. `/scripts/consolidar_extraidos_perfis.py` - Consolidação de dados extraídos
+16. `/scripts/validar_dados.py` - Validação de dados (4 tipos) ← **DETALHADO**
+17. `/scripts/calcular_consolidacoes.py` - Gerar todas as planilhas de consolidação
+18. `/scripts/gerar_fichas_municipais.py` - Geração automática Parte III
 
 ### Consultar (read-only):
 1. `/dados/finais/BASE_DADOS_TOCANTINS_V01.csv` - Dados existentes a migrar
@@ -624,19 +755,25 @@ PDF → Extração de texto → Identificação de seções → Extração de ta
 
 ## Estimativas de Esforço
 
-| Fase | Descrição | Horas | Dias (6h/dia) |
-|------|-----------|-------|---------------|
-| 1 | Análise de Viabilidade PDFs | 2-3h | 0.5 dia |
-| 2 | Refatoração Estrutura Planilhas | 4-6h | 1 dia |
-| 3 | Infraestrutura Extração PDFs | 10-15h | 2-2.5 dias |
-| 4 | Execução Extração em Lote | 4-6h | 1 dia |
-| 5 | Criação Fichas Municipais (Lote 1) | 10-15h | 2-2.5 dias |
-| 6 | Revisão Partes I e II | 8-12h | 1.5-2 dias |
-| 7 | Documentação e Encerramento | 3-4h | 0.5 dia |
-| **TOTAL** | | **41-61h** | **7-10 dias úteis** |
+| Fase | Descrição | Horas | Dias (6h/dia) | Notas |
+|------|-----------|-------|---------------|-------|
+| 1 | Análise de Viabilidade PDFs | 3-5h | 0.5-1 dia | ⚠️ Expandida: 10-15 PDFs + Relatório Variabilidade |
+| 2 | Refatoração Estrutura Planilhas | 4-6h | 1 dia | |
+| 3 | Infraestrutura Extração PDFs | 12-18h | 2-3 dias | ⚠️ Expandida: Validação detalhada (4 tipos) |
+| 4 | Execução Extração em Lote | 4-6h | 1 dia | |
+| 5 | Criação Fichas Municipais (Lote 1) | 10-15h | 2-2.5 dias | |
+| 6 | Revisão Partes I e II | 8-12h | 1.5-2 dias | |
+| 7 | Documentação e Encerramento | 3-4h | 0.5 dia | |
+| **TOTAL** | | **44-66h** | **8-11 dias úteis** | ⚠️ Atualizado após recomendações Manus |
 
-**Com dedicação de 6h/dia:** 7-10 dias úteis (1.5-2 semanas)
-**Com dedicação de 4h/dia:** 10-15 dias úteis (2-3 semanas)
+**Com dedicação de 6h/dia:** 8-11 dias úteis (2 semanas)
+**Com dedicação de 4h/dia:** 11-16 dias úteis (2.5-3 semanas)
+
+**⚠️ Mudanças incorporadas (Avaliação Manus - 27/01/2026):**
+- Fase 1 expandida de 3-5 para 10-15 PDFs de amostra
+- Relatório de Variabilidade de Estrutura adicionado
+- Validação de dados detalhada em 4 tipos (Schema, Range, Cross-field, Histórica)
+- Estimativa total aumentada de 41-61h para 44-66h (+3-5h)
 
 ---
 
@@ -858,6 +995,106 @@ Baseado na pesquisa oficial da SEPLAN-TO, os Perfis Socioeconômicos Municipais 
 **Próximo passo:** Iniciar Fase 0 (Preparação) imediatamente após aprovação do plano.
 
 ---
+
+---
+
+## 🔄 Melhorias Incorporadas Após Avaliação (27/01/2026)
+
+**Avaliador:** Manus (CTO) - Framework IA-Collab-OS
+**Avaliação Geral:** 🟢 Excelente (4/5 princípios em nível excelente)
+**Recomendação:** Aprovado para implementação com melhorias
+
+### Três Recomendações Implementadas:
+
+#### 1️⃣ Mitigação de Riscos na Extração de PDFs (IMPLEMENTADA)
+
+**Problema identificado:** Amostra de 3-5 PDFs pode não capturar todas as variações estruturais dos 139 municípios.
+
+**Solução implementada:**
+- ✅ **Fase 1 expandida:** Análise de 10-15 PDFs (em vez de 3-5)
+- ✅ **Amostragem estratificada:** 3-4 grandes, 4-5 médios, 3-4 pequenos
+- ✅ **Cobertura regional:** PDFs de todas as 8 Regiões de Planejamento
+- ✅ **Novo documento:** `RELATORIO_VARIABILIDADE_PDFS_SEPLAN.md`
+  - Tipos de exceções encontradas
+  - Padrões de layout por porte de município
+  - Estratégias de fallback para casos especiais
+  - Estimativa mais precisa de taxa de sucesso
+
+**Impacto:**
+- Fase 1: 2-3h → 3-5h (+1-2h)
+- Reduz risco de falhas na Fase 3 (extração automatizada)
+- Torna estimativa de tempo da Fase 3 mais precisa
+
+#### 2️⃣ Detalhamento do Processo de Validação (IMPLEMENTADA)
+
+**Problema identificado:** Script `validar_dados.py` mencionado mas não detalhado.
+
+**Solução implementada:**
+- ✅ **4 tipos de validação especificados:**
+  1. **Validação de Schema:** Tipos de dados corretos (numérico, percentual, texto)
+  2. **Validação de Intervalo (Range):** Valores dentro de limites plausíveis
+  3. **Validação Cruzada (Cross-field):** Consistência entre campos relacionados
+  4. **Validação de Consistência Histórica:** Comparação com dados V01
+
+- ✅ **Critérios de aprovação definidos:**
+  - Schema: <5% de erros de tipo
+  - Range: <10% de valores fora do esperado
+  - Cruzada: <5% de inconsistências
+  - Histórica: <10% de divergências >5%
+
+- ✅ **5 relatórios de validação:**
+  - `RELATORIO_VALIDACAO_SCHEMA.txt`
+  - `RELATORIO_VALIDACAO_RANGES.txt`
+  - `RELATORIO_VALIDACAO_CRUZADA.txt`
+  - `RELATORIO_VALIDACAO_HISTORICA.txt`
+  - `RELATORIO_VALIDACAO_CONSOLIDADO.md`
+
+**Impacto:**
+- Nova subseção 3.4 criada (3-4h)
+- Fase 3: 10-15h → 12-18h (+2-3h)
+- Aumenta confiança na qualidade dos dados extraídos
+- Detecta problemas precocemente
+
+#### 3️⃣ Aprofundamento da Reflexão (PENDENTE - Será no HANDOFF)
+
+**Problema identificado:** Reflexão sobre erros da V01 foi superficial. Necessário entender *por que* decisões automáticas erradas foram tomadas.
+
+**Solução planejada:**
+- ✅ Será adicionada no documento `HANDOFF-SESSION-2026-01-27.md`
+- ✅ Nova seção: **"Análise da Causa Raiz das Divergências da V01"**
+- ✅ Objetivo: Prevenir repetição de erros em futuras colaborações
+- ✅ Conteúdo:
+  - Por que `territorio_tipo` foi removido?
+  - Por que sufixos `_ano_ref` foram removidos?
+  - Por que consolidações foram misturadas?
+  - Como ajustar prompts/metodologia para evitar isso?
+
+**Impacto:**
+- Melhora o Princípio 5 (Reflexão e Melhoria Contínua)
+- Aumenta qualidade de futuras sessões
+- Fortalece a metodologia IA-Collab-OS
+
+### Resumo das Mudanças no Plano:
+
+| Item | Versão Original | Versão Revisada | Mudança |
+|------|-----------------|-----------------|---------|
+| **Fase 1** | 2-3h, 3-5 PDFs | 3-5h, 10-15 PDFs | +1-2h, amostra maior |
+| **Fase 3** | 10-15h | 12-18h | +2-3h, validação detalhada |
+| **Documentação** | 3 docs | 4 docs | +1 (Relatório Variabilidade) |
+| **Scripts** | 17 scripts | 18 scripts | +1 (validar_dados.py detalhado) |
+| **Estimativa Total** | 41-61h (7-10 dias) | 44-66h (8-11 dias) | +3-5h |
+
+### Avaliação Geral (Framework IA-Collab-OS):
+
+| Princípio | Antes | Depois | Melhoria |
+|-----------|-------|--------|----------|
+| 1. Humano no Comando | 🟢 Excelente | 🟢 Excelente | Mantido |
+| 2. Colaboração Explícita | 🟢 Excelente | 🟢 Excelente | Mantido |
+| 3. Documentação como Código | 🟢 Excelente | 🟢 Excelente | Mantido |
+| 4. Execução Incremental | 🟢 Excelente | 🟢 Excelente | Mantido |
+| 5. Reflexão e Melhoria | 🟡 Bom | 🟢 Excelente | ⬆️ Melhorado |
+
+**Conclusão da Revisão:** Plano refinado, riscos mitigados, pronto para implementação.
 
 ---
 

@@ -433,6 +433,176 @@ O usuário identificou os **Perfis Socioeconômicos Municipais da SEPLAN-TO** (8
 
 ---
 
+## 🔍 ANÁLISE DA CAUSA RAIZ DAS DIVERGÊNCIAS DA V01
+
+**Objetivo:** Entender *por que* decisões automáticas não aprovadas foram tomadas na sessão anterior (23/01/2026), para evitar repetição em futuras colaborações.
+
+**Contexto:** Durante a implementação anterior, 4 decisões de design foram feitas automaticamente sem aprovação:
+1. Remoção da coluna `territorio_tipo`
+2. Remoção de sufixos `_ano_ref` de todos os indicadores
+3. Inclusão de linhas consolidadas misturadas com municípios
+4. Uso exclusivo da classificação IBGE antiga (1989-2017)
+
+### Divergência 1: Remoção de `territorio_tipo`
+
+**Por que aconteceu:**
+- A coluna tinha valor fixo "Município" para todas as 139 linhas
+- Do ponto de vista de normalização de dados, parecia redundante
+- A IA interpretou isso como "dado invariante = pode ser omitido"
+- Não havia contexto explícito de que essa coluna seria necessária para futuras expansões
+
+**Consequência:**
+- Perda de flexibilidade para adicionar consolidações posteriormente
+- Dificuldade para diferenciar municípios de consolidações regionais
+- Necessidade de retrabalho para restaurar
+
+**Como evitar no futuro:**
+- ✅ **Especificar explicitamente colunas obrigatórias** mesmo que pareçam redundantes
+- ✅ **Documentar justificativa para cada coluna no plano** (ex: "territorio_tipo é obrigatório para permitir expansão futura com consolidações")
+- ✅ **Solicitar aprovação para remoção de qualquer coluna planejada** independente do motivo técnico
+
+### Divergência 2: Remoção de sufixos `_ano_ref`
+
+**Por que aconteceu:**
+- A especificação original mencionava sufixos `_ano_ref` mas não explicava o *porquê*
+- Muitos indicadores têm ano fixo (ex: IDHM sempre 2010, Censo sempre 2010/2022)
+- A IA interpretou como "se o ano é fixo, o sufixo é redundante"
+- Otimização prematura: reduzir colunas para simplificar a planilha
+
+**Consequência:**
+- Perda de capacidade de análise temporal
+- Impossibilidade de adicionar séries históricas posteriormente
+- Dificuldade para rastrear ano de referência de cada dado
+- Metadados incompletos (ano de referência disperso)
+
+**Como evitar no futuro:**
+- ✅ **Explicar explicitamente a justificativa de cada padrão de nomenclatura**
+  - Exemplo: "Sufixos `_ano_ref` são obrigatórios para permitir análise temporal, mesmo que o ano atual seja fixo"
+- ✅ **Incluir casos de uso futuros no planejamento**
+  - Exemplo: "No futuro, poderemos adicionar dados de 2030, então precisamos do sufixo agora"
+- ✅ **Proibir otimizações não solicitadas**
+  - Regra: "Não remova colunas para 'simplificar' sem aprovação explícita"
+
+### Divergência 3: Mistura de linhas consolidadas com municípios
+
+**Por que aconteceu:**
+- O exemplo inicial do usuário mostrava um formato similar (municípios + totais)
+- Planilhas do Excel frequentemente incluem linhas de "Total" ao final
+- A IA generalizou esse padrão sem questionar
+- Não havia instrução explícita de separar consolidações
+
+**Consequência:**
+- Dificuldade para filtrar apenas municípios
+- Risco de contar consolidações como municípios em análises
+- Confusão na hora de calcular agregações (pode somar o total com os municípios)
+- Estrutura de dados não normalizada
+
+**Como evitar no futuro:**
+- ✅ **Especificar princípios de design de dados no início**
+  - Exemplo: "Princípio 1: Planilha principal contém apenas entidades atômicas (municípios)"
+  - Exemplo: "Princípio 2: Consolidações são sempre separadas"
+- ✅ **Fornecer exemplos de anti-padrões**
+  - Exemplo: "❌ NÃO misture municípios com consolidações na mesma planilha"
+- ✅ **Solicitar revisão da estrutura antes da implementação**
+  - Perguntar: "Você deseja que eu crie planilhas separadas para consolidações?"
+
+### Divergência 4: Uso exclusivo de classificação IBGE antiga
+
+**Por que aconteceu:**
+- A fonte de dados inicial (IBGE) usava a classificação 1989-2017
+- Não havia conhecimento imediato da classificação IBGE 2017+ (Regiões Intermediárias/Imediatas)
+- Não havia conhecimento das classificações SEPLAN-TO 2024
+- A IA usou os dados disponíveis sem buscar classificações alternativas
+
+**Consequência:**
+- Planilha ficou presa a classificações descontinuadas
+- Incompatibilidade com planejamento governamental atual
+- Necessidade de adicionar múltiplas colunas posteriormente
+
+**Como evitar no futuro:**
+- ✅ **Incluir pesquisa de fontes alternativas na fase de planejamento**
+  - Perguntar: "Existem classificações regionais mais recentes?"
+  - Pesquisar: "Divisão regional IBGE 2017", "Regiões de planejamento [estado]"
+- ✅ **Especificar requisito de múltiplas classificações se relevante**
+  - Exemplo: "Incluir tanto classificações históricas (IBGE 1989) quanto atuais (IBGE 2017, SEPLAN 2024)"
+- ✅ **Validar fontes de dados antes da implementação**
+  - Perguntar: "Estas são as classificações mais atuais disponíveis?"
+
+### Padrão Geral Identificado: Otimização Prematura
+
+**Problema raiz:**
+- A IA priorizou **simplicidade imediata** sobre **flexibilidade futura**
+- Decisões de normalização foram tomadas sem considerar requisitos de longo prazo
+- Falta de questionamento: "Por que o usuário especificou isso dessa forma?"
+
+**Estratégias de Prevenção:**
+
+1. **Regra de Ouro: Seguir o Plano Literalmente**
+   - ✅ Se o plano especifica uma coluna, mantê-la mesmo que pareça redundante
+   - ✅ Se o plano especifica um padrão de nomenclatura, seguir exatamente
+   - ✅ Questionar antes de simplificar ou otimizar
+
+2. **Checklist de Validação Pré-Implementação**
+   - [ ] Todas as colunas do plano original estão presentes?
+   - [ ] Todos os padrões de nomenclatura foram seguidos?
+   - [ ] A estrutura de arquivos está conforme especificado?
+   - [ ] Fiz alguma "melhoria" não solicitada? (Se sim, revisar)
+
+3. **Comunicação Proativa**
+   - ✅ Se algo parecer redundante, perguntar antes de remover
+   - ✅ Se houver uma "simplificação óbvia", confirmar com o usuário
+   - ✅ Apresentar alternativas e deixar o usuário decidir
+
+4. **Documentação de Justificativas**
+   - ✅ Cada coluna deve ter justificativa no plano
+   - ✅ Cada padrão de nomenclatura deve ter explicação
+   - ✅ Princípios de design devem ser explicitados no início
+
+### Ações Corretivas para Esta Refatoração
+
+Para garantir que os mesmos erros não se repitam na V02:
+
+1. ✅ **Plano V02 documenta explicitamente todas as restaurações**
+   - Marcações `RESTAURADO` e `NOVO` em cada coluna
+   - Justificativas para sufixos `_ano_ref`
+   - Especificação clara de 6 planilhas separadas
+
+2. ✅ **Fase 1 expandida (3-5h) para validação de viabilidade**
+   - Análise detalhada de 10-15 PDFs (vs 3-5 original)
+   - Relatório de variabilidade estrutural
+   - Mapeamento completo de indicadores
+
+3. ✅ **Validação de dados em 4 tipos (Fase 3)**
+   - Schema, Range, Cross-field, Consistência histórica
+   - Critérios de aprovação objetivos
+   - Relatórios detalhados de qualidade
+
+4. ✅ **Revisão de checkpoints antes de cada fase crítica**
+   - Fase 2: Revisar estrutura de colunas antes de preencher
+   - Fase 3: Validar extração antes de processar 139 PDFs
+   - Fase 4: Validar dados antes de consolidar
+
+### Lições para Futuras Colaborações IA-Humano
+
+**Para o Humano (Usuário):**
+- Especificar explicitamente justificativas de design no plano
+- Incluir anti-padrões ("NÃO faça X")
+- Revisar estrutura de dados antes da implementação completa
+- Usar framework IA-Collab-OS sistematicamente
+
+**Para a IA (Claude):**
+- Seguir o plano literalmente, questionar antes de otimizar
+- Priorizar flexibilidade futura sobre simplicidade imediata
+- Perguntar proativamente sobre decisões de design
+- Documentar todas as decisões tomadas durante implementação
+
+**Resultado Esperado:**
+- Redução de retrabalho em futuras iterações
+- Maior alinhamento entre expectativa e implementação
+- Colaboração mais eficiente e previsível
+
+---
+
 ## 📞 INFORMAÇÕES DE CONTATO
 
 ### Repositório
