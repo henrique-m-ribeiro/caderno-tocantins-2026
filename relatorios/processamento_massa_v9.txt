@@ -1,0 +1,172 @@
+================================================================================
+RELATÓRIO DE PROCESSAMENTO EM MASSA - EXTRATOR V9
+================================================================================
+
+Data: 2026-01-28 02:19:46
+
+================================================================================
+
+📊 RESUMO GERAL
+================================================================================
+Total de municípios processados: 135
+  ✅ Sucesso (novos):              131
+  ⏭️  Skip (já processados):        4
+  ❌ Erros:                        0
+
+================================================================================
+
+📈 ESTATÍSTICAS DE INDICADORES
+================================================================================
+Média:   89.4 indicadores/município
+Mediana: 92 indicadores/município
+Mínimo:  27 indicadores
+Máximo:  106 indicadores
+
+================================================================================
+
+⚠️  OUTLIERS (< 60 indicadores): 2 municípios
+================================================================================
+  novo_acordo                    - 27 indicadores
+  sucupira                       - 59 indicadores
+
+================================================================================
+
+📋 TODOS OS MUNICÍPIOS (ordenados por indicadores)
+================================================================================
+  ✅ colinas                        - 106 indicadores
+  ✅ formoso_do_araguaia            - 106 indicadores
+  ⏭️ gurupi                         - 106 indicadores
+  ⏭️ palmas                         - 106 indicadores
+  ✅ araguacu                       - 102 indicadores
+  ✅ brejinho_de_nazare             - 102 indicadores
+  ✅ aparecida_do_rio_negro         - 101 indicadores
+  ✅ pequizeiro                     - 101 indicadores
+  ✅ araguacema                     - 100 indicadores
+  ⏭️ araguaina                      - 100 indicadores
+  ✅ araguatins                     - 100 indicadores
+  ✅ arapoema                       - 100 indicadores
+  ✅ augustinopolis                 - 100 indicadores
+  ✅ divinopolis                    - 100 indicadores
+  ✅ duere                          - 100 indicadores
+  ✅ filadelfia                     - 100 indicadores
+  ✅ guarai                         - 100 indicadores
+  ✅ itacaja                        - 100 indicadores
+  ✅ monte_do_carmo                 - 100 indicadores
+  ✅ natividade                     - 100 indicadores
+  ✅ palmeiropolis                  - 100 indicadores
+  ✅ paraiso_do_tocantins           - 100 indicadores
+  ✅ pindorama                      - 100 indicadores
+  ✅ ponte_alta_do_tocantins        - 100 indicadores
+  ✅ porto_nacional                 - 100 indicadores
+  ✅ silvanopolis                   - 100 indicadores
+  ✅ taguatinga                     - 100 indicadores
+  ✅ tocantinopolis                 - 100 indicadores
+  ✅ xambioa                        - 100 indicadores
+  ✅ axixa_do_tocantins             - 99 indicadores
+  ✅ babaculandia                   - 99 indicadores
+  ✅ caseara                        - 99 indicadores
+  ✅ dois_irmaos                    - 99 indicadores
+  ✅ fatima                         - 99 indicadores
+  ✅ itaguatins                     - 99 indicadores
+  ✅ lizarda                        - 99 indicadores
+  ✅ sao_valerio_da_natividade      - 99 indicadores
+  ✅ wanderlandia                   - 99 indicadores
+  ✅ miracema                       - 98 indicadores
+  ✅ praia_norte                    - 97 indicadores
+  ⏭️ alvorada                       - 96 indicadores
+  ✅ arraias                        - 96 indicadores
+  ✅ colmeia                        - 96 indicadores
+  ✅ dianopolis                     - 96 indicadores
+  ✅ figueiropolis                  - 96 indicadores
+  ✅ goiatins                       - 96 indicadores
+  ✅ parana                         - 96 indicadores
+  ✅ peixe                          - 96 indicadores
+  ✅ pium                           - 96 indicadores
+  ✅ sitio_novo_do_tocantins        - 96 indicadores
+  ✅ alianca_do_tocantins           - 95 indicadores
+  ✅ almas                          - 95 indicadores
+  ✅ aurora_do_tocantins            - 95 indicadores
+  ✅ barrolandia                    - 95 indicadores
+  ✅ buriti_do_tocantins            - 95 indicadores
+  ✅ combinado                      - 95 indicadores
+  ✅ conceicao                      - 95 indicadores
+  ✅ couto_magalhaes                - 95 indicadores
+  ✅ itapora                        - 95 indicadores
+  ✅ nova_olinda                    - 95 indicadores
+  ✅ nova_rosalandia                - 95 indicadores
+  ✅ porto_alegre_do_tocantins      - 95 indicadores
+  ✅ presidente_kennedy             - 95 indicadores
+  ✅ rio_sono                       - 95 indicadores
+  ✅ santa_tereza_do_tocantins      - 95 indicadores
+  ✅ tocantinia                     - 95 indicadores
+  ✅ ananas                         - 92 indicadores
+  ✅ cristalandia                   - 92 indicadores
+  ✅ marianopolis                   - 92 indicadores
+  ✅ maurilandia                    - 92 indicadores
+  ✅ goianorte                      - 91 indicadores
+  ✅ nazare                         - 91 indicadores
+  ✅ ponte_alta_do_bom_jesus        - 91 indicadores
+  ✅ sampaio                        - 91 indicadores
+  ✅ santa_rosa_do_tocantins        - 91 indicadores
+  ✅ sao_sebastiao_do_tocantins     - 91 indicadores
+  ✅ lagoa_da_confusao              - 90 indicadores
+  ✅ talisma                        - 89 indicadores
+  ✅ cariri_do_tocantins            - 85 indicadores
+  ✅ esperantina                    - 85 indicadores
+  ✅ lagoa_do_tocantins             - 84 indicadores
+  ✅ araguana                       - 83 indicadores
+  ✅ brasilandia_do_tocantins       - 83 indicadores
+  ✅ cachoerinha                    - 83 indicadores
+  ✅ carmolandia                    - 83 indicadores
+  ✅ chapada_da_natividade          - 83 indicadores
+  ✅ chapada_de_areia               - 83 indicadores
+  ✅ palmeirante                    - 83 indicadores
+  ✅ recursolandia                  - 83 indicadores
+  ✅ santa_fe_do_araguaia           - 83 indicadores
+  ✅ sao_miguel_do_tocantins        - 83 indicadores
+  ✅ aguiarnopolis                  - 79 indicadores
+  ✅ angico                         - 79 indicadores
+  ✅ aragominas                     - 79 indicadores
+  ✅ bom_jesus_do_tocantins         - 79 indicadores
+  ✅ campos_lindos                  - 79 indicadores
+  ✅ carrasco_bonito                - 79 indicadores
+  ✅ centenario                     - 79 indicadores
+  ✅ crixas                         - 79 indicadores
+  ✅ darcinopolis                   - 79 indicadores
+  ✅ ipueiras                       - 79 indicadores
+  ✅ itapiratins                    - 79 indicadores
+  ✅ jau_do_tocantins               - 79 indicadores
+  ✅ juarina                        - 79 indicadores
+  ✅ lajeado                        - 79 indicadores
+  ✅ lavandeira                     - 79 indicadores
+  ✅ luzinopolis                    - 79 indicadores
+  ✅ mateiros                       - 79 indicadores
+  ✅ monte_santo                    - 79 indicadores
+  ✅ novo_alegre                    - 79 indicadores
+  ✅ novo_jardim                    - 79 indicadores
+  ✅ oliveira_de_fatima             - 79 indicadores
+  ✅ palmeiras_do_tocantins         - 79 indicadores
+  ✅ pau_d_arco                     - 79 indicadores
+  ✅ pedro_afonso                   - 79 indicadores
+  ✅ piraque                        - 79 indicadores
+  ✅ pugmil                         - 79 indicadores
+  ✅ riachinho                      - 79 indicadores
+  ✅ rio_da_conceicao               - 79 indicadores
+  ✅ rio_dos_bois                   - 79 indicadores
+  ✅ sandolandia                    - 79 indicadores
+  ✅ santa_maria_do_tocantins       - 79 indicadores
+  ✅ santa_rita_do_tocantins        - 79 indicadores
+  ✅ santa_terezinha_do_tocantins   - 79 indicadores
+  ✅ sao_bento_do_tocantins         - 79 indicadores
+  ✅ sao_felix_do_tocantins         - 79 indicadores
+  ✅ sao_salvador_do_tocantins      - 79 indicadores
+  ✅ tabocao                        - 79 indicadores
+  ✅ taipas_do_tocantins            - 79 indicadores
+  ✅ tupirama                       - 79 indicadores
+  ✅ tupiratins                     - 79 indicadores
+  ✅ miranorte                      - 77 indicadores
+  ✅ abreulandia                    - 76 indicadores
+  ✅ sucupira                       - 59 indicadores
+  ✅ novo_acordo                    - 27 indicadores
+
+================================================================================

@@ -1,0 +1,25 @@
+{
+    "titulo": "Base de Dados Socioeconômicos - Tocantins V03",
+    "descricao": "Dados consolidados de 135 municípios do Tocantins",
+    "fonte": "SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição)",
+    "versao_extrator": "9.0",
+    "data_extracao": "2026-01-28 02:21:19",
+    "total_municipios": 135,
+    "total_indicadores": 110,
+    "media_indicadores": 89.42222222222222,
+    "cobertura_meta_95": "124.2%",
+    "capitulos": [
+        "Aspectos Físicos",
+        "Demografia",
+        "IDH",
+        "Economia (PIB)",
+        "Economia (VAB)",
+        "Emprego",
+        "Educação",
+        "Saneamento",
+        "Saúde",
+        "Serviços Urbanos",
+        "Meio Ambiente",
+        "Finanças Públicas (FPM, ICMS, IPVA, FUNDEB, ITR, Transferências)"
+    ]
+}

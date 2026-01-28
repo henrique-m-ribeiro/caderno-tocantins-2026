@@ -1,0 +1,563 @@
+================================================================================
+RELATÓRIO DE PROCESSAMENTO EM MASSA - EXTRATOR V7
+================================================================================
+
+Data: 2026-01-28 01:55:44
+
+================================================================================
+
+📊 RESUMO GERAL
+================================================================================
+Total de municípios processados: 135
+  ✅ Sucesso (novos):              0
+  ⏭️  Skip (já processados):        4
+  ❌ Erros:                        131
+
+================================================================================
+
+📈 ESTATÍSTICAS DE INDICADORES
+================================================================================
+Média:   72.0 indicadores/município
+Mediana: 76 indicadores/município
+Mínimo:  66 indicadores
+Máximo:  76 indicadores
+
+================================================================================
+
+❌ ERROS: 131 municípios
+================================================================================
+  aguiarnopolis                  - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  abreulandia                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  almas                          - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  alianca_do_tocantins           - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  angico                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  ananas                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  aparecida_do_rio_negro         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  aragominas                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  araguacu                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  araguacema                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  araguana                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  araguatins                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  arapoema                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  arraias                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  augustinopolis                 - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  aurora_do_tocantins            - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  axixa_do_tocantins             - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  babaculandia                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  barrolandia                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  bom_jesus_do_tocantins         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  buriti_do_tocantins            - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  brejinho_de_nazare             - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  brasilandia_do_tocantins       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  cachoerinha                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  carmolandia                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  cariri_do_tocantins            - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  campos_lindos                  - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  carrasco_bonito                - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  caseara                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  chapada_da_natividade          - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  centenario                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  colinas                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  combinado                      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  chapada_de_areia               - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  colmeia                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  cristalandia                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  conceicao                      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  couto_magalhaes                - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  crixas                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  divinopolis                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  darcinopolis                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  dianopolis                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  dois_irmaos                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  fatima                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  esperantina                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  duere                          - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  figueiropolis                  - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  filadelfia                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  goianorte                      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  formoso_do_araguaia            - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  goiatins                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  guarai                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  itacaja                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  ipueiras                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  itaguatins                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  itapiratins                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  jau_do_tocantins               - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  itapora                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  juarina                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  lagoa_da_confusao              - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  lagoa_do_tocantins             - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  lajeado                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  lavandeira                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  lizarda                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  luzinopolis                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  marianopolis                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  maurilandia                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  mateiros                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  miranorte                      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  miracema                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  monte_santo                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  monte_do_carmo                 - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  natividade                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  nazare                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  nova_rosalandia                - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  nova_olinda                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  novo_acordo                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  novo_alegre                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  novo_jardim                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  oliveira_de_fatima             - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  palmeirante                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  palmeiras_do_tocantins         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  palmeiropolis                  - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  paraiso_do_tocantins           - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  pau_d_arco                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  parana                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  pedro_afonso                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  peixe                          - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  pindorama                      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  pequizeiro                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  piraque                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  pium                           - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  ponte_alta_do_tocantins        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  ponte_alta_do_bom_jesus        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  porto_alegre_do_tocantins      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  porto_nacional                 - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  presidente_kennedy             - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  praia_norte                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  pugmil                         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  recursolandia                  - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  riachinho                      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  rio_da_conceicao               - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  rio_dos_bois                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  rio_sono                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sampaio                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sandolandia                    - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  santa_fe_do_araguaia           - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  santa_maria_do_tocantins       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  santa_rita_do_tocantins        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  santa_rosa_do_tocantins        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  santa_tereza_do_tocantins      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sao_bento_do_tocantins         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  santa_terezinha_do_tocantins   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sao_felix_do_tocantins         - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sao_miguel_do_tocantins        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sao_salvador_do_tocantins      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sao_sebastiao_do_tocantins     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sao_valerio_da_natividade      - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  silvanopolis                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sitio_novo_do_tocantins        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  sucupira                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  tabocao                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  taguatinga                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  talisma                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  taipas_do_tocantins            - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  tocantinia                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  tocantinopolis                 - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  tupiratins                     - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  wanderlandia                   - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  tupirama                       - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+  xambioa                        - ERROR: Erro: Traceback (most recent call last):
+  File "/home/user/caderno-tocantins-2026/scripts/extracao_pdfs/extrator_v7_final_corrigido.py", line 12, in <module>
+    import pdfplumber
+ModuleNotFoundError: No m
+
+================================================================================
+
+📋 TODOS OS MUNICÍPIOS (ordenados por indicadores)
+================================================================================
+  ⏭️ gurupi                         - 76 indicadores
+  ⏭️ palmas                         - 76 indicadores
+  ⏭️ araguaina                      - 70 indicadores
+  ⏭️ alvorada                       - 66 indicadores
+
+================================================================================

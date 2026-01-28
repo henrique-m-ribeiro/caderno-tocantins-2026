@@ -1,0 +1,12 @@
+# Dependências para Extrator de PDFs SEPLAN-TO
+# Data: 2026-01-28
+
+# Extração de texto de PDFs
+pdfplumber>=0.10.0
+
+# Manipulação de dados e exportação
+pandas>=2.0.0
+openpyxl>=3.1.0  # Para suporte a Excel (.xlsx)
+
+# Opcional: aceleração de processamento
+# numpy>=1.24.0
