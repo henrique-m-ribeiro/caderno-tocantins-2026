@@ -60,20 +60,26 @@ def converter_com_pandoc(input_path, output_path):
         print("Após instalar, execute este script novamente.")
         sys.exit(1)
 
+    # Verificar se template existe
+    template_path = Path(__file__).parent / 'template-pdf.tex'
+    if not template_path.exists():
+        print(f"❌ Template LaTeX não encontrado: {template_path}")
+        print("Crie o arquivo template-pdf.tex no diretório scripts/")
+        sys.exit(1)
+    print(f"✅ Template LaTeX encontrado: {template_path}")
+
     print()
     print("🔄 Convertendo Markdown → PDF...")
     print("   (Isso pode levar alguns minutos para documentos grandes)")
     print()
 
-    # Comando pandoc com opções para numeração e formatação
+    # Comando pandoc com template customizado para numeração de páginas
     comando = [
         'pandoc',
         str(input_path),
         '-o', str(output_path),
         '--pdf-engine=pdflatex',
-        '--toc',  # Table of Contents
-        '--toc-depth=2',
-        '--number-sections',
+        '--template', str(template_path),
         '-V', 'geometry:margin=2.5cm',
         '-V', 'fontsize=11pt',
         '-V', 'papersize=a4',

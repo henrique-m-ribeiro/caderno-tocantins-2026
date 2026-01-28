@@ -101,7 +101,67 @@ python3 scripts/converter_para_pdf.py \
     --output parte-iii-fichas-municipais/PARTE-III-FICHAS-MUNICIPAIS.pdf
 ```
 
-**Requisito**: Requer `pandoc` e `texlive` instalados.
+**Requisitos** (~300 MB de download, instalação única):
+```bash
+sudo apt-get update
+sudo apt-get install -y \
+  pandoc \
+  texlive-latex-base \
+  texlive-latex-extra \
+  texlive-fonts-recommended \
+  texlive-fonts-extra \
+  texlive-lang-portuguese
+```
+
+**Tempo de conversão**: 2-5 minutos para documento de 283 páginas.
+
+## Conversão para PDF com Numeração de Páginas
+
+O documento consolidado pode ser convertido para PDF profissional com numeração de páginas real.
+
+### Características do PDF Gerado
+
+- ✅ **Numeração de páginas**: Números visíveis no rodapé (centralizado) de todas as páginas
+- ✅ **Cabeçalho**: "Caderno Tocantins 2026 - Parte III | Fichas Municipais" em todas as páginas
+- ✅ **Índice alfabético**: Corresponde às páginas reais do PDF (pág. 5, 7, 9...)
+- ✅ **Quebras de página**: Cada ficha começa em nova página
+- ✅ **Qualidade profissional**: Margens 2.5cm, fonte 11pt, tabelas bem formatadas
+
+### Template LaTeX Customizado
+
+O script usa um template LaTeX customizado (`scripts/template-pdf.tex`) que configura:
+
+- **Pacote `fancyhdr`**: Para cabeçalhos e rodapés personalizados
+- **Numeração**: `\thepage` centralizado no rodapé
+- **Cabeçalho**: Texto do documento em todas as páginas
+- **Suporte UTF-8**: Acentos e caracteres especiais em português
+- **Tabelas**: Suporte a `longtable` para tabelas que quebram páginas
+
+### Personalização
+
+Para modificar a numeração ou cabeçalho, edite `scripts/template-pdf.tex`:
+
+```latex
+% Mudar posição do número (linha 31):
+\fancyfoot[C]{\thepage}  % Centralizado
+\fancyfoot[R]{\thepage}  % À direita
+\fancyfoot[L]{\thepage}  % À esquerda
+
+% Mudar cabeçalho (linhas 29-30):
+\fancyhead[L]{\small\textit{Seu Texto Aqui}}
+\fancyhead[R]{\small\textit{Outro Texto}}
+```
+
+### Validação Crítica
+
+Após gerar o PDF, **valide** que o índice manual corresponde às páginas reais:
+
+1. Abrir PDF na página do índice
+2. Ler: "1. Abreulândia .... pág. 5"
+3. Ir para página 5 do PDF (número no rodapé)
+4. Confirmar que mostra "ABREULÂNDIA"
+
+Se os números não baterem, ajuste `pagina_inicial` em `scripts/consolidar_fichas_municipais.py` (linha 114) e regenere ambos documentos (Markdown + PDF).
 
 ## Fontes de Dados
 
