@@ -17,6 +17,7 @@
 | **Área Territorial** | 4.004,65 km² |
 | **Microrregião** | Araguaína |
 
+
 ---
 
 ### 🎯 Síntese Estratégica
@@ -86,9 +87,6 @@
 |-----------|-------|------------|
 | Taxa de alfabetização 2022 | 93,70% | - |
 | Taxa de alfabetização 2010 | 91,40% | - |
-| IDEB Anos Finais 2023 | N/D | - |
-| IDEB Anos Finais 2021 | N/D | - |
-| IDEB Anos Finais 2019 | N/D | - |
 
 **Análise**:
 
@@ -124,7 +122,6 @@
 |-----------|--------------|------------|
 | VAB Agropecuária | R$ 112.274,00 mil | - |
 | VAB Agropecuária 2017 | R$ 54.222,00 mil | Comparação histórica |
-| Crescimento VAB Agro (2017-2021) | - | - |
 
 **Análise**:
 
@@ -162,9 +159,3 @@
 [A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
 
 ---
-
-**Fontes**: SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição) | IBGE | Base de Dados Tocantins V01
-
-**Atualização**: January de 2026
-
-**Elaboração**: Caderno Tocantins 2026 - Sistema de Inteligência Territorial

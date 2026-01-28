@@ -160,7 +160,7 @@ class GeradorFichaMunicipal:
         # Função auxiliar para formatar números
         def fmt_num(valor, formato='int', sufixo=''):
             if valor is None or pd.isna(valor):
-                return 'N/D'
+                return None  # Retorna None em vez de 'N/D'
             try:
                 if formato == 'int':
                     return f"{int(valor):,}".replace(',', '.') + sufixo
@@ -169,7 +169,21 @@ class GeradorFichaMunicipal:
                 else:
                     return str(valor) + sufixo
             except:
-                return str(valor) + sufixo
+                return None
+
+        # Função para gerar linha de tabela (oculta se valor é None)
+        def linha_tabela(label, valor, obs='-'):
+            if valor is None:
+                return None
+            return f"| {label} | {valor} | {obs} |"
+
+        # Função para gerar linha de tabela dupla (com 2 valores)
+        def linha_tabela_dupla(label, valor1, valor2, obs='-'):
+            if valor1 is None and valor2 is None:
+                return None
+            v1 = valor1 if valor1 is not None else 'N/D'
+            v2 = valor2 if valor2 is not None else 'N/D'
+            return f"| {label} | {v1} | {v2} | {obs} |"
 
         # Template da ficha (estrutura de 2 páginas)
         ficha = f"""# {metadados['nome'].upper()} - FICHA MUNICIPAL
@@ -184,12 +198,15 @@ class GeradorFichaMunicipal:
 
 | Indicador | Valor |
 |-----------|-------|
-| **População (2022)** | {fmt_num(ind.get('pop_2022'), 'int', ' hab')} |
-| **PIB Total (2021)** | R$ {fmt_num(ind.get('pib_total_2021'), 'float', ' mil')} |
-| **PIB per capita (2021)** | R$ {fmt_num(ind.get('pib_per_capita_2021'), 'float')} |
-| **IDHM (2010)** | {fmt_num(ind.get('idhm_2010'), 'float')} |
-| **Área Territorial** | {fmt_num(metadados['area_km2'], 'float')} km² |
-| **Microrregião** | {metadados['microrregiao']} |
+{chr(10).join(filter(None, [
+    f"| **População (2022)** | {v} |" if (v := fmt_num(ind.get('pop_2022'), 'int', ' hab')) else None,
+    f"| **PIB Total (2021)** | R$ {v} |" if (v := fmt_num(ind.get('pib_total_2021'), 'float', ' mil')) else None,
+    f"| **PIB per capita (2021)** | R$ {v} |" if (v := fmt_num(ind.get('pib_per_capita_2021'), 'float')) else None,
+    f"| **IDHM (2010)** | {v} |" if (v := fmt_num(ind.get('idhm_2010'), 'float')) else None,
+    f"| **Área Territorial** | {v} km² |" if (v := fmt_num(metadados['area_km2'], 'float')) else None,
+    f"| **Microrregião** | {metadados['microrregiao']} |" if metadados['microrregiao'] != 'N/D' else None
+]))}
+
 
 ---
 
@@ -218,14 +235,16 @@ class GeradorFichaMunicipal:
 
 | Indicador | Valor | Observação |
 |-----------|-------|------------|
-| População 2022 | {fmt_num(ind.get('pop_2022'), 'int', ' hab')} | - |
-| População 2010 | {fmt_num(ind.get('pop_2010'), 'int', ' hab')} | - |
-| IDHM 2010 | {fmt_num(ind.get('idhm_2010'), 'float')} | - |
-| IDHM Renda 2010 | {fmt_num(ind.get('idhm_renda_2010'), 'float')} | - |
-| IDHM Longevidade 2010 | {fmt_num(ind.get('idhm_longevidade_2010'), 'float')} | - |
-| IDHM Educação 2010 | {fmt_num(ind.get('idhm_educacao_2010'), 'float')} | - |
-| Densidade demográfica 2022 | {fmt_num(ind.get('densidade_2022'), 'float', ' hab/km²')} | - |
-| Taxa de urbanização 2022 | {fmt_num(ind.get('taxa_urbanizacao_2022'), 'float', '%')} | - |
+{chr(10).join(filter(None, [
+    linha_tabela('População 2022', fmt_num(ind.get('pop_2022'), 'int', ' hab')),
+    linha_tabela('População 2010', fmt_num(ind.get('pop_2010'), 'int', ' hab')),
+    linha_tabela('IDHM 2010', fmt_num(ind.get('idhm_2010'), 'float')),
+    linha_tabela('IDHM Renda 2010', fmt_num(ind.get('idhm_renda_2010'), 'float')),
+    linha_tabela('IDHM Longevidade 2010', fmt_num(ind.get('idhm_longevidade_2010'), 'float')),
+    linha_tabela('IDHM Educação 2010', fmt_num(ind.get('idhm_educacao_2010'), 'float')),
+    linha_tabela('Densidade demográfica 2022', fmt_num(ind.get('densidade_2022'), 'float', ' hab/km²')),
+    linha_tabela('Taxa de urbanização 2022', fmt_num(ind.get('taxa_urbanizacao_2022'), 'float', '%'))
+]))}
 
 **Análise**:
 
@@ -239,12 +258,14 @@ class GeradorFichaMunicipal:
 
 | Indicador | Valor (2021) | Observação |
 |-----------|--------------|------------|
-| PIB Total | R$ {fmt_num(ind.get('pib_total_2021'), 'float', ' mil')} | - |
-| PIB per capita | R$ {fmt_num(ind.get('pib_per_capita_2021'), 'float')} | - |
-| VAB Agropecuária | R$ {fmt_num(ind.get('vab_agropecuaria_2021'), 'float', ' mil')} | - |
-| VAB Indústria | R$ {fmt_num(ind.get('vab_industria_2021'), 'float', ' mil')} | - |
-| VAB Serviços | R$ {fmt_num(ind.get('vab_servicos_2021'), 'float', ' mil')} | - |
-| Emprego Formal (2023) | {fmt_num(ind.get('emprego_formal_estoque_2023'), 'int', ' postos')} | - |
+{chr(10).join(filter(None, [
+    linha_tabela('PIB Total', 'R$ ' + v if (v := fmt_num(ind.get('pib_total_2021'), 'float', ' mil')) else None),
+    linha_tabela('PIB per capita', 'R$ ' + v if (v := fmt_num(ind.get('pib_per_capita_2021'), 'float')) else None),
+    linha_tabela('VAB Agropecuária', 'R$ ' + v if (v := fmt_num(ind.get('vab_agropecuaria_2021'), 'float', ' mil')) else None),
+    linha_tabela('VAB Indústria', 'R$ ' + v if (v := fmt_num(ind.get('vab_industria_2021'), 'float', ' mil')) else None),
+    linha_tabela('VAB Serviços', 'R$ ' + v if (v := fmt_num(ind.get('vab_servicos_2021'), 'float', ' mil')) else None),
+    linha_tabela('Emprego Formal (2023)', fmt_num(ind.get('emprego_formal_estoque_2023'), 'int', ' postos'))
+]))}
 
 **Análise**:
 
@@ -258,11 +279,13 @@ class GeradorFichaMunicipal:
 
 | Indicador | Valor | Observação |
 |-----------|-------|------------|
-| Taxa de alfabetização 2022 | {fmt_num(ind.get('taxa_alfabetizacao_2022'), 'float', '%')} | - |
-| Taxa de alfabetização 2010 | {fmt_num(ind.get('taxa_alfabetizacao_2010'), 'float', '%')} | - |
-| IDEB Anos Finais 2023 | {fmt_num(ind.get('ideb_anos_finais_2023'), 'float')} | - |
-| IDEB Anos Finais 2021 | {fmt_num(ind.get('ideb_anos_finais_2021'), 'float')} | - |
-| IDEB Anos Finais 2019 | {fmt_num(ind.get('ideb_anos_finais_2019'), 'float')} | - |
+{chr(10).join(filter(None, [
+    linha_tabela('Taxa de alfabetização 2022', fmt_num(ind.get('taxa_alfabetizacao_2022'), 'float', '%')),
+    linha_tabela('Taxa de alfabetização 2010', fmt_num(ind.get('taxa_alfabetizacao_2010'), 'float', '%')),
+    linha_tabela('IDEB Anos Finais 2023', fmt_num(ind.get('ideb_anos_finais_2023'), 'float')),
+    linha_tabela('IDEB Anos Finais 2021', fmt_num(ind.get('ideb_anos_finais_2021'), 'float')),
+    linha_tabela('IDEB Anos Finais 2019', fmt_num(ind.get('ideb_anos_finais_2019'), 'float'))
+]))}
 
 **Análise**:
 
@@ -276,11 +299,13 @@ class GeradorFichaMunicipal:
 
 | Indicador | Valor | Observação |
 |-----------|-------|------------|
-| Estabelecimentos UBS (2023) | {fmt_num(ind.get('estabelecimentos_ubs_2023'), 'int', ' unidades')} | - |
-| Estabelecimentos Hospitalares (2023) | {fmt_num(ind.get('estabelecimentos_hospital_2023'), 'int', ' unidades')} | - |
-| Domicílios c/ água rede geral (2022) | {fmt_num(ind.get('agua_rede_geral_2022'), 'int', ' domicílios')} | - |
-| Domicílios c/ esgoto rede geral (2022) | {fmt_num(ind.get('esgoto_rede_geral_2022'), 'int', ' domicílios')} | - |
-| Domicílios c/ lixo coletado (2022) | {fmt_num(ind.get('lixo_coletado_2022'), 'int', ' domicílios')} | - |
+{chr(10).join(filter(None, [
+    linha_tabela('Estabelecimentos UBS (2023)', fmt_num(ind.get('estabelecimentos_ubs_2023'), 'int', ' unidades')),
+    linha_tabela('Estabelecimentos Hospitalares (2023)', fmt_num(ind.get('estabelecimentos_hospital_2023'), 'int', ' unidades')),
+    linha_tabela('Domicílios c/ água rede geral (2022)', fmt_num(ind.get('agua_rede_geral_2022'), 'int', ' domicílios')),
+    linha_tabela('Domicílios c/ esgoto rede geral (2022)', fmt_num(ind.get('esgoto_rede_geral_2022'), 'int', ' domicílios')),
+    linha_tabela('Domicílios c/ lixo coletado (2022)', fmt_num(ind.get('lixo_coletado_2022'), 'int', ' domicílios'))
+]))}
 
 **Análise**:
 
@@ -296,9 +321,10 @@ class GeradorFichaMunicipal:
 
 | Indicador | Valor (2021) | Observação |
 |-----------|--------------|------------|
-| VAB Agropecuária | R$ {fmt_num(ind.get('vab_agropecuaria_2021'), 'float', ' mil')} | - |
-| VAB Agropecuária 2017 | R$ {fmt_num(ind.get('vab_agropecuaria_2017'), 'float', ' mil')} | Comparação histórica |
-| Crescimento VAB Agro (2017-2021) | - | - |
+{chr(10).join(filter(None, [
+    linha_tabela('VAB Agropecuária', 'R$ ' + v if (v := fmt_num(ind.get('vab_agropecuaria_2021'), 'float', ' mil')) else None),
+    linha_tabela('VAB Agropecuária 2017', 'R$ ' + v if (v := fmt_num(ind.get('vab_agropecuaria_2017'), 'float', ' mil')) else None, 'Comparação histórica')
+]))}
 
 **Análise**:
 
@@ -312,12 +338,14 @@ class GeradorFichaMunicipal:
 
 | Indicador | Valor (2023) | Valor (2019) | Variação |
 |-----------|--------------|--------------|----------|
-| Transferências totais | R$ {fmt_num(ind.get('transferencias_total_2023'), 'float', ' mil')} | R$ {fmt_num(ind.get('transferencias_total_2019'), 'float', ' mil')} | - |
-| FPM | R$ {fmt_num(ind.get('fpm_2023'), 'float', ' mil')} | R$ {fmt_num(ind.get('fpm_2019'), 'float', ' mil')} | - |
-| ICMS | R$ {fmt_num(ind.get('icms_2023'), 'float', ' mil')} | R$ {fmt_num(ind.get('icms_2019'), 'float', ' mil')} | - |
-| IPVA | R$ {fmt_num(ind.get('ipva_2023'), 'float', ' mil')} | R$ {fmt_num(ind.get('ipva_2019'), 'float', ' mil')} | - |
-| FUNDEB | R$ {fmt_num(ind.get('fundeb_2023'), 'float', ' mil')} | R$ {fmt_num(ind.get('fundeb_2019'), 'float', ' mil')} | - |
-| ITR | R$ {fmt_num(ind.get('itr_2023'), 'float', ' mil')} | R$ {fmt_num(ind.get('itr_2019'), 'float', ' mil')} | - |
+{chr(10).join(filter(None, [
+    linha_tabela_dupla('Transferências totais', 'R$ ' + v if (v := fmt_num(ind.get('transferencias_total_2023'), 'float', ' mil')) else None, 'R$ ' + v if (v := fmt_num(ind.get('transferencias_total_2019'), 'float', ' mil')) else None),
+    linha_tabela_dupla('FPM', 'R$ ' + v if (v := fmt_num(ind.get('fpm_2023'), 'float', ' mil')) else None, 'R$ ' + v if (v := fmt_num(ind.get('fpm_2019'), 'float', ' mil')) else None),
+    linha_tabela_dupla('ICMS', 'R$ ' + v if (v := fmt_num(ind.get('icms_2023'), 'float', ' mil')) else None, 'R$ ' + v if (v := fmt_num(ind.get('icms_2019'), 'float', ' mil')) else None),
+    linha_tabela_dupla('IPVA', 'R$ ' + v if (v := fmt_num(ind.get('ipva_2023'), 'float', ' mil')) else None, 'R$ ' + v if (v := fmt_num(ind.get('ipva_2019'), 'float', ' mil')) else None),
+    linha_tabela_dupla('FUNDEB', 'R$ ' + v if (v := fmt_num(ind.get('fundeb_2023'), 'float', ' mil')) else None, 'R$ ' + v if (v := fmt_num(ind.get('fundeb_2019'), 'float', ' mil')) else None),
+    linha_tabela_dupla('ITR', 'R$ ' + v if (v := fmt_num(ind.get('itr_2023'), 'float', ' mil')) else None, 'R$ ' + v if (v := fmt_num(ind.get('itr_2019'), 'float', ' mil')) else None)
+]))}
 
 **Análise**:
 
@@ -336,12 +364,6 @@ class GeradorFichaMunicipal:
 [A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
 
 ---
-
-**Fontes**: SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição) | IBGE | Base de Dados Tocantins V01
-
-**Atualização**: {datetime.now().strftime('%B de %Y')}
-
-**Elaboração**: Caderno Tocantins 2026 - Sistema de Inteligência Territorial
 """
 
         # Salvar ficha

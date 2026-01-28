@@ -1,6 +1,6 @@
 # COLINAS - FICHA MUNICIPAL
 
-**Código IBGE**: N/D | **Microrregião**: N/D | **Área**: N/D km²
+**Código IBGE**: N/D | **Microrregião**: N/D | **Área**: None km²
 
 ---
 
@@ -14,8 +14,7 @@
 | **PIB Total (2021)** | R$ 862.139,00 mil |
 | **PIB per capita (2021)** | R$ 23.769,37 |
 | **IDHM (2010)** | 0,70 |
-| **Área Territorial** | N/D km² |
-| **Microrregião** | N/D |
+
 
 ---
 
@@ -124,7 +123,6 @@
 |-----------|--------------|------------|
 | VAB Agropecuária | R$ 92.361,00 mil | - |
 | VAB Agropecuária 2017 | R$ 29.630,00 mil | Comparação histórica |
-| Crescimento VAB Agro (2017-2021) | - | - |
 
 **Análise**:
 
@@ -162,9 +160,3 @@
 [A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
 
 ---
-
-**Fontes**: SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição) | IBGE | Base de Dados Tocantins V01
-
-**Atualização**: January de 2026
-
-**Elaboração**: Caderno Tocantins 2026 - Sistema de Inteligência Territorial
