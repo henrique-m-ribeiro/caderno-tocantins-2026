@@ -1,0 +1,74 @@
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(papersize)$$papersize$paper,$endif$]{article}
+
+% ===== CONFIGURAÇÃO BÁSICA =====
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+
+% ===== GEOMETRIA DA PÁGINA =====
+\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+
+% ===== SUPORTE A CORES E GRÁFICOS =====
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+% ===== HYPERLINKS =====
+\usepackage{hyperref}
+\hypersetup{
+  unicode=true,
+  pdfborder={0 0 0},
+  breaklinks=true,
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue
+}
+
+% ===== CABEÇALHO E RODAPÉ (CORE) =====
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}  % Limpar padrão
+\fancyhead[L]{\small\textit{Caderno Tocantins 2026 - Parte III}}
+\fancyhead[R]{\small\textit{Fichas Municipais}}
+\fancyfoot[C]{\thepage}  % Número centralizado no rodapé
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Estilo para primeira página de capítulos (só rodapé)
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% ===== METADADOS DO YAML =====
+$if(title)$
+\title{$title$}
+$endif$
+$if(subtitle)$
+\providecommand{\subtitle}[1]{}
+\subtitle{$subtitle$}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+% ===== SUPORTE A TABELAS =====
+\usepackage{longtable,booktabs}
+
+% ===== ESPAÇAMENTO ENTRE LINHAS =====
+\usepackage{setspace}
+\setstretch{1.2}
+
+% ===== INÍCIO DO DOCUMENTO =====
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$body$
+
+\end{document}
