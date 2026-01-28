@@ -1,0 +1,423 @@
+#!/usr/bin/env python3
+"""
+Script para gerar fichas municipais de 2 páginas baseadas na análise direta dos PDFs SEPLAN-TO.
+
+Autor: Claude Code
+Data: 2026-01-28
+Versão: 1.0
+"""
+
+import pdfplumber
+import pandas as pd
+import json
+from pathlib import Path
+import re
+from datetime import datetime
+
+
+class GeradorFichaMunicipal:
+    """Gera fichas municipais a partir da análise direta dos PDFs SEPLAN-TO."""
+
+    def __init__(self, pdf_dir='Perfil Municipios Tocantins', base_dados_path='dados/finais/BASE_DADOS_TOCANTINS_V01_REVISADA.xlsx', json_dir='dados/brutos/extraidos-perfis'):
+        self.pdf_dir = Path(pdf_dir)
+        self.base_dados_path = Path(base_dados_path)
+        self.json_dir = Path(json_dir)
+
+        # Carregar base de dados para metadados territoriais
+        print(f"Carregando base de dados de {base_dados_path}...")
+        self.df_base = pd.read_excel(base_dados_path)
+        print(f"✅ Base carregada: {self.df_base.shape[0]} municípios")
+
+    def localizar_json(self, municipio):
+        """Localiza o JSON v9 do município."""
+        nome_normalizado = municipio.lower().replace(' ', '_')
+        nome_normalizado = self._remover_acentos(nome_normalizado)
+
+        # Tentar várias variações
+        variacoes = [
+            f"{nome_normalizado}_v9.json",
+            f"{nome_normalizado}_perfil_v9.json",
+        ]
+
+        for variacao in variacoes:
+            json_path = self.json_dir / variacao
+            if json_path.exists():
+                return json_path
+
+        # Busca case-insensitive
+        for json_file in self.json_dir.glob("*_v9.json"):
+            if nome_normalizado in json_file.stem.lower():
+                return json_file
+
+        print(f"⚠️ JSON v9 não encontrado para {municipio}")
+        return None
+
+    def carregar_json_v9(self, json_path):
+        """Carrega dados do JSON v9."""
+        if json_path is None or not json_path.exists():
+            return {}
+
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+        return data.get('indicadores', {})
+
+    def localizar_pdf(self, municipio):
+        """Localiza o PDF do município."""
+        # Normalizar nome do município
+        nome_normalizado = municipio.lower().replace(' ', '_')
+        nome_normalizado = self._remover_acentos(nome_normalizado)
+
+        # Tentar várias variações de nome
+        variacoes = [
+            f"{nome_normalizado}_perfil_2024pdf.pdf",
+            f"{nome_normalizado}_2024pdf.pdf",
+            f"{nome_normalizado}.pdf",
+        ]
+
+        for variacao in variacoes:
+            pdf_path = self.pdf_dir / variacao
+            if pdf_path.exists():
+                return pdf_path
+
+        # Se não encontrou, tentar busca case-insensitive
+        for pdf_file in self.pdf_dir.glob("*.pdf"):
+            if nome_normalizado in pdf_file.stem.lower():
+                return pdf_file
+
+        raise FileNotFoundError(f"PDF não encontrado para {municipio}. Tentou: {variacoes}")
+
+    def _remover_acentos(self, texto):
+        """Remove acentos de um texto."""
+        acentos = {
+            'á': 'a', 'à': 'a', 'ã': 'a', 'â': 'a',
+            'é': 'e', 'è': 'e', 'ê': 'e',
+            'í': 'i', 'ì': 'i', 'î': 'i',
+            'ó': 'o', 'ò': 'o', 'õ': 'o', 'ô': 'o',
+            'ú': 'u', 'ù': 'u', 'û': 'u',
+            'ç': 'c'
+        }
+        for a, b in acentos.items():
+            texto = texto.replace(a, b)
+        return texto
+
+    def extrair_texto_pdf(self, pdf_path):
+        """Extrai todo o texto de um PDF."""
+        print(f"Extraindo texto de {pdf_path.name}...")
+        texto_completo = []
+
+        with pdfplumber.open(pdf_path) as pdf:
+            for i, page in enumerate(pdf.pages, 1):
+                texto = page.extract_text()
+                if texto:
+                    texto_completo.append(texto)
+
+        print(f"✅ {len(texto_completo)} páginas extraídas")
+        return "\n\n".join(texto_completo)
+
+    def obter_metadados_territoriais(self, municipio):
+        """Obtém metadados territoriais da base de dados."""
+        municipio_data = self.df_base[self.df_base['terr_nome'] == municipio]
+
+        if len(municipio_data) == 0:
+            print(f"⚠️ Município {municipio} não encontrado na base de dados")
+            return {}
+
+        municipio_data = municipio_data.iloc[0]
+
+        return {
+            'nome': municipio,
+            'codigo_ibge': municipio_data.get('terr_codigo_ibge', 'N/D'),
+            'microrregiao': municipio_data.get('terr_microrregiao', 'N/D'),
+            'mesorregiao': municipio_data.get('terr_mesorregiao', 'N/D'),
+            'area_km2': municipio_data.get('terr_area_km2', 'N/D'),
+        }
+
+    def analisar_pdf(self, texto_pdf, metadados):
+        """Analisa o conteúdo do PDF e extrai informações estruturadas."""
+        analise = {
+            'metadados': metadados,
+            'indicadores': {},
+            'texto_original': texto_pdf
+        }
+
+        # Extrair indicadores básicos do texto
+        # População
+        pop_match = re.search(r'População.*?(\d{1,3}(?:\.\d{3})*)\s*(?:hab|habitantes)', texto_pdf, re.IGNORECASE)
+        if pop_match:
+            analise['indicadores']['populacao_2022'] = pop_match.group(1)
+
+        # PIB
+        pib_match = re.search(r'PIB.*?R\$\s*(\d{1,3}(?:\.\d{3})*(?:,\d+)?)\s*(?:mil|milhões|bilhões)', texto_pdf, re.IGNORECASE)
+        if pib_match:
+            analise['indicadores']['pib'] = pib_match.group(1)
+
+        # IDHM
+        idhm_match = re.search(r'IDHM.*?(\d,\d{3})', texto_pdf, re.IGNORECASE)
+        if idhm_match:
+            analise['indicadores']['idhm_2010'] = idhm_match.group(1)
+
+        return analise
+
+    def gerar_ficha_markdown(self, analise, output_path):
+        """Gera a ficha municipal em formato Markdown (2 páginas)."""
+        metadados = analise['metadados']
+        indicadores = analise['indicadores']
+
+        # Template da ficha (estrutura de 2 páginas)
+        ficha = f"""# {metadados['nome'].upper()} - FICHA MUNICIPAL
+
+**Código IBGE**: {metadados['codigo_ibge']} | **Microrregião**: {metadados['microrregiao']} | **Área**: {metadados['area_km2']} km²
+
+---
+
+## PÁGINA 1
+
+### 📊 Dados Básicos
+
+| Indicador | Valor |
+|-----------|-------|
+| **População (2022)** | {indicadores.get('populacao_2022', 'N/D')} habitantes |
+| **PIB Total** | R$ {indicadores.get('pib', 'N/D')} |
+| **IDHM (2010)** | {indicadores.get('idhm_2010', 'N/D')} |
+| **Área Territorial** | {metadados['area_km2']} km² |
+| **Microrregião** | {metadados['microrregiao']} |
+
+---
+
+### 🎯 Síntese Estratégica
+
+#### Pontos Fortes
+- [A DEFINIR: Análise dos principais ativos do município]
+- [A DEFINIR: Vantagens competitivas identificadas]
+- [A DEFINIR: Recursos e potencialidades destacadas]
+
+#### Desafios Prioritários
+- [A DEFINIR: Principais gargalos identificados]
+- [A DEFINIR: Problemas estruturais evidentes]
+- [A DEFINIR: Áreas que demandam atenção]
+
+#### Oportunidades
+- [A DEFINIR: Potenciais de desenvolvimento]
+- [A DEFINIR: Áreas para investimento]
+- [A DEFINIR: Parcerias estratégicas possíveis]
+
+---
+
+### 1️⃣ Dimensão: Dados Sociais e Demográficos
+
+**Indicadores-Chave**:
+
+| Indicador | Valor | Microrregião | Tocantins | Observação |
+|-----------|-------|--------------|-----------|------------|
+| População 2022 | {indicadores.get('populacao_2022', 'N/D')} | - | - | - |
+| IDHM 2010 | {indicadores.get('idhm_2010', 'N/D')} | - | - | - |
+| Densidade demográfica | - | - | - | - |
+| Taxa de urbanização | - | - | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise contextualizada dos dados sociais e demográficos, explicando tendências de crescimento populacional, perfil urbano/rural, e implicações para políticas públicas]
+
+---
+
+### 2️⃣ Dimensão: Economia
+
+**Indicadores-Chave**:
+
+| Indicador | Valor | Microrregião | Tocantins | Observação |
+|-----------|-------|--------------|-----------|------------|
+| PIB Total (2021) | R$ {indicadores.get('pib', 'N/D')} | - | - | - |
+| PIB per capita | - | - | - | - |
+| VAB Agropecuária | - | - | - | - |
+| VAB Indústria | - | - | - | - |
+| VAB Serviços | - | - | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise da estrutura econômica do município, destacando setores dinâmicos, dependências, e potencial de diversificação econômica]
+
+---
+
+### 3️⃣ Dimensão: Educação
+
+**Indicadores-Chave**:
+
+| Indicador | Valor | Microrregião | Tocantins | Observação |
+|-----------|-------|--------------|-----------|------------|
+| Taxa de alfabetização | - | - | - | - |
+| IDEB Anos Iniciais | - | - | - | - |
+| IDEB Anos Finais | - | - | - | - |
+| Taxa de escolarização 6-14 anos | - | - | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise do cenário educacional, identificando avanços, desafios em infraestrutura escolar, qualidade do ensino, e propostas de melhoria]
+
+---
+
+### 4️⃣ Dimensão: Saúde
+
+**Indicadores-Chave**:
+
+| Indicador | Valor | Microrregião | Tocantins | Observação |
+|-----------|-------|--------------|-----------|------------|
+| Estabelecimentos UBS | - | - | - | - |
+| Estabelecimentos Hospitalares | - | - | - | - |
+| Cobertura de atendimento | - | - | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise da infraestrutura de saúde, capacidade de atendimento, e necessidades de investimento no setor]
+
+---
+
+## PÁGINA 2
+
+### 5️⃣ Dimensão: Agropecuária
+
+**Indicadores-Chave**:
+
+| Indicador | Valor | Microrregião | Tocantins | Observação |
+|-----------|-------|--------------|-----------|------------|
+| VAB Agropecuária (2021) | - | - | - | - |
+| Principais culturas | - | - | - | - |
+| Rebanho bovino | - | - | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise do setor agropecuário, destacando vocações produtivas, tecnologias utilizadas, e oportunidades de agregação de valor]
+
+---
+
+### 6️⃣ Dimensão: Infraestrutura e Saneamento
+
+**Indicadores-Chave**:
+
+| Indicador | Valor | Microrregião | Tocantins | Observação |
+|-----------|-------|--------------|-----------|------------|
+| Água tratada (%) | - | - | - | - |
+| Esgoto sanitário (%) | - | - | - | - |
+| Coleta de lixo (%) | - | - | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise da infraestrutura urbana e saneamento, identificando déficits e prioridades de investimento]
+
+---
+
+### 7️⃣ Dimensão: Logística e Conectividade
+
+**Indicadores-Chave**:
+
+| Indicador | Valor | Observação |
+|-----------|-------|------------|
+| Principais rodovias | - | - |
+| Distância da capital | - | - |
+| Condições de acesso | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise da conectividade do município, condições de escoamento da produção, e necessidades de melhorias logísticas]
+
+---
+
+### 8️⃣ Dimensão: Finanças Públicas
+
+**Indicadores-Chave**:
+
+| Indicador | Valor (2023) | Observação |
+|-----------|--------------|------------|
+| Transferências totais | - | - |
+| FPM | - | - |
+| ICMS | - | - |
+| FUNDEB | - | - |
+
+**Análise**:
+
+[A DEFINIR: Análise da dependência de transferências, autonomia fiscal, e capacidade de investimento do município]
+
+---
+
+## 🔗 Análise Integrada e Propositiva
+
+### Diagnóstico Integrado
+
+[A DEFINIR: Parágrafo explicando como as diferentes dimensões se conectam para explicar a realidade do município. Por exemplo: como a estrutura econômica impacta a arrecadação municipal, como a infraestrutura logística afeta o escoamento da produção agropecuária, etc.]
+
+### Diretrizes para o Plano de Governo
+
+[A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
+
+---
+
+**Fontes**: SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição) | IBGE | Base de Dados Tocantins V01
+
+**Atualização**: {datetime.now().strftime('%B de %Y')}
+
+**Elaboração**: Caderno Tocantins 2026 - Sistema de Inteligência Territorial
+"""
+
+        # Salvar ficha
+        output_path = Path(output_path)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(ficha)
+
+        print(f"✅ Ficha gerada: {output_path}")
+        return output_path
+
+    def gerar_ficha(self, municipio, output_dir='parte-iii-fichas-municipais/prototipos'):
+        """Gera ficha completa para um município."""
+        print("\n" + "=" * 80)
+        print(f"GERANDO FICHA MUNICIPAL: {municipio.upper()}")
+        print("=" * 80)
+
+        try:
+            # 1. Localizar PDF
+            pdf_path = self.localizar_pdf(municipio)
+            print(f"✅ PDF localizado: {pdf_path.name}")
+
+            # 2. Extrair texto do PDF
+            texto_pdf = self.extrair_texto_pdf(pdf_path)
+
+            # 3. Obter metadados territoriais
+            metadados = self.obter_metadados_territoriais(municipio)
+
+            # 4. Analisar PDF
+            analise = self.analisar_pdf(texto_pdf, metadados)
+
+            # 5. Gerar ficha Markdown
+            nome_arquivo = f"FICHA-MUNICIPAL-{municipio.upper().replace(' ', '-')}.md"
+            output_path = Path(output_dir) / nome_arquivo
+            self.gerar_ficha_markdown(analise, output_path)
+
+            print("=" * 80)
+            print(f"✅ FICHA GERADA COM SUCESSO: {municipio}")
+            print("=" * 80)
+
+            return output_path
+
+        except Exception as e:
+            print(f"❌ Erro ao gerar ficha de {municipio}: {e}")
+            raise
+
+
+def main():
+    """Função principal."""
+    import sys
+
+    if len(sys.argv) < 2:
+        print("Uso: python gerar_ficha_municipal.py <nome_municipio>")
+        print("Exemplo: python gerar_ficha_municipal.py Palmas")
+        sys.exit(1)
+
+    municipio = ' '.join(sys.argv[1:])
+
+    gerador = GeradorFichaMunicipal()
+    gerador.gerar_ficha(municipio)
+
+
+if __name__ == '__main__':
+    main()
