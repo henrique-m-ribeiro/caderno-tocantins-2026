@@ -54,8 +54,10 @@ MAPEAMENTO_NOMES = {
     # Casos com apóstrofo no nome
     "Pau D'Arco": 'pau_d_arco',
 
-    # Casos sem PDF
-    'Cachoeirinha': None,
+    # Caso com grafia diferente no PDF (cachoerinha sem i)
+    'Cachoeirinha': 'cachoerinha',
+
+    # Caso sem PDF
     'Tocantins': None,
 }
 
