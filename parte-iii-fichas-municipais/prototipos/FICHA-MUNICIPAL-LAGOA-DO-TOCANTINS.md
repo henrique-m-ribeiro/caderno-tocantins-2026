@@ -42,12 +42,12 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
-| IDHM 2010 | 0,58 | - |
-| IDHM Renda 2010 | 0,54 | - |
-| IDHM Longevidade 2010 | 0,76 | - |
-| IDHM Educação 2010 | 0,47 | - |
+| Indicador | Valor |
+|-----------|-------|
+| IDHM 2010 | 0,58 |
+| IDHM Renda 2010 | 0,54 |
+| IDHM Longevidade 2010 | 0,76 |
+| IDHM Educação 2010 | 0,47 |
 
 **Análise**:
 
@@ -59,14 +59,14 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor (2021) | Observação |
-|-----------|--------------|------------|
-| PIB Total | R$ 89.429,00 mil | - |
-| PIB per capita | R$ 20.132,79 | - |
-| VAB Agropecuária | R$ 4.020,00 mil | - |
-| VAB Indústria | R$ 5.146,00 mil | - |
-| VAB Serviços | R$ 37.291,00 mil | - |
-| Emprego Formal (2023) | 88 postos | - |
+| Indicador | Valor (2021) |
+|-----------|--------------|
+| PIB Total | R$ 89.429,00 mil |
+| PIB per capita | R$ 20.132,79 |
+| VAB Agropecuária | R$ 4.020,00 mil |
+| VAB Indústria | R$ 5.146,00 mil |
+| VAB Serviços | R$ 37.291,00 mil |
+| Emprego Formal (2023) | 88 postos |
 
 **Análise**:
 
@@ -78,13 +78,13 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
-| Taxa de alfabetização 2022 | 85,70% | - |
-| Taxa de alfabetização 2010 | 77,40% | - |
-| IDEB Anos Finais 2023 | 4,20 | - |
-| IDEB Anos Finais 2021 | 4,00 | - |
-| IDEB Anos Finais 2019 | 3,80 | - |
+| Indicador | Valor |
+|-----------|-------|
+| Taxa de alfabetização 2022 | 85,70% |
+| Taxa de alfabetização 2010 | 77,40% |
+| IDEB Anos Finais 2023 | 4,20 |
+| IDEB Anos Finais 2021 | 4,00 |
+| IDEB Anos Finais 2019 | 3,80 |
 
 **Análise**:
 
@@ -96,9 +96,9 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
-| Domicílios c/ água rede geral (2022) | 754 domicílios | - |
+| Indicador | Valor |
+|-----------|-------|
+| Domicílios c/ água rede geral (2022) | 754 domicílios |
 
 **Análise**:
 
@@ -112,10 +112,10 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor (2021) | Observação |
-|-----------|--------------|------------|
-| VAB Agropecuária | R$ 4.020,00 mil | - |
-| VAB Agropecuária 2017 | R$ 1.997,00 mil | Comparação histórica |
+| Indicador | Valor (2021) |
+|-----------|--------------|
+| VAB Agropecuária | R$ 4.020,00 mil |
+| VAB Agropecuária 2017 | R$ 1.997,00 mil |
 
 **Análise**:
 
