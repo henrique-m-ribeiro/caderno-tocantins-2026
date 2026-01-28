@@ -23,6 +23,7 @@ Desktop.ini
 *.tmp
 *.temp
 *.bak
+*.backup
 *.log
 *.cache
 *~

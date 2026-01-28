@@ -43,16 +43,16 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
-| População 2022 | 171.301 hab | - |
-| População 2010 | 150.484 hab | - |
-| IDHM 2010 | 0,75 | - |
-| IDHM Renda 2010 | 0,73 | - |
-| IDHM Longevidade 2010 | 0,82 | - |
-| IDHM Educação 2010 | 0,71 | - |
-| Densidade demográfica 2022 | 42,80 hab/km² | - |
-| Taxa de urbanização 2022 | 97,20% | - |
+| Indicador | Valor |
+|-----------|-------|
+| População 2022 | 171.301 hab |
+| População 2010 | 150.484 hab |
+| IDHM 2010 | 0,75 |
+| IDHM Renda 2010 | 0,73 |
+| IDHM Longevidade 2010 | 0,82 |
+| IDHM Educação 2010 | 0,71 |
+| Densidade demográfica 2022 | 42,80 hab/km² |
+| Taxa de urbanização 2022 | 97,20% |
 
 **Análise**:
 
@@ -64,14 +64,14 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor (2021) | Observação |
-|-----------|--------------|------------|
-| PIB Total | R$ 5.239.050,00 mil | - |
-| PIB per capita | R$ 28.129,89 | - |
-| VAB Agropecuária | R$ 112.274,00 mil | - |
-| VAB Indústria | R$ 521.090,00 mil | - |
-| VAB Serviços | R$ 1.341.819,00 mil | - |
-| Emprego Formal (2023) | 32.465 postos | - |
+| Indicador | Valor (2021) |
+|-----------|--------------|
+| PIB Total | R$ 5.239.050,00 mil |
+| PIB per capita | R$ 28.129,89 |
+| VAB Agropecuária | R$ 112.274,00 mil |
+| VAB Indústria | R$ 521.090,00 mil |
+| VAB Serviços | R$ 1.341.819,00 mil |
+| Emprego Formal (2023) | 32.465 postos |
 
 **Análise**:
 
@@ -83,10 +83,10 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
-| Taxa de alfabetização 2022 | 93,70% | - |
-| Taxa de alfabetização 2010 | 91,40% | - |
+| Indicador | Valor |
+|-----------|-------|
+| Taxa de alfabetização 2022 | 93,70% |
+| Taxa de alfabetização 2010 | 91,40% |
 
 **Análise**:
 
@@ -98,13 +98,13 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
-| Estabelecimentos UBS (2023) | 22 unidades | - |
-| Estabelecimentos Hospitalares (2023) | 4 unidades | - |
-| Domicílios c/ água rede geral (2022) | 40.836 domicílios | - |
-| Domicílios c/ esgoto rede geral (2022) | 13.802 domicílios | - |
-| Domicílios c/ lixo coletado (2022) | 54.924 domicílios | - |
+| Indicador | Valor |
+|-----------|-------|
+| Estabelecimentos UBS (2023) | 22 unidades |
+| Estabelecimentos Hospitalares (2023) | 4 unidades |
+| Domicílios c/ água rede geral (2022) | 40.836 domicílios |
+| Domicílios c/ esgoto rede geral (2022) | 13.802 domicílios |
+| Domicílios c/ lixo coletado (2022) | 54.924 domicílios |
 
 **Análise**:
 
@@ -118,10 +118,10 @@
 
 **Indicadores-Chave**:
 
-| Indicador | Valor (2021) | Observação |
-|-----------|--------------|------------|
-| VAB Agropecuária | R$ 112.274,00 mil | - |
-| VAB Agropecuária 2017 | R$ 54.222,00 mil | Comparação histórica |
+| Indicador | Valor (2021) |
+|-----------|--------------|
+| VAB Agropecuária | R$ 112.274,00 mil |
+| VAB Agropecuária 2017 | R$ 54.222,00 mil |
 
 **Análise**:
 
