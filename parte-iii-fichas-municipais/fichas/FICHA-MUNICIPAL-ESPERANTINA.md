@@ -22,19 +22,17 @@
 ### 🎯 Síntese Estratégica
 
 #### Pontos Fortes
-- [A DEFINIR: Análise dos principais ativos do município]
-- [A DEFINIR: Vantagens competitivas identificadas]
-- [A DEFINIR: Recursos e potencialidades destacadas]
+- Infraestrutura de saneamento em estágio avançado, com excelente cobertura de abastecimento de água
 
 #### Desafios Prioritários
-- [A DEFINIR: Principais gargalos identificados]
-- [A DEFINIR: Problemas estruturais evidentes]
-- [A DEFINIR: Áreas que demandam atenção]
+- IDHM baixo (0.570), demandando políticas integradas para elevar indicadores sociais
+- Taxa de alfabetização (78.2%) abaixo do ideal, requerendo programas de alfabetização de jovens e adultos
+- IDEB (3.0) abaixo da meta, necessitando de investimentos em infraestrutura escolar e formação docente
 
 #### Oportunidades
-- [A DEFINIR: Potenciais de desenvolvimento]
-- [A DEFINIR: Áreas para investimento]
-- [A DEFINIR: Parcerias estratégicas possíveis]
+- Trajetória recente de crescimento econômico, favorável à atração de novos empreendimentos
+- Capacidade de investimento ampliada pelo crescimento expressivo das transferências, permitindo obras estruturantes
+- Parcerias com governo estadual para programas de desenvolvimento territorial integrado
 
 ---
 
@@ -51,7 +49,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise contextualizada dos dados sociais e demográficos, explicando tendências de crescimento populacional, perfil urbano/rural, e implicações para políticas públicas]
+O município apresenta dados populacionais limitados, Caracteriza-se como município predominantemente rural, com taxa de urbanização de 0.0%, o que requer políticas diferenciadas para atendimento da população rural dispersa. O IDHM de 0.570 (2010) classifica o município em patamar baixo com evolução excepcional, indicando a necessidade de políticas públicas intensivas para elevar os padrões de vida da população.
 
 ---
 
@@ -70,7 +68,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise da estrutura econômica do município, destacando setores dinâmicos, dependências, e potencial de diversificação econômica]
+A economia municipal caracteriza-se por forte predominância do setor de serviços, que responde por 77.6% do valor adicionado bruto, típico de centros urbanos prestadores de serviços. O PIB per capita de R$ 10.525.18 (2021) indica necessidade de dinamizar a economia local para elevar a renda média da população. Registra-se crescimento econômico expressivo no período recente, com estoque de 0.1 mil vínculos formais de emprego (2023), indicando predominância da informalidade e necessidade de políticas de formalização.
 
 ---
 
@@ -88,7 +86,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise do cenário educacional, identificando avanços, desafios em infraestrutura escolar, qualidade do ensino, e propostas de melhoria]
+O cenário educacional apresenta desafios na alfabetização, com taxa de alfabetização de 78.2% (2022), demandando programas intensivos de alfabetização de jovens e adultos. O IDEB dos anos finais registra IDEB que demanda atenção, com índice de 3.0 em 2023, apresentando queda de 0.8 pontos em relação a 2019, o que demanda atenção e reversão da tendência. É prioritário implementar políticas de melhoria da qualidade do ensino, incluindo modernização da infraestrutura escolar, formação continuada de professores e acompanhamento pedagógico.
 
 ---
 
@@ -103,7 +101,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise da infraestrutura de saúde e saneamento, capacidade de atendimento, e necessidades de investimento no setor]
+A infraestrutura de saúde caracteriza-se por boa cobertura de unidades básicas de saúde, contando com 3 Unidades Básicas de Saúde (UBS) (2023), com dependência de municípios de referência para atenção hospitalar. A cobertura de atenção básica favorece a prevenção e o acompanhamento da saúde da população. Quanto ao saneamento básico, observa-se excelente cobertura de abastecimento de água, garantindo acesso praticamente universal ao abastecimento adequado. Já em relação ao esgotamento sanitário, verifica-se desafio crítico no esgotamento sanitário, constituindo desafio prioritário, pois a falta de saneamento adequado compromete a saúde pública e a qualidade ambiental.
 
 ---
 
@@ -120,7 +118,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise do setor agropecuário, destacando vocações produtivas, tecnologias utilizadas, e oportunidades de agregação de valor]
+A agropecuária mantém participação significativa na economia local (17.7% do VAB). Registra-se trajetória de crescimento expressivo (98.3% no período 2017-2021), refletindo dinamismo do setor primário local. 
 
 ---
 
@@ -139,18 +137,26 @@
 
 **Análise**:
 
-[A DEFINIR: Análise da dependência de transferências, autonomia fiscal, evolução das receitas, e capacidade de investimento do município]
+A estrutura de receitas municipais caracteriza-se pela diversificação de fontes de receita, indicando diversificação das fontes de receita. Em 2023, o município recebeu R$ 28,0 milhões em transferências correntes, Observa-se crescimento expressivo das transferências no período 2019-2023, com expansão de 57.2%, ampliando a capacidade de investimento municipal. A otimização da gestão financeira, mediante planejamento orçamentário rigoroso e controle de gastos, é fundamental para viabilizar investimentos em infraestrutura e serviços públicos essenciais.
 
 ---
 
 ## 🔗 Análise Integrada e Propositiva
 
-### Diagnóstico Integrado
+Esperantina configura-se como município de base local. com pequeno porte (0 habitantes). apresentando IDHM baixo e forte predominância do setor de serviços. 
 
-[A DEFINIR: Parágrafo explicando como as diferentes dimensões se conectam para explicar a realidade do município. Por exemplo: como a estrutura econômica impacta a arrecadação municipal, como a infraestrutura logística afeta o escoamento da produção agropecuária, etc.]
+**Diretrizes Prioritárias para o Plano de Governo Estadual:**
 
-### Diretrizes para o Plano de Governo
+1. **Educação**: Implementar programa emergencial de melhoria da qualidade do ensino, com foco em infraestrutura escolar, formação docente e acompanhamento pedagógico para reverter queda do IDEB
 
-[A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
+2. **Saneamento**: Priorizar investimentos em esgotamento sanitário mediante parcerias com governo federal e financiamentos específicos, visando universalização do acesso
+
+3. **Desenvolvimento Econômico**: Estimular empreendedorismo local e economia solidária, com programas de microcrédito e capacitação empresarial
+
+4. **Saúde**: Estruturar rede regionalizada de atenção à saúde, garantindo acesso a serviços especializados e hospitalares de média complexidade
+
+5. **Gestão Pública**: Aprimorar planejamento estratégico, governança e capacitação de servidores para otimizar aplicação de recursos públicos
+
+A implementação articulada destas diretrizes, com protagonismo do governo estadual em coordenação federativa, pode alavancar o desenvolvimento municipal sustentável e a melhoria da qualidade de vida da população.
 
 ---
