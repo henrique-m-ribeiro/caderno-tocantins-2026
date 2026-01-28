@@ -10,12 +10,12 @@
 
 | Indicador | Valor |
 |-----------|-------|
-| **População (2022)** | N/D |
 | **PIB Total (2021)** | R$ 89.429,00 mil |
 | **PIB per capita (2021)** | R$ 20.132,79 |
 | **IDHM (2010)** | 0,58 |
 | **Área Territorial** | 917,63 km² |
 | **Microrregião** | Jalapão |
+
 
 ---
 
@@ -44,14 +44,10 @@
 
 | Indicador | Valor | Observação |
 |-----------|-------|------------|
-| População 2022 | N/D | - |
-| População 2010 | N/D | - |
 | IDHM 2010 | 0,58 | - |
 | IDHM Renda 2010 | 0,54 | - |
 | IDHM Longevidade 2010 | 0,76 | - |
 | IDHM Educação 2010 | 0,47 | - |
-| Densidade demográfica 2022 | N/D | - |
-| Taxa de urbanização 2022 | N/D | - |
 
 **Análise**:
 
@@ -102,11 +98,7 @@
 
 | Indicador | Valor | Observação |
 |-----------|-------|------------|
-| Estabelecimentos UBS (2023) | N/D | - |
-| Estabelecimentos Hospitalares (2023) | N/D | - |
 | Domicílios c/ água rede geral (2022) | 754 domicílios | - |
-| Domicílios c/ esgoto rede geral (2022) | N/D | - |
-| Domicílios c/ lixo coletado (2022) | N/D | - |
 
 **Análise**:
 
@@ -124,7 +116,6 @@
 |-----------|--------------|------------|
 | VAB Agropecuária | R$ 4.020,00 mil | - |
 | VAB Agropecuária 2017 | R$ 1.997,00 mil | Comparação histórica |
-| Crescimento VAB Agro (2017-2021) | - | - |
 
 **Análise**:
 
@@ -162,9 +153,3 @@
 [A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
 
 ---
-
-**Fontes**: SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição) | IBGE | Base de Dados Tocantins V01
-
-**Atualização**: January de 2026
-
-**Elaboração**: Caderno Tocantins 2026 - Sistema de Inteligência Territorial

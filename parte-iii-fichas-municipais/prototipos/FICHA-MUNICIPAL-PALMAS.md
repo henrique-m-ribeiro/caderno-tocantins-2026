@@ -17,6 +17,7 @@
 | **Área Territorial** | 2.227,33 km² |
 | **Microrregião** | Porto Nacional |
 
+
 ---
 
 ### 🎯 Síntese Estratégica
@@ -124,7 +125,6 @@
 |-----------|--------------|------------|
 | VAB Agropecuária | R$ 85.088,00 mil | - |
 | VAB Agropecuária 2017 | R$ 32.148,00 mil | Comparação histórica |
-| Crescimento VAB Agro (2017-2021) | - | - |
 
 **Análise**:
 
@@ -162,9 +162,3 @@
 [A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
 
 ---
-
-**Fontes**: SEPLAN-TO - Perfil Socioeconômico 2024 (8ª Edição) | IBGE | Base de Dados Tocantins V01
-
-**Atualização**: January de 2026
-
-**Elaboração**: Caderno Tocantins 2026 - Sistema de Inteligência Territorial
