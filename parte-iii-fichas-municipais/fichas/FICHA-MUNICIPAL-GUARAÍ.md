@@ -23,19 +23,17 @@
 ### 🎯 Síntese Estratégica
 
 #### Pontos Fortes
-- [A DEFINIR: Análise dos principais ativos do município]
-- [A DEFINIR: Vantagens competitivas identificadas]
-- [A DEFINIR: Recursos e potencialidades destacadas]
+- IDHM alto (0.741), acima da média estadual, indicando bom nível de desenvolvimento humano
+- PIB per capita (R$ 29,950.02) superior à média estadual, demonstrando capacidade econômica
+- Taxa de alfabetização elevada (92.3%), refletindo investimentos em educação básica
 
 #### Desafios Prioritários
-- [A DEFINIR: Principais gargalos identificados]
-- [A DEFINIR: Problemas estruturais evidentes]
-- [A DEFINIR: Áreas que demandam atenção]
+- IDEB (0.0) abaixo da meta, necessitando de investimentos em infraestrutura escolar e formação docente
 
 #### Oportunidades
-- [A DEFINIR: Potenciais de desenvolvimento]
-- [A DEFINIR: Áreas para investimento]
-- [A DEFINIR: Parcerias estratégicas possíveis]
+- Centro sub-regional com capacidade de dinamizar economia microrregional
+- Capacidade de investimento ampliada pelo crescimento expressivo das transferências, permitindo obras estruturantes
+- Perfil urbano consolidado, propício para investimentos em infraestrutura urbana e serviços
 
 ---
 
@@ -56,7 +54,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise contextualizada dos dados sociais e demográficos, explicando tendências de crescimento populacional, perfil urbano/rural, e implicações para políticas públicas]
+O município apresenta crescimento populacional estável, passando de 20.822 habitantes em 1991 para 24.775 em 2022 (+19.0%). Caracteriza-se como município predominantemente urbano, com taxa de urbanização de 91.7%, o que demanda investimentos concentrados em infraestrutura urbana, mobilidade e serviços públicos na sede municipal. O IDHM de 0.741 (2010) classifica o município em patamar alto com evolução excepcional, refletindo avanços consistentes em educação, longevidade e renda, mas com necessidade de manutenção e aprimoramento das políticas sociais.
 
 ---
 
@@ -75,7 +73,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise da estrutura econômica do município, destacando setores dinâmicos, dependências, e potencial de diversificação econômica]
+A economia municipal caracteriza-se por forte predominância do setor de serviços, que responde por 67.3% do valor adicionado bruto, típico de centros urbanos prestadores de serviços. A participação industrial (19.7% do VAB) demonstra alguma diversificação produtiva. O PIB per capita de R$ 29.950.02 (2021) supera a média estadual, evidenciando capacidade econômica favorável. Registra-se crescimento econômico positivo no período recente, com estoque de 2.7 mil vínculos formais de emprego (2023), indicando predominância da informalidade e necessidade de políticas de formalização.
 
 ---
 
@@ -90,7 +88,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise do cenário educacional, identificando avanços, desafios em infraestrutura escolar, qualidade do ensino, e propostas de melhoria]
+O cenário educacional apresenta bons índices de alfabetização, com taxa de alfabetização de 92.3% (2022), próxima da universalização. O IDEB dos anos finais registra IDEB que demanda atenção, É prioritário implementar políticas de melhoria da qualidade do ensino, incluindo modernização da infraestrutura escolar, formação continuada de professores e acompanhamento pedagógico.
 
 ---
 
@@ -108,7 +106,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise da infraestrutura de saúde e saneamento, capacidade de atendimento, e necessidades de investimento no setor]
+A infraestrutura de saúde caracteriza-se por cobertura adequada de UBS, contando com 7 Unidades Básicas de Saúde (UBS) e 1 estabelecimento(s) hospitalar(es) (2023). Quanto ao saneamento básico, observa-se boa cobertura de água tratada, mas com necessidade de universalização do atendimento. Já em relação ao esgotamento sanitário, verifica-se boa cobertura de rede de esgoto, demandando investimentos para expansão da rede coletora e tratamento adequado.
 
 ---
 
@@ -125,7 +123,7 @@
 
 **Análise**:
 
-[A DEFINIR: Análise do setor agropecuário, destacando vocações produtivas, tecnologias utilizadas, e oportunidades de agregação de valor]
+Embora com participação moderada (12.9% do VAB), a agropecuária compõe a base produtiva municipal. O setor demonstra forte dinamismo, com crescimento de 234.1% no período 2017-2021, indicando expansão da área produtiva, incorporação de tecnologias ou elevação de preços das commodities. 
 
 ---
 
@@ -144,18 +142,26 @@
 
 **Análise**:
 
-[A DEFINIR: Análise da dependência de transferências, autonomia fiscal, evolução das receitas, e capacidade de investimento do município]
+A estrutura de receitas municipais caracteriza-se pela significativa participação do FPM nas receitas, sendo o FPM responsável por 55.0% das transferências. Há oportunidade para reduzir a dependência mediante políticas de desenvolvimento econômico local e melhoria da arrecadação própria. Em 2023, o município recebeu R$ 42,7 milhões em transferências correntes, Observa-se crescimento expressivo das transferências no período 2019-2023, com expansão de 68.0%, ampliando a capacidade de investimento municipal. A otimização da gestão financeira, mediante planejamento orçamentário rigoroso e controle de gastos, é fundamental para viabilizar investimentos em infraestrutura e serviços públicos essenciais.
 
 ---
 
 ## 🔗 Análise Integrada e Propositiva
 
-### Diagnóstico Integrado
+Guaraí configura-se como município com área de influência microrregional. com porte intermediário (24.775 habitantes). apresentando IDHM alto e forte predominância do setor de serviços. 
 
-[A DEFINIR: Parágrafo explicando como as diferentes dimensões se conectam para explicar a realidade do município. Por exemplo: como a estrutura econômica impacta a arrecadação municipal, como a infraestrutura logística afeta o escoamento da produção agropecuária, etc.]
+**Diretrizes Prioritárias para o Plano de Governo Estadual:**
 
-### Diretrizes para o Plano de Governo
+1. **Educação**: Consolidar avanços educacionais mediante valorização docente, modernização tecnológica das escolas e ampliação da educação integral
 
-[A DEFINIR: Parágrafo com sugestões de ações e políticas públicas estaduais, focando em parcerias Estado-Município-União, investimentos prioritários, e oportunidades de desenvolvimento sustentável]
+2. **Infraestrutura**: Investir em mobilidade urbana, drenagem e pavimentação para consolidar infraestrutura urbana de qualidade
+
+3. **Desenvolvimento Econômico**: Estimular empreendedorismo local e economia solidária, com programas de microcrédito e capacitação empresarial
+
+4. **Saúde**: Qualificar serviços de saúde existentes com foco em gestão, regulação e integração da rede de atenção
+
+5. **Gestão Pública**: Aprimorar planejamento estratégico, governança e capacitação de servidores para otimizar aplicação de recursos públicos
+
+A implementação articulada destas diretrizes, com protagonismo do governo estadual em coordenação federativa, pode alavancar o desenvolvimento municipal sustentável e a melhoria da qualidade de vida da população.
 
 ---
