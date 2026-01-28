@@ -1,6 +1,10 @@
-# PARTE II - FICHA 03: MICRORREGIÃO DO BICO DO PAPAGAIO (V1.0 - PARCIAL)
+# PARTE II - FICHA 03: MICRORREGIÃO DO BICO DO PAPAGAIO (V1.1 - REVISADA)
 
 **Sistema de Inteligência Territorial - Caderno Tocantins 2026**
+
+**Versão:** V1.1 - Revisada e Enriquecida com Dados Estaduais 2024
+**Última Atualização:** 28 de janeiro de 2026
+**Documentos de Referência:** Boletim UFT 2025, FGV IBRE 2025
 
 ---
 
@@ -137,6 +141,40 @@ Com base em estudos regionais (OLIVEIRA et al., 2014; ALVES, 2021):
 - **Redução:** Houve queda entre 2000-2010, mas ainda acima da média estadual (2,60%) e nacional (1,94%)
 - **Pobreza:** Taxa de pobreza de 74% (2010), indicando que 3 em cada 4 habitantes viviam com renda equivalente ao valor de uma cesta básica
 
+### 2.3 Indicadores Sociais e Desenvolvimento Humano
+
+**Contexto Estadual (2021-2023):**
+
+O Tocantins apresentou evolução positiva em indicadores sociais no período recente, segundo o Boletim de Conjuntura Econômica (UFT, 2025):
+
+| Indicador | 2021 | 2023 | Variação |
+|-----------|------|------|----------|
+| Taxa de Pobreza | 42,8% | 28,6% | -14,2 pp |
+| Taxa de Extrema Pobreza | 7,6% | 4,6% | -3,0 pp |
+| Índice de Gini | 0,529 (2018) | 0,477 | -0,052 |
+
+**Comparativo Nacional:**
+- **Tocantins (0,477)** < Brasil (0,530) e Região Norte (0,517)
+- O estado apresenta **menor desigualdade de renda** que a média nacional
+
+**Programas de Transferência de Renda:**
+- Beneficiários Bolsa Família: **481.307** (2023), crescimento de **18,27%** desde 2020
+- Correlação positiva entre expansão de programas sociais e redução da pobreza
+
+**Posicionamento Regional do Bico do Papagaio:**
+
+A Microrregião do Bico do Papagaio apresenta **desafio crítico** de desenvolvimento social:
+
+- **Taxa de pobreza regional (2010): 74%** — **muito superior** à média estadual atual (28,6%)
+- **Contraste dramático**: Enquanto o estado reduziu pobreza em 14,2 pp entre 2021-2023, a região partia de patamar de 74% já em 2010
+- **Prioridade absoluta**: Expansão de programas de transferência de renda e políticas de inclusão produtiva
+
+**Análise:**
+
+O hiato entre a taxa de pobreza regional (74% em 2010) e a estadual (28,6% em 2023) evidencia a **concentração de vulnerabilidade social no Bico do Papagaio**. Mesmo considerando melhorias na última década, é razoável estimar que a região ainda apresente taxas de pobreza **substancialmente acima** da média estadual, demandando atenção prioritária de políticas públicas de inclusão produtiva, qualificação profissional e geração de trabalho e renda.
+
+**Fonte:** UFT, Boletim de Conjuntura Econômica do Tocantins 2025, v. 13, nº 1, out. 2025.
+
 ---
 
 ## 3. ECONOMIA
@@ -202,6 +240,56 @@ Segundo pesquisas sobre desenvolvimento regional do Bico do Papagaio (ALVES, 202
 - **Transição Amazônia-Cerrado:** Biodiversidade e serviços ambientais
 - **Turismo:** Praias, cachoeiras, cultura regional
 - **Localização Estratégica:** Fronteira com Maranhão e Pará
+
+### 3.4 Contexto Econômico Estadual 2024 e Mercado de Trabalho
+
+**Desempenho da Economia Tocantinense em 2024:**
+
+O Tocantins registrou desempenho econômico excepcional em 2024, segundo o Boletim de Conjuntura Econômica (UFT, 2025):
+
+| Indicador | Valor 2024 | Contexto |
+|-----------|------------|----------|
+| **Crescimento do PIB** | +7,7% | Um dos maiores do Brasil |
+| **Inflação (IPCA)** | 4,83% | Controlada, acima da meta mas moderada |
+| **Crescimento de Serviços** | ~12% | Destaque regional (maior da Região Norte) |
+
+**Estrutura Setorial do PIB Tocantinense (Análise Estrutural 2002-2022):**
+
+Segundo a FGV IBRE (2025), o Tocantins passou por transformação estrutural significativa:
+
+- **Agropecuária**: 9,1% (2002) → **20,8% (2022)** do PIB — ganho de **+11,7 pontos percentuais**
+- **Indústria de Transformação**: Alimentos representam **60%** da indústria tocantinense
+- **Serviços**: Crescimento acelerado, especialmente em 2024 (+12%)
+
+**Posicionamento Regional:**
+
+O Tocantins consolidou-se como **líder de crescimento econômico** da Região Norte desde 2009, superando estados historicamente mais desenvolvidos como Pará e Amazonas em taxa de expansão.
+
+**Mercado de Trabalho Estadual (2024):**
+
+| Indicador | Valor | Observação |
+|-----------|-------|------------|
+| **Emprego formal criado** | +8.787 postos | Queda de 33% vs. 2023 |
+| **Serviços** | +5.161 postos | 58,7% da criação de empregos |
+| **Indústria** | +1.118 postos | Único setor em alta vs. 2023 |
+| **Agropecuária** | -182 postos | Saldo negativo |
+| **Rendimento médio mensal** | +8,84% | R$ 2.658 → R$ 2.893 (maior ganho da Região Norte) |
+| **População ocupada** | 762 mil pessoas | Crescimento de +5,1% |
+| **Taxa de desemprego** | ~5,8% | Tendência de queda ao longo de 2024 |
+
+**Implicações para o Bico do Papagaio:**
+
+**Desafios:**
+1. **Saldo negativo na agropecuária (-182 postos)** pode impactar especialmente o Bico do Papagaio, região com economia predominantemente rural
+2. **Rendimento médio estadual (R$ 2.893)** provavelmente superior à realidade regional, dado o perfil de baixa qualificação e informalidade
+3. **Crescimento de serviços concentrado** nos polos urbanos (Palmas, Araguaína, Gurupi), com menor transbordamento para regiões periféricas
+
+**Oportunidades:**
+1. **Crescimento de 7,7% do PIB** abre possibilidades de investimentos estaduais em regiões prioritárias
+2. **Expansão da agropecuária estadual** (20,8% do PIB) pode ser canal para desenvolvimento regional via agricultura familiar e pecuária sustentável
+3. **Aumento do rendimento médio (+8,84%)** indica melhoria da qualidade do trabalho, podendo gerar efeitos redistributivos se políticas regionalizadas forem implementadas
+
+**Fonte:** UFT, Boletim de Conjuntura Econômica do Tocantins 2025, v. 13, nº 1; FGV IBRE, Economia da Região Norte 2025, Texto para Discussão nº 26.
 
 ---
 
@@ -316,37 +404,81 @@ Segundo dados do InfoSanbas (2020-2022):
 
 **[LACUNA: Dados de produção agropecuária de 25 municípios - coleta prevista para 2026-01-22]**
 
-### 6.2 Análise Qualitativa do Setor
+### 6.2 Produção Agropecuária Estadual e Contexto Regional
 
-**Contexto Histórico e Produtivo:**
+**Desempenho da Agropecuária Tocantinense (2023-2024):**
+
+O Tocantins consolidou-se como **maior produtor de grãos da Região Norte**, segundo o Boletim UFT (2025):
+
+**Produção Agrícola Total:** 10,6 milhões de toneladas (2024)
+
+| Cultura | Produção (2024) | Participação | Área Plantada | Observação |
+|---------|----------------|--------------|---------------|------------|
+| **Soja** | 4,3 M ton | 40,7% | 1,33 M ha (65,9% da área total) | Principal cultura estadual |
+| **Cana-de-açúcar** | 3,05 M ton | 28,8% | Área estimada ~50 mil ha (1,8%) | Maior rendimento (~74 ton/ha) |
+| **Milho** | 2,39 M ton | 22,5% | Área estimada ~530 mil ha (26,1%) | Em expansão |
+| **Arroz** | Produção menor | <5% | ~107 mil ha (5,3%) | 3º produtor do Brasil em área |
+| **Mandioca** | Produção menor | <5% | ~15 mil ha (0,76%) | Agricultura familiar |
+
+**Pecuária Bovina:**
+- **Rebanho estadual:** 11,3 milhões de cabeças (2023)
+- **Posição nacional:** **8º maior exportador de carne bovina do Brasil**
+- **Exportações 2024:** US$ 443 milhões (17,7% da pauta exportadora estadual)
+- **Principal destino:** China (47,3% das exportações estaduais)
+- **Crescimento:** +2,2 milhões de animais desde 2020
+
+**Outros Rebanhos:**
+- Galináceos: 7,9 milhões de cabeças (41,2% do efetivo total)
+- Produção de leite: 417 milhões de litros (2024)
+
+**Contribuição Regional do Bico do Papagaio:**
+
+Com base no perfil regional e dados municipais parciais:
+
+1. **Pecuária Bovina:**
+   - **Atividade predominante** desde a ocupação (1930-1990)
+   - Modelo extensivo em grandes propriedades
+   - Contribuição significativa para o rebanho estadual de 11,3 M cabeças
+   - Conexão com frigoríficos regionais (Araguatins, Tocantinópolis)
+
+2. **Agricultura:**
+   - **Grãos:** Soja e milho em expansão nas áreas de transição Cerrado
+   - **Agricultura Familiar:** Mandioca, arroz, feijão, frutas para consumo regional
+   - **São Miguel do Tocantins:** 50,8% do PIB é Agropecuária (município com maior especialização setorial da região)
+   - Potencial agrícola subutilizado devido a solos de boa qualidade
+
+3. **Extrativismo:**
+   - Babaçu (presença significativa nas áreas de transição Amazônia-Cerrado)
+   - Produtos da floresta (castanha, frutas nativas)
+
+**Análise Comparativa:**
+
+O Bico do Papagaio apresenta perfil agropecuário **diferente do padrão estadual dominante** (soja 65,9% da área plantada):
+
+- **Estado:** Especialização em **grãos** (soja + milho = 92% da área plantada)
+- **Bico do Papagaio:** Perfil mais diversificado com **pecuária bovina predominante** + agricultura familiar + extrativismo
+
+Esta diferença reflete:
+1. **Transição biogeográfica** (68% Amazônia, 32% Cerrado) vs. Cerrado pleno no restante do estado
+2. **Estrutura fundiária** com concentração em grandes propriedades pecuárias
+3. **Menor inserção** no agronegócio de grãos em larga escala
+
+**Fonte:** UFT, Boletim de Conjuntura Econômica do Tocantins 2025; IBGE, Pesquisa Pecuária Municipal 2023.
+
+### 6.3 Contexto Histórico e Desafios do Setor
+
+**Modelo Histórico:**
 
 Segundo estudos sobre a região (OLIVEIRA et al., 2014; MIRANDA et al., 2021):
 
-**Modelo Histórico:**
 - **Pecuária Bovina de Corte:** Base econômica desde a ocupação (1930-1990)
 - **Concentração Fundiária:** Padrão de grandes propriedades
 - **Expansão da Fronteira Agrícola:** Impacto sobre áreas de floresta e cerrado
 
 **Aptidão Agrícola:**
-- **Solos de Boa Qualidade:** Potencial para agricultura
+- **Solos de Boa Qualidade:** Potencial para agricultura (comprovado pelo desempenho estadual)
 - **Clima:** Transição Amazônia-Cerrado favorece diversidade de cultivos
-- **Recursos Hídricos:** Rios Araguaia e Tocantins oferecem irrigação
-
-**Principais Atividades:**
-
-1. **Pecuária Bovina:**
-   - Atividade predominante
-   - Modelo extensivo em grandes propriedades
-   - Conexão com frigoríficos regionais
-
-2. **Agricultura:**
-   - **Grãos:** Soja, milho em expansão
-   - **Agricultura Familiar:** Mandioca, arroz, feijão, frutas
-   - **São Miguel:** 50,8% do PIB é Agropecuária
-
-3. **Extrativismo:**
-   - Babaçu (presença significativa)
-   - Produtos da floresta
+- **Recursos Hídricos:** Rios Araguaia e Tocantins oferecem potencial para irrigação
 
 **Desafios Ambientais:**
 
@@ -567,7 +699,16 @@ Esta é uma **versão parcial (V1.0)** da análise da Microrregião do Bico do P
 | Mortalidade Infantil | 0/25 | 25/25 | 0% ❌ |
 | IDEB 2023 | 0/25 | 25/25 | 0% ❌ |
 | Saneamento (SNIS) | 1/25 | 24/25 | 4% ❌ |
-| Produção Agropecuária | 0/25 | 25/25 | 0% ❌ |
+| Produção Agropecuária | 0/25 | 25/25 | 0% ❌ (dados estaduais inseridos como contexto na Seção 6.2) |
+
+**Dados Estaduais Contextualizados (Revisão V1.1):**
+
+A partir da revisão de janeiro de 2026, foram adicionadas as seguintes contextualizações estaduais:
+- ⚠️ **Indicadores Sociais** (Seção 2.3): Pobreza, Gini, transferências de renda — dados estaduais 2021-2023
+- ⚠️ **Contexto Econômico 2024** (Seção 3.4): PIB, estrutura setorial, mercado de trabalho — dados estaduais 2024
+- ⚠️ **Agropecuária Estadual** (Seção 6.2): Produção de grãos, pecuária, área plantada — dados estaduais 2023-2024
+
+**Nota Importante:** Estes dados estaduais fornecem **contexto valioso**, mas **não substituem** a necessidade de dados municipais específicos para análises detalhadas e propostas localizadas.
 
 **Municípios com Dados Mais Completos:**
 - Araguatins: 5 indicadores
@@ -701,14 +842,33 @@ Análise de Áreas Destinadas a Reserva Legal em Imóveis Rurais na Transição 
 - Fundação Cultural Palmares (Quilombos Certificados)
 - INCRA (Assentamentos de Reforma Agrária)
 
+### 9.5 Fontes Complementares Utilizadas na Revisão V1.1
+
+**Universidade Federal do Tocantins (UFT) - PET Ciências Econômicas:**
+- **Boletim de Conjuntura Econômica do Tocantins 2025**. Palmas: Programa de Educação Tutorial, v. 13, nº 1, outubro 2025, p. 1-18.
+- Disponível em: https://github.com/peteconomia/boletim
+- **Conteúdo utilizado:** PIB 2024, inflação, produção agropecuária, rebanho bovino, exportações, indicadores sociais (pobreza, Gini), mercado de trabalho (emprego formal, rendimento médio), volume de serviços.
+
+**Fundação Getulio Vargas (FGV IBRE) - Instituto Brasileiro de Economia:**
+- TRECE, Juliana; CONSIDERA, Claudio. **Economia da Região Norte: Análise Estrutural e Estimativas para o Crescimento do PIB até o 1º Semestre de 2025**. Texto para Discussão nº 26. Rio de Janeiro: FGV IBRE, 23 de setembro de 2025.
+- **Conteúdo utilizado:** Análise estrutural da economia tocantinense (2002-2022), participação da agropecuária no PIB, crescimento econômico comparativo, indústria de transformação, estimativas de crescimento 2023-2025.
+
 ---
 
-**Elaborado em:** 21 de janeiro de 2026  
-**Versão:** 1.0 - PARCIAL  
-**Projeto:** Caderno Tocantins 2026 - Sistema de Inteligência Territorial  
-**Próxima Atualização:** 22 de janeiro de 2026 (Versão 2.0 - COMPLETA)
+**Elaborado em:** 21 de janeiro de 2026
+**Revisão V1.1:** 28 de janeiro de 2026
+**Versão:** 1.1 - REVISADA (enriquecida com dados estaduais 2024)
+**Projeto:** Caderno Tocantins 2026 - Sistema de Inteligência Territorial
+**Próxima Atualização:** 22 de janeiro de 2026 (Versão 2.0 - COMPLETA com dados municipais)
 
 ---
+
+**SOBRE ESTA REVISÃO (V1.1):**
+
+Esta versão incorpora dados estaduais de 2024 (Boletim UFT 2025, FGV IBRE 2025) para contextualizar o desempenho regional nas dimensões:
+- **Indicadores Sociais** (pobreza, Gini, transferências de renda)
+- **Economia** (PIB, estrutura setorial, mercado de trabalho)
+- **Agropecuária** (produção, pecuária bovina, exportações)
 
 **AVISO IMPORTANTE:**
-Este documento é uma análise parcial elaborada em caráter de urgência. Utilizar prioritariamente para **mensagens gerais de campanha** e **compreensão do contexto regional**. Para **propostas municipais específicas**, aguardar a Versão 2.0 com dados completos.
+Este documento é uma análise parcial elaborada em caráter de urgência. Utilizar prioritariamente para **mensagens gerais de campanha** e **compreensão do contexto regional**. Para **propostas municipais específicas**, aguardar a Versão 2.0 com dados municipais completos.

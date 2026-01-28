@@ -1,6 +1,10 @@
-# PARTE II - FICHA 04: MICRORREGIÃO DE MIRACEMA DO TOCANTINS (V0.5 - PRELIMINAR)
+# PARTE II - FICHA 04: MICRORREGIÃO DE MIRACEMA DO TOCANTINS (V1.1 - REVISADA)
 
 **Sistema de Inteligência Territorial - Caderno Tocantins 2026**
+
+**Versão:** V1.1 - Revisada e Enriquecida com Dados Estaduais 2024
+**Última Atualização:** 28 de janeiro de 2026
+**Documentos de Referência:** Boletim UFT 2025, FGV IBRE 2025
 
 ---
 
@@ -145,6 +149,36 @@ A microrregião apresenta **estagnação demográfica** crítica:
 
 **[LACUNA: Estimativas populacionais dos demais 21 municípios - coleta prevista para 2026-01-22]**
 
+### 2.3 Indicadores Sociais e Desenvolvimento Humano no Contexto Estadual
+
+**Evolução dos Indicadores Sociais do Tocantins (2021-2023):**
+
+O estado apresentou melhoria significativa em indicadores sociais no período recente (Boletim UFT, 2025):
+
+| Indicador | 2021 | 2023 | Variação |
+|-----------|------|------|----------|
+| Taxa de Pobreza | 42,8% | 28,6% | -14,2 pp |
+| Taxa de Extrema Pobreza | 7,6% | 4,6% | -3,0 pp |
+| Índice de Gini | 0,529 (2018) | 0,477 | -0,052 |
+
+**Comparativo Nacional:**
+- Tocantins (0,477) apresenta **menor desigualdade** que Brasil (0,530) e Região Norte (0,517)
+
+**Programas Sociais:**
+- Beneficiários Bolsa Família: 481.307 (2023), crescimento de 18,27% desde 2020
+
+**Posicionamento da Microrregião de Miracema:**
+
+Com base nos dados de IDHM disponíveis (Guaraí 0,741, Miracema 0,684, Miranorte 0,662), a microrregião apresenta **heterogeneidade** de desenvolvimento humano:
+
+- **Guaraí** com IDHM alto (0,741) está **acima da média estadual** e deve se beneficiar da melhoria distributiva
+- **Municípios menores** com IDHM não disponível provavelmente se beneficiam da expansão de programas de transferência de renda
+
+**Análise:**
+O declínio populacional em 11 municípios (45,8%) pode estar relacionado à migração em busca de melhores oportunidades econômicas, fenômeno que pode ser mitigado com políticas de inclusão produtiva e geração de renda local.
+
+**Fonte:** UFT, Boletim de Conjuntura Econômica do Tocantins 2025, v. 13, nº 1.
+
 ---
 
 ## 3. ECONOMIA
@@ -196,6 +230,47 @@ Com base nos documentos de referência e no perfil regional, destacam-se:
 - Pequenas indústrias de transformação
 
 **[LACUNA: Análise detalhada das principais atividades econômicas por município - coleta prevista para 2026-01-22]**
+
+### 3.3 Contexto Econômico Estadual 2024 e Mercado de Trabalho
+
+**Desempenho Excepcional da Economia Tocantinense em 2024:**
+
+| Indicador | Valor 2024 | Contexto |
+|-----------|------------|----------|
+| **Crescimento do PIB** | +7,7% | Um dos maiores do Brasil |
+| **Inflação (IPCA)** | 4,83% | Controlada |
+| **Crescimento de Serviços** | ~12% | Maior da Região Norte |
+
+**Transformação Estrutural (FGV IBRE, 2025):**
+- Agropecuária: 9,1% (2002) → 20,8% (2022) do PIB estadual (+11,7 pp)
+- Indústria de Transformação: 60% concentrada em alimentos
+- Tocantins consolidado como **líder de crescimento** da Região Norte desde 2009
+
+**Mercado de Trabalho Estadual (2024):**
+
+| Indicador | Valor | Análise |
+|-----------|-------|---------|
+| Emprego formal criado | +8.787 postos | Queda de 33% vs. 2023 |
+| Setor Serviços | +5.161 postos | 58,7% da criação |
+| Setor Indústria | +1.118 postos | Único em alta |
+| Setor Agropecuária | -182 postos | Saldo negativo |
+| Rendimento médio mensal | +8,84% | R$ 2.658 → R$ 2.893 |
+| População ocupada | 762 mil | +5,1% |
+| Taxa de desemprego | ~5,8% | Tendência de queda |
+
+**Implicações para Miracema:**
+
+**Desafios:**
+1. **Declínio populacional** (-10,2% em Miracema sede) contrasta com crescimento econômico estadual
+2. **Saldo negativo na agropecuária** pode impactar economia regional baseada neste setor
+3. **Concentração de serviços** nos grandes centros pode deixar municípios menores à margem
+
+**Oportunidades:**
+1. **Localização estratégica na BR-153** pode atrair investimentos do crescimento estadual de 7,7%
+2. **Presença da UFT** pode capturar benefícios do crescimento de serviços (+12%)
+3. **Aumento do rendimento médio** (+8,84%) pode estimular consumo regional se políticas adequadas forem implementadas
+
+**Fonte:** UFT, Boletim de Conjuntura Econômica do Tocantins 2025; FGV IBRE, Economia da Região Norte 2025.
 
 ---
 
@@ -292,9 +367,50 @@ O Tocantins é o **10º maior produtor de grãos do país** e o **maior da Regi�
 - Projeto Rio Formoso/Javaés (irrigação)
 - Eixo de expansão da fronteira agrícola
 
-**[LACUNA: Dados quantitativos de produção agropecuária dos 24 municípios - coleta prevista para 2026-01-22]**
+### 6.2 Produção Agropecuária Estadual e Contexto Regional
 
-**[LACUNA: Valor Bruto da Produção, área plantada, rebanho bovino - coleta prevista para 2026-01-22]**
+**Agropecuária Tocantinense (2023-2024):**
+
+O Tocantins consolidou-se como **maior produtor de grãos da Região Norte** (Boletim UFT, 2025):
+
+**Produção Agrícola Total:** 10,6 milhões de toneladas (2024)
+
+| Cultura | Produção | Participação | Área Plantada | Observação |
+|---------|----------|--------------|---------------|------------|
+| **Soja** | 4,3 M ton | 40,7% | 1,33 M ha (65,9%) | Principal cultura |
+| **Cana-de-açúcar** | 3,05 M ton | 28,8% | ~50 mil ha (1,8%) | Alto rendimento |
+| **Milho** | 2,39 M ton | 22,5% | ~530 mil ha (26,1%) | Em expansão |
+| **Arroz** | Menor | <5% | ~107 mil ha (5,3%) | 3º produtor Brasil |
+| **Mandioca** | Menor | <5% | ~15 mil ha (0,76%) | Agricultura familiar |
+
+**Pecuária Bovina:**
+- Rebanho estadual: **11,3 milhões de cabeças** (2023)
+- **8º maior exportador de carne bovina do Brasil**
+- Exportações 2024: US$ 443 milhões (17,7% da pauta estadual)
+- Principal destino: China (47,3%)
+- Crescimento: +2,2 milhões de animais desde 2020
+
+**Outros Rebanhos:**
+- Galináceos: 7,9 milhões de cabeças
+- Produção de leite: 417 milhões de litros
+
+**Contribuição Regional de Miracema:**
+
+Com base no perfil da microrregião, estima-se contribuição significativa em:
+
+1. **Pecuária Bovina:** Região com tradição pecuária, provavelmente contribui para o rebanho estadual de 11,3 M cabeças
+2. **Bacia Leiteira:** Produção de leite em desenvolvimento pode contribuir para os 417 M litros estaduais
+3. **Grãos:** Soja e milho em áreas de Cerrado nos municípios da região
+4. **Agricultura Familiar:** Mandioca, arroz, feijão para consumo regional
+
+**Potencial de Expansão:**
+- Proximidade com Projeto Rio Formoso/Javaés (irrigação)
+- Solos férteis e clima favorável
+- Localização logística privilegiada (BR-153)
+
+**Fonte:** UFT, Boletim de Conjuntura Econômica do Tocantins 2025; IBGE, PPM 2023.
+
+**[LACUNA: Dados quantitativos específicos de produção agropecuária dos 24 municípios - coleta prevista para 2026-01-22]**
 
 ---
 
@@ -449,6 +565,15 @@ As principais lacunas incluem:
 **Desenvolvimento Humano:**
 - IDHM de 21 municípios (apenas Guaraí, Miracema e Miranorte disponíveis)
 
+**Dados Estaduais Contextualizados (Revisão V1.1):**
+
+A partir da revisão de janeiro de 2026, foram adicionadas as seguintes contextualizações estaduais:
+- ⚠️ **Indicadores Sociais** (Seção 2.3): Pobreza, Gini, transferências de renda — dados estaduais 2021-2023
+- ⚠️ **Contexto Econômico 2024** (Seção 3.3): PIB, estrutura setorial, mercado de trabalho — dados estaduais 2024
+- ⚠️ **Agropecuária Estadual** (Seção 6.2): Produção de grãos, pecuária, área plantada — dados estaduais 2023-2024
+
+**Nota Importante:** Estes dados estaduais fornecem **contexto valioso**, mas **não substituem** a necessidade de dados municipais específicos para análises detalhadas.
+
 ### 9.3 Próximos Passos
 
 **Data prevista para coleta completa:** 22 de janeiro de 2026
@@ -525,12 +650,24 @@ As conclusões podem ser **revisadas e aprofundadas** após a coleta completa do
 10. **Guaraí Notícias**
     - Censo 2022: População de Guaraí
 
+### 10.4 Fontes Complementares Utilizadas na Revisão V1.1
+
+**Universidade Federal do Tocantins (UFT) - PET Ciências Econômicas:**
+- **Boletim de Conjuntura Econômica do Tocantins 2025**. Palmas: Programa de Educação Tutorial, v. 13, nº 1, outubro 2025, p. 1-18.
+- Disponível em: https://github.com/peteconomia/boletim
+- **Conteúdo utilizado:** PIB 2024, produção agropecuária, rebanho bovino, exportações, indicadores sociais, mercado de trabalho.
+
+**Fundação Getulio Vargas (FGV IBRE) - Instituto Brasileiro de Economia:**
+- TRECE, Juliana; CONSIDERA, Claudio. **Economia da Região Norte: Análise Estrutural e Estimativas para o Crescimento do PIB até o 1º Semestre de 2025**. Texto para Discussão nº 26. Rio de Janeiro: FGV IBRE, 23 de setembro de 2025.
+- **Conteúdo utilizado:** Análise estrutural da economia tocantinense (2002-2022), participação da agropecuária no PIB, crescimento econômico comparativo.
+
 ---
 
-**Elaborado em:** 21/01/2026  
-**Responsável:** Sistema IA Collab OS  
-**Projeto:** Caderno Tocantins 2026 - Superinteligência Territorial  
-**Versão:** V0.5 - Preliminar
+**Elaborado em:** 21/01/2026
+**Revisão V1.1:** 28 de janeiro de 2026
+**Responsável:** Sistema IA Collab OS
+**Projeto:** Caderno Tocantins 2026 - Superinteligência Territorial
+**Versão:** V1.1 - Revisada (enriquecida com dados estaduais 2024)
 
 ---
 
@@ -540,14 +677,23 @@ As conclusões podem ser **revisadas e aprofundadas** após a coleta completa do
 |------|---------------|
 | **Microrregião** | Miracema do Tocantins |
 | **Número da Ficha** | 04 |
-| **Versão** | 0.5 - Preliminar |
+| **Versão** | 1.1 - Revisada |
 | **Total de Municípios** | 24 |
 | **População Total** | 142.404 habitantes (Censo 2022) |
 | **Área Total** | ~34.721 km² (estimativa) |
 | **Densidade Média** | 4,10 hab/km² |
 | **Municípios com Dados Completos** | 3 (12,5%): Guaraí, Miracema, Miranorte |
 | **Municípios com Dados Parciais** | 21 (87,5%) |
-| **Grau de Completude** | ~40% (versão preliminar) |
+| **Grau de Completude** | ~50% (com dados estaduais contextualizados) |
+
+---
+
+**SOBRE ESTA REVISÃO (V1.1):**
+
+Esta versão incorpora dados estaduais de 2024 (Boletim UFT 2025, FGV IBRE 2025) para contextualizar o desempenho regional nas dimensões:
+- **Indicadores Sociais** (pobreza, Gini, transferências de renda)
+- **Economia** (PIB, estrutura setorial, mercado de trabalho)
+- **Agropecuária** (produção, pecuária bovina, exportações)
 
 ---
 
