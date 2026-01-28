@@ -73,6 +73,14 @@ class AnalisadorMunicipal:
             texto = texto.replace(acento, sem_acento)
         return texto
 
+    def _tem_valor_valido(self, valor) -> bool:
+        """Verifica se valor é válido (não None, não 0, não NaN)."""
+        if valor is None or pd.isna(valor):
+            return False
+        if isinstance(valor, (int, float)) and valor == 0:
+            return False
+        return True
+
     def analisar_crescimento_populacional(self, ind: Dict) -> str:
         """Analisa crescimento populacional."""
         pop_1991 = ind.get('pop_1991', 0)
@@ -383,11 +391,11 @@ class AnalisadorMunicipal:
 
         # Educação
         taxa_alf = ind.get('taxa_alfabetizacao_2022', 0)
-        if taxa_alf > 90:
+        if self._tem_valor_valido(taxa_alf) and taxa_alf > 90:
             pontos_fortes.append(f"Taxa de alfabetização elevada ({taxa_alf:.1f}%), refletindo investimentos em educação básica")
 
         ideb = ind.get('ideb_anos_finais_2023', 0)
-        if ideb >= 5.5:
+        if self._tem_valor_valido(ideb) and ideb >= 5.5:
             pontos_fortes.append(f"IDEB dos anos finais ({ideb:.1f}) acima da média estadual, evidenciando qualidade educacional")
 
         # Saneamento
@@ -401,10 +409,10 @@ class AnalisadorMunicipal:
             desafios.append(f"IDHM {idhm_class} ({idhm_2010:.3f}), demandando políticas integradas para elevar indicadores sociais")
 
         # Educação
-        if taxa_alf < 85:
+        if self._tem_valor_valido(taxa_alf) and taxa_alf < 85:
             desafios.append(f"Taxa de alfabetização ({taxa_alf:.1f}%) abaixo do ideal, requerendo programas de alfabetização de jovens e adultos")
 
-        if ideb < 4.5:
+        if self._tem_valor_valido(ideb) and ideb < 4.5:
             desafios.append(f"IDEB ({ideb:.1f}) abaixo da meta, necessitando de investimentos em infraestrutura escolar e formação docente")
 
         # Saneamento crítico
@@ -488,18 +496,21 @@ class AnalisadorMunicipal:
 
         analise = f"O município apresenta {crescimento}, "
 
-        if pop_1991 and pop_2022:
+        if self._tem_valor_valido(pop_1991) and self._tem_valor_valido(pop_2022):
             crescimento_pct = ((pop_2022 - pop_1991) / pop_1991) * 100
             analise += f"passando de {int(pop_1991):,} habitantes em 1991 para {int(pop_2022):,} em 2022 ({crescimento_pct:+.1f}%). ".replace(',', '.')
 
-        analise += f"Caracteriza-se como município {urbanizacao}, com taxa de urbanização de {taxa_urb:.1f}%, "
+        if self._tem_valor_valido(taxa_urb):
+            analise += f"Caracteriza-se como município {urbanizacao}, com taxa de urbanização de {taxa_urb:.1f}%, "
 
-        if taxa_urb > 80:
-            analise += "o que demanda investimentos concentrados em infraestrutura urbana, mobilidade e serviços públicos na sede municipal. "
-        elif taxa_urb < 50:
-            analise += "o que requer políticas diferenciadas para atendimento da população rural dispersa. "
+            if taxa_urb > 80:
+                analise += "o que demanda investimentos concentrados em infraestrutura urbana, mobilidade e serviços públicos na sede municipal. "
+            elif taxa_urb < 50:
+                analise += "o que requer políticas diferenciadas para atendimento da população rural dispersa. "
+            else:
+                analise += "demandando estratégias integradas para áreas urbanas e rurais. "
         else:
-            analise += "demandando estratégias integradas para áreas urbanas e rurais. "
+            analise += "Dados de urbanização não disponíveis para análise detalhada. "
 
         analise += f"O IDHM de {idhm:.3f} (2010) classifica o município em patamar {idhm_class} {idhm_evol}, "
 
@@ -564,7 +575,7 @@ class AnalisadorMunicipal:
 
         analise = f"O cenário educacional apresenta {educacao['alfabetizacao']}, "
 
-        if taxa_alf > 0:
+        if self._tem_valor_valido(taxa_alf):
             analise += f"com taxa de alfabetização de {taxa_alf:.1f}% (2022), "
             if taxa_alf > 92:
                 analise += "próxima da universalização. "
@@ -573,12 +584,14 @@ class AnalisadorMunicipal:
             else:
                 analise += "demandando programas intensivos de alfabetização de jovens e adultos. "
 
-        analise += f"O IDEB dos anos finais registra {educacao['ideb']}, "
+        # Verificar se há dados de IDEB
+        if not self._tem_valor_valido(ideb_2023):
+            analise += "Dados de IDEB não disponíveis para análise detalhada do desempenho educacional. É fundamental implementar políticas de melhoria da qualidade do ensino, incluindo infraestrutura escolar, formação docente e acompanhamento pedagógico."
+            return analise
 
-        if ideb_2023 > 0:
-            analise += f"com índice de {ideb_2023:.1f} em 2023, "
+        analise += f"O IDEB dos anos finais registra {educacao['ideb']}, com índice de {ideb_2023:.1f} em 2023, "
 
-        if ideb_2019 and ideb_2023:
+        if self._tem_valor_valido(ideb_2019) and self._tem_valor_valido(ideb_2023):
             if ideb_2023 > ideb_2019:
                 variacao = ideb_2023 - ideb_2019
                 analise += f"representando avanço de {variacao:.1f} pontos em relação a 2019. "

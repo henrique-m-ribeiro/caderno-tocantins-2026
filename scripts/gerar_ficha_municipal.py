@@ -172,10 +172,10 @@ class GeradorFichaMunicipal:
                 return None
 
         # Função para gerar linha de tabela (oculta se valor é None)
-        def linha_tabela(label, valor, obs='-'):
+        def linha_tabela(label, valor):
             if valor is None:
                 return None
-            return f"| {label} | {valor} | {obs} |"
+            return f"| {label} | {valor} |"
 
         # Função para gerar linha de tabela dupla (com 2 valores)
         def linha_tabela_dupla(label, valor1, valor2, obs='-'):
@@ -233,8 +233,8 @@ class GeradorFichaMunicipal:
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
+| Indicador | Valor |
+|-----------|-------|
 {chr(10).join(filter(None, [
     linha_tabela('População 2022', fmt_num(ind.get('pop_2022'), 'int', ' hab')),
     linha_tabela('População 2010', fmt_num(ind.get('pop_2010'), 'int', ' hab')),
@@ -256,8 +256,8 @@ class GeradorFichaMunicipal:
 
 **Indicadores-Chave**:
 
-| Indicador | Valor (2021) | Observação |
-|-----------|--------------|------------|
+| Indicador | Valor (2021) |
+|-----------|--------------|
 {chr(10).join(filter(None, [
     linha_tabela('PIB Total', 'R$ ' + v if (v := fmt_num(ind.get('pib_total_2021'), 'float', ' mil')) else None),
     linha_tabela('PIB per capita', 'R$ ' + v if (v := fmt_num(ind.get('pib_per_capita_2021'), 'float')) else None),
@@ -277,8 +277,8 @@ class GeradorFichaMunicipal:
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
+| Indicador | Valor |
+|-----------|-------|
 {chr(10).join(filter(None, [
     linha_tabela('Taxa de alfabetização 2022', fmt_num(ind.get('taxa_alfabetizacao_2022'), 'float', '%')),
     linha_tabela('Taxa de alfabetização 2010', fmt_num(ind.get('taxa_alfabetizacao_2010'), 'float', '%')),
@@ -297,8 +297,8 @@ class GeradorFichaMunicipal:
 
 **Indicadores-Chave**:
 
-| Indicador | Valor | Observação |
-|-----------|-------|------------|
+| Indicador | Valor |
+|-----------|-------|
 {chr(10).join(filter(None, [
     linha_tabela('Estabelecimentos UBS (2023)', fmt_num(ind.get('estabelecimentos_ubs_2023'), 'int', ' unidades')),
     linha_tabela('Estabelecimentos Hospitalares (2023)', fmt_num(ind.get('estabelecimentos_hospital_2023'), 'int', ' unidades')),
@@ -319,11 +319,11 @@ class GeradorFichaMunicipal:
 
 **Indicadores-Chave**:
 
-| Indicador | Valor (2021) | Observação |
-|-----------|--------------|------------|
+| Indicador | Valor (2021) |
+|-----------|--------------|
 {chr(10).join(filter(None, [
     linha_tabela('VAB Agropecuária', 'R$ ' + v if (v := fmt_num(ind.get('vab_agropecuaria_2021'), 'float', ' mil')) else None),
-    linha_tabela('VAB Agropecuária 2017', 'R$ ' + v if (v := fmt_num(ind.get('vab_agropecuaria_2017'), 'float', ' mil')) else None, 'Comparação histórica')
+    linha_tabela('VAB Agropecuária 2017', 'R$ ' + v if (v := fmt_num(ind.get('vab_agropecuaria_2017'), 'float', ' mil')) else None)
 ]))}
 
 **Análise**:
