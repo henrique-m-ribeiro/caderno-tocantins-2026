@@ -33,15 +33,18 @@ O **Caderno Tocantins 2026** é um documento estratégico que apresenta análise
 
 ### 📄 Documento Principal
 
-**[CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md](./CADERNO%20TOCANTINS%202026%20-%20Vol.1%20-%20V1.1.md)**
+**📁 Localização Organizada:** [`volumes-finalizados/volume-1/`](./volumes-finalizados/volume-1/)
+
+**Arquivo:** [CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md](./volumes-finalizados/volume-1/CADERNO%20TOCANTINS%202026%20-%20Vol.1%20-%20V1.1.md)
 - **Tamanho:** 282 KB (6.965 linhas)
 - **Páginas:** ~100-110
 - **Conteúdo:** Parte I (Visão Estadual) + Parte II (8 Fichas Regionais)
-- **Link público:** [Visualizar no GitHub](https://github.com/henrique-m-ribeiro/caderno-tocantins-2026/blob/main/CADERNO%20TOCANTINS%202026%20-%20Vol.1%20-%20V1.1.md)
+- **Link público:** [Visualizar no GitHub](https://github.com/henrique-m-ribeiro/caderno-tocantins-2026/blob/main/volumes-finalizados/volume-1/CADERNO%20TOCANTINS%202026%20-%20Vol.1%20-%20V1.1.md)
 
 ### 📋 Documentação de Entrega
 
-- **[ENTREGA-VOLUME-1-FINALIZADO.md](./ENTREGA-VOLUME-1-FINALIZADO.md)** - Relatório completo de conclusão
+- **[ENTREGA-VOLUME-1-FINALIZADO.md](./volumes-finalizados/volume-1/ENTREGA-VOLUME-1-FINALIZADO.md)** - Relatório completo de conclusão
+- **[README do Volume 1](./volumes-finalizados/volume-1/README.md)** - Guia específico do Volume 1
 - **[ENTREGA-PARTE-I-FINALIZADA.md](./ENTREGA-PARTE-I-FINALIZADA.md)** - Relatório da Parte I (20/Jan)
 
 ### 🎯 Destaques do Volume 1
@@ -62,7 +65,8 @@ O projeto está organizado em **3 volumes principais**:
 ### **Volume 1 - Visão Estadual + Análise Regional** ✅ FINALIZADO
 
 **Status:** ✅ 100% Concluído (31 de Janeiro de 2026)
-**Arquivo:** [CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md](./CADERNO%20TOCANTINS%202026%20-%20Vol.1%20-%20V1.1.md)
+**Localização:** [`volumes-finalizados/volume-1/`](./volumes-finalizados/volume-1/)
+**Arquivo:** [CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md](./volumes-finalizados/volume-1/CADERNO%20TOCANTINS%202026%20-%20Vol.1%20-%20V1.1.md)
 
 Documento consolidado que integra:
 

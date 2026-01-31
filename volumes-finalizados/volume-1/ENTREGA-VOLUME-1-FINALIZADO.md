@@ -10,14 +10,9 @@
 
 ## 📦 VOLUME 1 ENTREGUE
 
-### 📁 Localização Organizada
-
-**Diretório:** [`volumes-finalizados/volume-1/`](./volumes-finalizados/volume-1/)
-
 ### Arquivo Principal: `CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md`
 
 **Especificações:**
-- **Localização:** [`volumes-finalizados/volume-1/CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md`](./volumes-finalizados/volume-1/CADERNO%20TOCANTINS%202026%20-%20Vol.1%20-%20V1.1.md)
 - **Tamanho:** 282 KB
 - **Linhas:** 6.965
 - **Páginas estimadas:** ~100-110
@@ -217,13 +212,8 @@
 ```
 caderno-tocantins-2026/
 │
-├── volumes-finalizados/                      📦 VOLUMES FINALIZADOS
-│   └── volume-1/                             ⭐ VOLUME 1 ORGANIZADO
-│       ├── CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md  (documento principal)
-│       ├── ENTREGA-VOLUME-1-FINALIZADO.md    (relatório de entrega)
-│       └── README.md                         (guia do Volume 1)
-│
-├── ENTREGA-VOLUME-1-FINALIZADO.md            📋 Relatório (também na raiz)
+├── CADERNO TOCANTINS 2026 - Vol.1 - V1.1.md  ⭐ DOCUMENTO PRINCIPAL
+├── ENTREGA-VOLUME-1-FINALIZADO.md            📋 Este documento
 │
 ├── parte-i-visao-estadual/                   ✅ Fonte da Parte I
 │   ├── docs/
