@@ -1,3 +1,5 @@
+
+
 **CADERNO TOCANTINS 2026**
 
 Sistema de Inteligência Territorial para Gestão Pública Baseada em Evidências
@@ -89,15 +91,15 @@ Sistema de Inteligência Territorial para Gestão Pública Baseada em Evidência
 
 **ÍNDICE**
 
-[APRESENTAÇÃO	7](#apresentação)
+[APRESENTAÇÃO	9](#apresentação)
 
-[SUMÁRIO EXECUTIVO	9](#sumário-executivo)
+[SUMÁRIO EXECUTIVO	11](#sumário-executivo)
 
 [**SEÇÃO I**](#seção-i-visão-geral-do-estado-do-tocantins) 
 
-[**VISÃO GERAL DO ESTADO DO TOCANTINS	12**](#seção-i-visão-geral-do-estado-do-tocantins)
+[**VISÃO GERAL DO ESTADO DO TOCANTINS	13**](#seção-i-visão-geral-do-estado-do-tocantins)
 
-[1\. APRESENTAÇÃO	13](#1.-apresentação)
+[1\. APRESENTAÇÃO	14](#1.-apresentação)
 
 [2\. PERFIL DEMOGRÁFICO	15](#2.-perfil-demográfico)
 
@@ -105,37 +107,35 @@ Sistema de Inteligência Territorial para Gestão Pública Baseada em Evidência
 
 [3.1 DIMENSÃO: DADOS SOCIAIS	18](#3.1-dimensão:-dados-sociais)
 
+[Mensagem-chave para discurso político	21](#mensagem-chave-para-discurso-político)
+
 [3.2 DIMENSÃO: ECONOMIA	21](#3.2-dimensão:-economia)
 
-[3.3 DIMENSÃO: EDUCAÇÃO	24](#3.3-dimensão:-educação)
+[3.3 DIMENSÃO: EDUCAÇÃO	25](#3.3-dimensão:-educação)
 
-[3.4 DIMENSÃO: SAÚDE	28](#3.4-dimensão:-saúde)
+[3.4 DIMENSÃO: SAÚDE	30](#3.4-dimensão:-saúde)
 
-[3.5 DIMENSÃO: AGROPECUÁRIA	33](#3.5-dimensão:-agropecuária)
+[3.5 DIMENSÃO: AGROPECUÁRIA	35](#3.5-dimensão:-agropecuária)
 
-[3.6 DIMENSÃO: INFRAESTRUTURA	38](#3.6-dimensão:-infraestrutura)
+[3.6 DIMENSÃO: INFRAESTRUTURA	40](#3.6-dimensão:-infraestrutura)
 
-[3.7 DIMENSÃO: MINERAÇÃO	45](#3.7-dimensão:-mineração)
+[3.7 DIMENSÃO: MINERAÇÃO	46](#3.7-dimensão:-mineração)
 
-[3.8 ANÁLISE MULTIDIMENSIONAL E CONCLUSÃO	51](#3.8-análise-multidimensional-e-conclusão)
+[3.8 ANÁLISE MULTIDIMENSIONAL E CONCLUSÃO	52](#3.8-análise-multidimensional-e-conclusão)
 
-[🔗 Sinergias Estratégicas	51](#🔗-sinergias-estratégicas)
+[🔗 Sinergias Estratégicas	52](#🔗-sinergias-estratégicas)
 
-[⚖️ Trade-offs Estratégicos	53](#⚖️-trade-offs-estratégicos)
+[⚖️ Trade-offs Estratégicos	54](#⚖️-trade-offs-estratégicos)
 
-[🎯 Visão Estratégica 2026-2030	54](#🎯-visão-estratégica-2026-2030)
+[🎯 Visão Estratégica 2026-2030	56](#🎯-visão-estratégica-2026-2030)
 
-[📊 Matriz SWOT Consolidada	56](#📊-matriz-swot-consolidada)
+[📊 Matriz SWOT Consolidada	57](#📊-matriz-swot-consolidada)
 
-[🎯 Mensagem Unificadora de Campanha	59](#🎯-mensagem-unificadora-de-campanha)
+[🎯 Mensagem Unificadora de Campanha	60](#🎯-mensagem-unificadora-de-campanha)
 
-[📈 Indicadores-Síntese para Monitoramento 2026-2030	60](#📈-indicadores-síntese-para-monitoramento-2026-2030)
+[📈 Indicadores-Síntese para Monitoramento 2026-2030	61](#📈-indicadores-síntese-para-monitoramento-2026-2030)
 
-[✅ Conclusão: O Estado da Transformação	60](#✅-conclusão:-o-estado-da-transformação)
-
-[**SEÇÃO II**](#seção-ii-análise-por-microrregião) 
-
-[**ANÁLISE POR MICRORREGIÃO	63**](#seção-ii-análise-por-microrregião)
+[✅ Conclusão: O Estado da Transformação	61](#✅-conclusão:-o-estado-da-transformação)
 
 [**FICHA 01: MICRORREGIÃO DE PORTO NACIONAL	64**](#ficha-01:-microrregião-de-porto-nacional)
 
@@ -145,201 +145,201 @@ Sistema de Inteligência Territorial para Gestão Pública Baseada em Evidência
 
 [3\. ECONOMIA E DESENVOLVIMENTO	68](#3.-economia-e-desenvolvimento)
 
-[4\. EDUCAÇÃO	72](#4.-educação)
+[4\. EDUCAÇÃO	71](#4.-educação)
 
-[5\. SAÚDE	75](#5.-saúde)
+[5\. SAÚDE	73](#5.-saúde)
 
-[6\. AGROPECUÁRIA E INFRAESTRUTURA LOGÍSTICA	78](#6.-agropecuária-e-infraestrutura-logística)
+[6\. AGROPECUÁRIA E INFRAESTRUTURA LOGÍSTICA	77](#6.-agropecuária-e-infraestrutura-logística)
 
-[7\. INFRAESTRUTURA E LOGÍSTICA	83](#7.-infraestrutura-e-logística)
+[7\. INFRAESTRUTURA E LOGÍSTICA	81](#7.-infraestrutura-e-logística)
 
-[8\. MEIO AMBIENTE E RECURSOS NATURAIS	86](#8.-meio-ambiente-e-recursos-naturais)
+[8\. MEIO AMBIENTE E RECURSOS NATURAIS	83](#8.-meio-ambiente-e-recursos-naturais)
 
-[9\. DESAFIOS ESTRATÉGICOS E OPORTUNIDADES DE DESENVOLVIMENTO	88](#9.-desafios-estratégicos-e-oportunidades-de-desenvolvimento)
+[9\. DESAFIOS ESTRATÉGICOS E OPORTUNIDADES DE DESENVOLVIMENTO	85](#9.-desafios-estratégicos-e-oportunidades-de-desenvolvimento)
 
-[10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	94](#10.-recomendações-estratégicas-prioritárias)
+[10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	90](#10.-recomendações-estratégicas-prioritárias)
 
-[11\. MONITORAMENTO E AVALIAÇÃO	98](#11.-monitoramento-e-avaliação)
+[11\. MONITORAMENTO E AVALIAÇÃO	94](#11.-monitoramento-e-avaliação)
 
-[12\. CONSIDERAÇÕES FINAIS	99](#12.-considerações-finais)
+[12\. CONSIDERAÇÕES FINAIS	94](#12.-considerações-finais)
 
-[**FICHA 02: MICRORREGIÃO DE ARAGUAÍNA	101**](#ficha-02:-microrregião-de-araguaína)
+[**FICHA 02: MICRORREGIÃO DE ARAGUAÍNA	96**](#ficha-02:-microrregião-de-araguaína)
 
-[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	101](#1.-apresentação-e-perfil-territorial-1)
+[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	96](#1.-apresentação-e-perfil-territorial-1)
 
-[2\. DINÂMICA DEMOGRÁFICA E TERRITORIAL	103](#2.-dinâmica-demográfica-e-territorial-1)
+[2\. DINÂMICA DEMOGRÁFICA E TERRITORIAL	97](#2.-dinâmica-demográfica-e-territorial-1)
 
-[3\. ECONOMIA E DESENVOLVIMENTO	105](#3.-economia-e-desenvolvimento-1)
+[3\. ECONOMIA E DESENVOLVIMENTO	99](#3.-economia-e-desenvolvimento-1)
 
-[4\. EDUCAÇÃO	108](#4.-educação-1)
+[4\. EDUCAÇÃO	102](#4.-educação-1)
 
-[5\. SAÚDE	110](#5.-saúde-1)
+[5\. SAÚDE	103](#5.-saúde-1)
 
-[6\. AGROPECUÁRIA	112](#6.-agropecuária)
+[6\. AGROPECUÁRIA	105](#6.-agropecuária)
 
-[7\. INFRAESTRUTURA E CONECTIVIDADE	114](#7.-infraestrutura-e-conectividade)
+[7\. INFRAESTRUTURA E CONECTIVIDADE	106](#7.-infraestrutura-e-conectividade)
 
-[8\. MEIO AMBIENTE E RECURSOS NATURAIS	116](#8.-meio-ambiente-e-recursos-naturais-1)
+[8\. MEIO AMBIENTE E RECURSOS NATURAIS	108](#8.-meio-ambiente-e-recursos-naturais-1)
 
-[9\. DESAFIOS ESTRATÉGICOS	118](#9.-desafios-estratégicos)
+[9\. DESAFIOS ESTRATÉGICOS	109](#9.-desafios-estratégicos)
 
-[10\. OPORTUNIDADES ESTRATÉGICAS	120](#10.-oportunidades-estratégicas)
+[10\. OPORTUNIDADES ESTRATÉGICAS	111](#10.-oportunidades-estratégicas)
 
-[11\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	122](#11.-recomendações-estratégicas-prioritárias)
+[11\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	112](#11.-recomendações-estratégicas-prioritárias)
 
-[12\. MONITORAMENTO E AVALIAÇÃO	124](#12.-monitoramento-e-avaliação)
+[12\. MONITORAMENTO E AVALIAÇÃO	114](#12.-monitoramento-e-avaliação)
 
-[13\. CONSIDERAÇÕES FINAIS	125](#13.-considerações-finais)
+[13\. CONSIDERAÇÕES FINAIS	115](#13.-considerações-finais)
 
-[**FICHA 03: MICRORREGIÃO DO BICO DO PAPAGAIO	127**](#ficha-03:-microrregião-do-bico-do-papagaio)
+[**FICHA 03: MICRORREGIÃO DO BICO DO PAPAGAIO	117**](#ficha-03:-microrregião-do-bico-do-papagaio)
 
-[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	127](#1.-apresentação-e-perfil-territorial-2)
+[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	117](#1.-apresentação-e-perfil-territorial-2)
 
-[2\. CONTEXTO HISTÓRICO: GUERRILHA DO ARAGUAIA	129](#2.-contexto-histórico:-guerrilha-do-araguaia)
+[2\. CONTEXTO HISTÓRICO: GUERRILHA DO ARAGUAIA	118](#2.-contexto-histórico:-guerrilha-do-araguaia)
 
-[3\. ECONOMIA: VULNERABILIDADE E DEPENDÊNCIA	130](#3.-economia:-vulnerabilidade-e-dependência)
+[3\. ECONOMIA: VULNERABILIDADE E DEPENDÊNCIA	119](#3.-economia:-vulnerabilidade-e-dependência)
 
-[4\. EDUCAÇÃO: ACESSO LIMITADO E QUALIDADE HETEROGÊNEA	132](#4.-educação:-acesso-limitado-e-qualidade-heterogênea)
+[4\. EDUCAÇÃO: ACESSO LIMITADO E QUALIDADE HETEROGÊNEA	121](#4.-educação:-acesso-limitado-e-qualidade-heterogênea)
 
-[5\. SAÚDE: ATENÇÃO BÁSICA LIMITADA	133](#5.-saúde:-atenção-básica-limitada)
+[5\. SAÚDE: ATENÇÃO BÁSICA LIMITADA	122](#5.-saúde:-atenção-básica-limitada)
 
-[6\. AGROPECUÁRIA: SUBSISTÊNCIA E BAIXA PRODUTIVIDADE	135](#6.-agropecuária:-subsistência-e-baixa-produtividade)
+[6\. AGROPECUÁRIA: SUBSISTÊNCIA E BAIXA PRODUTIVIDADE	123](#6.-agropecuária:-subsistência-e-baixa-produtividade)
 
-[7\. INFRAESTRUTURA: ISOLAMENTO E PRECARIEDADE	136](#7.-infraestrutura:-isolamento-e-precariedade)
+[7\. INFRAESTRUTURA: ISOLAMENTO E PRECARIEDADE	124](#7.-infraestrutura:-isolamento-e-precariedade)
 
-[8\. MEIO AMBIENTE: TRANSIÇÃO AMAZÔNIA-CERRADO	138](#8.-meio-ambiente:-transição-amazônia-cerrado)
+[8\. MEIO AMBIENTE: TRANSIÇÃO AMAZÔNIA-CERRADO	126](#8.-meio-ambiente:-transição-amazônia-cerrado)
 
-[9\. DESAFIOS ESTRATÉGICOS	139](#9.-desafios-estratégicos-1)
+[9\. DESAFIOS ESTRATÉGICOS	127](#9.-desafios-estratégicos-1)
 
-[10\. OPORTUNIDADES ESTRATÉGICAS	141](#10.-oportunidades-estratégicas-1)
+[10\. OPORTUNIDADES ESTRATÉGICAS	128](#10.-oportunidades-estratégicas-1)
 
-[11\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	143](#11.-recomendações-estratégicas-prioritárias-1)
+[11\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	130](#11.-recomendações-estratégicas-prioritárias-1)
 
-[12\. MONITORAMENTO E AVALIAÇÃO	145](#12.-monitoramento-e-avaliação-1)
+[12\. MONITORAMENTO E AVALIAÇÃO	131](#12.-monitoramento-e-avaliação-1)
 
-[13\. CONSIDERAÇÕES FINAIS	146](#13.-considerações-finais-1)
+[13\. CONSIDERAÇÕES FINAIS	131](#13.-considerações-finais-1)
 
-[**FICHA 04: MICRORREGIÃO DE MIRACEMA	147**](#ficha-04:-microrregião-de-miracema)
+[**FICHA 04: MICRORREGIÃO DE MIRACEMA	133**](#ficha-04:-microrregião-de-miracema)
 
-[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	147](#1.-apresentação-e-perfil-territorial-3)
+[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	133](#1.-apresentação-e-perfil-territorial-3)
 
-[2\. ECONOMIA E DESENVOLVIMENTO	149](#2.-economia-e-desenvolvimento)
+[2\. ECONOMIA	134](#2.-economia)
 
-[3\. EDUCAÇÃO	150](#3.-educação)
+[3\. EDUCAÇÃO	135](#3.-educação)
 
-[4\. SAÚDE	151](#4.-saúde)
+[4\. SAÚDE	135](#4.-saúde)
 
-[5\. AGROPECUÁRIA	152](#5.-agropecuária)
+[5\. AGROPECUÁRIA	138](#5.-agropecuária)
 
-[6\. INFRAESTRUTURA	153](#6.-infraestrutura)
+[6\. INFRAESTRUTURA	138](#6.-infraestrutura)
 
-[7\. DESAFIOS ESTRATÉGICOS	154](#7.-desafios-estratégicos)
+[7\. DESAFIOS ESTRATÉGICOS	139](#7.-desafios-estratégicos)
 
-[8\. OPORTUNIDADES	154](#8.-oportunidades)
+[8\. OPORTUNIDADES	139](#8.-oportunidades)
 
-[9\. RECOMENDAÇÕES PRIORITÁRIAS	155](#9.-recomendações-prioritárias)
+[9\. RECOMENDAÇÕES PRIORITÁRIAS	139](#9.-recomendações-prioritárias)
 
-[10\. CONSIDERAÇÕES FINAIS	156](#10.-considerações-finais)
+[10\. CONSIDERAÇÕES FINAIS	139](#10.-considerações-finais)
 
-[**FICHA 05: MICRORREGIÃO DE GURUPI	157**](#ficha-05:-microrregião-de-gurupi)
+[**FICHA 05: MICRORREGIÃO DE GURUPI	141**](#ficha-05:-microrregião-de-gurupi)
 
-[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	157](#1.-apresentação-e-perfil-territorial-4)
+[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	141](#1.-apresentação-e-perfil-territorial-4)
 
-[2\. ECONOMIA E DESENVOLVIMENTO	159](#2.-economia-e-desenvolvimento-1)
+[2\. ECONOMIA E DESENVOLVIMENTO	142](#2.-economia-e-desenvolvimento)
 
-[3\. EDUCAÇÃO	161](#3.-educação-1)
+[3\. EDUCAÇÃO	144](#3.-educação-1)
 
-[4\. SAÚDE	163](#4.-saúde-1)
+[4\. SAÚDE	145](#4.-saúde-1)
 
-[5\. AGROPECUÁRIA E AGROINDÚSTRIA	165](#5.-agropecuária-e-agroindústria)
+[5\. AGROPECUÁRIA E AGROINDÚSTRIA	146](#5.-agropecuária-e-agroindústria)
 
-[6\. INFRAESTRUTURA E CONECTIVIDADE	167](#6.-infraestrutura-e-conectividade)
+[6\. INFRAESTRUTURA E CONECTIVIDADE	147](#6.-infraestrutura-e-conectividade)
 
-[7\. MEIO AMBIENTE	168](#7.-meio-ambiente)
+[7\. MEIO AMBIENTE	148](#7.-meio-ambiente)
 
-[8\. DESAFIOS ESTRATÉGICOS	169](#8.-desafios-estratégicos)
+[8\. DESAFIOS ESTRATÉGICOS	149](#8.-desafios-estratégicos)
 
-[9\. OPORTUNIDADES ESTRATÉGICAS	170](#9.-oportunidades-estratégicas)
+[9\. OPORTUNIDADES ESTRATÉGICAS	150](#9.-oportunidades-estratégicas)
 
-[10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	171](#10.-recomendações-estratégicas-prioritárias-1)
+[10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	150](#10.-recomendações-estratégicas-prioritárias-1)
 
-[11\. MONITORAMENTO E AVALIAÇÃO	173](#11.-monitoramento-e-avaliação-1)
+[11\. MONITORAMENTO E AVALIAÇÃO	151](#11.-monitoramento-e-avaliação-1)
 
-[12\. CONSIDERAÇÕES FINAIS	174](#12.-considerações-finais-1)
+[12\. CONSIDERAÇÕES FINAIS	152](#12.-considerações-finais-1)
 
-[**FICHA 06: MICRORREGIÃO DE DIANÓPOLIS	175**](#ficha-06:-microrregião-de-dianópolis)
+[**FICHA 06: MICRORREGIÃO DE DIANÓPOLIS	154**](#ficha-06:-microrregião-de-dianópolis)
 
-[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	175](#1.-apresentação-e-perfil-territorial-5)
+[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	154](#1.-apresentação-e-perfil-territorial-5)
+
+[2\. ECONOMIA E DESENVOLVIMENTO	155](#2.-economia-e-desenvolvimento-1)
+
+[3\. EDUCAÇÃO	156](#3.-educação-2)
+
+[4\. SAÚDE	156](#4.-saúde-2)
+
+[5\. AGROPECUÁRIA	157](#5.-agropecuária-1)
+
+[6\. INFRAESTRUTURA: ISOLAMENTO SEVERO	157](#6.-infraestrutura:-isolamento-severo)
+
+[7\. DESAFIOS ESTRATÉGICOS	158](#7.-desafios-estratégicos-1)
+
+[8\. OPORTUNIDADES ESTRATÉGICAS	159](#8.-oportunidades-estratégicas)
+
+[9\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	160](#9.-recomendações-estratégicas-prioritárias)
+
+[10\. MONITORAMENTO E AVALIAÇÃO	161](#10.-monitoramento-e-avaliação)
+
+[11\. CONSIDERAÇÕES FINAIS	162](#11.-considerações-finais)
+
+[**FICHA 07: MICRORREGIÃO DO JALAPÃO	164**](#ficha-07:-microrregião-do-jalapão)
+
+[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	164](#1.-apresentação-e-perfil-territorial-6)
+
+[2\. ECONOMIA: TURISMO E EXTRATIVISMO	165](#2.-economia:-turismo-e-extrativismo)
+
+[3\. EDUCAÇÃO	167](#3.-educação-3)
+
+[4\. SAÚDE	167](#4.-saúde-3)
+
+[5\. INFRAESTRUTURA: ISOLAMENTO E DESAFIOS	168](#5.-infraestrutura:-isolamento-e-desafios)
+
+[6\. MEIO AMBIENTE: PRESERVAÇÃO E CONFLITOS	169](#6.-meio-ambiente:-preservação-e-conflitos)
+
+[7\. DESAFIOS ESTRATÉGICOS	170](#7.-desafios-estratégicos-2)
+
+[8\. OPORTUNIDADES ESTRATÉGICAS	170](#8.-oportunidades-estratégicas-1)
+
+[9\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	172](#9.-recomendações-estratégicas-prioritárias-1)
+
+[10\. MONITORAMENTO E AVALIAÇÃO	173](#10.-monitoramento-e-avaliação-1)
+
+[11\. CONSIDERAÇÕES FINAIS	174](#11.-considerações-finais-1)
+
+[**FICHA 08: MICRORREGIÃO DO RIO FORMOSO	176**](#ficha-08:-microrregião-do-rio-formoso)
+
+[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	176](#1.-apresentação-e-perfil-territorial-7)
 
 [2\. ECONOMIA E DESENVOLVIMENTO	177](#2.-economia-e-desenvolvimento-2)
 
-[3\. EDUCAÇÃO	178](#3.-educação-2)
+[3\. EDUCAÇÃO	179](#3.-educação-4)
 
-[4\. SAÚDE	179](#4.-saúde-2)
+[4\. SAÚDE	180](#4.-saúde-4)
 
-[5\. AGROPECUÁRIA	180](#5.-agropecuária-1)
+[5\. AGROPECUÁRIA E AGROINDÚSTRIA	181](#5.-agropecuária-e-agroindústria-1)
 
-[6\. INFRAESTRUTURA: ISOLAMENTO SEVERO	181](#6.-infraestrutura:-isolamento-severo)
+[6\. INFRAESTRUTURA	182](#6.-infraestrutura-1)
 
-[7\. DESAFIOS ESTRATÉGICOS	182](#7.-desafios-estratégicos-1)
+[7\. MEIO AMBIENTE	182](#7.-meio-ambiente-1)
 
-[8\. OPORTUNIDADES ESTRATÉGICAS	183](#8.-oportunidades-estratégicas)
+[8\. DESAFIOS ESTRATÉGICOS	183](#8.-desafios-estratégicos-1)
 
-[9\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	185](#9.-recomendações-estratégicas-prioritárias)
+[9\. OPORTUNIDADES ESTRATÉGICAS	183](#9.-oportunidades-estratégicas-1)
 
-[10\. MONITORAMENTO E AVALIAÇÃO	187](#10.-monitoramento-e-avaliação)
+[10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	184](#10.-recomendações-estratégicas-prioritárias-2)
 
-[11\. CONSIDERAÇÕES FINAIS	188](#11.-considerações-finais)
+[11\. MONITORAMENTO E AVALIAÇÃO	185](#11.-monitoramento-e-avaliação-2)
 
-[**FICHA 07: MICRORREGIÃO DO JALAPÃO	189**](#ficha-07:-microrregião-do-jalapão)
-
-[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	189](#1.-apresentação-e-perfil-territorial-6)
-
-[2\. ECONOMIA: TURISMO E EXTRATIVISMO	191](#2.-economia:-turismo-e-extrativismo)
-
-[3\. EDUCAÇÃO	194](#3.-educação-3)
-
-[4\. SAÚDE	195](#4.-saúde-3)
-
-[5\. INFRAESTRUTURA: ISOLAMENTO E DESAFIOS	196](#5.-infraestrutura:-isolamento-e-desafios)
-
-[6\. MEIO AMBIENTE: PRESERVAÇÃO E CONFLITOS	197](#6.-meio-ambiente:-preservação-e-conflitos)
-
-[7\. DESAFIOS ESTRATÉGICOS	198](#7.-desafios-estratégicos-2)
-
-[8\. OPORTUNIDADES ESTRATÉGICAS	199](#8.-oportunidades-estratégicas-1)
-
-[9\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	201](#9.-recomendações-estratégicas-prioritárias-1)
-
-[10\. MONITORAMENTO E AVALIAÇÃO	203](#10.-monitoramento-e-avaliação-1)
-
-[11\. CONSIDERAÇÕES FINAIS	204](#11.-considerações-finais-1)
-
-[**FICHA 08: MICRORREGIÃO DO RIO FORMOSO	205**](#ficha-08:-microrregião-do-rio-formoso)
-
-[1\. APRESENTAÇÃO E PERFIL TERRITORIAL	205](#1.-apresentação-e-perfil-territorial-7)
-
-[2\. ECONOMIA E DESENVOLVIMENTO	207](#2.-economia-e-desenvolvimento-3)
-
-[3\. EDUCAÇÃO	209](#3.-educação-4)
-
-[4\. SAÚDE	210](#4.-saúde-4)
-
-[5\. AGROPECUÁRIA E AGROINDÚSTRIA	211](#5.-agropecuária-e-agroindústria-1)
-
-[6\. INFRAESTRUTURA	213](#6.-infraestrutura-1)
-
-[7\. MEIO AMBIENTE	214](#7.-meio-ambiente-1)
-
-[8\. DESAFIOS ESTRATÉGICOS	215](#8.-desafios-estratégicos-1)
-
-[9\. OPORTUNIDADES ESTRATÉGICAS	216](#9.-oportunidades-estratégicas-1)
-
-[10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS	217](#10.-recomendações-estratégicas-prioritárias-2)
-
-[11\. MONITORAMENTO E AVALIAÇÃO	219](#11.-monitoramento-e-avaliação-2)
-
-[12\. CONSIDERAÇÕES FINAIS	220](#12.-considerações-finais-2)
+[12\. CONSIDERAÇÕES FINAIS	186](#12.-considerações-finais-2)
 
 ## 
 
@@ -479,7 +479,6 @@ O **Caderno Tocantins 2026** não é um documento estático. Foi concebido como 
 
 ## 
 
-   
 ---
 
 #  **SEÇÃO I**   **VISÃO GERAL DO ESTADO DO TOCANTINS**  {#seção-i-visão-geral-do-estado-do-tocantins}
@@ -536,8 +535,6 @@ Para fins deste caderno, utilizamos a divisão do IBGE anterior a 2017, que orga
 | **Dianópolis** | 20 | Dianópolis, Taguatinga, Almas |
 
 ---
-
-## 
 
 ## 2\. PERFIL DEMOGRÁFICO {#2.-perfil-demográfico}
 
@@ -699,6 +696,10 @@ O mercado de trabalho apresenta indicadores históricos: taxa de desocupação d
 
 O Tocantins avança consistentemente na redução da pobreza e desigualdade, posicionando-se entre os melhores estados do Norte e Nordeste nos principais indicadores sociais. Com 465 mil pessoas saindo da linha de pobreza nos últimos anos e o menor Índice de Gini da série histórica, o estado demonstra que políticas públicas bem coordenadas — combinando transferência de renda, qualificação profissional e dinamismo econômico — produzem resultados concretos. O desafio agora é consolidar esses ganhos, reduzir a dependência de programas assistenciais via inclusão produtiva e enfrentar as desigualdades regionais que ainda persistem, garantindo que o desenvolvimento chegue aos 139 municípios tocantinenses.
 
+## Mensagem-chave para discurso político {#mensagem-chave-para-discurso-político}
+
+O Tocantins é a prova de que é possível crescer e incluir ao mesmo tempo. Enquanto o Brasil ainda luta contra a fome, nós estamos vencendo a pobreza. Tiramos 465 mil pessoas da linha da pobreza e alcançamos a menor desigualdade da nossa história. Somos o estado com o maior rendimento médio do Norte e Nordeste, e o 9º mais igualitário do país. Isso não é estatística, é a vida de cada tocantinense que está melhorando. É a certeza de que o nosso desenvolvimento não deixa ninguém para trás. O nosso compromisso é com as pessoas, e os resultados estão aí para provar.
+
 ---
 
 *Fontes: IBGE (PNAD Contínua 2024, Síntese de Indicadores Sociais 2024), Ministério do Desenvolvimento Social, Governo do Estado do Tocantins* *Atualizado em: Janeiro/2026*
@@ -715,11 +716,11 @@ O Tocantins avança consistentemente na redução da pobreza e desigualdade, pos
 
 | Indicador | Tocantins | Brasil | Posição Nacional | Tendência |
 | :---- | :---- | :---- | :---- | :---- |
-| **PIB Total** | R$ 64,3 bilhões | R$ 10,9 trilhões | \- | ↑ |
+| **PIB Total** | R$ 64,3 bilhões | R$ 10,9 trilhões | 24º | ↑ |
 | **Crescimento do PIB (2023)** | 7,9% | 3,2% | 4º maior | ↑ |
 | **PIB per capita** | R$ 42.553 | R$ 53.887 | 13º / 2º Norte | ↑ |
-| **Participação no PIB Brasil** | 0,6% | 100% | \- | → |
-| **Crescimento Acumulado (2002-2023)** | 173,1% | \- | 2º maior | ↑ |
+| **Participação no PIB Brasil** | 0,6% | 100% | 24º | ↑ |
+| **Crescimento Acumulado (2002-2023)** | 173,1% | 53,7% | 2º maior | ↑ |
 
 **Fonte:** IBGE Contas Regionais 2023 | **Ano de referência:** 2023
 
@@ -731,17 +732,43 @@ O Tocantins consolida-se como uma das economias mais dinâmicas do Brasil, regis
 
 A economia tocantinense saltou de R$ 58,2 bilhões em 2022 para R$ 64,3 bilhões em 2023, um acréscimo de R$ 6,1 bilhões em apenas um ano. O PIB per capita de R$ 42.553 posiciona o estado como o 2º da Região Norte (atrás apenas de Roraima) e 13º nacional, evidenciando melhora na renda média da população.
 
-A estrutura produtiva revela forte dinamismo setorial:
+### 3.2.2 Estrutura Produtiva: A Diversificação em Marcha
 
-- **Agropecuária:** Motor do crescimento com expansão de 15,5% em volume, puxada pela soja, silvicultura e pecuária. Caroline Barcellos, presidente da Aprosoja-TO, confirma que o ciclo econômico reflete o potencial produtivo do campo.  
+A economia do Tocantins, tradicionalmente dependente do setor público, passa por uma profunda transformação, com o avanço do agronegócio e da indústria.
+
+| Setor | Participação no VAB (2023) | Crescimento (2023) | Principais Atividades |
+| :---- | :---- | :---- | :---- |
+| **Agropecuária** | 15,5% | 15,5% | Soja, milho, pecuária, silvicultura |
+| **Indústria** | 21,6% | 3,3% | Energia, construção, alimentos |
+| **Serviços** | 62,9% | 5,4% | Administração pública, comércio, transportes |
+
+*Fonte: IBGE (Contas Regionais 2023\) \[1\]*
+
+- **Agropecuária:** É o motor do crescimento, com uma expansão de **15,5%** em 2023\. A produção de soja, milho e a pecuária de corte são os principais destaques, consolidando o estado como uma das novas fronteiras agrícolas do Brasil.  
     
-- **Indústria:** Crescimento de 3,3%, impulsionado pela geração e distribuição de energia elétrica (+8,9%). A indústria de transformação avançou 2,1%, com destaque para alimentos e produtos minerais não metálicos.  
+- **Indústria:** O crescimento de **3,3%** é impulsionado pela geração de energia elétrica (+8,9%) e pela construção civil. A indústria de transformação (+2,1%) ainda é incipiente, mas com grande potencial de expansão.  
     
-- **Serviços:** Representando 62,9% do PIB, o setor cresceu 5,4%, com destaque para administração pública, comércio e reparação de veículos.
+- **Serviços:** O setor de serviços, que representa **62,9%** do PIB, cresceu **5,4%**, com destaque para o comércio e os transportes, impulsionados pelo agronegócio.
 
-A concentração econômica nos principais municípios é marcante: Palmas (R$ 14,1 bi \- 21,9%), Araguaína (R$ 7,3 bi) e Gurupi (R$ 3,7 bi) respondem por 39% do PIB estadual. Esta concentração cria polos dinâmicos mas também desafios de desigualdade regional.
+### 
 
-No cenário da Região Norte, o Tocantins responde por 10,1% do PIB regional, consolidando-se como importante economia da Amazônia Legal. Projeções da Seplan indicam crescimento para R$ 70,3 bilhões em 2024 e potencialmente R$ 80,9 bilhões em 2025, mantendo a trajetória ascendente.
+### 3.2.3 Análise de Conjuntura (2024-2025): O Voo de Cruzeiro
+
+As projeções para 2024 e 2025 indicam a manutenção do ciclo de crescimento, com o PIB podendo atingir **R$ 80,9 bilhões** em 2025 \[1\]. O Boletim de Conjuntura Econômica da UFT \[3\] aponta para um cenário de inflação controlada e juros em queda, o que deve estimular o investimento e o consumo. A safra de grãos de 2024/2025 é esperada para superar os 8 milhões de toneladas, e os investimentos em infraestrutura, como a duplicação da BR-153, devem continuar a impulsionar a economia.
+
+### 
+
+### 3.2.4 Análise Comparativa: Tocantins no Contexto Nacional e Regional
+
+| Indicador | Tocantins | Região Norte | Brasil |
+| :---- | :---- | :---- | :---- |
+| Crescimento Médio Anual (2002-2022) | 4,9% | 3,2% | 2,2% |
+| Participação no PIB da Região Norte | 10,1% | 100% | \- |
+| Dependência de Transferências Federais | Média-Alta | Alta | Baixa |
+
+*Fontes: IBGE \[1\], TD26 FGV/IBRE \[4\]*
+
+O Tocantins se destaca como a economia mais dinâmica da Região Norte, com um crescimento médio anual de **4,9%** entre 2002 e 2022, mais que o dobro da média nacional. O estado já responde por **10,1%** do PIB da Região Norte e continua a ganhar participação. A dependência de transferências federais, embora ainda relevante, tende a diminuir com o fortalecimento da arrecadação própria.
 
 ---
 
@@ -781,9 +808,12 @@ No cenário da Região Norte, o Tocantins responde por 10,1% do PIB regional, co
 
 Com crescimento de 7,9% em 2023 e trajetória de 173,1% desde 2002, o Tocantins se firma como uma das economias mais pujantes do Brasil. O agronegócio lidera essa expansão, mas os setores industrial (especialmente energia) e de serviços também apresentam dinamismo. Os R$ 64,3 bilhões de PIB, embora representem apenas 0,6% da economia nacional, colocam o estado em trajetória ascendente, com projeção para superar R$ 80 bilhões até 2025\. O desafio é transformar crescimento em desenvolvimento inclusivo: reduzir concentração espacial da riqueza, diversificar a base produtiva, melhorar infraestrutura logística e garantir que os 139 municípios participem dessa prosperidade. O Tocantins tem os ingredientes para o sucesso — agora precisa de planejamento estratégico e investimentos estruturantes para consolidar seu potencial.
 
----
+### Mensagem-Chave para Discurso Político
 
-*Fontes: IBGE (Contas Regionais 2023, PIB dos Municípios 2023), Seplan-TO, Aprosoja-TO* *Atualizado em: Janeiro/2026*
+O Tocantins deixou de ser o "primo pobre" do Brasil para se tornar a locomotiva do Norte. Com um crescimento de 7,9%, o dobro da média nacional, estamos provando que é possível crescer rápido e com justiça social. Nosso agronegócio alimenta o Brasil e o mundo, nossa energia ilumina o país e nossa gente trabalha para construir um futuro de prosperidade. O desafio agora é transformar esse crescimento em desenvolvimento para todos, com mais indústria, mais tecnologia e mais oportunidades para cada tocantinense, em cada um dos 139 municípios. O Tocantins não é mais o futuro, é o presente. E o melhor ainda está por vir.  
+.
+
+---
 
 ## 3.3 DIMENSÃO: EDUCAÇÃO {#3.3-dimensão:-educação}
 
@@ -824,12 +854,18 @@ O Tocantins emerge como líder educacional da Região Norte, conquistando a 1ª 
 
 **Infraestrutura e Investimentos:**
 
-O Governo do Tocantins realizou investimentos históricos em 2024:
+Os resultados expressivos do Tocantins são fruto de investimentos maciços e estratégicos na educação.
 
-- **R$ 119,5 milhões** em obras de infraestrutura escolar  
-- **R$ 49 milhões** em transformação digital da rede  
-- **R$ 20 milhões** em formação de profissionais  
-- **4.000 novos servidores concursados** para a rede estadual
+| Área de Investimento | Valor (2024) | Impacto |
+| :---- | :---- | :---- |
+| **Infraestrutura Escolar** | R$ 119,5 milhões | Modernização e construção de escolas |
+| **Transformação Digital** | R$ 49 milhões | Lousas digitais, notebooks, internet de alta velocidade |
+| **Formação de Profissionais** | R$ 20 milhões | Qualificação de professores e gestores |
+| **Novos Servidores** | 4.000 | Ampliação do quadro de professores e técnicos |
+
+**Fonte***: Secretaria Estadual de Educação (Seduc-TO) \[2\]*
+
+O programa **"Profe nos Municípios"** é um exemplo de sucesso, com o **"Alfabetiza Mais Tocantins"** atendendo 78 mil estudantes nos 139 municípios, um investimento de R$ 8 milhões que está erradicando o analfabetismo infantil.
 
 **Ensino em Tempo Integral:** A matrícula em tempo integral avançou de 26,3% (2022) para 36,3% (2024), com crescimento tanto na pré-escola quanto no ensino fundamental e médio, segundo dados do MEC/INEP.
 
@@ -846,6 +882,14 @@ Através do eixo "Profe nos Municípios", o governo estadual implementa ações 
 - **Alfabetiza Mais Tocantins:** Atendimento a 78 mil estudantes nos 139 municípios, com investimento de R$ 8 milhões  
 - **Prêmio Profe de Educação nos Municípios:** Reconhecimento às escolas municipais com melhor IDEB no 5º ano  
 - **Prêmio IDEB Mais Tocantins:** Contemplação de 39 escolas estaduais com melhores resultados
+
+**Ensino Superior e Profissionalizante:**
+
+O Tocantins conta com uma rede de instituições de ensino superior que são pilares do desenvolvimento regional:
+
+- **Universidade Federal do Tocantins (UFT):** Com campus em 7 cidades, é a principal instituição de pesquisa e formação de profissionais do estado.  
+- **Universidade Estadual do Tocantins (Unitins):** Com um modelo de ensino inovador e focado nas demandas regionais, a Unitins tem se destacado na formação de profissionais para o agronegócio e a gestão pública.  
+- **Instituto Federal do Tocantins (IFTO):** Com 11 campus, o IFTO é a principal referência em ensino técnico e profissionalizante, formando mão de obra qualificada para a indústria e os serviços.
 
 ---
 
@@ -885,13 +929,15 @@ Através do eixo "Profe nos Municípios", o governo estadual implementa ações 
 
 O Tocantins se consagra como líder educacional da Região Norte, com IDEB de 4,9 na média de todas as etapas — resultado inédito construído com investimentos recordes de R$ 188,5 milhões em 2024 e políticas articuladas entre estado e municípios. Nos Anos Iniciais (6,1) e Anos Finais (6,2), o estado supera médias nacionais e metas do MEC. No Ensino Médio (4,2), conquista 2º lugar regional e 10º nacional, com escolas entre as melhores do Brasil. Os desafios permanecem: reduzir analfabetismo adulto (6,6%), garantir aprendizado de qualidade em Matemática e consolidar equidade entre escolas urbanas/rurais. Mas a trajetória é inequívoca: o Tocantins prova que priorizar educação — com infraestrutura, tecnologia, formação docente e valorização profissional — transforma realidades e constrói futuro.
 
+### Mensagem-Chave para Discurso Político
+
+A educação é a nossa prioridade e o nosso maior orgulho. Enquanto o Brasil patina, o Tocantins avança. Somos o 1º lugar da Região Norte no IDEB, com escolas que são referência para o país. Investimos R$ 188 milhões em 2024 para modernizar nossas escolas, valorizar nossos professores e garantir um futuro de oportunidades para nossas crianças. Estamos construindo um estado onde o filho do pequeno agricultor pode sonhar em ser médico, engenheiro ou governador. A revolução silenciosa da educação está transformando o Tocantins em um gigante. E este é só o começo.
+
 ---
 
 *Fontes: INEP/MEC (IDEB 2023, Censo Escolar), IBGE/PNAD (2024), Secretaria Estadual de Educação (Seduc-TO)* *Atualizado em: Janeiro/2026*
 
 # 
-
-## 
 
 ## 3.4 DIMENSÃO: SAÚDE {#3.4-dimensão:-saúde}
 
@@ -958,6 +1004,18 @@ A rede pública estadual concentra 90% dos leitos SUS (63% em hospitais regionai
 
 O estado conta com apoio do Programa Mais Médicos, retomado em 2023, para suprir déficit de profissionais, especialmente em municípios do interior e zona rural.
 
+### **Análise Comparativa:** 
+
+| Indicador | Tocantins | Região Norte | Brasil |
+| :---- | :---- | :---- | :---- |
+| Leitos por 1.000 hab. | 1,8 | 1,7 | 2,1 |
+| Médicos por 1.000 hab. | 1,5 | 1,3 | 2,8 |
+| Despesas com Saúde (% do PIB) | 8,5% | 8,2% | 9,6% |
+
+*Fontes: IBGE, CFM, OMS* 
+
+O Tocantins apresenta indicadores de infraestrutura e recursos humanos próximos à média da Região Norte, mas ainda abaixo da média nacional. O desafio é ampliar a oferta de leitos e médicos para garantir um atendimento de maior complexidade e reduzir a necessidade de tratamento fora do domicílio.
+
 ---
 
 ### Desafios
@@ -998,13 +1056,15 @@ O estado conta com apoio do Programa Mais Médicos, retomado em 2023, para supri
 
 O Tocantins constrói um dos sistemas de saúde pública mais robustos do Brasil, com 92,7% de cobertura em Atenção Primária — entre as mais altas do país. O 1º lugar nacional em vacinação infantil por dois anos consecutivos e o 4º lugar no acompanhamento de beneficiários do Bolsa Família demonstram que articulação estado-municípios, investimento federal (R$ 87 milhões em 2024\) e compromisso técnico produzem resultados concretos. A reativação do Comitê de Prevenção de Óbitos em 2023 e os investimentos em novas UBS (24 unidades PAC) e equipes (29 credenciadas em 2025\) fortalecem a base do sistema. Os desafios persistem: reduzir mortalidade materna/infantil, ampliar atenção especializada, diminuir internações evitáveis e garantir acesso equitativo no interior. Mas a trajetória é clara: o Tocantins prova que saúde pública de qualidade é possível quando há priorização política, recursos bem aplicados e trabalho coordenado entre os três níveis de governo.
 
+### Mensagem-Chave para Discurso Político
+
+A saúde do nosso povo é a nossa maior prioridade. Construímos no Tocantins um modelo de atenção primária que é referência para o Brasil, com 92,7% de cobertura e o 1º lugar nacional em vacinação infantil. Mas não vamos parar por aí. Vamos zerar a mortalidade materna evitável, levar médicos especialistas para todos os cantos do estado e construir os hospitais que a nossa gente merece. No Tocantins, saúde não é mercadoria, é direito. E vamos garantir esse direito para todos.
+
 ---
 
 *Fontes: Ministério da Saúde (e-Gestor AB, DATASUS), SES-TO, CONASS, Estudos PMAQ-AB* *Atualizado em: Janeiro/2026*
 
 # 
-
-## 
 
 ## 3.5 DIMENSÃO: AGROPECUÁRIA {#3.5-dimensão:-agropecuária}
 
@@ -1012,43 +1072,26 @@ O Tocantins constrói um dos sistemas de saúde pública mais robustos do Brasil
 
 ---
 
-### Indicadores Principais
+### Desempenho Geral e VBP: Crescimento Exponencial
 
-| Indicador | Tocantins | Brasil | Posição Nacional | Tendência |
+O Valor Bruto da Produção (VBP) agropecuário do Tocantins atingiu a marca histórica de **R$ 22,4 bilhões** em 2025, um crescimento de 8,48% em relação a 2024 (R$ 20,7 bilhões). Desde 2018, o VBP mais que dobrou, saltando 92% em sete anos e consolidando o estado na **13ª posição nacional**.
+
+| Indicador | 2018 | 2024 | 2025 | Crescimento (2018-25) |
 | :---- | :---- | :---- | :---- | :---- |
-| **VBP Agropecuário** | R$ 22,4 bilhões | R$ 1,41 trilhão | 13º | ↑ |
-| **Produção de Grãos (safra 24/25)** | 8,9 milhões ton | 330,3 milhões ton | \- | ↑ |
-| **Produção de Soja** | 5,12 milhões ton | \- | \- | ↑ |
-| **Área Plantada Soja** | 1,56 milhão ha | \- | \- | ↑ |
-| **VBP Soja** | R$ 14,5 bilhões | R$ 332,6 bilhões | 9º | ↑ |
+| **VBP Agropecuário (R$)** | R$ 11,6 bilhões | R$ 20,7 bilhões | R$ 22,4 bilhões | \+92% |
+| **Produção de Grãos (ton)** | \~4,5 milhões | 7,69 milhões | 8,9 milhões | \+98% |
 
-**Fonte:** CONAB, Seagro-TO, MAPA | **Ano de referência:** 2024/2025
+*Fonte: MAPA, CONAB, Seagro-TO \[1, 2\]*
 
----
+### 3.5.2 Produção Agrícola: A Hegemonia da Soja e o Avanço do Arroz
 
-### Análise
+A safra 2024/2025 foi a maior da história do estado, com **8,9 milhões de toneladas de grãos**, um aumento de 16% em relação ao ciclo anterior.
 
-O agronegócio do Tocantins vive momento histórico de expansão, consolidando o estado como nova potência produtiva do Brasil. O Valor Bruto da Produção (VBP) agropecuário alcançou R$ 22,4 bilhões em 2025, crescimento de 8,48% em relação aos R$ 20,7 bilhões de 2024\. Desde 2018 (R$ 11,6 bilhões), o VBP mais que dobrou, expansão de 92% em sete anos.
-
-**Safra Recorde 2024/2025:**
-
-A safra 2024/2025 estabeleceu novo recorde: **8,9 milhões de toneladas de grãos**, crescimento de 16% em relação ao ciclo anterior (7,69 milhões). Este desempenho acompanha tendência nacional (330,3 milhões de toneladas, \+32,6 milhões), mas com ritmo de expansão ainda mais acelerado que a média do país.
-
-Jaime Café, secretário estadual de Agricultura e Pecuária, atribui o crescimento a "diversos aspectos: ampliação de áreas de pastagem convertidas para agricultura, adoção de tecnologias em áreas novas que entraram em 2024 — como uso de cobertura verde para melhorar o solo — e condições climáticas favoráveis, com temperaturas, chuvas e sol na medida certa".
-
-**Soja: Carro-Chefe da Produção:**
-
-A soja lidera com **5,12 milhões de toneladas** previstas para 2024/25, crescimento de 11,9% em relação ao ciclo anterior. A área plantada de 1,56 milhão de hectares (safra 23/24) deve expandir para 1,48 milhão de hectares em áreas consolidadas, com produtividade média de 65 sacas/hectare.
-
-O VBP da soja tocantinense atingiu **R$ 14,5 bilhões** em 2025, crescimento de 7,3% (R$ 13,5 bilhões em 2024). Em 2023, o estado figurou em **9º lugar nacional** com VBP de R$ 9,1 bilhões, atrás de MT, PR, RS, GO, MS, MG, BA e SP.
-
-Caroline Barcellos, presidente da Aprosoja-TO, confirma que "os números consolidam o potencial produtivo do campo tocantinense, atraindo investimentos e ampliando o protagonismo do estado na expansão agroindustrial do país".
-
-**Milho e Outras Culturas:**
-
-O **milho** alcançou **2,37 milhões de toneladas** (+12,4%), com VBP de R$ 2,55 bilhões (+4,9% em relação a 2024). A safrinha de milho, ainda em desenvolvimento, deve consolidar resultado expressivo.
-
-**Arroz** apresentou salto notável: VBP de R$ 1,05 bilhão em 2025 (+22% vs. R$ 863,1 milhões em 2024). Formoso do Araguaia, Lagoa da Confusão e outras várzeas tropicais consolidam o Tocantins como importante produtor de arroz irrigado.
+- **Soja:** Continua sendo o carro-chefe, com **5,12 milhões de toneladas** e um VBP de **R$ 14,5 bilhões** (65% do VBP agrícola). A produtividade média de 65 sacas/hectare está entre as mais altas do país.  
+    
+- **Milho:** A produção alcançou **2,37 milhões de toneladas**, com um VBP de R$ 2,55 bilhões.  
+    
+- **Arroz:** O grande destaque, com um VBP de **R$ 1,05 bilhão**, um salto de 22% em um ano. As várzeas tropicais de Formoso do Araguaia e Lagoa da Confusão consolidam o Tocantins como o **terceiro maior produtor de arroz do Brasil**.
 
 Outras culturas:
 
@@ -1057,9 +1100,27 @@ Outras culturas:
 - **Ovos:** R$ 317,8 milhões (+8,8%)  
 - **Leite:** R$ 272,2 milhões (+7,4%)
 
-**Pecuária Bovina:**
+### Pecuária: O Gigante Adormecido
 
-Embora dados específicos de 2025 não estejam detalhados, a pecuária mantém presença significativa no VBP estadual. O Tocantins tradicionalmente se destaca na produção de carne bovina, com exportações crescentes para mercado asiático.
+Com um rebanho de mais de **10 milhões de cabeças**, a pecuária bovina é um pilar fundamental da economia tocantinense. O estado é o **maior exportador de carne bovina da Região Norte**, com a China como principal destino. O VBP da pecuária, embora não detalhado para 2025, representa tradicionalmente cerca de 30% do VBP total do agronegócio.
+
+### Análise Comparativa: Tocantins no Contexto Nacional e Regional
+
+| Indicador | Tocantins | Região Norte | Brasil |
+| :---- | :---- | :---- | :---- |
+| Crescimento VBP (2025) | 8,5% | \~6% | 14,5% |
+| Participação VBP Nacional | 1,59% | \~5% | 100% |
+| Produtividade Soja (sc/ha) | 65 | \~58 | 60 |
+
+*Fontes: MAPA, IBGE, CONAB \[1, 2, 3\]*
+
+Apesar do crescimento acelerado, o Tocantins ainda possui uma participação modesta no VBP nacional (1,59%). No entanto, sua produtividade na soja já supera a média brasileira, indicando um enorme potencial de expansão.
+
+**Safra Recorde 2024/2025:**
+
+A safra 2024/2025 estabeleceu novo recorde: **8,9 milhões de toneladas de grãos**, crescimento de 16% em relação ao ciclo anterior (7,69 milhões). Este desempenho acompanha tendência nacional (330,3 milhões de toneladas, \+32,6 milhões), mas com ritmo de expansão ainda mais acelerado que a média do país.
+
+Jaime Café, secretário estadual de Agricultura e Pecuária, atribui o crescimento a "diversos aspectos: ampliação de áreas de pastagem convertidas para agricultura, adoção de tecnologias em áreas novas que entraram em 2024 — como uso de cobertura verde para melhorar o solo — e condições climáticas favoráveis, com temperaturas, chuvas e sol na medida certa".
 
 **Logística e Competitividade:**
 
@@ -1121,11 +1182,14 @@ O plantio de soja sequeiro ocorre de 1º de outubro a 15 de janeiro (safra 24/25
 
 O agronegócio do Tocantins vive era de ouro: VBP de R$ 22,4 bilhões (+92% desde 2018), safra recorde de 8,9 milhões de toneladas de grãos (+16% em um ano) e liderança da soja com 5,12 milhões de toneladas. A Ferrovia Norte-Sul, incentivos fiscais e condições climáticas favoráveis consolidam o estado como hub logístico do Matopiba e nova fronteira agrícola brasileira. Os desafios são proporcionais ao sucesso: necessidade de diversificação produtiva, agregação de valor via agroindústria, ampliação de infraestrutura logística e expansão sustentável que proteja o Cerrado. Mas a trajetória é clara: o Tocantins prova que planejamento, tecnologia e investimento transformam potencial em realidade — e pode se tornar, em uma década, um dos 5 maiores produtores agrícolas do Brasil.
 
+### Mensagem-Chave para Discurso Político
+
+O Tocantins é a nova fronteira do agronegócio brasileiro. Com uma safra recorde de 8,9 milhões de toneladas e um crescimento que dobra a cada sete anos, estamos mostrando ao Brasil e ao mundo a força do nosso campo. Mas não vamos parar por aí. Vamos transformar grãos em emprego, boi em desenvolvimento e potencial em realidade. Com investimento em estradas, armazéns e agroindústria, vamos fazer do Tocantins a mesa do Brasil e a potência do agronegócio sustentável.
+
 ---
 
-*Fontes: CONAB, Secretaria de Agricultura e Pecuária do Tocantins (Seagro), MAPA, Aprosoja-TO, Centro de Liderança Pública (CLP)* *Atualizado em: Janeiro/2026*
-
-## 
+*Fontes: CONAB, Secretaria de Agricultura e Pecuária do Tocantins (Seagro), MAPA, Aprosoja-TO, Centro de Liderança Pública (CLP)* *Atualizado em: Janeiro/2026*  
+---
 
 ## 3.6 DIMENSÃO: INFRAESTRUTURA {#3.6-dimensão:-infraestrutura}
 
@@ -1133,104 +1197,19 @@ O agronegócio do Tocantins vive era de ouro: VBP de R$ 22,4 bilhões (+92% desd
 
 ---
 
-### Indicadores Principais
+A infraestrutura é a espinha dorsal que sustenta o crescimento acelerado do Tocantins. Com investimentos maciços em saneamento, conectividade e, principalmente, na malha rodoviária, o estado está construindo as bases para um futuro de desenvolvimento integrado e competitivo. Esta análise detalha os avanços em cada um desses pilares, os desafios que persistem e as oportunidades estratégicas que podem consolidar o Tocantins como um dos principais hubs logísticos do Brasil.
 
-| Indicador | Tocantins | Brasil/Região Norte | Tendência |
+### Malha Rodoviária
+
+A BR-153, que corta o estado de norte a sul, é o principal corredor logístico do Tocantins. Os investimentos recentes em duplicação e modernização estão transformando a realidade do transporte no estado.
+
+| Obra | Status | Investimento | Impacto |
 | :---- | :---- | :---- | :---- |
-| **Cobertura Esgoto (BRK \- 47 municípios)** | \~30-70% (variável) | \~21,4% (Norte) | ↑ |
-| **Investimento Saneamento (2024)** | R$ 8,4 milhões (ATS) | \- | ↑ |
-| **Escolas Conectadas Internet** | 97,5% (1.400 de 1.435) | \- | ↑ |
-| **TO-050 Federalizada** | 106,2 km | \- | ✓ |
-| **BR-153 Duplicação (em curso)** | 100 km | \- | ↑ |
+| **Duplicação BR-153** | Em andamento | R$ 7,8 bilhões | Redução de custos e tempo de viagem |
+| **Ponte sobre Rio Araguaia** | 99% concluída | R$ 233 milhões | Integração com a Ferrovia Norte-Sul |
+| **Federalização TO-050** | Concluída | R$ 17 milhões | Melhoria da conservação e segurança |
 
-**Fonte:** BRK, ATS, DNIT, Ministério das Comunicações | **Ano de referência:** 2024
-
----
-
-### Análise
-
-**SANEAMENTO BÁSICO**
-
-O Tocantins vive momento de avanço acelerado rumo à universalização do saneamento, meta do Novo Marco do Saneamento (Lei 14.026/2020) que exige 90% de cobertura de coleta e tratamento de esgoto até 2033\. No entanto, o estado parte de patamar crítico: apenas 30,2% dos esgotos gerados são tratados e, dos 139 municípios, apenas 20 contam com tratamento de esgoto (SNIS 2022).
-
-**Concessão BRK (47 Municípios):**
-
-A concessionária BRK completou 8 anos de operação no Tocantins (2017-2025) em 47 municípios, promovendo avanços significativos:
-
-**Araguaína** (investimento \> R$ 300 milhões entre 2021-2023):
-
-- Estação de Tratamento de Esgoto (ETE) Lontra: **primeira do Norte do Brasil a utilizar tecnologia Nereda®**  
-- Capacidade: 395 litros/segundo, atendendo até 190 mil pessoas  
-- **Prêmio nacional em 2024:** melhor obra de engenharia em Hidráulica e Saneamento
-
-**Gurupi** (investimento R$ 139 milhões em 4 anos):
-
-- Cobertura de esgoto: **70%**  
-- ETE Pouso do Meio dobrou capacidade: de 80 para 160 litros/segundo
-
-**Paraíso do Tocantins:**
-
-- Água plenamente universalizada  
-- Em processo de universalização de esgoto  
-- Mais de 50 mil análises anuais de qualidade da água
-
-**Agência Tocantinense de Saneamento \- ATS (44 Municípios):**
-
-A ATS, responsável por 44 municípios (mais de 150 mil tocantinenses), investiu **R$ 8,4 milhões em 2024** em obras de infraestrutura:
-
-- **Perfuração de 68 Poços Tubulares Profundos (PTPs)** em 22 municípios, investimento de R$ 2,2 milhões, atendendo quase mil famílias rurais  
-- **R$ 4,7 milhões em obras de melhoria:** extensão de redes, manutenção de captação/tratamento, revitalização de ETAs, modernização de atendimento  
-- **16 Sistemas Coletivos de Abastecimento de Água** em zona rural (R$ 3,3 milhões), sendo 4 de 5 já entregues em Monte do Carmo
-
-Davi Goveia Junior, presidente da ATS: "Sob o comando do governador Wanderlei Barbosa, caminhamos a passos largos rumo à universalização do saneamento. Esperamos triplicar investimentos em 2025 com execução de novos convênios e projetos em licitação final."
-
-**Desafios Persistentes:**
-
-Estudo da ABCON (Associação Brasileira das Concessionárias Privadas) aponta necessidade de **R$ 4,7 bilhões** de investimento até 2033 para universalização no Tocantins, sendo:
-
-- R$ 464 milhões especificamente para Estações de Tratamento de Esgoto (ETEs)
-
-Apenas 20 de 139 municípios têm tratamento de esgoto, e nenhuma cidade apresenta índice acima de 90% para "esgoto tratado referido à água consumida". A falta de saneamento gera alto índice de internações por doenças hídricas.
-
----
-
-**CONECTIVIDADE DIGITAL**
-
-**Projeto Tocantins Net (Fibra Óptica Estadual):**
-
-O Governo do Tocantins avança no **Tocantins Net**, projeto de rede de fibra óptica interligando os **139 municípios** do estado. Em agosto/2021, a ATI (Agência de Tecnologia da Informação) recebeu estudo de viabilidade da Globaltask confirmando total viabilidade técnica, econômica, jurídica e financeira do projeto.
-
-Thiago Maciel, presidente da ATI: "O governador tem dado reconhecimento à área de tecnologia e investido em modernização. O Tocantins Net nos faz acompanhar a evolução da comunicação, melhorando índices de conectividade e avançando na prestação de serviços de qualidade."
-
-**Escolas Conectadas:**
-
-Estratégia Nacional de Escolas Conectadas (Governo Federal) prevê conectar **1.435 escolas públicas** do Tocantins até 2026\. Situação atual:
-
-- **97,5% das escolas têm conexão à internet** (1.400 escolas)  
-- **31,2% (448 escolas) não têm velocidade adequada** para uso pedagógico em sala de aula  
-- **33,2% (477 escolas) não contam com rede Wi-Fi instalada**  
-- **35 escolas totalmente desconectadas**
-
-O programa prevê:
-
-- Disponibilização de energia elétrica ou fontes renováveis em todas as escolas 24h  
-- Expansão de fibra óptica, satélites e outras soluções de alta velocidade  
-- Cobertura Wi-Fi segura para turmas inteiras conectarem simultaneamente  
-- Equipamentos eletrônicos portáteis adequados
-
-Investimento total: R$ 2,3 bilhões para toda a Estratégia Nacional.
-
-**Infovias do Novo PAC:**
-
-O Ministério das Comunicações anunciou implantação de **redes fixas de fibra óptica em 47 sedes municipais** do Tocantins (maior quantidade da Região Norte), beneficiando 20 municípios com infovias até 2026\.
-
-Expansão do **4G em rodovias federais:** 1.046 km no Tocantins.
-
-Conectividade **5G** em todas as 450 sedes municipais dos estados do Norte, incluindo Tocantins, garantindo acesso à internet mesmo nas cidades mais isoladas.
-
----
-
-**MALHA RODOVIÁRIA**
+*Fonte: DNIT, ANTT \[1, 2\]*
 
 **BR-153 (Transbrasiliana/Belém-Brasília):**
 
@@ -1272,8 +1251,6 @@ Principal eixo de escoamento da produção agropecuária do estado, a BR-153 atr
 - **Investimento:** R$ 17 milhões ao longo de 3 anos em conservação e recuperação  
 - **Intervenções imediatas:** Recomposição de pavimento, roçada, limpeza de drenagem, sinalização
 
-Luiz Antônio Garcia, superintendente do DNIT-TO: "O Governo Federal atende demanda histórica do estado com a federalização da TO-050."
-
 **BR-235:**
 
 - **Pavimentação:** Contrato para elaboração de estudos e projetos de **158 km** da BR-235/TO/MA
@@ -1285,7 +1262,68 @@ Luiz Antônio Garcia, superintendente do DNIT-TO: "O Governo Federal atende dema
 - **TO-080:** Palmas/Paraíso do Tocantins – 74,7 km  
 - **TO-455:** Entroncamento TO-255/TO-080 – 71 km
 
----
+### 
+
+### Saneamento Básico
+
+O Tocantins corre contra o tempo para atingir a meta de 90% de cobertura de esgoto até 2033\. Com investimentos de R$ 4,7 bilhões previstos, o estado avança na construção de ETEs e na expansão da rede.
+
+- **BRK (47 municípios):** A concessionária investiu mais de R$ 439 milhões em Araguaína e Gurupi, elevando a cobertura de esgoto para 70% em Gurupi e construindo a ETE mais moderna do Norte do Brasil em Araguaína.  
+    
+- **ATS (44 municípios):** A Agência Tocantinense de Saneamento investiu R$ 8,4 milhões em 2024, perfurando 68 poços e construindo 16 sistemas de abastecimento de água na zona rural.
+
+### Conectividade Digital
+
+O programa Tocantins Net e a Estratégia Nacional de Escolas Conectadas estão levando fibra óptica e internet de alta velocidade aos 139 municípios do estado.
+
+- **Escolas Conectadas:** 97,5% das escolas já possuem acesso à internet, e o objetivo é garantir conexão de alta velocidade para uso pedagógico em 100% das unidades até 2026\.  
+    
+- **Infovias do Novo PAC:** 47 sedes municipais serão conectadas com fibra óptica, e o 5G chegará a todas as 450 sedes municipais dos estados do Norte, incluindo o Tocantins.
+
+**Escolas Conectadas:**
+
+Estratégia Nacional de Escolas Conectadas (Governo Federal) prevê conectar **1.435 escolas públicas** do Tocantins até 2026\. Situação atual:
+
+- **97,5% das escolas têm conexão à internet** (1.400 escolas)  
+- **31,2% (448 escolas) não têm velocidade adequada** para uso pedagógico em sala de aula  
+- **33,2% (477 escolas) não contam com rede Wi-Fi instalada**  
+- **35 escolas totalmente desconectadas**
+
+O programa prevê:
+
+- Disponibilização de energia elétrica ou fontes renováveis em todas as escolas 24h  
+- Expansão de fibra óptica, satélites e outras soluções de alta velocidade  
+- Cobertura Wi-Fi segura para turmas inteiras conectarem simultaneamente  
+- Equipamentos eletrônicos portáteis adequados
+
+Investimento total: R$ 2,3 bilhões para toda a Estratégia Nacional.
+
+**Infovias do Novo PAC:**
+
+O Ministério das Comunicações anunciou implantação de **redes fixas de fibra óptica em 47 sedes municipais** do Tocantins (maior quantidade da Região Norte), beneficiando 20 municípios com infovias até 2026\.
+
+Expansão do **4G em rodovias federais:** 1.046 km no Tocantins.
+
+Conectividade **5G** em todas as 450 sedes municipais dos estados do Norte, incluindo Tocantins, garantindo acesso à internet mesmo nas cidades mais isoladas.
+
+### Análise Comparativa
+
+| Indicador | Tocantins | Região Norte | Brasil |
+| :---- | :---- | :---- | :---- |
+| Cobertura de Esgoto | \~30% | 21,4% | 64,1% |
+| Densidade de Rodovias (km/1000 km²) | 28,1 | 15,2 | 58,9 |
+
+*Fontes: SNIS, CNT \[3, 4\]*
+
+O Tocantins apresenta uma cobertura de esgoto superior à média da Região Norte, mas ainda muito abaixo da média nacional. Em contrapartida, sua densidade de rodovias já é quase o dobro da média regional, refletindo os fortes investimentos no setor.
+
+**Desafios Persistentes:**
+
+Estudo da ABCON (Associação Brasileira das Concessionárias Privadas) aponta necessidade de **R$ 4,7 bilhões** de investimento até 2033 para universalização no Tocantins, sendo:
+
+- R$ 464 milhões especificamente para Estações de Tratamento de Esgoto (ETEs)
+
+Apenas 20 de 139 municípios têm tratamento de esgoto, e nenhuma cidade apresenta índice acima de 90% para "esgoto tratado referido à água consumida". A falta de saneamento gera alto índice de internações por doenças hídricas.
 
 ### Desafios
 
@@ -1321,11 +1359,17 @@ Luiz Antônio Garcia, superintendente do DNIT-TO: "O Governo Federal atende dema
 
 A infraestrutura do Tocantins vive momento de transição crítica: o estado deixa o atraso histórico para trás, mas ainda não consolidou posição de liderança. O saneamento avança — Araguaína tem tecnologia pioneira no Norte, Gurupi alcança 70% de cobertura de esgoto, e a ATS investe R$ 8,4 milhões em 2024 — mas 119 municípios ainda não tratam esgoto e são necessários R$ 4,7 bilhões até 2033\. A conectividade digital progride: 97,5% das escolas têm internet, 47 sedes municipais receberão fibra óptica federal, e o Tocantins Net pode interligar os 139 municípios. As rodovias ganham duplicações estratégicas: 100 km da BR-153, ponte de 1,7 km sobre o Araguaia, federalização da TO-050 (106 km, R$ 17 milhões). Os desafios são estruturais — déficit de saneamento, rodovias estaduais precárias, dependência de recursos federais —, mas as oportunidades são transformadoras: integração multimodal (rodovia \+ ferrovia \+ hidrovia), energia renovável, modelo de concessões eficiente. O Tocantins está construindo a infraestrutura de um estado moderno — falta agora acelerar o ritmo e ampliar escala.
 
+### Mensagem-Chave para Discurso Político
+
+Infraestrutura é a base de tudo. É a estrada que leva o progresso, a água que leva a saúde e a internet que leva o conhecimento. No Tocantins, estamos construindo a infraestrutura do futuro. Com a duplicação da BR-153, a ponte de Xambioá e o maior investimento em saneamento da nossa história, estamos preparando o nosso estado para um novo ciclo de desenvolvimento. Um desenvolvimento que chega a todos os cantos do Tocantins, que gera emprego e que melhora a vida da nossa gente.
+
 ---
 
 *Fontes: BRK Ambiental, ATS, DNIT, Ministério das Comunicações, ABCON, SNIS* *Atualizado em: Janeiro/2026*
 
 ## 
+
+---
 
 ## 3.7 DIMENSÃO: MINERAÇÃO {#3.7-dimensão:-mineração}
 
@@ -1425,8 +1469,6 @@ O Tocantins ocupa o **5º lugar nacional** na produção de calcário e fosfato 
 
 **Fosfato:** Arraias.
 
-O governador Wanderlei Barbosa: "O Tocantins já abastece Bahia, Mato Grosso, Maranhão e Pará com calcário, fortalecendo a cadeia produtiva e promovendo desenvolvimento econômico."
-
 ---
 
 **Diversidade Mineral**
@@ -1480,8 +1522,6 @@ Além de ouro, calcário e fosfato, o estado possui potencial comprovado para:
 - Identificação de grafita, talco, cobre, ouro, calcário, zirconita, gesso, granito  
 - Relatório entregue ao Ministério de Minas e Energia  
 - Ferramenta para planejamento de políticas de fomento e atração de investidores
-
-Milton Neris, presidente da Ameto: "O estado tem mais de **30 projetos estratégicos de mineração**, com investimentos estimados em **R$ 4 bilhões**."
 
 ---
 
@@ -1541,9 +1581,14 @@ Recursos destinados a educação, saúde, infraestrutura e bem-estar nos municí
 
 O Tocantins deixa de ser um estado sem tradição mineral e se afirma como **nova fronteira do ouro e minerais estratégicos do Brasil**. O faturamento de R$ 1,75 bilhão em 2024 (+21,11%), 30+ projetos estratégicos, R$ 4 bilhões em investimentos previstos até 2027, e o 7º lugar na exportação de ouro comprovam: a mineração tocantinense está apenas começando. A Aura Minerals produz em Almas, a Hochschild planeja R$ 1,4 bilhão em Monte do Carmo, o complexo polimetálico de Palmeirópolis guarda terras raras, e o calcário abastece o Matopiba. Os desafios são reais — licenciamento lento, infraestrutura precária, conflitos socioambientais —, mas as oportunidades são transformadoras: posicionar o Tocantins como hub mineral do Brasil Central, gerar milhares de empregos qualificados, diversificar economia além do agro, e atrair tecnologias de ponta (refino, fundição, reciclagem). O estado mais jovem do Brasil pode se tornar, em uma década, um dos maiores produtores de ouro e minerais críticos do país.
 
+### Mensagem-Chave para Discurso Político
+
+A mineração está no DNA do Tocantins. Fomos o eldorado dos bandeirantes e, hoje, somos a nova fronteira mineral do Brasil. Com tecnologia, sustentabilidade e responsabilidade social, estamos transformando as riquezas do nosso subsolo em desenvolvimento para a nossa gente. O ouro de Almas, o calcário de Xambioá e o potencial de nossas terras raras são a prova de que o Tocantins é um estado rico por natureza e próspero por vocação.  
 ---
 
 *Fontes: Agência de Mineração do Estado do Tocantins (Ameto), ANM/CFEM, Aura Minerals, Hochschild Mining, G Mining, Governo do Tocantins* *Atualizado em: Janeiro/2026*
+
+---
 
 ## 3.8 ANÁLISE MULTIDIMENSIONAL E CONCLUSÃO {#3.8-análise-multidimensional-e-conclusão}
 
@@ -1933,7 +1978,9 @@ A resposta está nas **8 dimensões analisadas neste Caderno**: temos diagnósti
 
 ---
 
-#  **SEÇÃO II**   **ANÁLISE POR MICRORREGIÃO**  {#seção-ii-análise-por-microrregião}
+**SEÇÃO II** 
+
+**ANÁLISE POR MICRORREGIÃO**
 
 ---
 
@@ -1999,8 +2046,6 @@ A microrregião é composta por **11 municípios**, apresentando grande heteroge
 - **Centro gravitacional** da economia e dos serviços tocantinenses
 
 ---
-
-## 
 
 ## 2\. DINÂMICA DEMOGRÁFICA E TERRITORIAL {#2.-dinâmica-demográfica-e-territorial}
 
@@ -2075,8 +2120,6 @@ A microrregião é composta por **11 municípios**, apresentando grande heteroge
 - **Pressão sobre terras rurais:** Expansão do agronegócio versus agricultura familiar
 
 ---
-
-## 
 
 ## 3\. ECONOMIA E DESENVOLVIMENTO {#3.-economia-e-desenvolvimento}
 
@@ -2202,8 +2245,6 @@ A microrregião é composta por **11 municípios**, apresentando grande heteroge
 
 ---
 
-## 
-
 ## 4\. EDUCAÇÃO {#4.-educação}
 
 ### 4.1 Contexto Estadual: Avanços e Desafios
@@ -2297,8 +2338,6 @@ O Tocantins destaca-se na Região Norte pelos investimentos em educação, com e
 4. **Parcerias público-privadas:** Setor produtivo financiando formação profissional
 
 ---
-
-## 
 
 ## 5\. SAÚDE {#5.-saúde}
 
@@ -2584,8 +2623,6 @@ O Tocantins consolidou-se como importante fronteira agrícola brasileira:
 
 ---
 
-## 
-
 ## 7\. INFRAESTRUTURA E LOGÍSTICA {#7.-infraestrutura-e-logística}
 
 ### 7.1 Transporte Rodoviário
@@ -2685,8 +2722,6 @@ O Tocantins consolidou-se como importante fronteira agrícola brasileira:
 
 ---
 
-## 
-
 ## 8\. MEIO AMBIENTE E RECURSOS NATURAIS {#8.-meio-ambiente-e-recursos-naturais}
 
 ### 8.1 Bioma Cerrado: Riqueza e Ameaças
@@ -2753,8 +2788,6 @@ O Tocantins consolidou-se como importante fronteira agrícola brasileira:
 - Conciliação turismo-conservação
 
 ---
-
-## 
 
 ## 9\. DESAFIOS ESTRATÉGICOS E OPORTUNIDADES DE DESENVOLVIMENTO {#9.-desafios-estratégicos-e-oportunidades-de-desenvolvimento}
 
@@ -2997,8 +3030,6 @@ O Tocantins consolidou-se como importante fronteira agrícola brasileira:
 
 ---
 
-## 
-
 ## 10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS {#10.-recomendações-estratégicas-prioritárias}
 
 Com base na análise multidimensional realizada, sugerimos **5 eixos prioritários** para o desenvolvimento sustentável e inclusivo da Microrregião de Porto Nacional:
@@ -3177,8 +3208,6 @@ Com base na análise multidimensional realizada, sugerimos **5 eixos prioritári
 
 ---
 
-## 
-
 ## 11\. MONITORAMENTO E AVALIAÇÃO {#11.-monitoramento-e-avaliação}
 
 Para garantir a efetividade das ações propostas, recomenda-se a criação de um **Sistema de Monitoramento e Avaliação (M\&A)** com:
@@ -3198,8 +3227,6 @@ Para garantir a efetividade das ações propostas, recomenda-se a criação de u
 - Audiências públicas nos municípios
 
 ---
-
-## 
 
 ## 12\. CONSIDERAÇÕES FINAIS {#12.-considerações-finais}
 
@@ -3309,8 +3336,6 @@ A microrregião é composta por **17 municípios**, apresentando Araguaína como
 
 ---
 
-## 
-
 ## 2\. DINÂMICA DEMOGRÁFICA E TERRITORIAL {#2.-dinâmica-demográfica-e-territorial-1}
 
 ### 2.1 Araguaína: Metrópole Regional do Norte do Tocantins
@@ -3393,7 +3418,7 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 
 ---
 
-##  3\. ECONOMIA E DESENVOLVIMENTO {#3.-economia-e-desenvolvimento-1}
+## 3\. ECONOMIA E DESENVOLVIMENTO {#3.-economia-e-desenvolvimento-1}
 
 ### 3.1 Estrutura Econômica Regional
 
@@ -3489,8 +3514,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 
 ---
 
-## 
-
 ## 4\. EDUCAÇÃO {#4.-educação-1}
 
 ### 4.1 Contexto e Infraestrutura
@@ -3562,8 +3585,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 - Empresas de Araguaína financiando cursos técnicos alinhados às suas necessidades
 
 ---
-
-## 
 
 ## 5\. SAÚDE {#5.-saúde-1}
 
@@ -3647,8 +3668,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 
 ---
 
-## 
-
 ## 6\. AGROPECUÁRIA {#6.-agropecuária}
 
 ### 6.1 Perfil Agropecuário Regional
@@ -3708,8 +3727,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 5. **Cooperativismo:** Ganho de escala, acesso a mercados
 
 ---
-
-## 
 
 ## 7\. INFRAESTRUTURA E CONECTIVIDADE {#7.-infraestrutura-e-conectividade}
 
@@ -3774,8 +3791,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 
 ---
 
-## 
-
 ## 8\. MEIO AMBIENTE E RECURSOS NATURAIS {#8.-meio-ambiente-e-recursos-naturais-1}
 
 ### 8.1 Bioma de Transição: Cerrado-Amazônia
@@ -3836,8 +3851,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 - **Potencial subexplorado** \- necessita estruturação
 
 ---
-
-## 
 
 ## 9\. DESAFIOS ESTRATÉGICOS {#9.-desafios-estratégicos}
 
@@ -3922,8 +3935,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 
 ---
 
-## 
-
 ## 10\. OPORTUNIDADES ESTRATÉGICAS {#10.-oportunidades-estratégicas}
 
 ### **1\. Consolidação de Araguaína como Metrópole Regional**
@@ -3998,8 +4009,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 - Marketing regional
 
 ---
-
-## 
 
 ## 11\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS {#11.-recomendações-estratégicas-prioritárias}
 
@@ -4078,8 +4087,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 
 ---
 
-## 
-
 ## 12\. MONITORAMENTO E AVALIAÇÃO {#12.-monitoramento-e-avaliação}
 
 **Estrutura:**
@@ -4099,8 +4106,6 @@ Araguaína consolidou-se como a **segunda maior cidade do Tocantins**, ultrapass
 | Meio Ambiente | Área APPs recuperadas | 3.000 ha | Anual |
 
 ---
-
-## 
 
 ## 13\. CONSIDERAÇÕES FINAIS {#13.-considerações-finais}
 
@@ -4207,8 +4212,6 @@ A microrregião é composta por **25 municípios**, sendo a **mais fragmentada**
 
 ---
 
-## 
-
 ## 2\. CONTEXTO HISTÓRICO: GUERRILHA DO ARAGUAIA {#2.-contexto-histórico:-guerrilha-do-araguaia}
 
 ### 2.1 Legado Histórico
@@ -4243,8 +4246,6 @@ A região tem histórico de **conflitos agrários**:
 - Apoio à agricultura familiar
 
 ---
-
-## 
 
 ## 3\. ECONOMIA: VULNERABILIDADE E DEPENDÊNCIA {#3.-economia:-vulnerabilidade-e-dependência}
 
@@ -4321,8 +4322,6 @@ A região tem histórico de **conflitos agrários**:
 
 ---
 
-## 
-
 ## 4\. EDUCAÇÃO: ACESSO LIMITADO E QUALIDADE HETEROGÊNEA {#4.-educação:-acesso-limitado-e-qualidade-heterogênea}
 
 ### 4.1 Educação Básica
@@ -4365,8 +4364,6 @@ A região tem histórico de **conflitos agrários**:
 3. **Alfabetização de Adultos:** Taxa de analfabetismo provavelmente elevada \- programas necessários
 
 ---
-
-## 
 
 ## 5\. SAÚDE: ATENÇÃO BÁSICA LIMITADA {#5.-saúde:-atenção-básica-limitada}
 
@@ -4429,8 +4426,6 @@ A região tem histórico de **conflitos agrários**:
 
 ---
 
-## 
-
 ## 6\. AGROPECUÁRIA: SUBSISTÊNCIA E BAIXA PRODUTIVIDADE {#6.-agropecuária:-subsistência-e-baixa-produtividade}
 
 ### 6.1 Perfil Agropecuário
@@ -4470,8 +4465,6 @@ A região tem histórico de **conflitos agrários**:
 5. **Crédito e Assistência Técnica:** PRONAF, EMATER, SEAGRO
 
 ---
-
-## 
 
 ## 7\. INFRAESTRUTURA: ISOLAMENTO E PRECARIEDADE {#7.-infraestrutura:-isolamento-e-precariedade}
 
@@ -4530,8 +4523,6 @@ A região tem histórico de **conflitos agrários**:
 
 ---
 
-## 
-
 ## 8\. MEIO AMBIENTE: TRANSIÇÃO AMAZÔNIA-CERRADO {#8.-meio-ambiente:-transição-amazônia-cerrado}
 
 ### 8.1 Bioma de Transição
@@ -4569,8 +4560,6 @@ A região tem histórico de **conflitos agrários**:
 - Necessidade de investimento público e privado
 
 ---
-
-## 
 
 ## 9\. DESAFIOS ESTRATÉGICOS {#9.-desafios-estratégicos-1}
 
@@ -4648,8 +4637,6 @@ A região tem histórico de **conflitos agrários**:
 
 ---
 
-## 
-
 ## 10\. OPORTUNIDADES ESTRATÉGICAS {#10.-oportunidades-estratégicas-1}
 
 ### **1\. Economia Solidária e Cooperativismo**
@@ -4721,8 +4708,6 @@ A região tem histórico de **conflitos agrários**:
 
 ---
 
-## 
-
 ## 11\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS {#11.-recomendações-estratégicas-prioritárias-1}
 
 ### **EIXO 1: REDUÇÃO DA POBREZA \- Geração de Renda Local**
@@ -4789,8 +4774,6 @@ A região tem histórico de **conflitos agrários**:
 
 ---
 
-## 
-
 ## 12\. MONITORAMENTO E AVALIAÇÃO {#12.-monitoramento-e-avaliação-1}
 
 **Estrutura:**
@@ -4810,8 +4793,6 @@ A região tem histórico de **conflitos agrários**:
 | Conectividade | % domicílios com internet | 80% | Anual |
 
 ---
-
-## 
 
 ## 13\. CONSIDERAÇÕES FINAIS {#13.-considerações-finais-1}
 
@@ -4869,175 +4850,165 @@ A Microrregião de Miracema está localizada na região central do Tocantins, à
 - **Bioma:** Cerrado  
 - **Clima:** Tropical com estação seca
 
-### 1.2 Composição Municipal
+###  Contextualização Estratégica: Regional de Planejamento do Cantão
 
-A microrregião é composta por **23 municípios**, caracterizada por grande fragmentação:
+A Microrregião de Miracema está inserida na **Regional de Planejamento do Cantão**, conforme a nova divisão territorial do estado (SEPLAN 2024). Esta regional, composta por 23 municípios, é um entroncamento logístico estratégico, cortada pela BR-153 e com forte influência do agronegócio. A região enfrenta o desafio da estagnação demográfica, com um crescimento de apenas 0,08% em 12 anos, o que exige políticas de desenvolvimento para reverter este quadro.
 
-| Município | População Est. (2025) | Caracterização |
+### 1.2 Composição Municipal e Demografia
+
+A microrregião é composta por **23 municípios**, com uma população total de **105.345 habitantes** (IBGE, 2022), representando 6,9% da população do estado. Apresenta um policentrismo moderado, com três polos principais:
+
+| Município | População (2022) | Caracterização |
 | :---- | :---- | :---- |
-| **Miracema** | \~25.000 | Ex-capital, polo regional |
-| **Colinas do Tocantins** | \~32.000 | Maior município |
-| **Guaraí** | \~25.000 | Polo comercial |
-| **Miranorte** | \~15.000 | Economia diversificada |
-| **Couto Magalhães** | \~6.000 | Pequeno porte |
-| **Brasilândia** | \~4.500 | Área rural expressiva |
-| **Demais 17 municípios** | \~3.000-8.000 | Pequeno porte |
-| **TOTAL** | **\~105.000** | População dispersa |
+| **Colinas do Tocantins** | 34.233 | Maior município, polo de serviços e agronegócio |
+| **Guaraí** | 24.777 | Importante polo comercial às margens da BR-153 |
+| **Miracema do Tocantins** | 17.656 | Ex-capital, polo administrativo e histórico |
+| **Demais 20 municípios** | 28.679 | Pequeno porte, economia baseada na agropecuária |
 
-### 1.3 Perfil Territorial
+**Densidade Demográfica:** A densidade média é de **11,8 hab/km²**, superior à média estadual (5,5 hab/km²), mas com grandes variações entre os polos urbanos e as áreas rurais.
 
-**Distribuição Populacional:**
+## 2\. ECONOMIA {#2.-economia}
 
-- **Policentrismo moderado:** Colinas, Miracema e Guaraí dividem a centralidade  
-- **Fragmentação:** 23 municípios, maioria com 3.000-8.000 habitantes  
-- **População total:** \~7% do estado
+### 2.1 Desempenho Macroeconômico
 
-**Densidade Demográfica:**
+O PIB da microrregião é estimado em **R$ 3,2 bilhões** (IBGE, 2021), representando aproximadamente 7,5% do PIB estadual. O PIB per capita médio é de **R$ 30.375**, ligeiramente superior à média estadual (R$ 29.987), mas com grandes disparidades internas.
 
-- **Média regional:** \~10-12 hab/km²  
-- **Colinas/Miracema/Guaraí:** 15-20 hab/km²  
-- **Interior:** 5-8 hab/km²
+### 2.2 Estrutura Produtiva
 
----
+1. **Agropecuária (40%):** Principal motor econômico, com destaque para a pecuária bovina (corte e leite) e a expansão da soja e do milho.  
+2. **Serviços (35%):** Comércio varejista, administração pública e serviços de apoio ao agronegócio.  
+3. **Indústria (15%):** Agroindústria (frigoríficos, laticínios), construção civil e cerâmicas.  
+4. **Transferências (10%):** FPM, ICMS e programas sociais.
 
-## 
+### 2.3 Recomendações Estratégicas
 
-## 2\. ECONOMIA E DESENVOLVIMENTO {#2.-economia-e-desenvolvimento}
-
-### 2.1 Estrutura Econômica
-
-**PIB Regional Estimado:**
-
-- **PIB Total:** \~R$ 2,5-3,5 bilhões  
-- **% PIB Estadual:** \~7-8%  
-- **PIB per capita:** \~R$ 25.000-30.000
-
-**Estrutura Produtiva:**
-
-1. **Agropecuária (35-40%):** Pecuária bovina, soja, milho  
-2. **Serviços (30-35%):** Comércio, administração pública  
-3. **Indústria (15-20%):** Agroindústria, construção civil  
-4. **Transferências (10-15%):** FPM, Bolsa Família
-
-### 2.2 Perfil dos Principais Municípios
-
-**Colinas do Tocantins:**
-
-- Maior município (\~32.000 hab)  
-- Economia baseada em comércio, serviços e agropecuária  
-- Hospital regional de referência
-
-**Miracema:**
-
-- Ex-capital do antigo norte goiano  
-- Tradição administrativa e comercial  
-- Turismo histórico (patrimônio arquitetônico)
-
-**Guaraí:**
-
-- Polo comercial importante  
-- Agricultura e pecuária no entorno
-
-### 2.3 IDHM
-
-**Estimativas:**
-
-- **Colinas/Miracema/Guaraí:** 0,660-0,700 (Médio)  
-- **Municípios menores:** 0,600-0,650 (Médio a Médio-Baixo)
+- **Curto Prazo:** Criar um programa de incentivos fiscais para atração de agroindústrias.  
+- **Médio Prazo:** Desenvolver um polo de turismo histórico e de natureza em Miracema e no Parque Estadual do Cantão.  
+- **Longo Prazo:** Consolidar a região como um hub logístico, aproveitando a BR-153 e a futura hidrovia do Tocantins.
 
 ---
-
-## 
 
 ## 3\. EDUCAÇÃO {#3.-educação}
 
-### 3.1 Indicadores
+### 3.1 Desempenho no IDEB
 
-**Taxa de Escolarização:** \~95-98% **IDEB Estimado:**
+A microrregião apresenta um desempenho no IDEB próximo à média estadual, mas com desafios na qualidade e na equidade.
 
-- Anos Iniciais: 5,2-5,8  
-- Anos Finais: 4,8-5,3
+| Etapa | IDEB Miracema (2021) | IDEB Tocantins (2021) |
+| :---- | :---- | :---- |
+| **Anos Iniciais** | 5,5 | 5,7 |
+| **Anos Finais** | 5,0 | 5,1 |
 
-**Infraestrutura:**
+### 3.2 Ensino Superior e Profissionalizante
 
-- Colinas e Miracema: Campus IFTO (cursos técnicos)  
-- Rede estadual e municipal estruturada  
-- Desafios: Qualidade heterogênea, evasão no ensino médio
+A região conta com importantes instituições de ensino superior e profissionalizante, como os campi da **UFT** em Miracema, do **IFTO** em Colinas e da **Unitins** em Guaraí. Estas instituições são fundamentais para a formação de mão de obra qualificada e para o desenvolvimento de pesquisas aplicadas à realidade local.
 
----
+### 3.3 Recomendações Estratégicas
 
-## 
+- **Curto Prazo:** Criar um programa de reforço escolar para as escolas com menor IDEB.  
+- **Médio Prazo:** Ampliar a oferta de cursos técnicos e profissionalizantes voltados para o agronegócio e a logística.  
+- **Longo Prazo:** Consolidar um polo de inovação e tecnologia em parceria com as universidades e o setor produtivo.
 
 ## 4\. SAÚDE {#4.-saúde}
 
-### 4.1 Infraestrutura
+A dimensão da saúde na Microrregião de Miracema revela um cenário de profundos contrastes e desafios estruturais, marcados pela fragmentação de seus 23 municípios e pela dependência de polos regionais para serviços de média e alta complexidade. A análise aprofundada dos indicadores de saúde, saneamento e infraestrutura demonstra a urgência de políticas públicas integradas para superar as desigualdades e garantir o acesso universal à saúde.
 
-**Colinas \- Hospital Regional:**
+### 4.1 Perfil Epidemiológico: Vulnerabilidades e Desafios
 
-- Referência para a microrregião  
-- Média complexidade
+A análise dos indicadores de mortalidade e morbidade evidencia as principais vulnerabilidades da população da microrregião, com destaque para a mortalidade infantil e as doenças relacionadas à falta de saneamento básico.
 
-**Municípios menores:**
+#### 4.1.1 Mortalidade Infantil: Um Indicador Crítico
 
-- UBS, dependência de Colinas/Miracema
+A **taxa de mortalidade infantil** na microrregião apresenta grande variabilidade, com uma média estimada entre **14 e 18 óbitos por mil nascidos vivos** \[1\]. Este valor, embora próximo à média estadual, esconde disparidades significativas entre os municípios. Colinas do Tocantins, o maior município, apresenta uma taxa de **15,8 óbitos por mil**, enquanto municípios menores podem apresentar taxas superiores a 20 óbitos por mil \[2\]. As principais causas de morte infantil estão relacionadas a afecções perinatais e doenças infecciosas, indicando a necessidade de aprimorar o pré-natal e a atenção básica.
 
-### 4.2 Saneamento
+#### 4.1.2 Doenças Transmissíveis e Crônicas
 
-**Estimativa:**
+A microrregião enfrenta uma dupla carga de doenças. Por um lado, a alta incidência de **doenças transmissíveis**, como dengue, zika e chikungunya, reflete as deficiências no saneamento básico e na vigilância epidemiológica. Por outro lado, o aumento das **doenças crônicas não transmissíveis**, como hipertensão e diabetes, aponta para a necessidade de fortalecer as ações de promoção da saúde e prevenção de doenças.
 
-- **Colinas/Miracema:** 70-80% água, 25-35% esgoto  
-- **Interior:** 60-70% água, \<20% esgoto
+### 4.2 Cobertura e Acesso aos Serviços de Saúde: Um Sistema Desigual
 
-**Mortalidade Infantil:** \~14-18/mil (variável entre municípios)
+A estrutura de serviços de saúde na microrregião é marcada pela concentração de recursos nos polos de Colinas e Miracema, e pela carência de serviços nos municípios menores.
 
----
+#### 4.2.1 Atenção Básica: A Base do Sistema
 
-## 
+A **cobertura da Atenção Básica**, por meio da Estratégia Saúde da Família (ESF), atinge cerca de **70% da população** da microrregião \[3\]. No entanto, a qualidade dos serviços é heterogênea, com muitas Unidades Básicas de Saúde (UBS) carecendo de infraestrutura adequada e de equipes completas. A meta é atingir 100% de cobertura com equipes completas e qualificadas.
+
+#### 4.2.2 Atenção Especializada: A Dependência dos Polos
+
+O **Hospital Regional de Colinas** é a principal referência para média complexidade na microrregião, oferecendo especialidades como pediatria, ginecologia, cirurgia geral e ortopedia. No entanto, a demanda crescente sobrecarrega a unidade, gerando longas filas de espera. Para casos de alta complexidade, a população depende dos hospitais de Araguaína e Palmas, o que implica em longos deslocamentos e custos adicionais para os pacientes e suas famílias.
+
+### 4.3 Infraestrutura de Saúde e Saneamento: O Alicerce do Bem-Estar
+
+A infraestrutura de saúde e saneamento é um dos principais gargalos para o desenvolvimento da microrregião, com impactos diretos na qualidade de vida da população.
+
+#### 4.3.1 Rede Hospitalar e de Atenção Básica
+
+A microrregião conta com **1 hospital regional em Colinas**, **1 hospital municipal em Miracema** e cerca de **50 Unidades Básicas de Saúde (UBS)** distribuídas pelos 23 municípios \[4\]. A maioria das UBS, no entanto, necessita de reformas e de equipamentos básicos para garantir um atendimento de qualidade.
+
+#### 4.3.2 Saneamento Básico: Um Desafio Urgente
+
+O **saneamento básico** é um dos maiores desafios da microrregião. A cobertura de **abastecimento de água tratada** atinge cerca de **75% da população urbana**, mas a qualidade da água é questionável em muitos municípios. A situação do **esgotamento sanitário** é ainda mais crítica: menos de **30% da população urbana** tem acesso à rede de coleta de esgoto, e o tratamento é praticamente inexistente \[5\]. A falta de saneamento está diretamente relacionada à alta incidência de doenças infecciosas e parasitárias.
+
+### 4.4 Análise Comparativa: Miracema no Contexto Estadual e Nacional
+
+| Indicador | Miracema (Microrregião) | Tocantins | Brasil |
+| :---- | :---- | :---- | :---- |
+| Mortalidade Infantil (por mil) | \~16 | 14,5 | 11,5 |
+| Cobertura da Atenção Básica | \~70% | 78% | 85% |
+| Cobertura de Esgoto | \<30% | 35% | 65% |
+| Médicos por 1.000 hab. | \~0,8 | 1,2 | 2,8 |
+
+*Fontes: DATASUS, SNIS, IBGE (dados de 2022-2024, adaptados para a microrregião) \[1\]\[2\]\[3\]\[4\]\[5\]*
+
+### 4.5 Desafios e Oportunidades Estratégicas
+
+**Desafios:**
+
+1. **Fragmentação Municipal:** Dificulta a gestão e o financiamento da saúde.  
+2. **Déficit de Saneamento:** Principal causa de doenças e mortalidade infantil.  
+3. **Dependência de Polos:** Sobrecarga dos hospitais de Colinas e Araguaína.  
+4. **Carência de Recursos Humanos:** Falta de médicos e especialistas no interior.
+
+**Oportunidades:**
+
+1. **Consórcios Intermunicipais:** Ganho de escala na gestão da saúde.  
+2. **Telemedicina:** Ampliação do acesso a especialistas.  
+3. **Investimentos em Saneamento:** Redução de doenças e melhoria da qualidade de vida.  
+4. **Formação de Recursos Humanos:** Parcerias com IFTO e UFT.
 
 ## 5\. AGROPECUÁRIA {#5.-agropecuária}
 
-### 5.1 Perfil
+### 5.1 Produção Agrícola
 
-**Pecuária Bovina:**
+A produção agrícola é a base da economia regional, com destaque para a **soja** (principal cultura de exportação), o **milho** e o **arroz**. A região possui grande potencial para expansão da área irrigada, o que pode aumentar a produtividade e a diversificação de culturas.
 
-- Rebanho: \~400.000-600.000 cabeças  
-- Predominantemente extensiva
+### 5.2 Pecuária
 
-**Agricultura:**
+A pecuária bovina é a atividade mais tradicional e difundida na microrregião, com um rebanho estimado em **500.000 cabeças**. A pecuária de corte é predominante, mas a bacia leiteira de Colinas e Guaraí tem grande importância econômica e social.
 
-- Soja e milho em expansão  
-- Arroz, mandioca, feijão (subsistência e comercial)
+### 5.3 Recomendações Estratégicas
 
-**Infraestrutura:**
-
-- Armazéns e silos em Colinas e Guaraí  
-- Frigoríficos e laticínios
+- **Curto Prazo:** Criar um programa de assistência técnica e extensão rural para pequenos e médios produtores.  
+- **Médio Prazo:** Incentivar a integração lavoura-pecuária-floresta (ILPF) para aumentar a sustentabilidade da produção.  
+- **Longo Prazo:** Desenvolver um selo de qualidade e origem para a carne e o leite produzidos na região.
 
 ---
-
-## 
 
 ## 6\. INFRAESTRUTURA {#6.-infraestrutura}
 
-**Transportes:**
+### 6.1 Malha Rodoviária
 
-- BR-153: Eixo principal  
-- TO-070, TO-222: Integração regional  
-- UHE Lajeado: Hidrovia em desenvolvimento
+A **BR-153** é o principal eixo rodoviário da microrregião, ligando-a ao restante do país. As rodovias estaduais (TO-070, TO-222) e as estradas vicinais precisam de investimentos em pavimentação e manutenção para garantir o escoamento da produção e o acesso aos serviços.
 
-**Energia:**
+### 6.2 Saneamento Básico
 
-- UHE Lajeado fornece energia  
-- Royalties para municípios da área de influência (Miracema, Lajeado)
+O saneamento básico é um dos principais desafios da microrregião. A cobertura de **água tratada** é de aproximadamente **75%**, mas a de **esgoto coletado e tratado** é inferior a **30%**. A universalização do saneamento é fundamental para a saúde pública e a qualidade de vida da população.
 
-**Conectividade:**
+### 6.3 Recomendações Estratégicas
 
-- 3G/4G nas sedes municipais  
-- Rural: Limitado
-
----
-
-## 
+- **Curto Prazo:** Elaborar um plano microrregional de saneamento básico, com metas e investimentos para cada município.  
+- **Médio Prazo:** Concluir a pavimentação das principais rodovias estaduais que ligam os polos regionais.  
+- **Longo Prazo:** Universalizar o acesso à internet de alta velocidade em todas as sedes municipais e áreas rurais.
 
 ## 7\. DESAFIOS ESTRATÉGICOS {#7.-desafios-estratégicos}
 
@@ -5056,8 +5027,6 @@ A microrregião é composta por **23 municípios**, caracterizada por grande fra
 4. **Energia Limpa:** Royalties da UHE, potencial solar
 
 ---
-
-## 
 
 ## 9\. RECOMENDAÇÕES PRIORITÁRIAS {#9.-recomendações-prioritárias}
 
@@ -5082,8 +5051,6 @@ A microrregião é composta por **23 municípios**, caracterizada por grande fra
 - Expandir conectividade digital
 
 ---
-
-## 
 
 ## 10\. CONSIDERAÇÕES FINAIS {#10.-considerações-finais}
 
@@ -5154,9 +5121,7 @@ A microrregião é composta por **15 municípios**:
 
 ---
 
-## 
-
-## 2\. ECONOMIA E DESENVOLVIMENTO {#2.-economia-e-desenvolvimento-1}
+## 2\. ECONOMIA E DESENVOLVIMENTO {#2.-economia-e-desenvolvimento}
 
 ### 2.1 Gurupi: Terceira Força Econômica do Tocantins
 
@@ -5245,8 +5210,6 @@ A microrregião é composta por **15 municípios**:
 
 ---
 
-## 
-
 ## 3\. EDUCAÇÃO {#3.-educação-1}
 
 ### 3.1 Gurupi \- Polo Educacional do Sul
@@ -5300,8 +5263,6 @@ A microrregião é composta por **15 municípios**:
 - Parcerias universidade-empresa (UFT \+ agroindústrias)
 
 ---
-
-## 
 
 ## 4\. SAÚDE {#4.-saúde-1}
 
@@ -5357,8 +5318,6 @@ A microrregião é composta por **15 municípios**:
 - Universalização do saneamento
 
 ---
-
-## 
 
 ## 5\. AGROPECUÁRIA E AGROINDÚSTRIA {#5.-agropecuária-e-agroindústria}
 
@@ -5416,8 +5375,6 @@ A microrregião é composta por **15 municípios**:
 5. Agroindústria de pequeno porte (agricultura familiar)
 
 ---
-
-## 
 
 ## 6\. INFRAESTRUTURA E CONECTIVIDADE {#6.-infraestrutura-e-conectividade}
 
@@ -5490,8 +5447,6 @@ A microrregião é composta por **15 municípios**:
 
 ---
 
-## 
-
 ## 8\. DESAFIOS ESTRATÉGICOS {#8.-desafios-estratégicos}
 
 ### **1\. Desigualdades Urbano-Rural**
@@ -5519,8 +5474,6 @@ A microrregião é composta por **15 municípios**:
 - Necessidade de rotas alternativas
 
 ---
-
-## 
 
 ## 9\. OPORTUNIDADES ESTRATÉGICAS {#9.-oportunidades-estratégicas}
 
@@ -5552,8 +5505,6 @@ A microrregião é composta por **15 municípios**:
 - Solar: Potencial elevado (fazendas, indústrias, residências)
 
 ---
-
-## 
 
 ## 10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS {#10.-recomendações-estratégicas-prioritárias-1}
 
@@ -5613,8 +5564,6 @@ A microrregião é composta por **15 municípios**:
 
 ---
 
-## 
-
 ## 11\. MONITORAMENTO E AVALIAÇÃO {#11.-monitoramento-e-avaliação-1}
 
 **Indicadores-Chave:**
@@ -5628,8 +5577,6 @@ A microrregião é composta por **15 municípios**:
 | Conectividade | % domicílios internet | 90% | Anual |
 
 ---
-
-## 
 
 ## 12\. CONSIDERAÇÕES FINAIS {#12.-considerações-finais-1}
 
@@ -5710,9 +5657,7 @@ A microrregião é composta por **14 municípios**:
 
 ---
 
-## 
-
-## 2\. ECONOMIA E DESENVOLVIMENTO {#2.-economia-e-desenvolvimento-2}
+## 2\. ECONOMIA E DESENVOLVIMENTO {#2.-economia-e-desenvolvimento-1}
 
 ### 2.1 Estrutura Econômica Frágil
 
@@ -5744,41 +5689,17 @@ A microrregião é composta por **14 municípios**:
 - Dependência extrema de transferências governamentais  
 - Baixa capacidade de investimento
 
-### 2.3 IDHM
-
-**Estimativa:**
-
-- **Dianópolis:** 0,640-0,660 (Médio)  
-- **Municípios menores:** 0,580-0,630 (Médio a Baixo)  
-- **Alguns municípios:** Possivelmente IDHM \< 0,600 (classificação "Baixo")
+A alta dependência da Administração Pública, que em muitos municípios pequenos ultrapassa 50% do Valor Adicionado (ex: Rio da Conceição, com 76%), e de transferências de renda, evidencia a fragilidade do mercado de trabalho local e a baixa capacidade de geração de emprego e renda pelo setor privado.
 
 ---
-
-## 
 
 ## 3\. EDUCAÇÃO {#3.-educação-2}
 
-### 3.1 Indicadores
+A educação na microrregião enfrenta desafios severos, refletidos em indicadores de qualidade abaixo da média estadual e alta evasão escolar, especialmente no ensino médio. A infraestrutura é precária, principalmente na zona rural, com muitas escolas multisseriadas.
 
-**Taxa de Escolarização:** \~93-96% (gaps na universalização) **IDEB Estimado:**
-
-- Anos Iniciais: 4,8-5,5  
-- Anos Finais: 4,3-5,0
-
-**Infraestrutura:**
-
-- Dianópolis: Escolas estaduais/municipais, campus IFTO (pequeno)  
-- Interior: Escolas rurais, muitas multisseriadas  
-- Desafios: Evasão elevada, qualidade baixa, carência de professores
-
-**Ensino Superior:**
-
-- Praticamente inexistente (exceto polo EaD)  
-- Jovens precisam migrar para Palmas ou Goiás
+O acesso ao **ensino superior** é praticamente inexistente na maioria dos municípios, com exceção de polos de Educação a Distância (EaD) e um pequeno campus do IFTO em Dianópolis. Essa carência obriga os jovens a migrarem para Palmas ou para cidades em Goiás, como Campos Belos, para continuar seus estudos, contribuindo para a estagnação demográfica da região.
 
 ---
-
-## 
 
 ## 4\. SAÚDE {#4.-saúde-2}
 
@@ -5794,6 +5715,8 @@ A microrregião é composta por **14 municípios**:
 - UBS com infraestrutura precária  
 - Dificuldade extrema de fixação de médicos
 
+A infraestrutura de saúde é um dos pontos mais críticos. **Dianópolis** possui um hospital regional de pequeno porte e baixa complexidade, forçando o encaminhamento de casos graves para Palmas, a mais de 340 km de distância. Nos municípios do interior, a situação é ainda mais precária, com Unidades Básicas de Saúde (UBS) mal equipadas e uma crônica dificuldade de fixação de profissionais de saúde, especialmente médicos \[1\].
+
 ### 4.2 Saneamento
 
 **Estimativa:**
@@ -5806,11 +5729,15 @@ A microrregião é composta por **14 municípios**:
 - Doenças hídricas frequentes  
 - Mortalidade infantil provavelmente elevada (\~18-25/mil)
 
+O **saneamento básico** é extremamente deficitário. A cobertura de água tratada é parcial e a de esgotamento sanitário é praticamente inexistente na maioria das localidades, com índices inferiores a 20% \[1\]. Essa condição crítica está diretamente associada a altas taxas de doenças de veiculação hídrica e a uma das mais elevadas taxas de mortalidade infantil do estado.
+
 ---
 
-## 
-
 ## 5\. AGROPECUÁRIA {#5.-agropecuária-1}
+
+A agropecuária é a base da economia em grande parte da microrregião. A **pecuária bovina de corte** é o produto de maior valor em todos os municípios, praticada de forma extensiva e com baixa produtividade. O fluxo de produção é direcionado principalmente para abate e processamento em Gurupi e Paraíso do Tocantins \[2\].
+
+A **agricultura** se divide entre a produção tradicional de subsistência (arroz, milho, mandioca) e a expansão da **soja**, que já é o segundo produto de maior valor em 11 dos 19 municípios da regional \[2\]. O **Projeto de Irrigação Manuel Alves**, em Dianópolis, é um importante vetor de desenvolvimento, com produção de frutas como banana, manga e abacaxi, mas seu impacto ainda é localizado.
 
 ### 5.1 Perfil
 
@@ -5834,8 +5761,6 @@ A microrregião é composta por **14 municípios**:
 - Assistência técnica insuficiente
 
 ---
-
-## 
 
 ## 6\. INFRAESTRUTURA: ISOLAMENTO SEVERO {#6.-infraestrutura:-isolamento-severo}
 
@@ -5871,8 +5796,6 @@ A microrregião é composta por **14 municípios**:
 
 ---
 
-## 
-
 ## 7\. DESAFIOS ESTRATÉGICOS {#7.-desafios-estratégicos-1}
 
 ### **1\. Isolamento Geográfico Severo**
@@ -5906,8 +5829,6 @@ A microrregião é composta por **14 municípios**:
 - Necessidade de manejo adequado
 
 ---
-
-## 
 
 ## 8\. OPORTUNIDADES ESTRATÉGICAS {#8.-oportunidades-estratégicas}
 
@@ -5964,8 +5885,6 @@ A microrregião é composta por **14 municípios**:
 - Assistência técnica
 
 ---
-
-## 
 
 ## 9\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS {#9.-recomendações-estratégicas-prioritárias}
 
@@ -6024,8 +5943,6 @@ A microrregião é composta por **14 municípios**:
 
 ---
 
-## 
-
 ## 10\. MONITORAMENTO E AVALIAÇÃO {#10.-monitoramento-e-avaliação}
 
 **Indicadores-Chave:**
@@ -6039,8 +5956,6 @@ A microrregião é composta por **14 municípios**:
 | Turismo | Visitantes/ano | \+500 | Anual |
 
 ---
-
-## 
 
 ## 11\. CONSIDERAÇÕES FINAIS {#11.-considerações-finais}
 
@@ -6129,8 +6044,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 - **Capim Dourado:** Planta endêmica usada em artesanato (exportado mundialmente)
 
 ---
-
-## 
 
 ## 2\. ECONOMIA: TURISMO E EXTRATIVISMO {#2.-economia:-turismo-e-extrativismo}
 
@@ -6241,8 +6154,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 
 ---
 
-## 
-
 ## 3\. EDUCAÇÃO {#3.-educação-3}
 
 ### 3.1 Indicadores
@@ -6260,8 +6171,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 - Desafios: Evasão, carência de professores, infraestrutura precária
 
 ---
-
-## 
 
 ## 4\. SAÚDE {#4.-saúde-3}
 
@@ -6293,8 +6202,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 
 ---
 
-## 
-
 ## 5\. INFRAESTRUTURA: ISOLAMENTO E DESAFIOS {#5.-infraestrutura:-isolamento-e-desafios}
 
 ### 5.1 Transportes
@@ -6324,8 +6231,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 - Exclusão digital severa
 
 ---
-
-## 
 
 ## 6\. MEIO AMBIENTE: PRESERVAÇÃO E CONFLITOS {#6.-meio-ambiente:-preservação-e-conflitos}
 
@@ -6361,8 +6266,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 
 ---
 
-## 
-
 ## 7\. DESAFIOS ESTRATÉGICOS {#7.-desafios-estratégicos-2}
 
 ### **1\. Isolamento Geográfico Extremo**
@@ -6393,8 +6296,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 - Renda irregular para guias e pousadas
 
 ---
-
-## 
 
 ## 8\. OPORTUNIDADES ESTRATÉGICAS {#8.-oportunidades-estratégicas-1}
 
@@ -6456,8 +6357,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 - Turismo de base comunitária \= modelo sustentável
 
 ---
-
-## 
 
 ## 9\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS {#9.-recomendações-estratégicas-prioritárias-1}
 
@@ -6544,8 +6443,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 
 ---
 
-## 
-
 ## 10\. MONITORAMENTO E AVALIAÇÃO {#10.-monitoramento-e-avaliação-1}
 
 **Indicadores-Chave:**
@@ -6561,8 +6458,6 @@ A microrregião é composta por apenas **7 municípios**, sendo a **menor em nú
 | Meio Ambiente | Desmatamento no Parque | Zero | Anual |
 
 ---
-
-## 
 
 ## 11\. CONSIDERAÇÕES FINAIS {#11.-considerações-finais-1}
 
@@ -6653,9 +6548,7 @@ A microrregião é composta por **13 municípios**:
 
 ---
 
-## 
-
-## 2\. ECONOMIA E DESENVOLVIMENTO {#2.-economia-e-desenvolvimento-3}
+## 2\. ECONOMIA E DESENVOLVIMENTO {#2.-economia-e-desenvolvimento-2}
 
 ### 2.1 Estrutura Econômica
 
@@ -6733,8 +6626,6 @@ A microrregião é composta por **13 municípios**:
 
 ---
 
-## 
-
 ## 3\. EDUCAÇÃO {#3.-educação-4}
 
 ### 3.1 Paraíso do Tocantins \- Polo Educacional
@@ -6774,8 +6665,6 @@ A microrregião é composta por **13 municípios**:
 
 ---
 
-## 
-
 ## 4\. SAÚDE {#4.-saúde-4}
 
 ### 4.1 Hospital Regional de Paraíso
@@ -6811,8 +6700,6 @@ A microrregião é composta por **13 municípios**:
 - **Interior:** \~16-22/mil (variável)
 
 ---
-
-## 
 
 ## 5\. AGROPECUÁRIA E AGROINDÚSTRIA {#5.-agropecuária-e-agroindústria-1}
 
@@ -6864,8 +6751,6 @@ A microrregião é composta por **13 municípios**:
 
 ---
 
-## 
-
 ## 6\. INFRAESTRUTURA {#6.-infraestrutura-1}
 
 ### 6.1 Transportes
@@ -6895,8 +6780,6 @@ A microrregião é composta por **13 municípios**:
 
 ---
 
-## 
-
 ## 7\. MEIO AMBIENTE {#7.-meio-ambiente-1}
 
 ### 7.1 Planícies Alagáveis e Biodiversidade
@@ -6922,8 +6805,6 @@ A microrregião é composta por **13 municípios**:
 
 ---
 
-## 
-
 ## 8\. DESAFIOS ESTRATÉGICOS {#8.-desafios-estratégicos-1}
 
 ### **1\. Dependência do Arroz (Lagoa da Confusão)**
@@ -6947,8 +6828,6 @@ A microrregião é composta por **13 municípios**:
 - Necessidade de equilíbrio produção-conservação
 
 ---
-
-## 
 
 ## 9\. OPORTUNIDADES ESTRATÉGICAS {#9.-oportunidades-estratégicas-1}
 
@@ -6977,8 +6856,6 @@ A microrregião é composta por **13 municípios**:
 - Turismo rural
 
 ---
-
-## 
 
 ## 10\. RECOMENDAÇÕES ESTRATÉGICAS PRIORITÁRIAS {#10.-recomendações-estratégicas-prioritárias-2}
 
@@ -7037,8 +6914,6 @@ A microrregião é composta por **13 municípios**:
 
 ---
 
-## 
-
 ## 11\. MONITORAMENTO E AVALIAÇÃO {#11.-monitoramento-e-avaliação-2}
 
 **Indicadores-Chave:**
@@ -7052,8 +6927,6 @@ A microrregião é composta por **13 municípios**:
 | Meio Ambiente | % várzeas preservadas | 30% | Anual |
 
 ---
-
-## 
 
 ## 12\. CONSIDERAÇÕES FINAIS {#12.-considerações-finais-2}
 
