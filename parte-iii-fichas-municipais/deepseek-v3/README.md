@@ -124,16 +124,27 @@ deepseek-v3/
 volumes-finalizados/
 └── volume-2/
     ├── CADERNO-TOCANTINS-2026-VOLUME-2-FICHAS-MUNICIPAIS.md
-    ├── fichas-por-regiao/
-    │   ├── NORTE/      (municípios do norte)
-    │   ├── CENTRAL/    (municípios do central)
-    │   └── SUL/        (municípios do sul)
-    ├── base-dados/
-    │   ├── BASE-DADOS-TOCANTINS-V02-COMPLETA.csv
-    │   ├── BASE-DADOS-TOCANTINS-V02-COMPLETA.xlsx
-    │   └── DICIONARIO-DADOS-V02.md
-    └── README.md
+    ├── README.md
+    ├── ENTREGA-VOLUME-2-FINALIZADO.md
+    │
+    ├── fichas-por-microrregiao/
+    │   ├── 01-PORTO-NACIONAL/           (11 municípios)
+    │   ├── 02-ARAGUAINA/                (17 municípios)
+    │   ├── 03-BICO-DO-PAPAGAIO/         (25 municípios)
+    │   ├── 04-MIRACEMA-DO-TOCANTINS/    (23 municípios)
+    │   ├── 05-GURUPI/                   (15 municípios)
+    │   ├── 06-DIANOPOLIS/               (18 municípios)
+    │   ├── 07-JALAPAO/                  (15 municípios)
+    │   └── 08-RIO-FORMOSO/              (15 municípios)
+    │
+    └── base-dados/
+        ├── BASE-DADOS-TOCANTINS-V02-COMPLETA.csv
+        ├── BASE-DADOS-TOCANTINS-V02-COMPLETA.xlsx
+        ├── DICIONARIO-DADOS-V02.md
+        └── METADADOS-COMPLETO.md
 ```
+
+**Nota:** A organização segue as **8 microrregiões do Volume 1**, mantendo a consistência metodológica do projeto.
 
 ---
 
