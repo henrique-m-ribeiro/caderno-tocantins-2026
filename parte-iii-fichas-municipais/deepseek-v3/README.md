@@ -10,13 +10,14 @@ Esta pasta contém a estratégia e os materiais para geração do **Volume 2 do 
 
 ## 🎯 OBJETIVO
 
-Criar 139 fichas municipais completas e bases de dados estruturadas, seguindo os princípios do framework **IA-Collab-OS**:
+Criar 139 fichas municipais completas, bases de dados estruturadas e documentação completa, seguindo os princípios do framework **IA-Collab-OS**:
 
 1. **Completude:** Extrair TODOS os indicadores dos Perfis Socioeconômicos
 2. **Qualidade Analítica:** Análises aprofundadas, não apenas descritivas
 3. **Estrutura Consistente:** Todas as fichas seguem o mesmo template
 4. **Utilidade Estratégica:** Diagnósticos integrados e diretrizes concretas
 5. **Rastreabilidade:** Dados vinculados às fontes oficiais
+6. **Documentação:** Metadados completos para cada indicador
 
 ---
 
@@ -29,7 +30,9 @@ deepseek-v3/
 │
 ├── prompts/                          ← Prompts para Deepseek
 │   ├── PROMPT-FICHA-MUNICIPAL-COMPLETA.md
-│   └── PROMPT-CSV-INDICADORES-MUNICIPAIS.md
+│   ├── PROMPT-CSV-INDICADORES-MUNICIPAIS.md
+│   ├── PROMPT-DICIONARIO-DADOS.md
+│   └── README.md
 │
 ├── fichas-completas/                 ← Fichas geradas (139 arquivos)
 │   ├── FICHA-MUNICIPAL-ABREULANDIA-COMPLETA.md
@@ -97,6 +100,31 @@ deepseek-v3/
    - [ ] Séries históricas completas (2019-2023)?
    - [ ] Valores ausentes marcados como vazio ou NA?
 
+### FASE 2.5: GERAÇÃO DO DICIONÁRIO DE DADOS
+
+**Para cada um dos 139 municípios (ou apenas 1 representativo):**
+
+1. **Executar o prompt:**
+   - Abrir o Deepseek V3
+   - Fazer upload do MESMO PDF usado nas Fases 1 e 2
+   - Copiar e colar o conteúdo de `prompts/PROMPT-DICIONARIO-DADOS.md`
+   - Aguardar a documentação completa de todos os indicadores
+
+2. **Validar o Dicionário:**
+   - Verificar número de linhas (deve ser 900+, uma por indicador)
+   - Verificar se campos obrigatórios estão preenchidos
+   - Verificar descrições claras e úteis
+   - Salvar em `csv-indicadores/DICIONARIO-DADOS-[NOME].csv`
+
+3. **Controle de qualidade:**
+   - [ ] 900+ linhas presentes (uma por coluna da planilha)?
+   - [ ] Campos obrigatórios preenchidos (ROTULO_COLUNA, NOME_CURTO, DESCRICAO_COMPLETA, TIPO_DADO, ANO_REFERENCIA, FONTE_PRIMARIA)?
+   - [ ] Descrições claras e não genéricas?
+   - [ ] Fontes identificadas corretamente?
+   - [ ] Tipos de dados apropriados?
+
+**Nota:** Como o dicionário documenta a estrutura da planilha (não os dados específicos de cada município), você pode gerar apenas um dicionário e usá-lo para todos os 139 municípios, ou gerar um para cada município como backup. Recomenda-se gerar para pelo menos 3-5 municípios diferentes e comparar para garantir consistência.
+
 ### FASE 3: CONSOLIDAÇÃO DA BASE DE DADOS
 
 **Após gerar os 139 CSVs individuais:**
@@ -150,7 +178,9 @@ volumes-finalizados/
 
 ## 📊 MÉTRICAS DE PROGRESSO
 
-**Meta:** 139 municípios × 2 entregas (ficha + CSV) = **278 documentos**
+**Meta:** 139 municípios × 3 entregas (ficha + CSV + dicionário*) = **278-417 documentos**
+
+*Dicionário pode ser único para todos ou um por município
 
 **Status Atual:**
 
@@ -158,7 +188,9 @@ volumes-finalizados/
 |------|------|-----------|---|
 | Fichas Municipais | 139 | 0 | 0% |
 | CSVs de Indicadores | 139 | 0 | 0% |
+| Dicionários de Dados | 1-139 | 0 | 0% |
 | Base Consolidada | 1 | 0 | 0% |
+| Dicionário Consolidado | 1 | 0 | 0% |
 | Volume 2 Organizado | 1 | 0 | 0% |
 
 **Atualizar esta tabela conforme o progresso!**
