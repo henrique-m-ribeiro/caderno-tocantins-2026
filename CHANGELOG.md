@@ -7,12 +7,21 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Não Lançado]
 
-### Em Desenvolvimento
-- 🔄 **Refatoração V02** - Planejamento completo finalizado
-- Implementação da nova estrutura de planilhas (139 municípios × ~65 colunas)
-- Extração automatizada de dados dos 139 PDFs SEPLAN-TO
-- Geração automática da Parte III (139 fichas municipais)
-- Revisão das Partes I e II com dados atualizados
+### Em Desenvolvimento - Volume 2
+- 🚀 **Estratégia Deepseek V3 para Volume 2** - Definida em 31/01/2026
+  - Geração de 139 fichas municipais completas (análise aprofundada sem limite de páginas)
+  - Extração de todos os indicadores dos Perfis Socioeconômicos SEPLAN-TO
+  - Criação de base de dados expandida com 900+ colunas por município
+  - Meta: 278 documentos (139 fichas + 139 CSVs)
+  - Estimativa: 55-60 horas de trabalho em 6 semanas
+
+### Adicionado (31/01/2026)
+- 📁 Estrutura `parte-iii-fichas-municipais/deepseek-v3/` criada
+- 📄 Prompt completo para geração de fichas municipais (15+ páginas cada)
+- 📄 Prompt para extração de indicadores em formato CSV
+- 📋 README estratégico com fluxo de trabalho detalhado
+- ✅ Análise de 4 protótipos Deepseek como base metodológica
+- 📊 Padrões de qualidade definidos para aprovação de entregas
 
 ## [1.1.0] - 2026-01-31
 

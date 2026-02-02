@@ -4,8 +4,8 @@
 ![Status](https://img.shields.io/badge/Status-Vol.1%20Publicado-brightgreen)
 ![Páginas](https://img.shields.io/badge/P%C3%A1ginas-~100--110-blue)
 ![Municípios](https://img.shields.io/badge/Munic%C3%ADpios-139%2F139-blue)
-![Volume 2](https://img.shields.io/badge/Volume%202-Planejado-orange)
-![Dados V02](https://img.shields.io/badge/Refatora%C3%A7%C3%A3o%20V02-Planejada-orange)
+![Volume 2](https://img.shields.io/badge/Volume%202-Estrat%C3%A9gia%20Definida-yellow)
+![Deepseek V3](https://img.shields.io/badge/Deepseek%20V3-Em%20Execu%C3%A7%C3%A3o-yellow)
 
 Sistema de Inteligência Territorial para subsidiar a campanha eleitoral ao governo do Estado do Tocantins em 2026.
 
@@ -117,16 +117,20 @@ Análise detalhada de cada microrregião:
 
 ---
 
-### **Volume 2 - Fichas Municipais** 📋 PLANEJADO
+### **Volume 2 - Fichas Municipais** 🚀 ESTRATÉGIA DEFINIDA
 
-**Status:** 📋 Planejado (aguarda Refatoração V02)
-**Previsão:** Fevereiro-Março de 2026
+**Status:** 🚀 Estratégia Definida com Deepseek V3 (31/01/2026)
+**Previsão:** Fevereiro-Março de 2026 (6 semanas de execução)
 
 **Parte III - Fichas Municipais (139 Municípios):**
-- Análise individual detalhada de cada município do Tocantins
-- Estrutura criada: 139 fichas em `/parte-iii-fichas-municipais/fichas/`
-- Aguarda extração completa de dados dos PDFs SEPLAN-TO
-- Geração automatizada via scripts Python planejada
+- ✅ **Estratégia definida:** Uso do Deepseek V3 para processar PDFs extensos (~40 MB)
+- ✅ **Prompts criados:** Fichas completas (15+ páginas) + CSVs de indicadores (900+ colunas)
+- ✅ **Fluxo documentado:** [`parte-iii-fichas-municipais/deepseek-v3/README.md`](./parte-iii-fichas-municipais/deepseek-v3/README.md)
+- 📋 **Meta:** 278 documentos (139 fichas + 139 CSVs)
+- 📋 **Escopo:** Análise aprofundada SEM limite de páginas, extraindo TODOS os indicadores
+- 📋 **Estimativa:** 55-60 horas de trabalho
+
+**Decisão Técnica:** Testes mostraram que o Deepseek V3 apresenta capacidade superior a Claude Code e Manus AI para processar os Perfis Socioeconômicos SEPLAN-TO (~40 MB cada) e gerar análises completas e estruturadas.
 
 ---
 
