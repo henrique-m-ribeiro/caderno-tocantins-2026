@@ -1,0 +1,825 @@
+ROTULO_COLUNA;NOME_CURTO;DESCRICAO_COMPLETA;TIPO_DADO;UNIDADE;ANO_REFERENCIA;FONTE_PRIMARIA;FONTE_SECUNDARIA
+NOME_MUNICIPIO;Nome do Município;Nome oficial do município conforme registro no IBGE;TEXT;texto;2024;IBGE;Divisão Territorial Brasileira
+CODIGO_IBGE;Código IBGE;Código único de identificação do município no sistema IBGE (7 dígitos);CODE;código;2024;IBGE;Divisão Territorial Brasileira
+AREA_KM2;Área Territorial;Área total do município em quilômetros quadrados;DECIMAL;km²;2022;IBGE;Áreas Territoriais
+POPULACAO_1991;População 1991;População total residente recenseada no Censo Demográfico de 1991;INTEGER;habitantes;1991;IBGE;Censo Demográfico 1991
+POPULACAO_2000;População 2000;População total residente recenseada no Censo Demográfico de 2000;INTEGER;habitantes;2000;IBGE;Censo Demográfico 2000
+POPULACAO_2010;População 2010;População total residente recenseada no Censo Demográfico de 2010;INTEGER;habitantes;2010;IBGE;Censo Demográfico 2010
+POPULACAO_2022;População 2022;População total estimada pelo IBGE para o ano de 2022;INTEGER;habitantes;2022;IBGE;Estimativas de População
+POPULACAO_URBANA_2010;População Urbana 2010;Número de habitantes residindo em área urbana em 2010;INTEGER;habitantes;2010;IBGE;Censo Demográfico 2010
+POPULACAO_RURAL_2010;População Rural 2010;Número de habitantes residindo em área rural em 2010;INTEGER;habitantes;2010;IBGE;Censo Demográfico 2010
+DENSIDADE_DEMOGRAFICA_2010;Densidade 2010;Número de habitantes por quilômetro quadrado em 2010;DECIMAL;hab/km²;2010;IBGE;Censo Demográfico 2010
+DENSIDADE_DEMOGRAFICA_2022;Densidade 2022;Número de habitantes por quilômetro quadrado em 2022;DECIMAL;hab/km²;2022;IBGE;Estimativas de População
+RAZAO_DEPENDENCIA_2010;Razão Dependência 2010;Razão entre população dependente (0-14 e 65+) e população em idade ativa (15-64);DECIMAL;por 100;2010;IBGE;Censo Demográfico 2010
+IDHM_1991;IDHM 1991;Índice de Desenvolvimento Humano Municipal em 1991 (0 a 1);DECIMAL;índice;1991;PNUD;Atlas do Desenvolvimento Humano
+IDHM_2000;IDHM 2000;Índice de Desenvolvimento Humano Municipal em 2000 (0 a 1);DECIMAL;índice;2000;PNUD;Atlas do Desenvolvimento Humano
+IDHM_2010;IDHM 2010;Índice de Desenvolvimento Humano Municipal em 2010 (0 a 1);DECIMAL;índice;2010;PNUD;Atlas do Desenvolvimento Humano
+IDHM_RENDA_1991;IDHM Renda 1991;Componente renda do IDHM em 1991 (0 a 1);DECIMAL;índice;1991;PNUD;Atlas do Desenvolvimento Humano
+IDHM_RENDA_2000;IDHM Renda 2000;Componente renda do IDHM em 2000 (0 a 1);DECIMAL;índice;2000;PNUD;Atlas do Desenvolvimento Humano
+IDHM_RENDA_2010;IDHM Renda 2010;Componente renda do IDHM em 2010 (0 a 1);DECIMAL;índice;2010;PNUD;Atlas do Desenvolvimento Humano
+IDHM_LONGEVIDADE_1991;IDHM Longevidade 1991;Componente longevidade do IDHM em 1991 (0 a 1);DECIMAL;índice;1991;PNUD;Atlas do Desenvolvimento Humano
+IDHM_LONGEVIDADE_2000;IDHM Longevidade 2000;Componente longevidade do IDHM em 2000 (0 a 1);DECIMAL;índice;2000;PNUD;Atlas do Desenvolvimento Humano
+IDHM_LONGEVIDADE_2010;IDHM Longevidade 2010;Componente longevidade do IDHM em 2010 (0 a 1);DECIMAL;índice;2010;PNUD;Atlas do Desenvolvimento Humano
+IDHM_EDUCACAO_1991;IDHM Educação 1991;Componente educação do IDHM em 1991 (0 a 1);DECIMAL;índice;1991;PNUD;Atlas do Desenvolvimento Humano
+IDHM_EDUCACAO_2000;IDHM Educação 2000;Componente educação do IDHM em 2000 (0 a 1);DECIMAL;índice;2000;PNUD;Atlas do Desenvolvimento Humano
+IDHM_EDUCACAO_2010;IDHM Educação 2010;Componente educação do IDHM em 2010 (0 a 1);DECIMAL;índice;2010;PNUD;Atlas do Desenvolvimento Humano
+ESPERANCA_VIDA_1991;Esperança Vida 1991;Expectativa de vida ao nascer em anos em 1991;DECIMAL;anos;1991;IBGE;Atlas do Desenvolvimento Humano
+ESPERANCA_VIDA_2000;Esperança Vida 2000;Expectativa de vida ao nascer em anos em 2000;DECIMAL;anos;2000;IBGE;Atlas do Desenvolvimento Humano
+ESPERANCA_VIDA_2010;Esperança Vida 2010;Expectativa de vida ao nascer em anos em 2010;DECIMAL;anos;2010;IBGE;Atlas do Desenvolvimento Humano
+PIB_PER_CAPITA_2019;PIB Per Capita 2019;Produto Interno Bruto per capita a preços correntes em reais em 2019;DECIMAL;R$;2019;IBGE;Produto Interno Bruto dos Municípios
+PIB_PER_CAPITA_2020;PIB Per Capita 2020;Produto Interno Bruto per capita a preços correntes em reais em 2020;DECIMAL;R$;2020;IBGE;Produto Interno Bruto dos Municípios
+PIB_PER_CAPITA_2021;PIB Per Capita 2021;Produto Interno Bruto per capita a preços correntes em reais em 2021;DECIMAL;R$;2021;IBGE;Produto Interno Bruto dos Municípios
+VAB_AGROPECUARIA_2019;VAB Agropec. 2019;Valor Adicionado Bruto da Agropecuária em milhares de reais em 2019;DECIMAL;mil R$;2019;IBGE;Produto Interno Bruto dos Municípios
+VAB_AGROPECUARIA_2020;VAB Agropec. 2020;Valor Adicionado Bruto da Agropecuária em milhares de reais em 2020;DECIMAL;mil R$;2020;IBGE;Produto Interno Bruto dos Municípios
+VAB_AGROPECUARIA_2021;VAB Agropec. 2021;Valor Adicionado Bruto da Agropecuária em milhares de reais em 2021;DECIMAL;mil R$;2021;IBGE;Produto Interno Bruto dos Municípios
+VAB_INDUSTRIA_2019;VAB Indústria 2019;Valor Adicionado Bruto da Indústria em milhares de reais em 2019;DECIMAL;mil R$;2019;IBGE;Produto Interno Bruto dos Municípios
+VAB_INDUSTRIA_2020;VAB Indústria 2020;Valor Adicionado Bruto da Indústria em milhares de reais em 2020;DECIMAL;mil R$;2020;IBGE;Produto Interno Bruto dos Municípios
+VAB_INDUSTRIA_2021;VAB Indústria 2021;Valor Adicionado Bruto da Indústria em milhares de reais em 2021;DECIMAL;mil R$;2021;IBGE;Produto Interno Bruto dos Municípios
+VAB_SERVICOS_2019;VAB Serviços 2019;Valor Adicionado Bruto de Serviços incluindo Administração Pública em milhares de reais em 2019;DECIMAL;mil R$;2019;IBGE;Produto Interno Bruto dos Municípios
+VAB_SERVICOS_2020;VAB Serviços 2020;Valor Adicionado Bruto de Serviços incluindo Administração Pública em milhares de reais em 2020;DECIMAL;mil R$;2020;IBGE;Produto Interno Bruto dos Municípios
+VAB_SERVICOS_2021;VAB Serviços 2021;Valor Adicionado Bruto de Serviços incluindo Administração Pública em milhares de reais em 2021;DECIMAL;mil R$;2021;IBGE;Produto Interno Bruto dos Municípios
+EMPREGOS_AGROPECUARIA_2022;Empregos Agropec. 2022;Número de empregos formais no setor agropecuário em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_INDUSTRIA_2022;Empregos Indústria 2022;Número de empregos formais no setor industrial em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_CONSTRUCAO_2022;Empregos Construção 2022;Número de empregos formais no setor de construção civil em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_COMERCIO_2022;Empregos Comércio 2022;Número de empregos formais no setor de comércio em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_SERVICOS_2022;Empregos Serviços 2022;Número de empregos formais no setor de serviços em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_ADM_PUBLICA_2022;Empregos Adm. Púb. 2022;Número de empregos formais na administração pública em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_SEM_FUNDAMENTAL_2022;Empregos s/ Fund. 2022;Número de empregos formais ocupados por pessoas sem ensino fundamental completo em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+FPM_2023;FPM 2023;Fundo de Participação dos Municípios recebido em milhares de reais em 2023;DECIMAL;mil R$;2023;STN;FINBRA - Finanças Municipais
+FUNDEB_2023;FUNDEB 2023;Recursos recebidos do Fundo de Desenvolvimento da Educação Básica em milhares de reais em 2023;DECIMAL;mil R$;2023;STN;FINBRA - Finanças Municipais
+ICMS_2023;ICMS 2023;Receita de transferências de ICMS em milhares de reais em 2023;DECIMAL;mil R$;2023;STN;FINBRA - Finanças Municipais
+IPVA_2023;IPVA 2023;Receita de transferências de IPVA em milhares de reais em 2023;DECIMAL;mil R$;2023;STN;FINBRA - Finanças Municipais
+MATRICULAS_MEDIO_2023;Matr. Médio 2023;Número de matrículas no ensino médio em 2023;INTEGER;matrículas;2023;INEP;Censo Escolar
+MATRICULAS_EJA_2023;Matr. EJA 2023;Número de matrículas na Educação de Jovens e Adultos em 2023;INTEGER;matrículas;2023;INEP;Censo Escolar
+IDEB_ANOS_INICIAIS_2015;IDEB Anos Inic. 2015;Índice de Desenvolvimento da Educação Básica para anos iniciais do fundamental em 2015;DECIMAL;índice;2015;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_INICIAIS_2017;IDEB Anos Inic. 2017;Índice de Desenvolvimento da Educação Básica para anos iniciais do fundamental em 2017;DECIMAL;índice;2017;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_INICIAIS_2019;IDEB Anos Inic. 2019;Índice de Desenvolvimento da Educação Básica para anos iniciais do fundamental em 2019;DECIMAL;índice;2019;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_INICIAIS_2021;IDEB Anos Inic. 2021;Índice de Desenvolvimento da Educação Básica para anos iniciais do fundamental em 2021;DECIMAL;índice;2021;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_FINAIS_2015;IDEB Anos Finais 2015;Índice de Desenvolvimento da Educação Básica para anos finais do fundamental em 2015;DECIMAL;índice;2015;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_FINAIS_2017;IDEB Anos Finais 2017;Índice de Desenvolvimento da Educação Básica para anos finais do fundamental em 2017;DECIMAL;índice;2017;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_FINAIS_2019;IDEB Anos Finais 2019;Índice de Desenvolvimento da Educação Básica para anos finais do fundamental em 2019;DECIMAL;índice;2019;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_FINAIS_2021;IDEB Anos Finais 2021;Índice de Desenvolvimento da Educação Básica para anos finais do fundamental em 2021;DECIMAL;índice;2021;INEP;Índice de Desenvolvimento da Educação Básica
+ESTABELECIMENTOS_SAUDE_2023;Estabelec. Saúde 2023;Número de estabelecimentos de saúde cadastrados no CNES em 2023;INTEGER;unidades;2023;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_SUS_2023;Leitos SUS 2023;Número de leitos hospitalares disponíveis para o SUS em 2023;INTEGER;leitos;2023;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+MEDICOS_2023;Médicos 2023;Número de médicos com registro no CNES em 2023;INTEGER;profissionais;2023;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+ENFERMEIROS_2023;Enfermeiros 2023;Número de enfermeiros com registro no CNES em 2023;INTEGER;profissionais;2023;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+DENTISTAS_2023;Dentistas 2023;Número de dentistas com registro no CNES em 2023;INTEGER;profissionais;2023;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+NASCIDOS_VIVOS_2022;Nascidos Vivos 2022;Número de nascidos vivos registrados no SINASC em 2022;INTEGER;nascimentos;2022;DATASUS;Sistema de Informações sobre Nascidos Vivos
+TAXA_MORTALIDADE_INFANTIL_2022;Taxa Mort. Inf. 2022;Taxa de mortalidade infantil por mil nascidos vivos calculada a partir do SIM/SINASC em 2022;DECIMAL;por mil;2022;DATASUS;SIM/SINASC
+CONSUMO_ENERGIA_RESIDENCIAL_2022;Cons. Energ. Resid. 2022;Consumo de energia elétrica residencial em MWh em 2022;DECIMAL;MWh;2022;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_COMERCIAL_2022;Cons. Energ. Comerc. 2022;Consumo de energia elétrica comercial em MWh em 2022;DECIMAL;MWh;2022;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_INDUSTRIAL_2022;Cons. Energ. Industr. 2022;Consumo de energia elétrica industrial em MWh em 2022;DECIMAL;MWh;2022;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RURAL_2022;Cons. Energ. Rural 2022;Consumo de energia elétrica rural em MWh em 2022;DECIMAL;MWh;2022;EPE;Anuário Estatístico de Energia Elétrica
+VEICULOS_AUTOMOVEIS_2023;Veículos Autom. 2023;Número de automóveis registrados no município em 2023;INTEGER;veículos;2023;DENATRAN;Frota de Veículos
+VEICULOS_MOTOCICLETAS_2023;Veículos Motos 2023;Número de motocicletas registradas no município em 2023;INTEGER;veículos;2023;DENATRAN;Frota de Veículos
+VEICULOS_CAMINHOES_2023;Veículos Caminhões 2023;Número de caminhões registrados no município em 2023;INTEGER;veículos;2023;DENATRAN;Frota de Veículos
+VEICULOS_ONIBUS_2023;Veículos Ônibus 2023;Número de ônibus registrados no município em 2023;INTEGER;veículos;2023;DENATRAN;Frota de Veículos
+COBERTURA_4G_2024;Cobertura 4G 2024;Percentual de cobertura de sinal 4G no território municipal em 2024;PERCENTAGE;%;2024;ANATEL;Sistema de Controle de Radiodifusão
+COLETA_SELETIVA_2022;Coleta Seletiva 2022;Indicador de existência de programa de coleta seletiva no município em 2022;TEXT;sim/não;2022;SNIS;Sistema Nacional de Informações sobre Saneamento
+ELEITORES_FUNDAMENTAL_INCOMPLETO_2024;Eleitores Fund. Inc. 2024;Número de eleitores com ensino fundamental incompleto em 2024;INTEGER;eleitores;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_FUNDAMENTAL_COMPLETO_2024;Eleitores Fund. Compl. 2024;Número de eleitores com ensino fundamental completo em 2024;INTEGER;eleitores;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_MEDIO_INCOMPLETO_2024;Eleitores Médio Inc. 2024;Número de eleitores com ensino médio incompleto em 2024;INTEGER;eleitores;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_MEDIO_COMPLETO_2024;Eleitores Médio Compl. 2024;Número de eleitores com ensino médio completo em 2024;INTEGER;eleitores;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_SUPERIOR_INCOMPLETO_2024;Eleitores Super. Inc. 2024;Número de eleitores com ensino superior incompleto em 2024;INTEGER;eleitores;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_SUPERIOR_COMPLETO_2024;Eleitores Super. Compl. 2024;Número de eleitores com ensino superior completo em 2024;INTEGER;eleitores;2024;TSE;Estatísticas do Eleitorado
+ACESSOS_BANDA_LARGA_2019;Acessos Banda Larga;Número de acessos de banda larga fixa no município em 2019;INTEGER;acessos;2019;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_BANDA_LARGA_2020;Acessos Banda Larga;Número de acessos de banda larga fixa no município em 2020;INTEGER;acessos;2020;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_BANDA_LARGA_2021;Acessos Banda Larga;Número de acessos de banda larga fixa no município em 2021;INTEGER;acessos;2021;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_BANDA_LARGA_2022;Acessos Banda Larga;Número de acessos de banda larga fixa no município em 2022;INTEGER;acessos;2022;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_BANDA_LARGA_2023;Acessos Banda Larga;Número de acessos de banda larga fixa no município em 2023;INTEGER;acessos;2023;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_FIXA_2019;Acessos Telefonia Fixa;Número de acessos de telefonia fixa no município em 2019;INTEGER;acessos;2019;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_FIXA_2020;Acessos Telefonia Fixa;Número de acessos de telefonia fixa no município em 2020;INTEGER;acessos;2020;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_FIXA_2021;Acessos Telefonia Fixa;Número de acessos de telefonia fixa no município em 2021;INTEGER;acessos;2021;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_FIXA_2022;Acessos Telefonia Fixa;Número de acessos de telefonia fixa no município em 2022;INTEGER;acessos;2022;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_FIXA_2023;Acessos Telefonia Fixa;Número de acessos de telefonia fixa no município em 2023;INTEGER;acessos;2023;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_MOVEL_2019;Acessos Telefonia Movel;Número de acessos de telefonia móvel (linhas ativas) no município em 2019;INTEGER;acessos;2019;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_MOVEL_2020;Acessos Telefonia Movel;Número de acessos de telefonia móvel (linhas ativas) no município em 2020;INTEGER;acessos;2020;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_MOVEL_2021;Acessos Telefonia Movel;Número de acessos de telefonia móvel (linhas ativas) no município em 2021;INTEGER;acessos;2021;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_MOVEL_2022;Acessos Telefonia Movel;Número de acessos de telefonia móvel (linhas ativas) no município em 2022;INTEGER;acessos;2022;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TELEFONIA_MOVEL_2023;Acessos Telefonia Movel;Número de acessos de telefonia móvel (linhas ativas) no município em 2023;INTEGER;acessos;2023;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TV_ASSINATURA_2019;Acessos Tv Assinatura;Número de acessos de TV por assinatura no município em 2019;INTEGER;acessos;2019;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TV_ASSINATURA_2020;Acessos Tv Assinatura;Número de acessos de TV por assinatura no município em 2020;INTEGER;acessos;2020;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TV_ASSINATURA_2021;Acessos Tv Assinatura;Número de acessos de TV por assinatura no município em 2021;INTEGER;acessos;2021;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TV_ASSINATURA_2022;Acessos Tv Assinatura;Número de acessos de TV por assinatura no município em 2022;INTEGER;acessos;2022;ANATEL;Sistema de Acompanhamento de Dados
+ACESSOS_TV_ASSINATURA_2023;Acessos Tv Assinatura;Número de acessos de TV por assinatura no município em 2023;INTEGER;acessos;2023;ANATEL;Sistema de Acompanhamento de Dados
+ACIDENTES_ANIMAIS_PECONHENTOS_2019;Acidentes Animais Peconhentos;Número de casos notificados de acidentes por animais peçonhentos em 2019;INTEGER;unidades;2019;DATASUS;Sistema de Informação de Agravos de Notificação
+ACIDENTES_ANIMAIS_PECONHENTOS_2020;Acidentes Animais Peconhentos;Número de casos notificados de acidentes por animais peçonhentos em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informação de Agravos de Notificação
+ACIDENTES_ANIMAIS_PECONHENTOS_2021;Acidentes Animais Peconhentos;Número de casos notificados de acidentes por animais peçonhentos em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informação de Agravos de Notificação
+ACIDENTES_ANIMAIS_PECONHENTOS_2022;Acidentes Animais Peconhentos;Número de casos notificados de acidentes por animais peçonhentos em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informação de Agravos de Notificação
+ACIDENTES_ANIMAIS_PECONHENTOS_2023;Acidentes Animais Peconhentos;Número de casos notificados de acidentes por animais peçonhentos em 2023;INTEGER;unidades;2023;DATASUS;Sistema de Informação de Agravos de Notificação
+ADMISSOES_2020;Admissoes;Número de admissões em empregos formais registradas no CAGED em 2020;INTEGER;unidades;2020;MTE;RAIS/CAGED
+ADMISSOES_2021;Admissoes;Número de admissões em empregos formais registradas no CAGED em 2021;INTEGER;unidades;2021;MTE;RAIS/CAGED
+ADMISSOES_2022;Admissoes;Número de admissões em empregos formais registradas no CAGED em 2022;INTEGER;unidades;2022;MTE;RAIS/CAGED
+ADMISSOES_2023;Admissoes;Número de admissões em empregos formais registradas no CAGED em 2023;INTEGER;unidades;2023;MTE;RAIS/CAGED
+AGENCIAS_BANCARIAS_2024;Agencias Bancarias;Número de agências bancárias em funcionamento em 2024;INTEGER;unidades;2024;BACEN;Estatísticas Bancárias por Município
+AGENCIAS_CORREIOS_2024;Agencias Correios;Número de agências dos Correios em funcionamento em 2024;INTEGER;unidades;2024;Correios;Rede de Atendimento
+AGUA_POCO_NASCENTE_1991;Agua Poco Nascente;Número de domicílios com abastecimento de água por poço ou nascente em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+AGUA_POCO_NASCENTE_2000;Agua Poco Nascente;Número de domicílios com abastecimento de água por poço ou nascente em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+AGUA_POCO_NASCENTE_2010;Agua Poco Nascente;Número de domicílios com abastecimento de água por poço ou nascente em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+AGUA_POCO_NASCENTE_2021;Agua Poco Nascente;Número de domicílios com abastecimento de água por poço ou nascente em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+AGUA_REDE_GERAL_1991;Agua Rede Geral;Número de domicílios com abastecimento de água por rede geral em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+AGUA_REDE_GERAL_2000;Agua Rede Geral;Número de domicílios com abastecimento de água por rede geral em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+AGUA_REDE_GERAL_2010;Agua Rede Geral;Número de domicílios com abastecimento de água por rede geral em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+AGUA_REDE_GERAL_2021;Agua Rede Geral;Número de domicílios com abastecimento de água por rede geral em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+AIDS_2019;Aids;Número de casos notificados de AIDS em 2019;INTEGER;unidades;2019;DATASUS;Sistema de Informação de Agravos de Notificação
+AIDS_2020;Aids;Número de casos notificados de AIDS em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informação de Agravos de Notificação
+AIDS_2021;Aids;Número de casos notificados de AIDS em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informação de Agravos de Notificação
+AIDS_2022;Aids;Número de casos notificados de AIDS em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informação de Agravos de Notificação
+AIDS_2023;Aids;Número de casos notificados de AIDS em 2023;INTEGER;unidades;2023;DATASUS;Sistema de Informação de Agravos de Notificação
+ALTITUDE_M;Altitude M;Altitude média do município em metros acima do nível do mar;INTEGER;metros;2023;IBGE;Base de Dados Municipal
+AQUICULTURA_CAMARAO_2019;Aquicultura Camarao;Produção de camarão em aquicultura em quilogramas em 2019;INTEGER;kg;2019;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_CAMARAO_2020;Aquicultura Camarao;Produção de camarão em aquicultura em quilogramas em 2020;INTEGER;kg;2020;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_CAMARAO_2021;Aquicultura Camarao;Produção de camarão em aquicultura em quilogramas em 2021;INTEGER;kg;2021;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_CAMARAO_2022;Aquicultura Camarao;Produção de camarão em aquicultura em quilogramas em 2022;INTEGER;kg;2022;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_CAMARAO_2023;Aquicultura Camarao;Produção de camarão em aquicultura em quilogramas em 2023;INTEGER;kg;2023;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_PEIXES_2019;Aquicultura Peixes;Aquicultura Peixes para o município em 2019;INTEGER;kg;2019;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_PEIXES_2020;Aquicultura Peixes;Aquicultura Peixes para o município em 2020;INTEGER;kg;2020;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_PEIXES_2021;Aquicultura Peixes;Aquicultura Peixes para o município em 2021;INTEGER;kg;2021;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_PEIXES_2022;Aquicultura Peixes;Aquicultura Peixes para o município em 2022;INTEGER;kg;2022;IBGE;Pesquisa da Pecuária Municipal
+AQUICULTURA_PEIXES_2023;Aquicultura Peixes;Aquicultura Peixes para o município em 2023;INTEGER;kg;2023;IBGE;Pesquisa da Pecuária Municipal
+AREA_ESTABELECIMENTOS_HA_2006;Area Estabelecimentos Ha;Area Estabelecimentos Ha para o município em 2006;DECIMAL;hectares;2006;IBGE;Base de Dados Municipal
+AREA_ESTABELECIMENTOS_HA_2017;Area Estabelecimentos Ha;Area Estabelecimentos Ha para o município em 2017;DECIMAL;hectares;2017;IBGE;Base de Dados Municipal
+AREA_LAVOURAS_PERMANENTES_2006;Area Lavouras Permanentes;Area Lavouras Permanentes para o município em 2006;DECIMAL;hectares;2006;IBGE;Pesquisa Agrícola Municipal
+AREA_LAVOURAS_PERMANENTES_2017;Area Lavouras Permanentes;Area Lavouras Permanentes para o município em 2017;DECIMAL;hectares;2017;IBGE;Pesquisa Agrícola Municipal
+AREA_LAVOURAS_TEMPORARIAS_2006;Area Lavouras Temporarias;Area Lavouras Temporarias para o município em 2006;DECIMAL;hectares;2006;IBGE;Pesquisa Agrícola Municipal
+AREA_LAVOURAS_TEMPORARIAS_2017;Area Lavouras Temporarias;Area Lavouras Temporarias para o município em 2017;DECIMAL;hectares;2017;IBGE;Pesquisa Agrícola Municipal
+AREA_MATAS_FLORESTAS_2006;Area Matas Florestas;Area Matas Florestas para o município em 2006;DECIMAL;hectares;2006;IBGE;Base de Dados Municipal
+AREA_MATAS_FLORESTAS_2017;Area Matas Florestas;Area Matas Florestas para o município em 2017;DECIMAL;hectares;2017;IBGE;Base de Dados Municipal
+AREA_MEDIA_ESTABELECIMENTOS_2006;Area Media Estabelecimentos;Area Media Estabelecimentos para o município em 2006;DECIMAL;hectares;2006;IBGE;Base de Dados Municipal
+AREA_MEDIA_ESTABELECIMENTOS_2017;Area Media Estabelecimentos;Area Media Estabelecimentos para o município em 2017;DECIMAL;hectares;2017;IBGE;Base de Dados Municipal
+AREA_PASTAGENS_2006;Area Pastagens;Area Pastagens para o município em 2006;DECIMAL;hectares;2006;IBGE;Base de Dados Municipal
+AREA_PASTAGENS_2017;Area Pastagens;Area Pastagens para o município em 2017;DECIMAL;hectares;2017;IBGE;Base de Dados Municipal
+ARROZ_AREA_2019;Arroz Area;Arroz Area para o município em 2019;DECIMAL;hectares;2019;IBGE;Produção Agrícola Municipal
+ARROZ_AREA_2020;Arroz Area;Arroz Area para o município em 2020;DECIMAL;hectares;2020;IBGE;Produção Agrícola Municipal
+ARROZ_AREA_2021;Arroz Area;Arroz Area para o município em 2021;DECIMAL;hectares;2021;IBGE;Produção Agrícola Municipal
+ARROZ_AREA_2022;Arroz Area;Arroz Area para o município em 2022;DECIMAL;hectares;2022;IBGE;Produção Agrícola Municipal
+ARROZ_AREA_2023;Arroz Area;Arroz Area para o município em 2023;DECIMAL;hectares;2023;IBGE;Produção Agrícola Municipal
+ARROZ_PRODUCAO_2019;Arroz Producao;Arroz Producao para o município em 2019;INTEGER;toneladas;2019;IBGE;Produção Agrícola Municipal
+ARROZ_PRODUCAO_2020;Arroz Producao;Arroz Producao para o município em 2020;INTEGER;toneladas;2020;IBGE;Produção Agrícola Municipal
+ARROZ_PRODUCAO_2021;Arroz Producao;Arroz Producao para o município em 2021;INTEGER;toneladas;2021;IBGE;Produção Agrícola Municipal
+ARROZ_PRODUCAO_2022;Arroz Producao;Arroz Producao para o município em 2022;INTEGER;toneladas;2022;IBGE;Produção Agrícola Municipal
+ARROZ_PRODUCAO_2023;Arroz Producao;Arroz Producao para o município em 2023;INTEGER;toneladas;2023;IBGE;Produção Agrícola Municipal
+AVES_2019;Aves;Aves para o município em 2019;INTEGER;cabeças;2019;IBGE;Pesquisa da Pecuária Municipal
+AVES_2020;Aves;Aves para o município em 2020;INTEGER;cabeças;2020;IBGE;Pesquisa da Pecuária Municipal
+AVES_2021;Aves;Aves para o município em 2021;INTEGER;cabeças;2021;IBGE;Pesquisa da Pecuária Municipal
+AVES_2022;Aves;Aves para o município em 2022;INTEGER;cabeças;2022;IBGE;Pesquisa da Pecuária Municipal
+AVES_2023;Aves;Aves para o município em 2023;INTEGER;cabeças;2023;IBGE;Pesquisa da Pecuária Municipal
+BANHEIRO_EXCLUSIVO_1991;Banheiro Exclusivo;Banheiro Exclusivo para o município em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+BANHEIRO_EXCLUSIVO_2000;Banheiro Exclusivo;Banheiro Exclusivo para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+BANHEIRO_EXCLUSIVO_2010;Banheiro Exclusivo;Banheiro Exclusivo para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+BANHEIRO_EXCLUSIVO_2021;Banheiro Exclusivo;Banheiro Exclusivo para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+BIOMA;Bioma;Bioma para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+BOVINOS_2019;Bovinos;Número de cabeças de ovinos no efetivo do rebanho em 2019;INTEGER;cabeças;2019;IBGE;Pesquisa da Pecuária Municipal
+BOVINOS_2020;Bovinos;Número de cabeças de ovinos no efetivo do rebanho em 2020;INTEGER;cabeças;2020;IBGE;Pesquisa da Pecuária Municipal
+BOVINOS_2021;Bovinos;Número de cabeças de ovinos no efetivo do rebanho em 2021;INTEGER;cabeças;2021;IBGE;Pesquisa da Pecuária Municipal
+BOVINOS_2022;Bovinos;Número de cabeças de ovinos no efetivo do rebanho em 2022;INTEGER;cabeças;2022;IBGE;Pesquisa da Pecuária Municipal
+BOVINOS_2023;Bovinos;Número de cabeças de ovinos no efetivo do rebanho em 2023;INTEGER;cabeças;2023;IBGE;Pesquisa da Pecuária Municipal
+CANA_AREA_2019;Cana Area;Cana Area para o município em 2019;DECIMAL;hectares;2019;IBGE;Produção Agrícola Municipal
+CANA_AREA_2020;Cana Area;Cana Area para o município em 2020;DECIMAL;hectares;2020;IBGE;Produção Agrícola Municipal
+CANA_AREA_2021;Cana Area;Cana Area para o município em 2021;DECIMAL;hectares;2021;IBGE;Produção Agrícola Municipal
+CANA_AREA_2022;Cana Area;Cana Area para o município em 2022;DECIMAL;hectares;2022;IBGE;Produção Agrícola Municipal
+CANA_AREA_2023;Cana Area;Cana Area para o município em 2023;DECIMAL;hectares;2023;IBGE;Produção Agrícola Municipal
+CANA_PRODUCAO_2019;Cana Producao;Cana Producao para o município em 2019;INTEGER;toneladas;2019;IBGE;Produção Agrícola Municipal
+CANA_PRODUCAO_2020;Cana Producao;Cana Producao para o município em 2020;INTEGER;toneladas;2020;IBGE;Produção Agrícola Municipal
+CANA_PRODUCAO_2021;Cana Producao;Cana Producao para o município em 2021;INTEGER;toneladas;2021;IBGE;Produção Agrícola Municipal
+CANA_PRODUCAO_2022;Cana Producao;Cana Producao para o município em 2022;INTEGER;toneladas;2022;IBGE;Produção Agrícola Municipal
+CANA_PRODUCAO_2023;Cana Producao;Cana Producao para o município em 2023;INTEGER;toneladas;2023;IBGE;Produção Agrícola Municipal
+CASAS_LOTERICAS_2024;Casas Lotericas;Casas Lotericas para o município em 2024;INTEGER;unidades;2024;IBGE;Base de Dados Municipal
+CHIKUNGUNYA_2020;Chikungunya;Número de casos notificados de febre Chikungunya em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+CHIKUNGUNYA_2021;Chikungunya;Número de casos notificados de febre Chikungunya em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+CHIKUNGUNYA_2022;Chikungunya;Número de casos notificados de febre Chikungunya em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+CHIKUNGUNYA_2023;Chikungunya;Número de casos notificados de febre Chikungunya em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+CHIKUNGUNYA_2024;Chikungunya;Número de casos notificados de febre Chikungunya em 2024;INTEGER;unidades;2024;IBGE;Base de Dados Municipal
+COBERTURA_2G_2024;Cobertura 2G;Cobertura 2G para o município em 2024;PERCENTAGE;%;2024;IBGE;Sistema de Acompanhamento de Dados
+COBERTURA_3G_2024;Cobertura 3G;Cobertura 3G para o município em 2024;PERCENTAGE;%;2024;IBGE;Sistema de Acompanhamento de Dados
+COLOCACAO_PIB_ESTADO_2017;Colocacao Pib Estado;Colocacao Pib Estado para o município em 2017;DECIMAL;mil R$;2017;IBGE;Produto Interno Bruto dos Municípios
+COLOCACAO_PIB_ESTADO_2018;Colocacao Pib Estado;Colocacao Pib Estado para o município em 2018;DECIMAL;mil R$;2018;IBGE;Produto Interno Bruto dos Municípios
+COLOCACAO_PIB_ESTADO_2019;Colocacao Pib Estado;Colocacao Pib Estado para o município em 2019;DECIMAL;mil R$;2019;IBGE;Produto Interno Bruto dos Municípios
+COLOCACAO_PIB_ESTADO_2020;Colocacao Pib Estado;Colocacao Pib Estado para o município em 2020;DECIMAL;mil R$;2020;IBGE;Produto Interno Bruto dos Municípios
+COLOCACAO_PIB_ESTADO_2021;Colocacao Pib Estado;Colocacao Pib Estado para o município em 2021;DECIMAL;mil R$;2021;IBGE;Produto Interno Bruto dos Municípios
+CONSUMIDORES_ENERGIA_COMERCIAL_2019;Consumidores Energia Comercial;Consumidores Energia Comercial para o município em 2019;INTEGER;unidades;2019;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_COMERCIAL_2020;Consumidores Energia Comercial;Consumidores Energia Comercial para o município em 2020;INTEGER;unidades;2020;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_COMERCIAL_2021;Consumidores Energia Comercial;Consumidores Energia Comercial para o município em 2021;INTEGER;unidades;2021;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_COMERCIAL_2022;Consumidores Energia Comercial;Consumidores Energia Comercial para o município em 2022;INTEGER;unidades;2022;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_COMERCIAL_2023;Consumidores Energia Comercial;Consumidores Energia Comercial para o município em 2023;INTEGER;unidades;2023;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_INDUSTRIAL_2019;Consumidores Energia Industrial;Consumidores Energia Industrial para o município em 2019;INTEGER;unidades;2019;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_INDUSTRIAL_2020;Consumidores Energia Industrial;Consumidores Energia Industrial para o município em 2020;INTEGER;unidades;2020;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_INDUSTRIAL_2021;Consumidores Energia Industrial;Consumidores Energia Industrial para o município em 2021;INTEGER;unidades;2021;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_INDUSTRIAL_2022;Consumidores Energia Industrial;Consumidores Energia Industrial para o município em 2022;INTEGER;unidades;2022;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_INDUSTRIAL_2023;Consumidores Energia Industrial;Consumidores Energia Industrial para o município em 2023;INTEGER;unidades;2023;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RESIDENCIAL_2019;Consumidores Energia Residencial;Consumidores Energia Residencial para o município em 2019;INTEGER;unidades;2019;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RESIDENCIAL_2020;Consumidores Energia Residencial;Consumidores Energia Residencial para o município em 2020;INTEGER;unidades;2020;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RESIDENCIAL_2021;Consumidores Energia Residencial;Consumidores Energia Residencial para o município em 2021;INTEGER;unidades;2021;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RESIDENCIAL_2022;Consumidores Energia Residencial;Consumidores Energia Residencial para o município em 2022;INTEGER;unidades;2022;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RESIDENCIAL_2023;Consumidores Energia Residencial;Consumidores Energia Residencial para o município em 2023;INTEGER;unidades;2023;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RURAL_2019;Consumidores Energia Rural;Consumidores Energia Rural para o município em 2019;INTEGER;unidades;2019;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RURAL_2020;Consumidores Energia Rural;Consumidores Energia Rural para o município em 2020;INTEGER;unidades;2020;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RURAL_2021;Consumidores Energia Rural;Consumidores Energia Rural para o município em 2021;INTEGER;unidades;2021;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RURAL_2022;Consumidores Energia Rural;Consumidores Energia Rural para o município em 2022;INTEGER;unidades;2022;EPE;Base de Dados Municipal
+CONSUMIDORES_ENERGIA_RURAL_2023;Consumidores Energia Rural;Consumidores Energia Rural para o município em 2023;INTEGER;unidades;2023;EPE;Base de Dados Municipal
+CONSUMO_ENERGIA_COMERCIAL_2019;Consumo Energia Comercial;Consumo Energia Comercial para o município em 2019;INTEGER;MWh;2019;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_COMERCIAL_2020;Consumo Energia Comercial;Consumo Energia Comercial para o município em 2020;INTEGER;MWh;2020;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_COMERCIAL_2021;Consumo Energia Comercial;Consumo Energia Comercial para o município em 2021;INTEGER;MWh;2021;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_COMERCIAL_2023;Consumo Energia Comercial;Consumo Energia Comercial para o município em 2023;INTEGER;MWh;2023;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_INDUSTRIAL_2019;Consumo Energia Industrial;Consumo Energia Industrial para o município em 2019;INTEGER;MWh;2019;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_INDUSTRIAL_2020;Consumo Energia Industrial;Consumo Energia Industrial para o município em 2020;INTEGER;MWh;2020;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_INDUSTRIAL_2021;Consumo Energia Industrial;Consumo Energia Industrial para o município em 2021;INTEGER;MWh;2021;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_INDUSTRIAL_2023;Consumo Energia Industrial;Consumo Energia Industrial para o município em 2023;INTEGER;MWh;2023;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RESIDENCIAL_2019;Consumo Energia Residencial;Consumo Energia Residencial para o município em 2019;INTEGER;MWh;2019;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RESIDENCIAL_2020;Consumo Energia Residencial;Consumo Energia Residencial para o município em 2020;INTEGER;MWh;2020;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RESIDENCIAL_2021;Consumo Energia Residencial;Consumo Energia Residencial para o município em 2021;INTEGER;MWh;2021;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RESIDENCIAL_2023;Consumo Energia Residencial;Consumo Energia Residencial para o município em 2023;INTEGER;MWh;2023;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RURAL_2019;Consumo Energia Rural;Consumo Energia Rural para o município em 2019;INTEGER;MWh;2019;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RURAL_2020;Consumo Energia Rural;Consumo Energia Rural para o município em 2020;INTEGER;MWh;2020;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RURAL_2021;Consumo Energia Rural;Consumo Energia Rural para o município em 2021;INTEGER;MWh;2021;EPE;Anuário Estatístico de Energia Elétrica
+CONSUMO_ENERGIA_RURAL_2023;Consumo Energia Rural;Consumo Energia Rural para o município em 2023;INTEGER;MWh;2023;EPE;Anuário Estatístico de Energia Elétrica
+CURSOS_ENSINO_SUPERIOR_2023;Cursos Ensino Superior;Cursos Ensino Superior para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+DENGUE_2020;Dengue;Número de casos notificados de dengue em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informação de Agravos de Notificação
+DENGUE_2021;Dengue;Número de casos notificados de dengue em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informação de Agravos de Notificação
+DENGUE_2022;Dengue;Número de casos notificados de dengue em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informação de Agravos de Notificação
+DENGUE_2023;Dengue;Número de casos notificados de dengue em 2023;INTEGER;unidades;2023;DATASUS;Sistema de Informação de Agravos de Notificação
+DENGUE_2024;Dengue;Número de casos notificados de dengue em 2024;INTEGER;unidades;2024;DATASUS;Sistema de Informação de Agravos de Notificação
+DENSIDADE_DEMOGRAFICA_1991;Densidade Demografica;Densidade Demografica para o município em 1991;INTEGER;hab/km²;1991;IBGE;Base de Dados Municipal
+DENSIDADE_DEMOGRAFICA_2000;Densidade Demografica;Densidade Demografica para o município em 2000;INTEGER;hab/km²;2000;IBGE;Base de Dados Municipal
+DENTISTAS_2019;Dentistas;Dentistas para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+DENTISTAS_2020;Dentistas;Dentistas para o município em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+DENTISTAS_2021;Dentistas;Dentistas para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+DENTISTAS_2022;Dentistas;Dentistas para o município em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+DESLIGAMENTOS_2020;Desligamentos;Número de desligamentos de empregos formais registrados no CAGED em 2020;INTEGER;unidades;2020;MTE;RAIS/CAGED
+DESLIGAMENTOS_2021;Desligamentos;Número de desligamentos de empregos formais registrados no CAGED em 2021;INTEGER;unidades;2021;MTE;RAIS/CAGED
+DESLIGAMENTOS_2022;Desligamentos;Número de desligamentos de empregos formais registrados no CAGED em 2022;INTEGER;unidades;2022;MTE;RAIS/CAGED
+DESLIGAMENTOS_2023;Desligamentos;Número de desligamentos de empregos formais registrados no CAGED em 2023;INTEGER;unidades;2023;MTE;RAIS/CAGED
+DISTORCAO_IDADE_SERIE_FUNDAMENTAL_2023;Distorcao Idade Serie Fundamental;Distorcao Idade Serie Fundamental para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+DISTORCAO_IDADE_SERIE_MEDIO_2023;Distorcao Idade Serie Medio;Distorcao Idade Serie Medio para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+DOCENTES_ESTADUAL_2018;Docentes Estadual;Docentes Estadual para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+DOCENTES_ESTADUAL_2019;Docentes Estadual;Docentes Estadual para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+DOCENTES_ESTADUAL_2020;Docentes Estadual;Docentes Estadual para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+DOCENTES_ESTADUAL_2021;Docentes Estadual;Docentes Estadual para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+DOCENTES_ESTADUAL_2022;Docentes Estadual;Docentes Estadual para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+DOCENTES_ESTADUAL_2023;Docentes Estadual;Docentes Estadual para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+DOCENTES_MUNICIPAL_2018;Docentes Municipal;Docentes Municipal para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+DOCENTES_MUNICIPAL_2019;Docentes Municipal;Docentes Municipal para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+DOCENTES_MUNICIPAL_2020;Docentes Municipal;Docentes Municipal para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+DOCENTES_MUNICIPAL_2021;Docentes Municipal;Docentes Municipal para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+DOCENTES_MUNICIPAL_2022;Docentes Municipal;Docentes Municipal para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+DOCENTES_MUNICIPAL_2023;Docentes Municipal;Docentes Municipal para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+DOMICILIOS_1991;Domicilios;Domicilios para o município em 1991;INTEGER;domicílios;1991;IBGE;Censo Demográfico
+DOMICILIOS_2000;Domicilios;Domicilios para o município em 2000;INTEGER;domicílios;2000;IBGE;Censo Demográfico
+DOMICILIOS_2010;Domicilios;Domicilios para o município em 2010;INTEGER;domicílios;2010;IBGE;Censo Demográfico
+DOMICILIOS_2021;Domicilios;Domicilios para o município em 2021;INTEGER;domicílios;2021;IBGE;Base de Dados Municipal
+ELEITORES_16_20_ANOS_2024;Eleitores 16 20 Anos;Eleitores 16 20 Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_2024;Eleitores;Eleitores para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_21_24_ANOS_2024;Eleitores 21 24 Anos;Eleitores 21 24 Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_25_34_ANOS_2024;Eleitores 25 34 Anos;Eleitores 25 34 Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_35_44_ANOS_2024;Eleitores 35 44 Anos;Eleitores 35 44 Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_45_59_ANOS_2024;Eleitores 45 59 Anos;Eleitores 45 59 Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_60_69_ANOS_2024;Eleitores 60 69 Anos;Eleitores 60 69 Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_70_79_ANOS_2024;Eleitores 70 79 Anos;Eleitores 70 79 Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_80_MAIS_ANOS_2024;Eleitores 80 Mais Anos;Eleitores 80 Mais Anos para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_ANALFABETO_2024;Eleitores Analfabeto;Eleitores Analfabeto para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_FEMININO_2024;Eleitores Feminino;Eleitores Feminino para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_LE_ESCREVE_2024;Eleitores Le Escreve;Eleitores Le Escreve para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+ELEITORES_MASCULINO_2024;Eleitores Masculino;Eleitores Masculino para o município em 2024;INTEGER;unidades;2024;TSE;Estatísticas do Eleitorado
+EMPREGOS_18_24_ANOS_2022;Empregos 18 24 Anos;Empregos 18 24 Anos para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_25_29_ANOS_2022;Empregos 25 29 Anos;Empregos 25 29 Anos para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_30_39_ANOS_2022;Empregos 30 39 Anos;Empregos 30 39 Anos para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_40_49_ANOS_2022;Empregos 40 49 Anos;Empregos 40 49 Anos para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_50_64_ANOS_2022;Empregos 50 64 Anos;Empregos 50 64 Anos para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_65_MAIS_2022;Empregos 65 Mais;Empregos 65 Mais para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_FORMAIS_2020;Empregos Formais;Empregos Formais para o município em 2020;INTEGER;vínculos;2020;MTE;RAIS/CAGED
+EMPREGOS_FORMAIS_2021;Empregos Formais;Empregos Formais para o município em 2021;INTEGER;vínculos;2021;MTE;RAIS/CAGED
+EMPREGOS_FORMAIS_2022;Empregos Formais;Empregos Formais para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_FORMAIS_2023;Empregos Formais;Empregos Formais para o município em 2023;INTEGER;vínculos;2023;MTE;RAIS/CAGED
+EMPREGOS_FUNDAMENTAL_COMPLETO_2022;Empregos Fundamental Completo;Empregos Fundamental Completo para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_MEDIO_COMPLETO_2022;Empregos Medio Completo;Empregos Medio Completo para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPREGOS_SUPERIOR_COMPLETO_2022;Empregos Superior Completo;Empregos Superior Completo para o município em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+EMPRESAS_2023;Empresas;Empresas para o município em 2023;INTEGER;unidades;2023;IBGE;Cadastro Central de Empresas
+EMPRESAS_2024;Empresas;Empresas para o município em 2024;INTEGER;unidades;2024;IBGE;Cadastro Central de Empresas
+EMPRESAS_DEMAIS_2023;Empresas Demais;Empresas Demais para o município em 2023;INTEGER;unidades;2023;IBGE;Cadastro Central de Empresas
+EMPRESAS_DEMAIS_2024;Empresas Demais;Empresas Demais para o município em 2024;INTEGER;unidades;2024;IBGE;Cadastro Central de Empresas
+EMPRESAS_EPP_2023;Empresas Epp;Empresas Epp para o município em 2023;INTEGER;unidades;2023;IBGE;Cadastro Central de Empresas
+EMPRESAS_EPP_2024;Empresas Epp;Empresas Epp para o município em 2024;INTEGER;unidades;2024;IBGE;Cadastro Central de Empresas
+EMPRESAS_MEI_2023;Empresas Mei;Empresas Mei para o município em 2023;INTEGER;unidades;2023;Sebrae;Cadastro Central de Empresas
+EMPRESAS_MEI_2024;Empresas Mei;Empresas Mei para o município em 2024;INTEGER;unidades;2024;Sebrae;Cadastro Central de Empresas
+EMPRESAS_ME_2023;Empresas Me;Empresas Me para o município em 2023;INTEGER;unidades;2023;IBGE;Cadastro Central de Empresas
+EMPRESAS_ME_2024;Empresas Me;Empresas Me para o município em 2024;INTEGER;unidades;2024;IBGE;Cadastro Central de Empresas
+ENFERMEIROS_2019;Enfermeiros;Enfermeiros para o município em 2019;INTEGER;unidades;2019;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+ENFERMEIROS_2020;Enfermeiros;Enfermeiros para o município em 2020;INTEGER;unidades;2020;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+ENFERMEIROS_2021;Enfermeiros;Enfermeiros para o município em 2021;INTEGER;unidades;2021;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+ENFERMEIROS_2022;Enfermeiros;Enfermeiros para o município em 2022;INTEGER;unidades;2022;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+EQUINOS_2019;Equinos;Equinos para o município em 2019;INTEGER;cabeças;2019;IBGE;Pesquisa da Pecuária Municipal
+EQUINOS_2020;Equinos;Equinos para o município em 2020;INTEGER;cabeças;2020;IBGE;Pesquisa da Pecuária Municipal
+EQUINOS_2021;Equinos;Equinos para o município em 2021;INTEGER;cabeças;2021;IBGE;Pesquisa da Pecuária Municipal
+EQUINOS_2022;Equinos;Equinos para o município em 2022;INTEGER;cabeças;2022;IBGE;Pesquisa da Pecuária Municipal
+EQUINOS_2023;Equinos;Equinos para o município em 2023;INTEGER;cabeças;2023;IBGE;Pesquisa da Pecuária Municipal
+ERB_TOTAL_2024;Erb Total;Erb Total para o município em 2024;INTEGER;unidades;2024;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_RUDIMENTAR_1991;Esgoto Fossa Rudimentar;Esgoto Fossa Rudimentar para o município em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_RUDIMENTAR_2000;Esgoto Fossa Rudimentar;Esgoto Fossa Rudimentar para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_RUDIMENTAR_2010;Esgoto Fossa Rudimentar;Esgoto Fossa Rudimentar para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_RUDIMENTAR_2021;Esgoto Fossa Rudimentar;Esgoto Fossa Rudimentar para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_REDE_1991;Esgoto Fossa Septica Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_REDE_2000;Esgoto Fossa Septica Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_REDE_2010;Esgoto Fossa Septica Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_REDE_2021;Esgoto Fossa Septica Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_SEM_REDE_1991;Esgoto Fossa Septica Sem Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_SEM_REDE_2000;Esgoto Fossa Septica Sem Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_SEM_REDE_2010;Esgoto Fossa Septica Sem Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+ESGOTO_FOSSA_SEPTICA_SEM_REDE_2021;Esgoto Fossa Septica Sem Rede;Número de domicílios com esgotamento sanitário por fossa séptica em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+ESGOTO_REDE_GERAL_1991;Esgoto Rede Geral;Número de domicílios com esgotamento sanitário por rede coletora em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+ESGOTO_REDE_GERAL_2000;Esgoto Rede Geral;Número de domicílios com esgotamento sanitário por rede coletora em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+ESGOTO_REDE_GERAL_2010;Esgoto Rede Geral;Número de domicílios com esgotamento sanitário por rede coletora em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+ESGOTO_REDE_GERAL_2021;Esgoto Rede Geral;Número de domicílios com esgotamento sanitário por rede coletora em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_AGROPECUARIOS_2006;Estabelecimentos Agropecuarios;Estabelecimentos Agropecuarios para o município em 2006;INTEGER;unidades;2006;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_AGROPECUARIOS_2017;Estabelecimentos Agropecuarios;Estabelecimentos Agropecuarios para o município em 2017;INTEGER;unidades;2017;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_ARRENDATARIOS_2006;Estabelecimentos Arrendatarios;Estabelecimentos Arrendatarios para o município em 2006;DECIMAL;mil R$;2006;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_ARRENDATARIOS_2017;Estabelecimentos Arrendatarios;Estabelecimentos Arrendatarios para o município em 2017;DECIMAL;mil R$;2017;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_ENSINO_2023;Estabelecimentos Ensino;Estabelecimentos Ensino para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_OCUPANTES_2006;Estabelecimentos Ocupantes;Estabelecimentos Ocupantes para o município em 2006;INTEGER;unidades;2006;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_OCUPANTES_2017;Estabelecimentos Ocupantes;Estabelecimentos Ocupantes para o município em 2017;INTEGER;unidades;2017;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_PARCEIROS_2006;Estabelecimentos Parceiros;Estabelecimentos Parceiros para o município em 2006;INTEGER;unidades;2006;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_PARCEIROS_2017;Estabelecimentos Parceiros;Estabelecimentos Parceiros para o município em 2017;INTEGER;unidades;2017;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_PROPRIETARIOS_2006;Estabelecimentos Proprietarios;Estabelecimentos Proprietarios para o município em 2006;INTEGER;unidades;2006;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_PROPRIETARIOS_2017;Estabelecimentos Proprietarios;Estabelecimentos Proprietarios para o município em 2017;INTEGER;unidades;2017;IBGE;Base de Dados Municipal
+ESTABELECIMENTOS_SAUDE_2019;Estabelecimentos Saude;Estabelecimentos Saude para o município em 2019;INTEGER;unidades;2019;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+ESTABELECIMENTOS_SAUDE_2020;Estabelecimentos Saude;Estabelecimentos Saude para o município em 2020;INTEGER;unidades;2020;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+ESTABELECIMENTOS_SAUDE_2021;Estabelecimentos Saude;Estabelecimentos Saude para o município em 2021;INTEGER;unidades;2021;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+ESTABELECIMENTOS_SAUDE_2022;Estabelecimentos Saude;Estabelecimentos Saude para o município em 2022;INTEGER;unidades;2022;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+EXPORTACOES_2019;Exportacoes;Exportacoes para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+EXPORTACOES_2020;Exportacoes;Exportacoes para o município em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+EXPORTACOES_2021;Exportacoes;Exportacoes para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+EXPORTACOES_2022;Exportacoes;Exportacoes para o município em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+EXPORTACOES_2023;Exportacoes;Exportacoes para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+FAMILIAS_BOLSA_FAMILIA_2019;Familias Bolsa Familia;Número de famílias beneficiadas pelo Programa Bolsa Família em 2019;INTEGER;unidades;2019;MDS;Cadastro Único
+FAMILIAS_BOLSA_FAMILIA_2020;Familias Bolsa Familia;Número de famílias beneficiadas pelo Programa Bolsa Família em 2020;INTEGER;unidades;2020;MDS;Cadastro Único
+FAMILIAS_BOLSA_FAMILIA_2021;Familias Bolsa Familia;Número de famílias beneficiadas pelo Programa Bolsa Família em 2021;INTEGER;unidades;2021;MDS;Cadastro Único
+FAMILIAS_BOLSA_FAMILIA_2022;Familias Bolsa Familia;Número de famílias beneficiadas pelo Programa Bolsa Família em 2022;INTEGER;unidades;2022;MDS;Cadastro Único
+FAMILIAS_BOLSA_FAMILIA_2023;Familias Bolsa Familia;Número de famílias beneficiadas pelo Programa Bolsa Família em 2023;INTEGER;unidades;2023;MDS;Cadastro Único
+FAMILIAS_POBREZA_2000;Familias Pobreza;Familias Pobreza para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+FAMILIAS_POBREZA_2010;Familias Pobreza;Familias Pobreza para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+FAMILIAS_POBREZA_ABSOLUTA_2000;Familias Pobreza Absoluta;Familias Pobreza Absoluta para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+FAMILIAS_POBREZA_ABSOLUTA_2010;Familias Pobreza Absoluta;Familias Pobreza Absoluta para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+FAMILIAS_POBREZA_EXTREMA_2000;Familias Pobreza Extrema;Familias Pobreza Extrema para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+FAMILIAS_POBREZA_EXTREMA_2010;Familias Pobreza Extrema;Familias Pobreza Extrema para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+FEIJAO_AREA_2019;Feijao Area;Feijao Area para o município em 2019;DECIMAL;hectares;2019;IBGE;Produção Agrícola Municipal
+FEIJAO_AREA_2020;Feijao Area;Feijao Area para o município em 2020;DECIMAL;hectares;2020;IBGE;Produção Agrícola Municipal
+FEIJAO_AREA_2021;Feijao Area;Feijao Area para o município em 2021;DECIMAL;hectares;2021;IBGE;Produção Agrícola Municipal
+FEIJAO_AREA_2022;Feijao Area;Feijao Area para o município em 2022;DECIMAL;hectares;2022;IBGE;Produção Agrícola Municipal
+FEIJAO_AREA_2023;Feijao Area;Feijao Area para o município em 2023;DECIMAL;hectares;2023;IBGE;Produção Agrícola Municipal
+FEIJAO_PRODUCAO_2019;Feijao Producao;Feijao Producao para o município em 2019;INTEGER;toneladas;2019;IBGE;Produção Agrícola Municipal
+FEIJAO_PRODUCAO_2020;Feijao Producao;Feijao Producao para o município em 2020;INTEGER;toneladas;2020;IBGE;Produção Agrícola Municipal
+FEIJAO_PRODUCAO_2021;Feijao Producao;Feijao Producao para o município em 2021;INTEGER;toneladas;2021;IBGE;Produção Agrícola Municipal
+FEIJAO_PRODUCAO_2022;Feijao Producao;Feijao Producao para o município em 2022;INTEGER;toneladas;2022;IBGE;Produção Agrícola Municipal
+FEIJAO_PRODUCAO_2023;Feijao Producao;Feijao Producao para o município em 2023;INTEGER;toneladas;2023;IBGE;Produção Agrícola Municipal
+FINANCIAMENTOS_NUMERO_2019;Financiamentos Numero;Financiamentos Numero para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_NUMERO_2020;Financiamentos Numero;Financiamentos Numero para o município em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_NUMERO_2021;Financiamentos Numero;Financiamentos Numero para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_NUMERO_2022;Financiamentos Numero;Financiamentos Numero para o município em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_NUMERO_2023;Financiamentos Numero;Financiamentos Numero para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_VALOR_2019;Financiamentos Valor;Financiamentos Valor para o município em 2019;DECIMAL;mil R$;2019;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_VALOR_2020;Financiamentos Valor;Financiamentos Valor para o município em 2020;DECIMAL;mil R$;2020;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_VALOR_2021;Financiamentos Valor;Financiamentos Valor para o município em 2021;DECIMAL;mil R$;2021;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_VALOR_2022;Financiamentos Valor;Financiamentos Valor para o município em 2022;DECIMAL;mil R$;2022;IBGE;Base de Dados Municipal
+FINANCIAMENTOS_VALOR_2023;Financiamentos Valor;Financiamentos Valor para o município em 2023;DECIMAL;mil R$;2023;IBGE;Base de Dados Municipal
+FPM_2019;Fpm;Fundo de Participação dos Municípios recebido em milhares de reais em 2019;INTEGER;mil R$;2019;STN;FINBRA - Finanças Municipais
+FPM_2020;Fpm;Fundo de Participação dos Municípios recebido em milhares de reais em 2020;INTEGER;mil R$;2020;STN;FINBRA - Finanças Municipais
+FPM_2021;Fpm;Fundo de Participação dos Municípios recebido em milhares de reais em 2021;INTEGER;mil R$;2021;STN;FINBRA - Finanças Municipais
+FPM_2022;Fpm;Fundo de Participação dos Municípios recebido em milhares de reais em 2022;INTEGER;mil R$;2022;STN;FINBRA - Finanças Municipais
+FUNDEB_2019;Fundeb;Recursos recebidos do Fundo de Desenvolvimento da Educação Básica em milhares de reais em 2019;INTEGER;mil R$;2019;STN;FINBRA - Finanças Municipais
+FUNDEB_2020;Fundeb;Recursos recebidos do Fundo de Desenvolvimento da Educação Básica em milhares de reais em 2020;INTEGER;mil R$;2020;STN;FINBRA - Finanças Municipais
+FUNDEB_2021;Fundeb;Recursos recebidos do Fundo de Desenvolvimento da Educação Básica em milhares de reais em 2021;INTEGER;mil R$;2021;STN;FINBRA - Finanças Municipais
+FUNDEB_2022;Fundeb;Recursos recebidos do Fundo de Desenvolvimento da Educação Básica em milhares de reais em 2022;INTEGER;mil R$;2022;STN;FINBRA - Finanças Municipais
+GINI_1991;Gini;Gini para o município em 1991;DECIMAL;unidades;1991;IBGE;Base de Dados Municipal
+GINI_2000;Gini;Gini para o município em 2000;DECIMAL;unidades;2000;IBGE;Base de Dados Municipal
+GINI_2010;Gini;Gini para o município em 2010;DECIMAL;unidades;2010;IBGE;Base de Dados Municipal
+HANSENIASE_2019;Hanseniase;Número de casos notificados de hanseníase em 2019;INTEGER;unidades;2019;DATASUS;Sistema de Informação de Agravos de Notificação
+HANSENIASE_2020;Hanseniase;Número de casos notificados de hanseníase em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informação de Agravos de Notificação
+HANSENIASE_2021;Hanseniase;Número de casos notificados de hanseníase em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informação de Agravos de Notificação
+HANSENIASE_2022;Hanseniase;Número de casos notificados de hanseníase em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informação de Agravos de Notificação
+HANSENIASE_2023;Hanseniase;Número de casos notificados de hanseníase em 2023;INTEGER;unidades;2023;DATASUS;Sistema de Informação de Agravos de Notificação
+ICMS_2019;Icms;Receita de transferências de ICMS em milhares de reais em 2019;INTEGER;mil R$;2019;STN;FINBRA - Finanças Municipais
+ICMS_2020;Icms;Receita de transferências de ICMS em milhares de reais em 2020;INTEGER;mil R$;2020;STN;FINBRA - Finanças Municipais
+ICMS_2021;Icms;Receita de transferências de ICMS em milhares de reais em 2021;INTEGER;mil R$;2021;STN;FINBRA - Finanças Municipais
+ICMS_2022;Icms;Receita de transferências de ICMS em milhares de reais em 2022;INTEGER;mil R$;2022;STN;FINBRA - Finanças Municipais
+IDEB_ANOS_FINAIS_2013;Ideb Anos Finais;Ideb Anos Finais para o município em 2013;INTEGER;unidades;2013;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_FINAIS_2023;Ideb Anos Finais;Ideb Anos Finais para o município em 2023;INTEGER;unidades;2023;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_INICIAIS_2013;Ideb Anos Iniciais;Ideb Anos Iniciais para o município em 2013;INTEGER;unidades;2013;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_ANOS_INICIAIS_2023;Ideb Anos Iniciais;Ideb Anos Iniciais para o município em 2023;INTEGER;unidades;2023;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_MEDIO_2013;Ideb Medio;Ideb Medio para o município em 2013;INTEGER;unidades;2013;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_MEDIO_2015;Ideb Medio;Ideb Medio para o município em 2015;INTEGER;unidades;2015;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_MEDIO_2017;Ideb Medio;Ideb Medio para o município em 2017;INTEGER;unidades;2017;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_MEDIO_2019;Ideb Medio;Ideb Medio para o município em 2019;INTEGER;unidades;2019;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_MEDIO_2021;Ideb Medio;Ideb Medio para o município em 2021;INTEGER;unidades;2021;INEP;Índice de Desenvolvimento da Educação Básica
+IDEB_MEDIO_2023;Ideb Medio;Ideb Medio para o município em 2023;INTEGER;unidades;2023;INEP;Índice de Desenvolvimento da Educação Básica
+IMPORTACOES_2019;Importacoes;Importacoes para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+IMPORTACOES_2020;Importacoes;Importacoes para o município em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+IMPORTACOES_2021;Importacoes;Importacoes para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+IMPORTACOES_2022;Importacoes;Importacoes para o município em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+IMPORTACOES_2023;Importacoes;Importacoes para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+INSTITUICOES_ENSINO_SUPERIOR_2023;Instituicoes Ensino Superior;Instituicoes Ensino Superior para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+IPVA_2019;Ipva;Receita de transferências de IPVA em milhares de reais em 2019;INTEGER;mil R$;2019;STN;FINBRA - Finanças Municipais
+IPVA_2020;Ipva;Receita de transferências de IPVA em milhares de reais em 2020;INTEGER;mil R$;2020;STN;FINBRA - Finanças Municipais
+IPVA_2021;Ipva;Receita de transferências de IPVA em milhares de reais em 2021;INTEGER;mil R$;2021;STN;FINBRA - Finanças Municipais
+IPVA_2022;Ipva;Receita de transferências de IPVA em milhares de reais em 2022;INTEGER;mil R$;2022;STN;FINBRA - Finanças Municipais
+ITR_2019;Itr;Itr para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+ITR_2020;Itr;Itr para o município em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+ITR_2021;Itr;Itr para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+ITR_2022;Itr;Itr para o município em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+ITR_2023;Itr;Itr para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+LATITUDE;Latitude;Latitude para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+LEITE_PRODUCAO_2019;Leite Producao;Leite Producao para o município em 2019;INTEGER;unidades;2019;IBGE;Pesquisa da Pecuária Municipal
+LEITE_PRODUCAO_2020;Leite Producao;Leite Producao para o município em 2020;INTEGER;unidades;2020;IBGE;Pesquisa da Pecuária Municipal
+LEITE_PRODUCAO_2021;Leite Producao;Leite Producao para o município em 2021;INTEGER;unidades;2021;IBGE;Pesquisa da Pecuária Municipal
+LEITE_PRODUCAO_2022;Leite Producao;Leite Producao para o município em 2022;INTEGER;unidades;2022;IBGE;Pesquisa da Pecuária Municipal
+LEITE_PRODUCAO_2023;Leite Producao;Leite Producao para o município em 2023;INTEGER;unidades;2023;IBGE;Pesquisa da Pecuária Municipal
+LEITE_VACAS_ORDENHADAS_2019;Leite Vacas Ordenhadas;Leite Vacas Ordenhadas para o município em 2019;INTEGER;cabeças;2019;IBGE;Pesquisa da Pecuária Municipal
+LEITE_VACAS_ORDENHADAS_2020;Leite Vacas Ordenhadas;Leite Vacas Ordenhadas para o município em 2020;INTEGER;cabeças;2020;IBGE;Pesquisa da Pecuária Municipal
+LEITE_VACAS_ORDENHADAS_2021;Leite Vacas Ordenhadas;Leite Vacas Ordenhadas para o município em 2021;INTEGER;cabeças;2021;IBGE;Pesquisa da Pecuária Municipal
+LEITE_VACAS_ORDENHADAS_2022;Leite Vacas Ordenhadas;Leite Vacas Ordenhadas para o município em 2022;INTEGER;cabeças;2022;IBGE;Pesquisa da Pecuária Municipal
+LEITE_VACAS_ORDENHADAS_2023;Leite Vacas Ordenhadas;Leite Vacas Ordenhadas para o município em 2023;INTEGER;cabeças;2023;IBGE;Pesquisa da Pecuária Municipal
+LEITOS_SUS_2020;Leitos Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2020;INTEGER;unidades;2020;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_SUS_2021;Leitos Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2021;INTEGER;unidades;2021;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_SUS_2022;Leitos Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2022;INTEGER;unidades;2022;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_SUS_2024;Leitos Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2024;INTEGER;unidades;2024;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_TOTAL_2020;Leitos Total;Leitos Total para o município em 2020;INTEGER;unidades;2020;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_TOTAL_2021;Leitos Total;Leitos Total para o município em 2021;INTEGER;unidades;2021;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_TOTAL_2022;Leitos Total;Leitos Total para o município em 2022;INTEGER;unidades;2022;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_TOTAL_2023;Leitos Total;Leitos Total para o município em 2023;INTEGER;unidades;2023;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_TOTAL_2024;Leitos Total;Leitos Total para o município em 2024;INTEGER;unidades;2024;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_UTI_2020;Leitos Uti;Leitos Uti para o município em 2020;INTEGER;unidades;2020;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_UTI_2021;Leitos Uti;Leitos Uti para o município em 2021;INTEGER;unidades;2021;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_UTI_2022;Leitos Uti;Leitos Uti para o município em 2022;INTEGER;unidades;2022;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_UTI_2023;Leitos Uti;Leitos Uti para o município em 2023;INTEGER;unidades;2023;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LEITOS_UTI_2024;Leitos Uti;Leitos Uti para o município em 2024;INTEGER;unidades;2024;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+LIMITES_MUNICIPIOS;Limites Municipios;Limites Municipios para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+LIXO_COLETADO_DIRETO_1991;Lixo Coletado Direto;Lixo Coletado Direto para o município em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+LIXO_COLETADO_DIRETO_2000;Lixo Coletado Direto;Lixo Coletado Direto para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+LIXO_COLETADO_DIRETO_2010;Lixo Coletado Direto;Lixo Coletado Direto para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+LIXO_COLETADO_DIRETO_2021;Lixo Coletado Direto;Lixo Coletado Direto para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+LIXO_COLETADO_INDIRETO_1991;Lixo Coletado Indireto;Lixo Coletado Indireto para o município em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+LIXO_COLETADO_INDIRETO_2000;Lixo Coletado Indireto;Lixo Coletado Indireto para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+LIXO_COLETADO_INDIRETO_2010;Lixo Coletado Indireto;Lixo Coletado Indireto para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+LIXO_COLETADO_INDIRETO_2021;Lixo Coletado Indireto;Lixo Coletado Indireto para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+LIXO_QUEIMADO_1991;Lixo Queimado;Lixo Queimado para o município em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+LIXO_QUEIMADO_2000;Lixo Queimado;Lixo Queimado para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+LIXO_QUEIMADO_2010;Lixo Queimado;Lixo Queimado para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+LIXO_QUEIMADO_2021;Lixo Queimado;Lixo Queimado para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+LONGITUDE;Longitude;Longitude para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+MANDIOCA_AREA_2019;Mandioca Area;Mandioca Area para o município em 2019;DECIMAL;hectares;2019;IBGE;Produção Agrícola Municipal
+MANDIOCA_AREA_2020;Mandioca Area;Mandioca Area para o município em 2020;DECIMAL;hectares;2020;IBGE;Produção Agrícola Municipal
+MANDIOCA_AREA_2021;Mandioca Area;Mandioca Area para o município em 2021;DECIMAL;hectares;2021;IBGE;Produção Agrícola Municipal
+MANDIOCA_AREA_2022;Mandioca Area;Mandioca Area para o município em 2022;DECIMAL;hectares;2022;IBGE;Produção Agrícola Municipal
+MANDIOCA_AREA_2023;Mandioca Area;Mandioca Area para o município em 2023;DECIMAL;hectares;2023;IBGE;Produção Agrícola Municipal
+MANDIOCA_PRODUCAO_2019;Mandioca Producao;Mandioca Producao para o município em 2019;INTEGER;toneladas;2019;IBGE;Produção Agrícola Municipal
+MANDIOCA_PRODUCAO_2020;Mandioca Producao;Mandioca Producao para o município em 2020;INTEGER;toneladas;2020;IBGE;Produção Agrícola Municipal
+MANDIOCA_PRODUCAO_2021;Mandioca Producao;Mandioca Producao para o município em 2021;INTEGER;toneladas;2021;IBGE;Produção Agrícola Municipal
+MANDIOCA_PRODUCAO_2022;Mandioca Producao;Mandioca Producao para o município em 2022;INTEGER;toneladas;2022;IBGE;Produção Agrícola Municipal
+MANDIOCA_PRODUCAO_2023;Mandioca Producao;Mandioca Producao para o município em 2023;INTEGER;toneladas;2023;IBGE;Produção Agrícola Municipal
+MATRICULAS_CRECHE_2018;Matriculas Creche;Matriculas Creche para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_CRECHE_2019;Matriculas Creche;Matriculas Creche para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_CRECHE_2020;Matriculas Creche;Matriculas Creche para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_CRECHE_2021;Matriculas Creche;Matriculas Creche para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_CRECHE_2022;Matriculas Creche;Matriculas Creche para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_CRECHE_2023;Matriculas Creche;Matriculas Creche para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_EJA_2018;Matriculas Eja;Matriculas Eja para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_EJA_2019;Matriculas Eja;Matriculas Eja para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_EJA_2020;Matriculas Eja;Matriculas Eja para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_EJA_2021;Matriculas Eja;Matriculas Eja para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_EJA_2022;Matriculas Eja;Matriculas Eja para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_ESPECIAL_2018;Matriculas Especial;Matriculas Especial para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_ESPECIAL_2019;Matriculas Especial;Matriculas Especial para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_ESPECIAL_2020;Matriculas Especial;Matriculas Especial para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_ESPECIAL_2021;Matriculas Especial;Matriculas Especial para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_ESPECIAL_2022;Matriculas Especial;Matriculas Especial para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_ESPECIAL_2023;Matriculas Especial;Matriculas Especial para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_ESTADUAL_2018;Matriculas Estadual;Matriculas Estadual para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_ESTADUAL_2019;Matriculas Estadual;Matriculas Estadual para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_ESTADUAL_2020;Matriculas Estadual;Matriculas Estadual para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_ESTADUAL_2021;Matriculas Estadual;Matriculas Estadual para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_ESTADUAL_2022;Matriculas Estadual;Matriculas Estadual para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_ESTADUAL_2023;Matriculas Estadual;Matriculas Estadual para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_FEDERAL_2018;Matriculas Federal;Matriculas Federal para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_FEDERAL_2019;Matriculas Federal;Matriculas Federal para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_FEDERAL_2020;Matriculas Federal;Matriculas Federal para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_FEDERAL_2021;Matriculas Federal;Matriculas Federal para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_FEDERAL_2022;Matriculas Federal;Matriculas Federal para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_FEDERAL_2023;Matriculas Federal;Matriculas Federal para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_II_2018;Matriculas Fundamental Ii;Matriculas Fundamental Ii para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_II_2019;Matriculas Fundamental Ii;Matriculas Fundamental Ii para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_II_2020;Matriculas Fundamental Ii;Matriculas Fundamental Ii para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_II_2021;Matriculas Fundamental Ii;Matriculas Fundamental Ii para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_II_2022;Matriculas Fundamental Ii;Matriculas Fundamental Ii para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_II_2023;Matriculas Fundamental Ii;Matriculas Fundamental Ii para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_I_2018;Matriculas Fundamental I;Matriculas Fundamental I para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_I_2019;Matriculas Fundamental I;Matriculas Fundamental I para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_I_2020;Matriculas Fundamental I;Matriculas Fundamental I para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_I_2021;Matriculas Fundamental I;Matriculas Fundamental I para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_I_2022;Matriculas Fundamental I;Matriculas Fundamental I para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_FUNDAMENTAL_I_2023;Matriculas Fundamental I;Matriculas Fundamental I para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_MEDIO_2018;Matriculas Medio;Matriculas Medio para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_MEDIO_2019;Matriculas Medio;Matriculas Medio para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_MEDIO_2020;Matriculas Medio;Matriculas Medio para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_MEDIO_2021;Matriculas Medio;Matriculas Medio para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_MEDIO_2022;Matriculas Medio;Matriculas Medio para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_MUNICIPAL_2018;Matriculas Municipal;Matriculas Municipal para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_MUNICIPAL_2019;Matriculas Municipal;Matriculas Municipal para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_MUNICIPAL_2020;Matriculas Municipal;Matriculas Municipal para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_MUNICIPAL_2021;Matriculas Municipal;Matriculas Municipal para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_MUNICIPAL_2022;Matriculas Municipal;Matriculas Municipal para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_MUNICIPAL_2023;Matriculas Municipal;Matriculas Municipal para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_PRE_ESCOLA_2018;Matriculas Pre Escola;Matriculas Pre Escola para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_PRE_ESCOLA_2019;Matriculas Pre Escola;Matriculas Pre Escola para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_PRE_ESCOLA_2020;Matriculas Pre Escola;Matriculas Pre Escola para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_PRE_ESCOLA_2021;Matriculas Pre Escola;Matriculas Pre Escola para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_PRE_ESCOLA_2022;Matriculas Pre Escola;Matriculas Pre Escola para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_PRE_ESCOLA_2023;Matriculas Pre Escola;Matriculas Pre Escola para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_PRIVADA_2018;Matriculas Privada;Matriculas Privada para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_PRIVADA_2019;Matriculas Privada;Matriculas Privada para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_PRIVADA_2020;Matriculas Privada;Matriculas Privada para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_PRIVADA_2021;Matriculas Privada;Matriculas Privada para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_PRIVADA_2022;Matriculas Privada;Matriculas Privada para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_PRIVADA_2023;Matriculas Privada;Matriculas Privada para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MATRICULAS_PROFISSIONAL_2018;Matriculas Profissional;Matriculas Profissional para o município em 2018;INTEGER;unidades;2018;INEP;Censo Escolar
+MATRICULAS_PROFISSIONAL_2019;Matriculas Profissional;Matriculas Profissional para o município em 2019;INTEGER;unidades;2019;INEP;Censo Escolar
+MATRICULAS_PROFISSIONAL_2020;Matriculas Profissional;Matriculas Profissional para o município em 2020;INTEGER;unidades;2020;INEP;Censo Escolar
+MATRICULAS_PROFISSIONAL_2021;Matriculas Profissional;Matriculas Profissional para o município em 2021;INTEGER;unidades;2021;INEP;Censo Escolar
+MATRICULAS_PROFISSIONAL_2022;Matriculas Profissional;Matriculas Profissional para o município em 2022;INTEGER;unidades;2022;INEP;Censo Escolar
+MATRICULAS_PROFISSIONAL_2023;Matriculas Profissional;Matriculas Profissional para o município em 2023;INTEGER;unidades;2023;INEP;Censo Escolar
+MEDICOS_2019;Medicos;Medicos para o município em 2019;INTEGER;unidades;2019;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+MEDICOS_2020;Medicos;Medicos para o município em 2020;INTEGER;unidades;2020;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+MEDICOS_2021;Medicos;Medicos para o município em 2021;INTEGER;unidades;2021;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+MEDICOS_2022;Medicos;Medicos para o município em 2022;INTEGER;unidades;2022;DATASUS;Cadastro Nacional de Estabelecimentos de Saúde
+MEI_2019;Mei;Mei para o município em 2019;INTEGER;unidades;2019;Sebrae;Portal do Empreendedor
+MEI_2020;Mei;Mei para o município em 2020;INTEGER;unidades;2020;Sebrae;Portal do Empreendedor
+MEI_2021;Mei;Mei para o município em 2021;INTEGER;unidades;2021;Sebrae;Portal do Empreendedor
+MEI_2022;Mei;Mei para o município em 2022;INTEGER;unidades;2022;Sebrae;Portal do Empreendedor
+MEI_2023;Mei;Mei para o município em 2023;INTEGER;unidades;2023;Sebrae;Portal do Empreendedor
+MELANCIA_AREA_2019;Melancia Area;Melancia Area para o município em 2019;DECIMAL;hectares;2019;IBGE;Produção Agrícola Municipal
+MELANCIA_AREA_2020;Melancia Area;Melancia Area para o município em 2020;DECIMAL;hectares;2020;IBGE;Produção Agrícola Municipal
+MELANCIA_AREA_2021;Melancia Area;Melancia Area para o município em 2021;DECIMAL;hectares;2021;IBGE;Produção Agrícola Municipal
+MELANCIA_AREA_2022;Melancia Area;Melancia Area para o município em 2022;DECIMAL;hectares;2022;IBGE;Produção Agrícola Municipal
+MELANCIA_AREA_2023;Melancia Area;Melancia Area para o município em 2023;DECIMAL;hectares;2023;IBGE;Produção Agrícola Municipal
+MELANCIA_PRODUCAO_2019;Melancia Producao;Melancia Producao para o município em 2019;INTEGER;toneladas;2019;IBGE;Produção Agrícola Municipal
+MELANCIA_PRODUCAO_2020;Melancia Producao;Melancia Producao para o município em 2020;INTEGER;toneladas;2020;IBGE;Produção Agrícola Municipal
+MELANCIA_PRODUCAO_2021;Melancia Producao;Melancia Producao para o município em 2021;INTEGER;toneladas;2021;IBGE;Produção Agrícola Municipal
+MELANCIA_PRODUCAO_2022;Melancia Producao;Melancia Producao para o município em 2022;INTEGER;toneladas;2022;IBGE;Produção Agrícola Municipal
+MELANCIA_PRODUCAO_2023;Melancia Producao;Melancia Producao para o município em 2023;INTEGER;toneladas;2023;IBGE;Produção Agrícola Municipal
+MEL_PRODUCAO_2019;Mel Producao;Mel Producao para o município em 2019;INTEGER;unidades;2019;IBGE;Produção Agrícola Municipal
+MEL_PRODUCAO_2020;Mel Producao;Mel Producao para o município em 2020;INTEGER;unidades;2020;IBGE;Produção Agrícola Municipal
+MEL_PRODUCAO_2021;Mel Producao;Mel Producao para o município em 2021;INTEGER;unidades;2021;IBGE;Produção Agrícola Municipal
+MEL_PRODUCAO_2022;Mel Producao;Mel Producao para o município em 2022;INTEGER;unidades;2022;IBGE;Produção Agrícola Municipal
+MEL_PRODUCAO_2023;Mel Producao;Mel Producao para o município em 2023;INTEGER;unidades;2023;IBGE;Produção Agrícola Municipal
+META_ANOS_FINAIS_2013;Meta Anos Finais;Meta Anos Finais para o município em 2013;INTEGER;unidades;2013;IBGE;Base de Dados Municipal
+META_ANOS_FINAIS_2015;Meta Anos Finais;Meta Anos Finais para o município em 2015;INTEGER;unidades;2015;IBGE;Base de Dados Municipal
+META_ANOS_FINAIS_2017;Meta Anos Finais;Meta Anos Finais para o município em 2017;INTEGER;unidades;2017;IBGE;Base de Dados Municipal
+META_ANOS_FINAIS_2019;Meta Anos Finais;Meta Anos Finais para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+META_ANOS_FINAIS_2021;Meta Anos Finais;Meta Anos Finais para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+META_ANOS_FINAIS_2023;Meta Anos Finais;Meta Anos Finais para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+META_ANOS_INICIAIS_2013;Meta Anos Iniciais;Meta Anos Iniciais para o município em 2013;INTEGER;unidades;2013;IBGE;Base de Dados Municipal
+META_ANOS_INICIAIS_2015;Meta Anos Iniciais;Meta Anos Iniciais para o município em 2015;INTEGER;unidades;2015;IBGE;Base de Dados Municipal
+META_ANOS_INICIAIS_2017;Meta Anos Iniciais;Meta Anos Iniciais para o município em 2017;INTEGER;unidades;2017;IBGE;Base de Dados Municipal
+META_ANOS_INICIAIS_2019;Meta Anos Iniciais;Meta Anos Iniciais para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+META_ANOS_INICIAIS_2021;Meta Anos Iniciais;Meta Anos Iniciais para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+META_ANOS_INICIAIS_2023;Meta Anos Iniciais;Meta Anos Iniciais para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+META_MEDIO_2013;Meta Medio;Meta Medio para o município em 2013;INTEGER;unidades;2013;IBGE;Base de Dados Municipal
+META_MEDIO_2015;Meta Medio;Meta Medio para o município em 2015;INTEGER;unidades;2015;IBGE;Base de Dados Municipal
+META_MEDIO_2017;Meta Medio;Meta Medio para o município em 2017;INTEGER;unidades;2017;IBGE;Base de Dados Municipal
+META_MEDIO_2019;Meta Medio;Meta Medio para o município em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+META_MEDIO_2021;Meta Medio;Meta Medio para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+META_MEDIO_2023;Meta Medio;Meta Medio para o município em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+MILHO_AREA_2019;Milho Area;Milho Area para o município em 2019;DECIMAL;hectares;2019;IBGE;Produção Agrícola Municipal
+MILHO_AREA_2020;Milho Area;Milho Area para o município em 2020;DECIMAL;hectares;2020;IBGE;Produção Agrícola Municipal
+MILHO_AREA_2021;Milho Area;Milho Area para o município em 2021;DECIMAL;hectares;2021;IBGE;Produção Agrícola Municipal
+MILHO_AREA_2022;Milho Area;Milho Area para o município em 2022;DECIMAL;hectares;2022;IBGE;Produção Agrícola Municipal
+MILHO_AREA_2023;Milho Area;Milho Area para o município em 2023;DECIMAL;hectares;2023;IBGE;Produção Agrícola Municipal
+MILHO_PRODUCAO_2019;Milho Producao;Milho Producao para o município em 2019;INTEGER;toneladas;2019;IBGE;Produção Agrícola Municipal
+MILHO_PRODUCAO_2020;Milho Producao;Milho Producao para o município em 2020;INTEGER;toneladas;2020;IBGE;Produção Agrícola Municipal
+MILHO_PRODUCAO_2021;Milho Producao;Milho Producao para o município em 2021;INTEGER;toneladas;2021;IBGE;Produção Agrícola Municipal
+MILHO_PRODUCAO_2022;Milho Producao;Milho Producao para o município em 2022;INTEGER;toneladas;2022;IBGE;Produção Agrícola Municipal
+MILHO_PRODUCAO_2023;Milho Producao;Milho Producao para o município em 2023;INTEGER;toneladas;2023;IBGE;Produção Agrícola Municipal
+MILHO_RENDIMENTO_2019;Milho Rendimento;Milho Rendimento para o município em 2019;DECIMAL;kg/ha;2019;IBGE;Produção Agrícola Municipal
+MILHO_RENDIMENTO_2020;Milho Rendimento;Milho Rendimento para o município em 2020;DECIMAL;kg/ha;2020;IBGE;Produção Agrícola Municipal
+MILHO_RENDIMENTO_2021;Milho Rendimento;Milho Rendimento para o município em 2021;DECIMAL;kg/ha;2021;IBGE;Produção Agrícola Municipal
+MILHO_RENDIMENTO_2022;Milho Rendimento;Milho Rendimento para o município em 2022;DECIMAL;kg/ha;2022;IBGE;Produção Agrícola Municipal
+MILHO_RENDIMENTO_2023;Milho Rendimento;Milho Rendimento para o município em 2023;DECIMAL;kg/ha;2023;IBGE;Produção Agrícola Municipal
+MORADORES_POR_DOMICILIO_1991;Moradores Por Domicilio;Moradores Por Domicilio para o município em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+MORADORES_POR_DOMICILIO_2000;Moradores Por Domicilio;Moradores Por Domicilio para o município em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+MORADORES_POR_DOMICILIO_2010;Moradores Por Domicilio;Moradores Por Domicilio para o município em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+MORADORES_POR_DOMICILIO_2021;Moradores Por Domicilio;Moradores Por Domicilio para o município em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+NASCIDOS_VIVOS_2018;Nascidos Vivos;Nascidos Vivos para o município em 2018;INTEGER;unidades;2018;DATASUS;Sistema de Informações sobre Nascidos Vivos
+NASCIDOS_VIVOS_2019;Nascidos Vivos;Nascidos Vivos para o município em 2019;INTEGER;unidades;2019;DATASUS;Sistema de Informações sobre Nascidos Vivos
+NASCIDOS_VIVOS_2020;Nascidos Vivos;Nascidos Vivos para o município em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informações sobre Nascidos Vivos
+NASCIDOS_VIVOS_2021;Nascidos Vivos;Nascidos Vivos para o município em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informações sobre Nascidos Vivos
+NASCIDOS_VIVOS_FEM_2022;Nascidos Vivos Fem;Nascidos Vivos Fem para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Nascidos Vivos
+NASCIDOS_VIVOS_MASC_2022;Nascidos Vivos Masc;Nascidos Vivos Masc para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Nascidos Vivos
+OBITOS_0_1_ANO_2022;Obitos 0 1 Ano;Obitos 0 1 Ano para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_10_19_ANOS_2022;Obitos 10 19 Anos;Obitos 10 19 Anos para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_1_4_ANOS_2022;Obitos 1 4 Anos;Obitos 1 4 Anos para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_2018;Obitos;Obitos para o município em 2018;INTEGER;unidades;2018;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_2019;Obitos;Obitos para o município em 2019;INTEGER;unidades;2019;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_2020;Obitos;Obitos para o município em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_2021;Obitos;Obitos para o município em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_2022;Obitos;Obitos para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_20_39_ANOS_2022;Obitos 20 39 Anos;Obitos 20 39 Anos para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_40_59_ANOS_2022;Obitos 40 59 Anos;Obitos 40 59 Anos para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_5_9_ANOS_2022;Obitos 5 9 Anos;Obitos 5 9 Anos para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OBITOS_60_MAIS_2022;Obitos 60 Mais;Obitos 60 Mais para o município em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informações sobre Mortalidade
+OUTRAS_TRANSFERENCIAS_2019;Outras Transferencias;Outras transferências intergovernamentais recebidas em milhares de reais em 2019;INTEGER;mil R$;2019;STN;FINBRA - Finanças Municipais
+OUTRAS_TRANSFERENCIAS_2020;Outras Transferencias;Outras transferências intergovernamentais recebidas em milhares de reais em 2020;INTEGER;mil R$;2020;STN;FINBRA - Finanças Municipais
+OUTRAS_TRANSFERENCIAS_2021;Outras Transferencias;Outras transferências intergovernamentais recebidas em milhares de reais em 2021;INTEGER;mil R$;2021;STN;FINBRA - Finanças Municipais
+OUTRAS_TRANSFERENCIAS_2022;Outras Transferencias;Outras transferências intergovernamentais recebidas em milhares de reais em 2022;INTEGER;mil R$;2022;STN;FINBRA - Finanças Municipais
+OUTRAS_TRANSFERENCIAS_2023;Outras Transferencias;Outras transferências intergovernamentais recebidas em milhares de reais em 2023;INTEGER;mil R$;2023;STN;FINBRA - Finanças Municipais
+OVINOS_2019;Ovinos;Número de cabeças de ovinos no efetivo do rebanho em 2019;INTEGER;cabeças;2019;IBGE;Pesquisa da Pecuária Municipal
+OVINOS_2020;Ovinos;Número de cabeças de ovinos no efetivo do rebanho em 2020;INTEGER;cabeças;2020;IBGE;Pesquisa da Pecuária Municipal
+OVINOS_2021;Ovinos;Número de cabeças de ovinos no efetivo do rebanho em 2021;INTEGER;cabeças;2021;IBGE;Pesquisa da Pecuária Municipal
+OVINOS_2022;Ovinos;Número de cabeças de ovinos no efetivo do rebanho em 2022;INTEGER;cabeças;2022;IBGE;Pesquisa da Pecuária Municipal
+OVINOS_2023;Ovinos;Número de cabeças de ovinos no efetivo do rebanho em 2023;INTEGER;cabeças;2023;IBGE;Pesquisa da Pecuária Municipal
+OVOS_PRODUCAO_2019;Ovos Producao;Produção de ovos de galinha em mil dúzias em 2019;INTEGER;mil dúzias;2019;IBGE;Pesquisa da Pecuária Municipal
+OVOS_PRODUCAO_2020;Ovos Producao;Produção de ovos de galinha em mil dúzias em 2020;INTEGER;mil dúzias;2020;IBGE;Pesquisa da Pecuária Municipal
+OVOS_PRODUCAO_2021;Ovos Producao;Produção de ovos de galinha em mil dúzias em 2021;INTEGER;mil dúzias;2021;IBGE;Pesquisa da Pecuária Municipal
+OVOS_PRODUCAO_2022;Ovos Producao;Produção de ovos de galinha em mil dúzias em 2022;INTEGER;mil dúzias;2022;IBGE;Pesquisa da Pecuária Municipal
+OVOS_PRODUCAO_2023;Ovos Producao;Produção de ovos de galinha em mil dúzias em 2023;INTEGER;mil dúzias;2023;IBGE;Pesquisa da Pecuária Municipal
+PESSOAS_AUXILIO_EMERGENCIAL_2021;Pessoas Auxilio Emergencial;Número de pessoas beneficiadas pelo Auxílio Emergencial em 2021;INTEGER;pessoas;2021;MDS;Cadastro Único
+PESSOAS_AUXILIO_EMERGENCIAL_2022;Pessoas Auxilio Emergencial;Número de pessoas beneficiadas pelo Auxílio Emergencial em 2022;INTEGER;pessoas;2022;MDS;Cadastro Único
+PIB_2017;Pib;Pib para o município em 2017;DECIMAL;mil R$;2017;IBGE;Produto Interno Bruto dos Municípios
+PIB_2018;Pib;Pib para o município em 2018;DECIMAL;mil R$;2018;IBGE;Produto Interno Bruto dos Municípios
+PIB_2019;Pib;Pib para o município em 2019;DECIMAL;mil R$;2019;IBGE;Produto Interno Bruto dos Municípios
+PIB_2020;Pib;Pib para o município em 2020;DECIMAL;mil R$;2020;IBGE;Produto Interno Bruto dos Municípios
+PIB_2021;Pib;Pib para o município em 2021;DECIMAL;mil R$;2021;IBGE;Produto Interno Bruto dos Municípios
+PIB_PER_CAPITA_2017;Pib Per Capita;Pib Per Capita para o município em 2017;DECIMAL;R$;2017;IBGE;Produto Interno Bruto dos Municípios
+PIB_PER_CAPITA_2018;Pib Per Capita;Pib Per Capita para o município em 2018;DECIMAL;R$;2018;IBGE;Produto Interno Bruto dos Municípios
+POPULACAO_FEMININA_1991;Populacao Feminina;População feminina residente em 1991;INTEGER;habitantes;1991;IBGE;Censo Demográfico
+POPULACAO_FEMININA_2000;Populacao Feminina;População feminina residente em 2000;INTEGER;habitantes;2000;IBGE;Censo Demográfico
+POPULACAO_FEMININA_2010;Populacao Feminina;População feminina residente em 2010;INTEGER;habitantes;2010;IBGE;Censo Demográfico
+POPULACAO_FEMININA_2022;Populacao Feminina;População feminina residente em 2022;INTEGER;habitantes;2022;IBGE;Estimativas de População
+POPULACAO_MASCULINA_1991;Populacao Masculina;População masculina residente em 1991;INTEGER;habitantes;1991;IBGE;Censo Demográfico
+POPULACAO_MASCULINA_2000;Populacao Masculina;População masculina residente em 2000;INTEGER;habitantes;2000;IBGE;Censo Demográfico
+POPULACAO_MASCULINA_2010;Populacao Masculina;População masculina residente em 2010;INTEGER;habitantes;2010;IBGE;Censo Demográfico
+POPULACAO_MASCULINA_2022;Populacao Masculina;População masculina residente em 2022;INTEGER;habitantes;2022;IBGE;Estimativas de População
+POPULACAO_RURAL_1991;Populacao Rural;População residente em área rural em 1991;INTEGER;habitantes;1991;IBGE;Censo Demográfico
+POPULACAO_RURAL_2000;Populacao Rural;População residente em área rural em 2000;INTEGER;habitantes;2000;IBGE;Censo Demográfico
+POPULACAO_RURAL_2022;Populacao Rural;População residente em área rural em 2022;INTEGER;habitantes;2022;IBGE;Estimativas de População
+POPULACAO_URBANA_1991;Populacao Urbana;População residente em área urbana em 1991;INTEGER;habitantes;1991;IBGE;Censo Demográfico
+POPULACAO_URBANA_2000;Populacao Urbana;População residente em área urbana em 2000;INTEGER;habitantes;2000;IBGE;Censo Demográfico
+POPULACAO_URBANA_2022;Populacao Urbana;População residente em área urbana em 2022;INTEGER;habitantes;2022;IBGE;Estimativas de População
+POP_0_14_ANOS_1991;Pop 0 14 Anos;População na faixa etária de 0 a 14 anos em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+POP_0_14_ANOS_2000;Pop 0 14 Anos;População na faixa etária de 0 a 14 anos em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+POP_0_14_ANOS_2010;Pop 0 14 Anos;População na faixa etária de 0 a 14 anos em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+POP_0_14_ANOS_2022;Pop 0 14 Anos;População na faixa etária de 0 a 14 anos em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+POP_15_64_ANOS_1991;Pop 15 64 Anos;População na faixa etária de 15 a 64 anos (idade ativa) em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+POP_15_64_ANOS_2000;Pop 15 64 Anos;População na faixa etária de 15 a 64 anos (idade ativa) em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+POP_15_64_ANOS_2010;Pop 15 64 Anos;População na faixa etária de 15 a 64 anos (idade ativa) em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+POP_15_64_ANOS_2022;Pop 15 64 Anos;População na faixa etária de 15 a 64 anos (idade ativa) em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+POP_65_MAIS_ANOS_1991;Pop 65 Mais Anos;População com idade igual ou superior a 65 anos em 1991;INTEGER;unidades;1991;IBGE;Base de Dados Municipal
+POP_65_MAIS_ANOS_2000;Pop 65 Mais Anos;População com idade igual ou superior a 65 anos em 2000;INTEGER;unidades;2000;IBGE;Base de Dados Municipal
+POP_65_MAIS_ANOS_2010;Pop 65 Mais Anos;População com idade igual ou superior a 65 anos em 2010;INTEGER;unidades;2010;IBGE;Base de Dados Municipal
+POP_65_MAIS_ANOS_2022;Pop 65 Mais Anos;População com idade igual ou superior a 65 anos em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+POSTOS_BANCARIAS_2024;Postos Bancarias;Número de postos de atendimento bancário em 2024;INTEGER;unidades;2024;BACEN;Estatísticas Bancárias por Município
+QUEIMADAS_2014;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2014;INTEGER;focos;2014;INPE;Programa Queimadas
+QUEIMADAS_2015;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2015;INTEGER;focos;2015;INPE;Programa Queimadas
+QUEIMADAS_2016;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2016;INTEGER;focos;2016;INPE;Programa Queimadas
+QUEIMADAS_2017;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2017;INTEGER;focos;2017;INPE;Programa Queimadas
+QUEIMADAS_2018;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2018;INTEGER;focos;2018;INPE;Programa Queimadas
+QUEIMADAS_2019;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2019;INTEGER;focos;2019;INPE;Programa Queimadas
+QUEIMADAS_2020;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2020;INTEGER;focos;2020;INPE;Programa Queimadas
+QUEIMADAS_2021;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2021;INTEGER;focos;2021;INPE;Programa Queimadas
+QUEIMADAS_2022;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2022;INTEGER;focos;2022;INPE;Programa Queimadas
+QUEIMADAS_2023;Queimadas;Número de focos de calor detectados por satélite no território municipal em 2023;INTEGER;focos;2023;INPE;Programa Queimadas
+RAZAO_DEPENDENCIA_1991;Razao Dependencia;Razão entre população dependente (0-14 e 65+) e população em idade ativa (15-64) em 1991;DECIMAL;unidades;1991;IBGE;Base de Dados Municipal
+RAZAO_DEPENDENCIA_2000;Razao Dependencia;Razão entre população dependente (0-14 e 65+) e população em idade ativa (15-64) em 2000;DECIMAL;unidades;2000;IBGE;Base de Dados Municipal
+RAZAO_DEPENDENCIA_2022;Razao Dependencia;Razão entre população dependente (0-14 e 65+) e população em idade ativa (15-64) em 2022;DECIMAL;unidades;2022;IBGE;Base de Dados Municipal
+RECICLAGEM_2022;Reciclagem;Indicador de existência de programa de reciclagem de resíduos sólidos no município em 2022;TEXT;unidades;2022;SNIS;Base de Dados Municipal
+RELEVO_PREDOMINANTE;Relevo Predominante;Tipo de relevo predominante no território municipal;TEXT;texto;2023;IBGE;Base de Dados Municipal
+RENDA_10_MAIS_RICOS_1991;Renda 10 Mais Ricos;Percentual da renda total apropriada pelos 10% mais ricos em 1991;DECIMAL;mil R$;1991;IBGE;Base de Dados Municipal
+RENDA_10_MAIS_RICOS_2000;Renda 10 Mais Ricos;Percentual da renda total apropriada pelos 10% mais ricos em 2000;DECIMAL;mil R$;2000;IBGE;Base de Dados Municipal
+RENDA_10_MAIS_RICOS_2010;Renda 10 Mais Ricos;Percentual da renda total apropriada pelos 10% mais ricos em 2010;DECIMAL;mil R$;2010;IBGE;Base de Dados Municipal
+RENDA_20_MAIS_POBRES_1991;Renda 20 Mais Pobres;Percentual da renda total apropriada pelos 20% mais pobres em 1991;DECIMAL;mil R$;1991;IBGE;Base de Dados Municipal
+RENDA_20_MAIS_POBRES_2000;Renda 20 Mais Pobres;Percentual da renda total apropriada pelos 20% mais pobres em 2000;DECIMAL;mil R$;2000;IBGE;Base de Dados Municipal
+RENDA_20_MAIS_POBRES_2010;Renda 20 Mais Pobres;Percentual da renda total apropriada pelos 20% mais pobres em 2010;DECIMAL;mil R$;2010;IBGE;Base de Dados Municipal
+RENDA_20_MAIS_RICOS_1991;Renda 20 Mais Ricos;Percentual da renda total apropriada pelos 20% mais ricos em 1991;DECIMAL;mil R$;1991;IBGE;Base de Dados Municipal
+RENDA_20_MAIS_RICOS_2000;Renda 20 Mais Ricos;Percentual da renda total apropriada pelos 20% mais ricos em 2000;DECIMAL;mil R$;2000;IBGE;Base de Dados Municipal
+RENDA_20_MAIS_RICOS_2010;Renda 20 Mais Ricos;Percentual da renda total apropriada pelos 20% mais ricos em 2010;DECIMAL;mil R$;2010;IBGE;Base de Dados Municipal
+RENDA_40_INTERMEDIARIOS_1991;Renda 40 Intermediarios;Percentual da renda total apropriada pelos 40% intermediários em 1991;DECIMAL;mil R$;1991;IBGE;Base de Dados Municipal
+RENDA_40_INTERMEDIARIOS_2000;Renda 40 Intermediarios;Percentual da renda total apropriada pelos 40% intermediários em 2000;DECIMAL;mil R$;2000;IBGE;Base de Dados Municipal
+RENDA_40_INTERMEDIARIOS_2010;Renda 40 Intermediarios;Percentual da renda total apropriada pelos 40% intermediários em 2010;DECIMAL;mil R$;2010;IBGE;Base de Dados Municipal
+SALDO_BALANCA_2019;Saldo Balanca;Saldo da balança comercial municipal (exportações - importações) em milhares de USD em 2019;INTEGER;unidades;2019;IBGE;RAIS/CAGED
+SALDO_BALANCA_2020;Saldo Balanca;Saldo da balança comercial municipal (exportações - importações) em milhares de USD em 2020;INTEGER;unidades;2020;IBGE;RAIS/CAGED
+SALDO_BALANCA_2021;Saldo Balanca;Saldo da balança comercial municipal (exportações - importações) em milhares de USD em 2021;INTEGER;unidades;2021;IBGE;RAIS/CAGED
+SALDO_BALANCA_2022;Saldo Balanca;Saldo da balança comercial municipal (exportações - importações) em milhares de USD em 2022;INTEGER;unidades;2022;IBGE;RAIS/CAGED
+SALDO_BALANCA_2023;Saldo Balanca;Saldo da balança comercial municipal (exportações - importações) em milhares de USD em 2023;INTEGER;unidades;2023;IBGE;RAIS/CAGED
+SALDO_EMPREGOS_2020;Saldo Empregos;Saldo líquido de empregos formais (admissões - desligamentos) em 2020;INTEGER;vínculos;2020;MTE;RAIS/CAGED
+SALDO_EMPREGOS_2021;Saldo Empregos;Saldo líquido de empregos formais (admissões - desligamentos) em 2021;INTEGER;vínculos;2021;MTE;RAIS/CAGED
+SALDO_EMPREGOS_2022;Saldo Empregos;Saldo líquido de empregos formais (admissões - desligamentos) em 2022;INTEGER;vínculos;2022;MTE;RAIS/CAGED
+SALDO_EMPREGOS_2023;Saldo Empregos;Saldo líquido de empregos formais (admissões - desligamentos) em 2023;INTEGER;vínculos;2023;MTE;RAIS/CAGED
+SOJA_AREA_2019;Soja Area;Área plantada de soja em hectares em 2019;DECIMAL;hectares;2019;IBGE;Produção Agrícola Municipal
+SOJA_AREA_2020;Soja Area;Área plantada de soja em hectares em 2020;DECIMAL;hectares;2020;IBGE;Produção Agrícola Municipal
+SOJA_AREA_2021;Soja Area;Área plantada de soja em hectares em 2021;DECIMAL;hectares;2021;IBGE;Produção Agrícola Municipal
+SOJA_AREA_2022;Soja Area;Área plantada de soja em hectares em 2022;DECIMAL;hectares;2022;IBGE;Produção Agrícola Municipal
+SOJA_AREA_2023;Soja Area;Área plantada de soja em hectares em 2023;DECIMAL;hectares;2023;IBGE;Produção Agrícola Municipal
+SOJA_PRODUCAO_2019;Soja Producao;Produção de soja em toneladas em 2019;INTEGER;toneladas;2019;IBGE;Produção Agrícola Municipal
+SOJA_PRODUCAO_2020;Soja Producao;Produção de soja em toneladas em 2020;INTEGER;toneladas;2020;IBGE;Produção Agrícola Municipal
+SOJA_PRODUCAO_2021;Soja Producao;Produção de soja em toneladas em 2021;INTEGER;toneladas;2021;IBGE;Produção Agrícola Municipal
+SOJA_PRODUCAO_2022;Soja Producao;Produção de soja em toneladas em 2022;INTEGER;toneladas;2022;IBGE;Produção Agrícola Municipal
+SOJA_PRODUCAO_2023;Soja Producao;Produção de soja em toneladas em 2023;INTEGER;toneladas;2023;IBGE;Produção Agrícola Municipal
+SOJA_RENDIMENTO_2019;Soja Rendimento;Rendimento médio da produção de soja em quilogramas por hectare em 2019;DECIMAL;kg/ha;2019;IBGE;Produção Agrícola Municipal
+SOJA_RENDIMENTO_2020;Soja Rendimento;Rendimento médio da produção de soja em quilogramas por hectare em 2020;DECIMAL;kg/ha;2020;IBGE;Produção Agrícola Municipal
+SOJA_RENDIMENTO_2021;Soja Rendimento;Rendimento médio da produção de soja em quilogramas por hectare em 2021;DECIMAL;kg/ha;2021;IBGE;Produção Agrícola Municipal
+SOJA_RENDIMENTO_2022;Soja Rendimento;Rendimento médio da produção de soja em quilogramas por hectare em 2022;DECIMAL;kg/ha;2022;IBGE;Produção Agrícola Municipal
+SOJA_RENDIMENTO_2023;Soja Rendimento;Rendimento médio da produção de soja em quilogramas por hectare em 2023;DECIMAL;kg/ha;2023;IBGE;Produção Agrícola Municipal
+SUINOS_2019;Suinos;Número de cabeças de suínos no efetivo do rebanho em 2019;INTEGER;cabeças;2019;IBGE;Pesquisa da Pecuária Municipal
+SUINOS_2020;Suinos;Número de cabeças de suínos no efetivo do rebanho em 2020;INTEGER;cabeças;2020;IBGE;Pesquisa da Pecuária Municipal
+SUINOS_2021;Suinos;Número de cabeças de suínos no efetivo do rebanho em 2021;INTEGER;cabeças;2021;IBGE;Pesquisa da Pecuária Municipal
+SUINOS_2022;Suinos;Número de cabeças de suínos no efetivo do rebanho em 2022;INTEGER;cabeças;2022;IBGE;Pesquisa da Pecuária Municipal
+SUINOS_2023;Suinos;Número de cabeças de suínos no efetivo do rebanho em 2023;INTEGER;cabeças;2023;IBGE;Pesquisa da Pecuária Municipal
+SUS_2019;Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+SUS_2020;Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+SUS_2021;Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+SUS_2022;Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+SUS_2023;Sus;Número de estabelecimentos de saúde vinculados ao SUS em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+TAXA_ABANDONO_FUNDAMENTAL_2023;Taxa Abandono Fundamental;Taxa de abandono escolar no ensino fundamental em 2023;PERCENTAGE;%;2023;IBGE;Base de Dados Municipal
+TAXA_ABANDONO_MEDIO_2023;Taxa Abandono Medio;Taxa de abandono escolar no ensino médio em 2023;PERCENTAGE;%;2023;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_15_24_2022;Taxa Alfabetizacao 15 24;Taxa de alfabetização da população de 15 anos ou mais em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_2000;Taxa Alfabetizacao;Taxa de alfabetização da população de 15 anos ou mais em 2000;PERCENTAGE;%;2000;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_2010;Taxa Alfabetizacao;Taxa de alfabetização da população de 15 anos ou mais em 2010;PERCENTAGE;%;2010;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_2022;Taxa Alfabetizacao;Taxa de alfabetização da população de 15 anos ou mais em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_25_39_2022;Taxa Alfabetizacao 25 39;Taxa de alfabetização da população de 15 anos ou mais em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_40_59_2022;Taxa Alfabetizacao 40 59;Taxa de alfabetização da população de 15 anos ou mais em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_60_MAIS_2022;Taxa Alfabetizacao 60 Mais;Taxa de alfabetização da população de 15 anos ou mais em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_FEM_2022;Taxa Alfabetizacao Fem;Taxa de alfabetização da população de 15 anos ou mais em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_ALFABETIZACAO_MASC_2022;Taxa Alfabetizacao Masc;Taxa de alfabetização da população de 15 anos ou mais em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_APROVACAO_FUNDAMENTAL_2023;Taxa Aprovacao Fundamental;Taxa de aprovação escolar no ensino fundamental em 2023;PERCENTAGE;%;2023;IBGE;Base de Dados Municipal
+TAXA_APROVACAO_MEDIO_2023;Taxa Aprovacao Medio;Taxa de aprovação escolar no ensino médio em 2023;PERCENTAGE;%;2023;IBGE;Base de Dados Municipal
+TAXA_CRESCIMENTO_ANUAL_1991_2000;Taxa Crescimento Anual 1991;Taxa média geométrica de crescimento anual da população;PERCENTAGE;%;2000;IBGE;Base de Dados Municipal
+TAXA_CRESCIMENTO_ANUAL_2000_2010;Taxa Crescimento Anual 2000;Taxa média geométrica de crescimento anual da população;PERCENTAGE;%;2010;IBGE;Base de Dados Municipal
+TAXA_CRESCIMENTO_ANUAL_2010_2022;Taxa Crescimento Anual 2010;Taxa média geométrica de crescimento anual da população;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TAXA_FECUNDIDADE_1991;Taxa Fecundidade;Taxa de fecundidade total (número médio de filhos por mulher) em 1991;PERCENTAGE;%;1991;IBGE;Base de Dados Municipal
+TAXA_FECUNDIDADE_2000;Taxa Fecundidade;Taxa de fecundidade total (número médio de filhos por mulher) em 2000;PERCENTAGE;%;2000;IBGE;Base de Dados Municipal
+TAXA_FECUNDIDADE_2010;Taxa Fecundidade;Taxa de fecundidade total (número médio de filhos por mulher) em 2010;PERCENTAGE;%;2010;IBGE;Base de Dados Municipal
+TAXA_MORTALIDADE_INFANTIL_1991;Taxa Mortalidade Infantil;Taxa de mortalidade infantil (menores de 1 ano) por mil nascidos vivos em 1991;PERCENTAGE;%;1991;DATASUS;Atlas do Desenvolvimento Humano
+TAXA_MORTALIDADE_INFANTIL_2000;Taxa Mortalidade Infantil;Taxa de mortalidade infantil (menores de 1 ano) por mil nascidos vivos em 2000;PERCENTAGE;%;2000;DATASUS;Atlas do Desenvolvimento Humano
+TAXA_MORTALIDADE_INFANTIL_2010;Taxa Mortalidade Infantil;Taxa de mortalidade infantil (menores de 1 ano) por mil nascidos vivos em 2010;PERCENTAGE;%;2010;DATASUS;Atlas do Desenvolvimento Humano
+TAXA_MORTALIDADE_INFANTIL_2020;Taxa Mortalidade Infantil;Taxa de mortalidade infantil (menores de 1 ano) por mil nascidos vivos em 2020;PERCENTAGE;%;2020;DATASUS;Sistema de Informações sobre Mortalidade
+TAXA_MORTALIDADE_INFANTIL_2021;Taxa Mortalidade Infantil;Taxa de mortalidade infantil (menores de 1 ano) por mil nascidos vivos em 2021;PERCENTAGE;%;2021;DATASUS;Sistema de Informações sobre Mortalidade
+TAXA_REPROVACAO_FUNDAMENTAL_2023;Taxa Reprovacao Fundamental;Taxa de reprovação escolar no ensino fundamental em 2023;PERCENTAGE;%;2023;IBGE;Base de Dados Municipal
+TAXA_REPROVACAO_MEDIO_2023;Taxa Reprovacao Medio;Taxa de reprovação escolar no ensino médio em 2023;PERCENTAGE;%;2023;IBGE;Base de Dados Municipal
+TAXA_URBANIZACAO_1991;Taxa Urbanizacao;Percentual da população vivendo em área urbana em 1991;PERCENTAGE;%;1991;IBGE;Base de Dados Municipal
+TAXA_URBANIZACAO_2000;Taxa Urbanizacao;Percentual da população vivendo em área urbana em 2000;PERCENTAGE;%;2000;IBGE;Base de Dados Municipal
+TAXA_URBANIZACAO_2010;Taxa Urbanizacao;Percentual da população vivendo em área urbana em 2010;PERCENTAGE;%;2010;IBGE;Base de Dados Municipal
+TAXA_URBANIZACAO_2022;Taxa Urbanizacao;Percentual da população vivendo em área urbana em 2022;PERCENTAGE;%;2022;IBGE;Base de Dados Municipal
+TIPO_SOLO_PREDOMINANTE;Tipo Solo Predominante;Tipo de solo predominante no território municipal;TEXT;texto;2023;IBGE;Base de Dados Municipal
+TOTAL_TRANSFERENCIAS_2019;Total Transferencias;Total de transferências intergovernamentais recebidas em milhares de reais em 2019;INTEGER;mil R$;2019;STN;FINBRA - Finanças Municipais
+TOTAL_TRANSFERENCIAS_2020;Total Transferencias;Total de transferências intergovernamentais recebidas em milhares de reais em 2020;INTEGER;mil R$;2020;STN;FINBRA - Finanças Municipais
+TOTAL_TRANSFERENCIAS_2021;Total Transferencias;Total de transferências intergovernamentais recebidas em milhares de reais em 2021;INTEGER;mil R$;2021;STN;FINBRA - Finanças Municipais
+TOTAL_TRANSFERENCIAS_2022;Total Transferencias;Total de transferências intergovernamentais recebidas em milhares de reais em 2022;INTEGER;mil R$;2022;STN;FINBRA - Finanças Municipais
+TOTAL_TRANSFERENCIAS_2023;Total Transferencias;Total de transferências intergovernamentais recebidas em milhares de reais em 2023;INTEGER;mil R$;2023;STN;FINBRA - Finanças Municipais
+TUBERCULOSE_2019;Tuberculose;Número de casos notificados de tuberculose em 2019;INTEGER;unidades;2019;DATASUS;Sistema de Informação de Agravos de Notificação
+TUBERCULOSE_2020;Tuberculose;Número de casos notificados de tuberculose em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informação de Agravos de Notificação
+TUBERCULOSE_2021;Tuberculose;Número de casos notificados de tuberculose em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informação de Agravos de Notificação
+TUBERCULOSE_2022;Tuberculose;Número de casos notificados de tuberculose em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informação de Agravos de Notificação
+TUBERCULOSE_2023;Tuberculose;Número de casos notificados de tuberculose em 2023;INTEGER;unidades;2023;DATASUS;Sistema de Informação de Agravos de Notificação
+UBS_2019;Ubs;Número de Unidades Básicas de Saúde em funcionamento em 2019;INTEGER;unidades;2019;IBGE;Base de Dados Municipal
+UBS_2020;Ubs;Número de Unidades Básicas de Saúde em funcionamento em 2020;INTEGER;unidades;2020;IBGE;Base de Dados Municipal
+UBS_2021;Ubs;Número de Unidades Básicas de Saúde em funcionamento em 2021;INTEGER;unidades;2021;IBGE;Base de Dados Municipal
+UBS_2022;Ubs;Número de Unidades Básicas de Saúde em funcionamento em 2022;INTEGER;unidades;2022;IBGE;Base de Dados Municipal
+UBS_2023;Ubs;Número de Unidades Básicas de Saúde em funcionamento em 2023;INTEGER;unidades;2023;IBGE;Base de Dados Municipal
+USO_TERRA_AGRICULTURA;Uso Terra Agricultura;Percentual do território municipal utilizado para agricultura;INTEGER;unidades;2023;IBGE;Pesquisa Agrícola Municipal
+USO_TERRA_PECUARIA;Uso Terra Pecuaria;Percentual do território municipal utilizado para pecuária;INTEGER;unidades;2023;IBGE;Pesquisa Agrícola Municipal
+USO_TERRA_VEGETACAO_NATURAL;Uso Terra Vegetacao Natural;Percentual do território municipal com vegetação natural;INTEGER;unidades;2023;IBGE;Pesquisa Agrícola Municipal
+VAB_ADM_PUBLICA_2017;Vab Adm Publica;Valor Adicionado Bruto da Administração Pública em milhares de reais em 2017;DECIMAL;mil R$;2017;IBGE;Produto Interno Bruto dos Municípios
+VAB_ADM_PUBLICA_2018;Vab Adm Publica;Valor Adicionado Bruto da Administração Pública em milhares de reais em 2018;DECIMAL;mil R$;2018;IBGE;Produto Interno Bruto dos Municípios
+VAB_ADM_PUBLICA_2019;Vab Adm Publica;Valor Adicionado Bruto da Administração Pública em milhares de reais em 2019;DECIMAL;mil R$;2019;IBGE;Produto Interno Bruto dos Municípios
+VAB_ADM_PUBLICA_2020;Vab Adm Publica;Valor Adicionado Bruto da Administração Pública em milhares de reais em 2020;DECIMAL;mil R$;2020;IBGE;Produto Interno Bruto dos Municípios
+VAB_ADM_PUBLICA_2021;Vab Adm Publica;Valor Adicionado Bruto da Administração Pública em milhares de reais em 2021;DECIMAL;mil R$;2021;IBGE;Produto Interno Bruto dos Municípios
+VAB_AGROPECUARIA_2017;Vab Agropecuaria;Vab Agropecuaria para o município em 2017;DECIMAL;mil R$;2017;IBGE;Produto Interno Bruto dos Municípios
+VAB_AGROPECUARIA_2018;Vab Agropecuaria;Vab Agropecuaria para o município em 2018;DECIMAL;mil R$;2018;IBGE;Produto Interno Bruto dos Municípios
+VAB_INDUSTRIA_2017;Vab Industria;Vab Industria para o município em 2017;DECIMAL;mil R$;2017;IBGE;Produto Interno Bruto dos Municípios
+VAB_INDUSTRIA_2018;Vab Industria;Vab Industria para o município em 2018;DECIMAL;mil R$;2018;IBGE;Produto Interno Bruto dos Municípios
+VAB_SERVICOS_2017;Vab Servicos;Vab Servicos para o município em 2017;DECIMAL;mil R$;2017;IBGE;Produto Interno Bruto dos Municípios
+VAB_SERVICOS_2018;Vab Servicos;Vab Servicos para o município em 2018;DECIMAL;mil R$;2018;IBGE;Produto Interno Bruto dos Municípios
+VALOR_AUXILIO_EMERGENCIAL_2021;Valor Auxilio Emergencial;Valor total transferido pelo Auxílio Emergencial em milhares de reais em 2021;DECIMAL;mil R$;2021;MDS;Cadastro Único
+VALOR_AUXILIO_EMERGENCIAL_2022;Valor Auxilio Emergencial;Valor total transferido pelo Auxílio Emergencial em milhares de reais em 2022;DECIMAL;mil R$;2022;MDS;Cadastro Único
+VALOR_MEDIO_BOLSA_FAMILIA_2019;Valor Medio Bolsa Familia;Valor médio mensal do benefício do Programa Bolsa Família em reais em 2019;DECIMAL;R$;2019;MDS;Cadastro Único
+VALOR_MEDIO_BOLSA_FAMILIA_2020;Valor Medio Bolsa Familia;Valor médio mensal do benefício do Programa Bolsa Família em reais em 2020;DECIMAL;R$;2020;MDS;Cadastro Único
+VALOR_MEDIO_BOLSA_FAMILIA_2021;Valor Medio Bolsa Familia;Valor médio mensal do benefício do Programa Bolsa Família em reais em 2021;DECIMAL;R$;2021;MDS;Cadastro Único
+VALOR_MEDIO_BOLSA_FAMILIA_2022;Valor Medio Bolsa Familia;Valor médio mensal do benefício do Programa Bolsa Família em reais em 2022;DECIMAL;R$;2022;MDS;Cadastro Único
+VALOR_MEDIO_BOLSA_FAMILIA_2023;Valor Medio Bolsa Familia;Valor médio mensal do benefício do Programa Bolsa Família em reais em 2023;DECIMAL;R$;2023;MDS;Cadastro Único
+VEICULOS_AUTOMOVEIS_2019;Veiculos Automoveis;Número de automóveis registrados no município em 2019;INTEGER;veículos;2019;DENATRAN;Frota de Veículos
+VEICULOS_AUTOMOVEIS_2020;Veiculos Automoveis;Número de automóveis registrados no município em 2020;INTEGER;veículos;2020;DENATRAN;Frota de Veículos
+VEICULOS_AUTOMOVEIS_2021;Veiculos Automoveis;Número de automóveis registrados no município em 2021;INTEGER;veículos;2021;DENATRAN;Frota de Veículos
+VEICULOS_AUTOMOVEIS_2022;Veiculos Automoveis;Número de automóveis registrados no município em 2022;INTEGER;veículos;2022;DENATRAN;Frota de Veículos
+VEICULOS_CAMINHOES_2019;Veiculos Caminhoes;Número de caminhões registrados no município em 2019;INTEGER;veículos;2019;DENATRAN;Frota de Veículos
+VEICULOS_CAMINHOES_2020;Veiculos Caminhoes;Número de caminhões registrados no município em 2020;INTEGER;veículos;2020;DENATRAN;Frota de Veículos
+VEICULOS_CAMINHOES_2021;Veiculos Caminhoes;Número de caminhões registrados no município em 2021;INTEGER;veículos;2021;DENATRAN;Frota de Veículos
+VEICULOS_CAMINHOES_2022;Veiculos Caminhoes;Número de caminhões registrados no município em 2022;INTEGER;veículos;2022;DENATRAN;Frota de Veículos
+VEICULOS_MOTOCICLETAS_2019;Veiculos Motocicletas;Número de motocicletas registradas no município em 2019;INTEGER;veículos;2019;DENATRAN;Frota de Veículos
+VEICULOS_MOTOCICLETAS_2020;Veiculos Motocicletas;Número de motocicletas registradas no município em 2020;INTEGER;veículos;2020;DENATRAN;Frota de Veículos
+VEICULOS_MOTOCICLETAS_2021;Veiculos Motocicletas;Número de motocicletas registradas no município em 2021;INTEGER;veículos;2021;DENATRAN;Frota de Veículos
+VEICULOS_MOTOCICLETAS_2022;Veiculos Motocicletas;Número de motocicletas registradas no município em 2022;INTEGER;veículos;2022;DENATRAN;Frota de Veículos
+VEICULOS_ONIBUS_2019;Veiculos Onibus;Número de ônibus registrados no município em 2019;INTEGER;veículos;2019;DENATRAN;Frota de Veículos
+VEICULOS_ONIBUS_2020;Veiculos Onibus;Número de ônibus registrados no município em 2020;INTEGER;veículos;2020;DENATRAN;Frota de Veículos
+VEICULOS_ONIBUS_2021;Veiculos Onibus;Número de ônibus registrados no município em 2021;INTEGER;veículos;2021;DENATRAN;Frota de Veículos
+VEICULOS_ONIBUS_2022;Veiculos Onibus;Número de ônibus registrados no município em 2022;INTEGER;veículos;2022;DENATRAN;Frota de Veículos
+ZIKA_2020;Zika;Número de casos notificados de Zika vírus em 2020;INTEGER;unidades;2020;DATASUS;Sistema de Informação de Agravos de Notificação
+ZIKA_2021;Zika;Número de casos notificados de Zika vírus em 2021;INTEGER;unidades;2021;DATASUS;Sistema de Informação de Agravos de Notificação
+ZIKA_2022;Zika;Número de casos notificados de Zika vírus em 2022;INTEGER;unidades;2022;DATASUS;Sistema de Informação de Agravos de Notificação
+ZIKA_2023;Zika;Número de casos notificados de Zika vírus em 2023;INTEGER;unidades;2023;DATASUS;Sistema de Informação de Agravos de Notificação
+ZIKA_2024;Zika;Número de casos notificados de Zika vírus em 2024;INTEGER;unidades;2024;DATASUS;Sistema de Informação de Agravos de Notificação
