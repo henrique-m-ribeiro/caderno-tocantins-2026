@@ -178,22 +178,24 @@ volumes-finalizados/
 
 ## 📊 MÉTRICAS DE PROGRESSO
 
-**Meta:** 139 municípios × 3 entregas (ficha + CSV + dicionário*) = **278-417 documentos**
-
-*Dicionário pode ser único para todos ou um por município
+**Meta:** 139 municípios × 2 entregas (ficha + CSV) + 1 dicionário de referência = **279 documentos**
 
 **Status Atual:**
 
-| Fase | Meta | Concluído | % |
-|------|------|-----------|---|
-| Fichas Municipais | 139 | 0 | 0% |
-| CSVs de Indicadores | 139 | 0 | 0% |
-| Dicionários de Dados | 1-139 | 0 | 0% |
-| Base Consolidada | 1 | 0 | 0% |
-| Dicionário Consolidado | 1 | 0 | 0% |
-| Volume 2 Organizado | 1 | 0 | 0% |
+| Fase | Meta | Concluído | % | Última Atualização |
+|------|------|-----------|---|-------------------|
+| Fichas Municipais | 139 | 1 | 0.7% | 03/02/2026 |
+| CSVs de Indicadores | 139 | 1 | 0.7% | 03/02/2026 |
+| Dicionário de Dados (Referência) | 1 | 1 | 100% | ✅ 03/02/2026 |
+| Base Consolidada | 1 | 0 | 0% | - |
+| Dicionário Consolidado | 1 | 0 | 0% | - |
+| Volume 2 Organizado | 1 | 0 | 0% | - |
 
-**Atualizar esta tabela conforme o progresso!**
+**Progresso Geral:** 3 de 279 documentos (1.1%)
+
+**Nota:** O dicionário de dados foi criado com base em Abreulândia e serve como referência para todos os 139 municípios, pois a estrutura de colunas é idêntica entre eles.
+
+**Última Atualização:** 03 de Fevereiro de 2026
 
 ---
 
