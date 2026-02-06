@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE DIANÓPOLIS
 
-**Total de Municípios:** 18
+**Total de Municípios:** 19
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -14,6 +14,7 @@
 | PARANÃ | 10.542 | 11217.0 | 315,4 | 18.663,11 | 0.595 |
 | ARRAIAS | 10.287 | 5803.68 | 223,31 | 21.263,55 | 0.651 |
 | NATIVIDADE | 8.754 | 3242.0 | 247,34 | 15.413,41 | 0.673 |
+| ALMAS | 6.499 | 4007.0 | 273,741 | 39.643,82 | 0.636 |
 | COMBINADO | 4.756 | 209.383 | 76,524 | 15.713,45 | 0.697 |
 | SANTA ROSA DO TOCANTINS | 4.653 | 1805.3 | 307.685 | 16.427 | 0.595 |
 | SÃO VALÉRIO DA NATIVIDADE | 4.422 | 2520.0 | 156,734 | 44.080,82 | 0.643 |
@@ -33,6 +34,11 @@
 ## 2. SWOT CONSOLIDADO DA MICRORREGIÃO
 
 ### Principais Forças Identificadas (por município)
+
+**ALMAS:**
+- Valor Adicionado Bruto (VAB) do setor cresceu 135% entre 2017-2021, atingindo R$ 183,5 milhões em 2021, representando 67% do VAB total. Soja e pecuária bovina são os carros-chefes.
+- O PIB per capita mais que dobrou em termos nominais entre 2017-2021, saltando de R$ 20.813 para R$ 39.644, indicando crescimento da produtividade econômica.
+- 81,5% da população vive na zona urbana (2022), facilitando o acesso a serviços públicos concentrados e indicando um processo de reorganização espacial.
 
 **ARRAIAS:**
 - Base Econômica Agropecuária Sólida: Pecuária bovina em expansão contínua (281.522 cabeças em 2023, \+42% desde 2019), com crescimento do VAB agropecuário de 137% entre 2017-2021. Produção de leite (11...
@@ -121,10 +127,10 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 102.622 habitantes
-- **Área Total:** 41.376,96 km²
-- **Densidade Média:** 2.48 hab/km²
-- **Número de Municípios:** 18
+- **População Total:** 109.121 habitantes
+- **Área Total:** 45.383,96 km²
+- **Densidade Média:** 2.40 hab/km²
+- **Número de Municípios:** 19
 - **Município Mais Populoso:** DIANÓPOLIS (17.739 hab)
 - **Município Menos Populoso:** LAVANDEIRA (1.626 hab)
 

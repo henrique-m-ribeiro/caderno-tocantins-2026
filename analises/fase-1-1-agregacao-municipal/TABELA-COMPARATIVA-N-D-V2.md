@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE N/D
 
-**Total de Municípios:** 10
+**Total de Municípios:** 11
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -14,6 +14,7 @@
 | DOIS IRMÃOS DO TOCANTINS | 6.327 | 3748.0 | 216.149 | 30.133,74 | 0.583 |
 | MARIANÓPOLIS DO TOCANTINS | 4.615 | 2090.0 | 252,331 | 91.006,23 | 0.631 |
 | PINDORAMA DO TOCANTINS | 4.478 | 1561.0 | 85.006 | 29.605,14 | 0.605 |
+| PAU D'ARCO | 4.043 | 1671.14 | 91.169 | 60.775,63 | 0.661 |
 | CONCEIÇÃO DO TOCANTINS | 3.887 | 2531.0 | 67,829 | 16.665,58 | 0.592 |
 | MAURILÂNDIA DO TOCANTINS | 3.470 | 736.0 | 36.631.450 | 10.764 | 0.580 |
 | ITAPORÃ DO TOCANTINS | 2.404 | 970.0 | 69.980 | 25.055 | 0.650 |
@@ -71,6 +72,11 @@
 - PIB mais que dobrou em 5 anos (2017-2021), com salto no ranking estadual de 118º para 105º.
 - O índice saiu de "Muito Baixo" (0,153) em 1991 para "Médio" (0,620) em 2010, impulsionado principalmente pelos componentes Longevidade e Educação.
 
+**PAU D'ARCO:**
+- Agropecuária robusta e diversificada: O setor agropecuário apresentou VAB de R$ 420,7 mil em 2021 (67,3% do total), com rebanho bovino de 93.397 cabeças (2023) e produção de abacaxi de 13.500 frutos/h...
+- Melhoria significativa em indicadores sociais: O IDHM evoluiu de 0,281 (1991) para 0,661 (2010), saltando da classificação "Muito baixo" para "Médio". A taxa de alfabetização entre adultos alcançou 86...
+- Acesso universal a banheiros e avanço no abastecimento de água: 100% dos domicílios possuem banheiro de uso exclusivo (2022), e 73,6% têm água fornecida por rede geral (aumento de 52,8% em 2000).
+
 **PINDORAMA DO TOCANTINS:**
 - Base Agropecuária Forte e em Expansão: A produção de soja cresceu 443% entre 2019-2023 (de 2.508 para 13.616 ton), com aumento de área de 972 para 4.600 ha. O VAB da agropecuária representa 64,3% do t...
 - Recursos Hídricos para Aquicultura: Produção significativa de peixes (Pacu/Tambaqui com 88.000 kg em 2023), apontando potencial não plenamente explorado.
@@ -83,10 +89,10 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 70.304 habitantes
-- **Área Total:** 16.896,30 km²
-- **Densidade Média:** 4.16 hab/km²
-- **Número de Municípios:** 10
+- **População Total:** 74.347 habitantes
+- **Área Total:** 18.567,44 km²
+- **Densidade Média:** 4.00 hab/km²
+- **Número de Municípios:** 11
 - **Município Mais Populoso:** COLINAS DO TOCANTINS (34.233 hab)
 - **Município Menos Populoso:** CRIXÁS DO TOCANTINS (1.470 hab)
 

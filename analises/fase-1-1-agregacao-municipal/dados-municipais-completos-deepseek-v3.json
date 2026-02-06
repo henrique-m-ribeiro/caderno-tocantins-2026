@@ -163,6 +163,33 @@
       "tamanho_analise_caracteres": 36458
     },
     {
+      "nome": "COLMÉIA",
+      "codigo_ibge": "1716703",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-COLMEIA-COMPLETA.md",
+      "populacao_2022": 8941,
+      "area_km2": 1161.0,
+      "pib_total_2021": "182.796",
+      "pib_per_capita_2021": "22.628,82",
+      "idhm_2010": "0.671",
+      "taxa_urbanizacao": "72.0%",
+      "resumo_executivo": "Colméia apresenta um perfil de \"estagnação demográfica com crescimento econômico moderado e persistência de vulnerabilidades sociais\". Com população praticamente estagnada em torno de 9 mil habitantes desde 1991, o município experimentou crescimento do PIB (26% entre 2017-2021) e do PIB per capita (31% no mesmo período), posicionando-se na 56ª colocação econômica no estado. No entanto, este crescimento não se traduziu em desenvolvimento social proporcional, com IDHM ainda na categoria \"médio\" (0...",
+      "swot": {
+        "forcas": [
+          "Localização estratégica na BR-153: Proximidade com Guaraí (25km) e posicionamento na principal rodovia federal do estado, facilitando escoamento de produção e acesso a mercados.",
+          "Base agropecuária consolidada: Expressivo rebanho bovino (112.641 cabeças) e produção agrícola diversificada (milho, mandioca, banana, leite), gerando R$ 41,6 milhões em VAB em 2021\\.",
+          "Expansão do empreendedorismo individual: Crescimento de 43% nos MEIs entre 2019-2023 (de 313 para 452), indicando vitalidade econômica de pequena escala.",
+          "Melhoria nos indicadores de longevidade: Esperança de vida saltou de 60,2 anos (1991) para 74,0 anos (2010), com redução drástica da mortalidade infantil (de 62,8 para 16,2 por mil).",
+          "Cobertura universal de energia elétrica: 3.777 consumidores em 2023, com crescimento anual consistente em todas as classes."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 646,
+      "tamanho_analise_caracteres": 31315
+    },
+    {
       "nome": "COUTO MAGALHÃES",
       "codigo_ibge": "1706001",
       "microrregiao": "Miracema do Tocantins",
@@ -188,6 +215,33 @@
       },
       "tamanho_analise_linhas": 664,
       "tamanho_analise_caracteres": 43317
+    },
+    {
+      "nome": "GOIANORTE",
+      "codigo_ibge": "1708304",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-GOIANORTE-COMPLETA.md",
+      "populacao_2022": 4738,
+      "area_km2": 1797.0,
+      "pib_total_2021": "193.502",
+      "pib_per_capita_2021": "17.535,44",
+      "idhm_2010": "0.621",
+      "taxa_urbanizacao": "60.7%",
+      "resumo_executivo": "Goianorte, município tocantinense de 4.738 habitantes (2022), apresenta um \"paradoxo de estagnação com potencial agropecuário subutilizado\". Enquanto sua população está em leve, porém persistente, declínio desde o início do século (-0,2% ao ano entre 2000 e 2022), a base econômica, fundamentalmente agropecuária, mostrou vigor, com o PIB multiplicando-se por 2,5 entre 2017 e 2021, puxado pela soja, milho e pecuária bovina. Este dinamismo econômico, contudo, não se traduziu em ganhos sociais equiv...",
+      "swot": {
+        "forcas": [
+          "Base Agropecuária Forte e Dinâmica: O município possui uma economia robusta baseada no agronegócio. O PIB saltou de R$ 79 milhões (2017) para R$ 193 milhões (2021), com o VAB da agropecuária crescendo 118% no mesmo período, atingindo R$ 96 milhões em 2021\\. A produção de soja e milho é expressiva.",
+          "Expressivo Acesso a Crédito Rural: O volume de financiamentos concedidos a produtores e cooperativas mais que dobrou entre 2019 (R$ 42,5 mi) e 2023 (R$ 111 mi), indicando confiança do sistema financeiro e capacidade de investimento do setor produtivo.",
+          "Pecuária Bovina em Expansão Contínua: O rebanho bovino cresceu consistentemente, passando de 95.753 cabeças (2019) para 118.607 (2023), um aumento de 24%. A produção de leite também cresceu 36% no período.",
+          "Melhoria Histórica em Indicadores de Longevidade: A esperança de vida ao nascer aumentou significativamente, de 57,2 anos (1991) para 73,3 anos (2010). A mortalidade infantil caiu drasticamente, de 76,7 para 17,7 por mil no mesmo período.",
+          "Alfabetização em Nível Satisfatório: A taxa de alfabetização da população de 15 anos ou mais atingiu 86,4% em 2022, com as mulheres apresentando taxa superior (88,2%) aos homens (84,8%)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 727,
+      "tamanho_analise_caracteres": 45262
     },
     {
       "nome": "GUARAÍ",
@@ -298,6 +352,33 @@
       "tamanho_analise_caracteres": 37599
     },
     {
+      "nome": "PEQUIZEIRO",
+      "codigo_ibge": "1716653",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PEQUIZEIRO-COMPLETA.md",
+      "populacao_2022": 4921,
+      "area_km2": 1206.0,
+      "pib_total_2021": "107.606",
+      "pib_per_capita_2021": "19.258",
+      "idhm_2010": "0.627",
+      "taxa_urbanizacao": "9%",
+      "resumo_executivo": "O município de Pequizeiro apresenta um \"paradoxo de crescimento econômico com estagnação social e demográfica\". Enquanto os indicadores macroeconômicos mostram vitalidade – com o PIB crescendo 41.5% entre 2017 e 2021 e a agropecuária se expandindo fortemente –, a realidade social e populacional é de retração ou estagnação. A população residente diminuiu (-2.6% entre 2010 e 2022), o número de empresas é reduzido (235 em 2024\\) e o mercado de trabalho formal é diminuto (213 vínculos em 2023). O de...",
+      "swot": {
+        "forcas": [
+          "Dinamismo do Agronegócio: Crescimento expressivo do VAB agropecuário (de R$ 11.690 mil em 2017 para R$ 33.421 mil em 2021, \\+186%) e da produção de soja (de 714 ton em 2019 para 6.485 ton em 2023). Rebanho bovino expressivo (107.036 cabeças em 2023).",
+          "Melhoria Sustentada do IDHM: Evolução consistente do Índice de Desenvolvimento Humano, saltando de 0.344 (Muito Baixo) em 1991 para 0.627 (Médio) em 2010, com destaque para o componente Longevidade (0.806 \\- Muito Alto).",
+          "PIB per capita em Ascensão: Aumento de 78% no PIB per capita entre 2017 (R$ 10.831) e 2021 (R$ 19.258), superando a média estadual em alguns anos.",
+          "Redução da Pobreza Extrema: Queda na participação de famílias em pobreza extrema (renda até ¼ SM) de 26% (2000) para 21% (2010).",
+          "Alfabetização em Alta: Taxa de alfabetização da população de 15+ anos aumentou de 72.1% (2000) para 85.3% (2022), com maior avanço entre mulheres (87.1%)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 699,
+      "tamanho_analise_caracteres": 41223
+    },
+    {
       "nome": "PRESIDENTE KENNEDY",
       "codigo_ibge": "1718403",
       "microrregiao": "Miracema do Tocantins",
@@ -350,6 +431,33 @@
       },
       "tamanho_analise_linhas": 499,
       "tamanho_analise_caracteres": 37435
+    },
+    {
+      "nome": "TABOCÃO",
+      "codigo_ibge": null,
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-TABOCAO-COMPLETA.md",
+      "populacao_2022": 3455,
+      "area_km2": 624.0,
+      "pib_total_2021": "232,898",
+      "pib_per_capita_2021": "37.675,68",
+      "idhm_2010": "0.659",
+      "taxa_urbanizacao": "78.4%",
+      "resumo_executivo": "Tabocão, município de pequeno porte com 3.455 habitantes, apresenta um **\"crescimento econômico recente com bases frágeis de desenvolvimento humano e sustentabilidade\"**. Entre 2017 e 2021, o PIB saltou 54,2%, impulsionado pela agropecuária (especialmente soja e pecuária bovina), elevando o PIB *per capita* para R$ 37,7 mil, acima da média estadual. Contudo, este crescimento não se traduziu em avanços estruturais equivalentes: o IDHM (0,659 em 2010\\) é apenas médio, o saneamento básico permanece...",
+      "swot": {
+        "forcas": [
+          "expressivo para o estado.",
+          "Agropecuária representa 38,9% do VAB (2021). Produção de soja, milho e pecuária bovina com alta produtividade e crescente acesso a crédito rural (R$ 48,6 milhões em financiamentos em 2023).",
+          "Esperança de vida ao nascer saltou de 63,4 anos (1991) para 73,5 anos (2010). Taxa de alfabetização de adultos atingiu 91% (2022). IDHM teve avanço significativo (de 0,264 para 0,659 entre 1991-2010).",
+          "Predomínio de estabelecimentos agropecuários com mais de 100 ha, o que facilita a adoção de tecnologia e acesso a mercados.",
+          "85% dos moradores cobertos por redes 3G e 4G (2024), infraestrutura básica para desenvolvimento digital."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 521,
+      "tamanho_analise_caracteres": 39075
     },
     {
       "nome": "TUPIRAMA",
@@ -756,6 +864,33 @@
       },
       "tamanho_analise_linhas": 742,
       "tamanho_analise_caracteres": 36875
+    },
+    {
+      "nome": "NAZARÉ",
+      "codigo_ibge": "1714302",
+      "microrregiao": "Bico do Papagaio",
+      "arquivo_fonte": "FICHA-MUNICIPAL-NAZARE-COMPLETA.md",
+      "populacao_2022": 4521,
+      "area_km2": 396.0,
+      "pib_total_2021": "58,139",
+      "pib_per_capita_2021": "26.661",
+      "idhm_2010": "0.643",
+      "taxa_urbanizacao": "44.4%",
+      "resumo_executivo": "Nazaré, localizada no norte tocantinense, apresenta um \"paradoxo de estagnação demográfica com pulsões econômicas recentes\". Com população praticamente estagnada nas últimas três décadas (4.521 hab. em 2022), o município mantém característica rural marcante (56% da população). No entanto, observa-se crescimento significativo do PIB (29% entre 2017-2021) e do efetivo bovino (72% entre 2019-2023), indicando dinamismo no setor agropecuário. O IDHM evoluiu de \"muito baixo\" (0,295 em 1991\\) para \"méd...",
+      "swot": {
+        "forcas": [
+          "Base Agropecuária Consolidada: Produção significativa de mandioca (3.500 ton.), milho (163 ton.) e bovinos (30.513 cabeças em 2023), com crescimento de 72% no rebanho bovino entre 2019-2023.",
+          "Melhoria Contínua do IDHM: Evolução de 0,295 (1991) para 0,643 (2010), com componente Longevidade atingindo nível \"Alto\" (0,792).",
+          "Crescimento do PIB Recente: Aumento de 29% no PIB entre 2017-2021 (R$ 45,013 mil para R$ 58,139 mil), com destaque para agropecuária.",
+          "Acesso a Crédito Rural Expressivo: Financiamentos totais de R$ 11,95 milhões em 2023, indicando dinamismo no setor produtivo.",
+          "Infraestrutura de Saúde Básica: 5 estabelecimentos de saúde (2 UBS, 1 posto, 1 academia, 1 vigilância) e 17 profissionais de saúde em 2023\\."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 648,
+      "tamanho_analise_caracteres": 27596
     },
     {
       "nome": "PALMEIRAS DO TOCANTINS",
@@ -1350,6 +1485,536 @@
       },
       "tamanho_analise_linhas": 627,
       "tamanho_analise_caracteres": 31774
+    },
+    {
+      "nome": "TALISMÃ",
+      "codigo_ibge": "1720903",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-TALISMA-COMPLETA.md",
+      "populacao_2022": 2456,
+      "area_km2": 2156.0,
+      "pib_total_2021": "146,7",
+      "pib_per_capita_2021": "51.822",
+      "idhm_2010": "0.654",
+      "taxa_urbanizacao": "59.3%",
+      "resumo_executivo": "O município de Talismã, localizado no sul do Tocantins, apresenta um “paradoxo de crescimento econômico com estagnação demográfica e vulnerabilidade social”. Enquanto o PIB mais que dobrou entre 2017 e 2021 (de R$ 83 milhões para R$ 147 milhões), a população diminuiu 4,1% entre 2010 e 2022, refletindo um processo de emigração e envelhecimento. A economia é altamente dependente da agropecuária (63,5% do VAB em 2021), especialmente da soja e da pecuária bovina, que geram riqueza mas pouco emprego ...",
+      "swot": {
+        "forcas": [
+          "Agronegócio Dinâmico e de Alta Produtividade: Soja (52.151 t em 2023), milho (12.648 t) e pecuária bovina (127.521 cabeças) geram um VAB agropecuário de R$ 93,1 milhões (2021), representando 63,5% da economia municipal.",
+          "Crescimento Acelerado do PIB: O PIB mais que dobrou entre 2017-2021 (de R$ 83,4 mi para R$ 146,7 mi), com destaque para o salto de 2020, impulsionado pela alta dos preços das commodities.",
+          "Boa Longevidade e Redução da Mortalidade Infantil: Esperança de vida ao nascer aumentou de 64,5 anos (1991) para 73 anos (2010). A mortalidade infantil caiu de 45,6 (1991) para 18,4 (2010), embora tenha voltado a subir em 2022 (35,7 por mil).",
+          "Avanços no Saneamento Básico: 96,5% dos domicílios têm banheiro de uso exclusivo (2022), contra 43,7% em 2000\\. A rede geral de água atende 62,1% dos domicílios.",
+          "Alfabetização em Ascensão: Taxa de alfabetização (15+ anos) subiu de 79,6% (2000) para 88,6% (2022), com destaque para jovens de 15-19 anos (100% alfabetizados)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 594,
+      "tamanho_analise_caracteres": 31348
+    }
+  ],
+  "Dianópolis": [
+    {
+      "nome": "ALMAS",
+      "codigo_ibge": null,
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ALMAS-COMPLETA.md",
+      "populacao_2022": 6499,
+      "area_km2": 4007.0,
+      "pib_total_2021": "273,741",
+      "pib_per_capita_2021": "39.643,82",
+      "idhm_2010": "0.636",
+      "taxa_urbanizacao": "81.5%",
+      "resumo_executivo": "O município de Almas apresenta um **\"paradoxo de crescimento econômico agroexportador convivendo com esvaziamento populacional e desigualdade estrutural\"**. Entre 2000 e 2022, a população diminuiu 23%, enquanto o PIB per capita quase dobrou, impulsionado pelo boom das commodities (soja e pecuária). A economia tornou-se mais produtiva, mas concentrada e com baixa geração de emprego formal. Apesar da melhora nos indicadores de longevidade e educação, 85% das famílias ainda viviam em condição de po...",
+      "swot": {
+        "forcas": [
+          "Valor Adicionado Bruto (VAB) do setor cresceu 135% entre 2017-2021, atingindo R$ 183,5 milhões em 2021, representando 67% do VAB total. Soja e pecuária bovina são os carros-chefes.",
+          "O PIB per capita mais que dobrou em termos nominais entre 2017-2021, saltando de R$ 20.813 para R$ 39.644, indicando crescimento da produtividade econômica.",
+          "81,5% da população vive na zona urbana (2022), facilitando o acesso a serviços públicos concentrados e indicando um processo de reorganização espacial.",
+          "O índice saltou de 0,263 (Muito Baixo) em 1991 para 0,636 (Médio) em 2010, com melhoria em todos os subíndices (Longevidade, Educação e Renda).",
+          "Produção expressiva de peixes nativos (como Tambaqui, com 3,8 milhões de kg em 2023), indicando uma atividade consolidada e com potencial de expansão e agregação de valor."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 544,
+      "tamanho_analise_caracteres": 36942
+    },
+    {
+      "nome": "ARRAIAS",
+      "codigo_ibge": "1702406",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ARRAIAS-COMPLETA.md",
+      "populacao_2022": 10287,
+      "area_km2": 5803.68,
+      "pib_total_2021": "223,31",
+      "pib_per_capita_2021": "21.263,55",
+      "idhm_2010": "0.651",
+      "taxa_urbanizacao": "69.2%",
+      "resumo_executivo": "Arraias apresenta um \"paradoxo de desenvolvimento desigual\": enquanto a economia avança com forte crescimento da agropecuária e aumento do PIB, a população declina continuamente (-0,3% ao ano) e os indicadores sociais evoluem lentamente. Com apenas 10.287 habitantes (2022), o município viu sua participação na população tocantinense cair de 1,4% para 0,7% em três décadas. Apesar do IDHM ter saltado de \"muito baixo\" para \"médio\" entre 1991 e 2010, permanecem desafios críticos: 81% das famílias em ...",
+      "swot": {
+        "forcas": [
+          "Base Econômica Agropecuária Sólida: Pecuária bovina em expansão contínua (281.522 cabeças em 2023, \\+42% desde 2019), com crescimento do VAB agropecuário de 137% entre 2017-2021. Produção de leite (11,5 milhões litros/ano) e mandioca (2.966 ton em 2023\\) estabelecem cadeias produtivas locais.",
+          "Crescimento do PIB Sustentado: PIB aumentou 40% em termos nominais entre 2017-2021 (R$159,7 mi para R$223,3 mi), com PIB per capita crescendo 43% no período. Posição relativa melhorou de 47ª para 42ª no ranking estadual.",
+          "Estrutura Fundiária Consolidada: 859 estabelecimentos agropecuários (2017) com 74% das terras em condições próprias. Área total de estabelecimentos aumentou 13% (2006-2017), indicando investimento no setor.",
+          "Melhoria em Indicadores de Longevidade: Esperança de vida ao nascer saltou de 60,6 anos (1991) para 74,7 anos (2010). Mortalidade infantil caiu drasticamente de 61,1 para 14,5 por mil no mesmo período.",
+          "Infraestrutura Bancária e de Conectividade Básica: Presença de agências bancárias, 4 estações rádio base, e cobertura 4G para 72% da população (Claro) e 67% (Tim). Acesso à telefonia móvel chega a 8.508 linhas (2023)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 833,
+      "tamanho_analise_caracteres": 36510
+    },
+    {
+      "nome": "AURORA DO TOCANTINS",
+      "codigo_ibge": "1702703",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-AURORA DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 3342,
+      "area_km2": 696.0,
+      "pib_total_2021": "58.806",
+      "pib_per_capita_2021": "15.438,70",
+      "idhm_2010": "0.677",
+      "taxa_urbanizacao": "68.0%",
+      "resumo_executivo": "Aurora do Tocantins apresenta um \"paradoxo da estagnação populacional com crescimento econômico recente\". Enquanto a população diminuiu 28,3% entre 1991-2022 (de 4.663 para 3.342 habitantes), o PIB per capita aumentou 40,7% no período 2017-2021, alcançando R$ 15.438,70. O município mantém forte dependência do setor agropecuário (32,6% do VAB em 2021\\) e das transferências governamentais, com indicadores sociais que evoluíram significativamente (IDHM saiu de 0,355 em 1991 para 0,677 em 2010\\) mas...",
+      "swot": {
+        "forcas": [],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 666,
+      "tamanho_analise_caracteres": 33067
+    },
+    {
+      "nome": "CHAPADA DA NATIVIDADE",
+      "codigo_ibge": null,
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-CHAPADA DA NATIVIDADE-COMPLETA.md",
+      "populacao_2022": 3117,
+      "area_km2": 1641.0,
+      "pib_total_2021": "148,973",
+      "pib_per_capita_2021": "44.736,71",
+      "idhm_2010": "0.620",
+      "taxa_urbanizacao": "57.8%",
+      "resumo_executivo": "Chapada da Natividade, município tocantinense de 3.117 habitantes, apresenta um \"**paradoxo de crescimento econômico com exclusão social persistente**\". Enquanto o PIB cresceu 123% entre 2017 e 2021, atingindo R$ 148,9 milhões, e a agropecuária demonstra dinamismo (soja e pecuária bovina), os indicadores sociais revelam realidades preocupantes: 90% das famílias estavam em situação de pobreza em 2010, o IDHM (0,620 em 2010) ainda é classificado como médio-baixo, e o município enfrenta declínio po...",
+      "swot": {
+        "forcas": [
+          "O VAB da agropecuária mais que dobrou entre 2017 e 2021 (de R$31,5 mi para R$83,5 mi), com produção expressiva de soja (~45 mil ton.) e milho (~24 mil ton.). A pecuária bovina conta com um rebanho de 37 mil cabeças (2023).",
+          "Produção significativa de peixes nativos (tambaqui, tambacu, pintado), totalizando mais de 98 mil kg em 2023, representando uma alternativa de diversificação.",
+          "O PIB total apresentou crescimento notável de 123% entre 2017 e 2021, impulsionado pelo setor primário.",
+          "Volume de financiamentos crescente, atingindo R$ 64,2 milhões em 2023, indicando investimentos no setor produtivo.",
+          "Origem no ciclo do ouro no século XVIII e presença de comunidades quilombolas (São José e Chapada da Natividade), base para turismo cultural e étnico."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 568,
+      "tamanho_analise_caracteres": 40109
+    },
+    {
+      "nome": "COMBINADO",
+      "codigo_ibge": "1705607",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-COMBINADO-COMPLETA.md",
+      "populacao_2022": 4756,
+      "area_km2": 209.383,
+      "pib_total_2021": "76,524",
+      "pib_per_capita_2021": "15.713,45",
+      "idhm_2010": "0.697",
+      "taxa_urbanizacao": "85.7%",
+      "resumo_executivo": "O município de Combinado apresenta um diagnóstico marcado pelo \"paradoxo da estabilidade improdutiva\": uma economia e população essencialmente estagnadas nas últimas décadas, apesar de possuir indicadores sociais em melhoria contínua e um perfil agropecuário consolidado. Com população praticamente constante desde 1991 (4.870 hab.) e um PIB que oscila sem crescimento robusto, Combinado enfrenta o desafio de traduzir seus avanços em educação, longevidade e infraestrutura básica em desenvolvimento ...",
+      "swot": {
+        "forcas": [
+          "IDHM em trajetória consistente de melhoria: Evoluiu de \"Muito Baixo\" (0,341 em 1991\\) para \"Médio\" (0,697 em 2010), com avanços notáveis nos componentes Longevidade (0,815 \\- Muito Alto) e Educação (0,639 \\- Médio). Indica progresso social estrutural.",
+          "Infraestrutura de saneamento básico consolidada: 99,4% dos domicílios têm banheiro exclusivo (2022); 90,5% têm água via rede geral. Base sólida para saúde pública.",
+          "Agropecuária com rebanho bovino expressivo e em crescimento: 34.851 cabeças em 2023 (+54% desde 2019), com produção de leite também em alta (3,15 milhões de litros). Ativo econômico relevante.",
+          "Alfabetização em patamar elevado e crescente: 88,5% em 2022 (91,4% entre mulheres). Geração mais jovem (15-19 anos) tem taxa de 99%. Capital humano com base educacional fortalecida.",
+          "Conectividade móvel de boa qualidade: 93,8% dos moradores cobertos por 4G (Claro/Tim). Infraestrutura digital adequada para serviços e comunicação."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 798,
+      "tamanho_analise_caracteres": 40570
+    },
+    {
+      "nome": "DIANÓPOLIS",
+      "codigo_ibge": "1707009",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-DIANOPOLIS-COMPLETA.md",
+      "populacao_2022": 17739,
+      "area_km2": 3318.0,
+      "pib_total_2021": "644,829",
+      "pib_per_capita_2021": "28.401,58",
+      "idhm_2010": "0.701",
+      "taxa_urbanizacao": "87.4%",
+      "resumo_executivo": "Dianópolis apresenta um \"paradoxo de crescimento econômico com estagnação social\". Embora tenha experimentado significativo crescimento do PIB (111% entre 2017-2021) e avanços na infraestrutura de saneamento básico, o município enfrenta desafios persistentes: redução populacional de 7,2% entre 2010-2022, indicadores educacionais abaixo das metas, alta dependência de transferências governamentais (82% da receita estimada) e taxas preocupantes de mortalidade infantil (24,1 por mil em 2022). A econ...",
+      "swot": {
+        "forcas": [],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 598,
+      "tamanho_analise_caracteres": 34696
+    },
+    {
+      "nome": "LAVANDEIRA",
+      "codigo_ibge": "1712157",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-LAVANDEIRA-COMPLETA.md",
+      "populacao_2022": 1626,
+      "area_km2": 468.0,
+      "pib_total_2021": "37,870",
+      "pib_per_capita_2021": "17.797,60",
+      "idhm_2010": "0.660",
+      "taxa_urbanizacao": "65.7%",
+      "resumo_executivo": "Lavandeira, município tocantinense com apenas 1.626 habitantes (2022), apresenta um \"paradoxo de crescimento econômico com persistência de vulnerabilidades estruturais\". Seu PIB quase dobrou entre 2017 e 2021, impulsionado pela expansão da pecuária bovina (rebanho cresceu 62% no período). Contudo, mantém indicadores sociais preocupantes: taxa de mortalidade infantil de 87 por mil (2022, acima da média nacional), 87% das famílias em condição de pobreza (2010) e IDHM ainda na faixa média (0,660 em...",
+      "swot": {
+        "forcas": [
+          "Crescimento Econômico Recente Acelerado: O PIB cresceu 64% entre 2017 e 2021 (de R$ 23,9 mil para R$ 37,9 mil), com destaque para a agropecuária, que mais que quadruplicou seu Valor Adicionado Bruto no período.",
+          "Evolução Significativa do IDHM: O índice saltou de 0,305 (muito baixo) em 1991 para 0,660 (médio) em 2010, com progresso em todos os componentes, especialmente educação (de 0,129 para 0,620).",
+          "Base Produtiva Primária Consolidada: A pecuária bovina é robusta (32.565 cabeças em 2023\\) e crescente. A aquicultura (principalmente tambaqui e pintado) e a produção de mandioca apresentam produção estável, indicando setores consolidados.",
+          "Melhoria na Infraestrutura de Saneamento Básico: Avanço notável no acesso à água por rede geral (de 50% dos domicílios em 2000 para 65% em 2022\\) e na existência de banheiro de uso exclusivo (de 49% para 97% no mesmo período).",
+          "Alfabetização em Ascensão: A taxa de alfabetização da população de 15 anos ou mais subiu de 69,5% (2000) para 80,9% (2022), com melhoria em todas as faixas etárias, especialmente entre adultos jovens."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 667,
+      "tamanho_analise_caracteres": 41225
+    },
+    {
+      "nome": "NATIVIDADE",
+      "codigo_ibge": "1714203",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-NATIVIDADE-COMPLETA.md",
+      "populacao_2022": 8754,
+      "area_km2": 3242.0,
+      "pib_total_2021": "247,34",
+      "pib_per_capita_2021": "15.413,41",
+      "idhm_2010": "0.673",
+      "taxa_urbanizacao": "83.1%",
+      "resumo_executivo": "O município de Natividade, berro histórico e cultural do Tocantins, apresenta um \"paradoxo de estagnação demográfica em meio ao dinamismo agrícola\". Apesar de um crescimento econômico marcado pelo PIB em ascensão (R$ 247,3 milhões em 2021\\) e pelo forte desempenho da sojicultura e pecuária, o município enfrenta um declínio populacional persistente (-0,2% ao ano entre 2010-2022), envelhecimento acelerado da população e desafios sociais profundos. Indicadores críticos, como uma taxa de mortalidade...",
+      "swot": {
+        "forcas": [
+          "Base Agropecuária Forte e em Expansão: Soja, milho e pecuária bovina (109.404 cabeças em 2023\\) são os pilares econômicos. A produção de soja quintuplicou de 7 mil para 17,7 mil toneladas (2019-2023), demonstrando forte dinamismo.",
+          "Patrimônio Histórico e Cultural Singular: Cidade histórica fundada em 1734, com potencial turístico subexplorado relacionado ao ciclo do ouro e arquitetura colonial.",
+          "Melhoria Sustentada em Infraestrutura Básica: Evolução significativa no acesso à água encanada (de 18% para 81% dos domicílios, 1991-2022) e presença de banheiro (de 17% para 99%).",
+          "Estabilidade no Mercado de Trabalho Formal: Saldo positivo de empregos (67 novos vínculos em 2023\\) e estoque crescente (901 vínculos ativos).",
+          "Acesso Crescente à Conectividade Digital: Cobertura 4G atinge 77% da população (Claro/TIM) e acesso à banda larga fixa está presente, embora modesto (460 acessos em 2023)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 579,
+      "tamanho_analise_caracteres": 36014
+    },
+    {
+      "nome": "NOVO ALEGRE",
+      "codigo_ibge": "1715002",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-NOVO ALEGRE-COMPLETA.md",
+      "populacao_2022": 1846,
+      "area_km2": 200.1,
+      "pib_total_2021": "35,521",
+      "pib_per_capita_2021": "15.416",
+      "idhm_2010": "0.699",
+      "taxa_urbanizacao": "74.7%",
+      "resumo_executivo": "Novo Alegre, município tocantinense de apenas 1.846 habitantes (2022), apresenta um \"paradoxo de crescimento econômico com declínio populacional acelerado\". Enquanto o PIB per capita cresceu 43,7% entre 2017-2021 (atingindo R$ 15.416), a população encolheu 19,2% no mesmo período. A economia é dominada pela pecuária bovina (rebanho de 28.082 cabeças em 2023\\) e serviços, mas enfrenta desafios críticos: dependência fiscal extrema (78,8% da receita municipal vem de transferências), envelhecimento p...",
+      "swot": {
+        "forcas": [
+          "Evolução expressiva do IDHM: Salto de 0,410 (1991, \"muito baixo\") para 0,699 (2010, \"alto\"), com destaque para a dimensão Longevidade (0,812, \"muito alto\").",
+          "Crescimento econômico sustentado: PIB cresceu 31,3% (2017-2021) e PIB per capita 43,7%, com expansão dos setores de Agropecuária (+116,5%) e Serviços (+24,8%).",
+          "Pecuária bovina consolidada: Rebanho em crescimento constante, de 20.990 (2019) para 28.082 cabeças (2023), representando base econômica sólida e potencial para agregação de valor.",
+          "Alta taxa de alfabetização adulta: 87,7% em 2022, com desempenho superior entre mulheres (89,7%) e jovens de 15-19 anos (99,3%).",
+          "Cobertura universal de energia elétrica: 100% dos domicílios com acesso, com consumo estável e ampla rede de distribuição."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 759,
+      "tamanho_analise_caracteres": 37274
+    },
+    {
+      "nome": "NOVO JARDIM",
+      "codigo_ibge": "1715259",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-NOVO JARDIM-COMPLETA.md",
+      "populacao_2022": 2230,
+      "area_km2": 1216.0,
+      "pib_total_2021": "42,672",
+      "pib_per_capita_2021": "26.217,62",
+      "idhm_2010": "0.596",
+      "taxa_urbanizacao": "75.0%",
+      "resumo_executivo": "O município de Novo Jardim, localizado no sudeste do Tocantins, apresenta um \"paradoxo da estagnação com potencial agrícola latente\". Com uma população de apenas 2.230 habitantes (2022) em declínio (-0,8% ao ano), o município ocupa a 130ª posição no ranking estadual de PIB, evidenciando sua pequena dimensão econômica. Contraditoriamente, demonstra dinamismo no setor agropecuário, com crescimento expressivo do PIB (48% entre 2017-2021), expansão da sojicultura e aumento do rebanho bovino. No enta...",
+      "swot": {
+        "forcas": [
+          "Dinamismo do Setor Agropecuário: O Valor Adicionado Bruto da agropecuária cresceu 118% entre 2017-2021 (de R$ 4,9 mil para R$ 10,9 mil), puxado pela expansão da soja (de 0 ha em 2019 para 368 ha em 2023\\) e crescimento do rebanho bovino (de 11.800 para 17.187 cabeças no mesmo período).",
+          "Crescimento Econômico Recente: O PIB total aumentou 48% entre 2017-2021 (de R$ 28,9 mil para R$ 42,7 mil), com PIB per capita subindo de R$ 17.707 para R$ 26.218, indicando geração de riqueza acima do crescimento populacional.",
+          "Cobertura Básica de Serviços Urbanos: 100% dos domicílios têm acesso à rede geral de água (2022), 96% têm banheiro de uso exclusivo e 82% do lixo é coletado diretamente, indicando infraestrutura básica consolidada.",
+          "Baixa Criminalidade Violenta: Ausência de registros de homicídios dolosos nas principais causas de morte (2018-2022), sugerindo um ambiente de relativa segurança pública.",
+          "Avanços na Longevidade: A esperança de vida ao nascer aumentou de 60,8 anos (1991) para 68,8 anos (2010), e a mortalidade infantil caiu drasticamente de 60,1 (1991) para 30,4 (2010) por mil nascidos vivos."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 586,
+      "tamanho_analise_caracteres": 38242
+    },
+    {
+      "nome": "PARANÃ",
+      "codigo_ibge": null,
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PARANA-COMPLETA.md",
+      "populacao_2022": 10542,
+      "area_km2": 11217.0,
+      "pib_total_2021": "315,4",
+      "pib_per_capita_2021": "18.663,11",
+      "idhm_2010": "0.595",
+      "taxa_urbanizacao": "59.1%",
+      "resumo_executivo": "Paranã, município histórico do Tocantins, apresenta um **\"paradoxo de estagnação populacional com crescimento econômico recente\"**. Enquanto a população permanece praticamente estável há 30 anos (10.966 hab. em 1991 para 10.542 em 2022), o PIB municipal saltou 47,2% entre 2017 e 2021, impulsionado pela expansão da pecuária bovina (83,5% de crescimento no efetivo entre 2019-2023) e pelo avanço da sojicultura (iniciada em 2022). Apesar da melhoria em indicadores de longevidade (esperança de vida a...",
+      "swot": {
+        "forcas": [
+          "Efetivo cresceu 83,5% entre 2019-2023, atingindo 253.044 cabeças em 2023\\. O município possui o 5º maior rebanho do Tocantins, com produção de leite expressiva (4,1 milhões de litros em 2023).",
+          "Início da cultura em 2022 com 700 ha, expandindo para 800 ha em 2023, produzindo 1.440 toneladas. Potencial para diversificação da matriz econômica rural.",
+          "Esperança de vida ao nascer aumentou 10,2 anos entre 1991-2010 (61,4 para 71,6 anos), reflexo de melhorias em saúde básica.",
+          "Taxa cresceu de 17,6% (1991) para 59,1% (2022), indicando concentração de serviços e infraestrutura.",
+          "Valor total concedido aumentou 330% entre 2019-2023 (R$ 28,1 milhões para R$ 120,8 milhões), demonstrando dinamismo no setor agropecuário."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 543,
+      "tamanho_analise_caracteres": 34815
+    },
+    {
+      "nome": "PONTE ALTA DO BOM JESUS",
+      "codigo_ibge": "1717800",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PONTE ALTA DO BOM JESUS-COMPLETA.md",
+      "populacao_2022": 4220,
+      "area_km2": 1719.5,
+      "pib_total_2021": "66.158",
+      "pib_per_capita_2021": "14.791,31",
+      "idhm_2010": "0.603",
+      "taxa_urbanizacao": "55.1%",
+      "resumo_executivo": "O município de Ponte Alta do Bom Jesus apresenta um \"paradoxo de estagnação com base rural dinâmica\". Enquanto a população declina (-0,6% ao ano entre 2010-2022) e o IDHM (0,603 em 2010\\) permanece na faixa média – puxado para baixo pela educação \"muito baixa\" –, a economia agropecuária mostra vigor: o PIB cresceu 46% entre 2017-2021, o rebanho bovino aumentou 56% no mesmo período e o crédito rural multiplicou-se por 6\\. O município é hiperdependente de transferências governamentais (FPM represe...",
+      "swot": {
+        "forcas": [
+          "Base Produtiva Agropecuária Sólida e em Expansão: A agropecuária respondeu por 45% do VAB em 2021 (R$ 30 milhões), com rebanho bovino crescendo 56% (2019-23) para 51.618 cabeças e forte injeção de crédito rural (R$ 42,3 milhões em 2023).",
+          "Disponibilidade de Terras e Baixa Pressão Fundiária: Com densidade de 2,5 hab/km² e 46 mil hectares em estabelecimentos agropecuários (2017), há espaço para expansão ordenada de atividades produtivas.",
+          "Melhoria Consistente em Indicadores de Longevidade: Esperança de vida ao nascer saltou de 58,9 anos (1991) para 74,2 anos (2010). Mortalidade infantil caiu de 68,3‰ (1991) para 15,7‰ (2010).",
+          "Infraestrutura Básica de Telecomunicações: Cobertura 4G atinge mais de 75% da área e 57% dos moradores (2024), com 2 ERBs. Acesso à telefonia móvel (3.500) supera a população.",
+          "Gestão Pública com Transparência de Dados: A existência de um perfil socioeconômico detalhado e atualizado demonstra capacidade técnica e compromisso com planejamento."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 616,
+      "tamanho_analise_caracteres": 37045
+    },
+    {
+      "nome": "PORTO ALEGRE DO TOCANTINS",
+      "codigo_ibge": "1718006",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PORTO ALEGRE DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 2866,
+      "area_km2": 507.0,
+      "pib_total_2021": "47,043",
+      "pib_per_capita_2021": "68.063,36",
+      "idhm_2010": "0.645",
+      "taxa_urbanizacao": "73.9%",
+      "resumo_executivo": "Porto Alegre do Tocantins configura-se como um “município de pequeno porte em transição agropastoril”, com economia fortemente alicerçada na agropecuária e serviços básicos, e população estável em torno de 2.900 habitantes. Apresenta um “crescimento econômico recente sem reflexos imediatos no desenvolvimento humano”: entre 2017 e 2021, o PIB per capita saltou de R$ 35 mil para R$ 68 mil, impulsionado pelo agronegócio (especialmente soja e pecuária bovina), mas indicadores sociais como pobreza (8...",
+      "swot": {
+        "forcas": [
+          "Forte Base Agropecuária em Expansão: A agropecuária respondeu por 33,7% do VAB em 2021\\. A produção de soja explodiu de 0 ton em 2019 para 5.580 ton em 2023, e o rebanho bovino cresceu 67% no mesmo período, atingindo 13.426 cabeças. Há terra disponível e investimento em crédito rural (R$ 30,8 milhões concedidos em 2023).",
+          "Crescimento Econômico Acelerado Recente: O PIB nominal cresceu 62% entre 2017 e 2021 (de R$ 29 mi para R$ 47 mi), e o PIB per capita quase dobrou no período, saindo de R$ 35 mil para R$ 68 mil, indicando geração de riqueza.",
+          "Melhoria Significativa em Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 60,6 anos (1991) para 72,1 anos (2010). A mortalidade infantil caiu drasticamente de 61,1 óbitos por mil nascidos vivos (1991) para 20,8 (2010).",
+          "Alfabetização Adulta em Ascensão: A taxa de alfabetização da população com 15 anos ou mais subiu de 71,1% (2000) para 84,1% (2022), com destaque para os jovens (15-19 anos: 98,4% alfabetizados).",
+          "Infraestrutura Bancária e de Pagamentos Básica: Possui 1 posto de atendimento bancário eletrônico (PAE) e 1 casa lotérica em funcionamento, garantindo acesso mínimo a serviços financeiros."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 653,
+      "tamanho_analise_caracteres": 40294
+    },
+    {
+      "nome": "RIO DA CONCEIÇÃO",
+      "codigo_ibge": "1718659",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-RIO DA CONCEICAO-COMPLETA.md",
+      "populacao_2022": 1768,
+      "area_km2": 846.0,
+      "pib_total_2021": "29,142",
+      "pib_per_capita_2021": "29.846,56",
+      "idhm_2010": "0.608",
+      "taxa_urbanizacao": "90.7%",
+      "resumo_executivo": "Rio da Conceição, pequeno município tocantinense com apenas 1.768 habitantes (2022), apresenta um \"paradoxo da baixa escala\": apesar de avanços significativos no desenvolvimento humano (IDHM saltou de 0,247 em 1991 para 0,608 em 2010\\) e crescimento econômico recente (PIB per capita aumentou 89% entre 2017-2021), permanece extremamente dependente de transferências governamentais (89% da receita municipal em 2023\\) e enfrenta vulnerabilidades estruturais em saúde, educação e saneamento básico. Co...",
+      "swot": {
+        "forcas": [
+          "Evolução Significativa do IDH-M: O IDHM saltou de 0,247 (1991) para 0,608 (2010), saindo da classificação \"muito baixo\" para \"médio\", com destaque para o componente Longevidade (0,718 \\- alto).",
+          "Alta Taxa de Urbanização: Com 90,7% da população em área urbana (2022), o município possui concentração populacional que facilita o acesso a serviços básicos.",
+          "Crescimento Econômico Recente: PIB per capita cresceu 89% entre 2017-2021, atingindo R$ 29.846,56, impulsionado pela agropecuária (crescimento de 210% no VAB do setor no período).",
+          "Melhoria nos Indicadores Educacionais: Taxa de alfabetização de 15+ anos evoluiu de 71,4% (2000) para 89,5% (2022); IDEB dos anos iniciais atingiu 5,0 em 2023\\.",
+          "Baixa Criminalidade e Conflitos Fundiários: Ausência de exportações/importações e estrutura fundiária baseada em pequenas propriedades (69 estabelecimentos em 2017)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 604,
+      "tamanho_analise_caracteres": 32664
+    },
+    {
+      "nome": "SANTA ROSA DO TOCANTINS",
+      "codigo_ibge": "1718907",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SANTA ROSA DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 4653,
+      "area_km2": 1805.3,
+      "pib_total_2021": "307.685",
+      "pib_per_capita_2021": "16.427",
+      "idhm_2010": "0.595",
+      "taxa_urbanizacao": "71.5%",
+      "resumo_executivo": "Santa Rosa do Tocantins apresenta um \"paradoxo de crescimento econômico com persistência de vulnerabilidades sociais\". O município experimentou significativa expansão agrícola (soja, milho e pecuária), com PIB per capita saltando de R$ 11.426 (2017) para R$ 16.427 (2021) e exportações crescendo 1.182% entre 2019-2023. Contudo, mantém indicadores sociais preocupantes: IDHM de 0,595 (classificação baixa), 88% das famílias em condição de pobreza (2010), alta dependência de transferências governamen...",
+      "swot": {
+        "forcas": [
+          "Potencial Agrícola Consolidado: Produção de soja (120,5 mil toneladas) e milho (35,5 mil toneladas) em 2023 com área colhida total de 49.846 ha. Exportações de US$ 309,2 milhões em 2023, crescimento de 1.182% desde 2019\\.",
+          "Estrutura Fundiária Propícia à Agricultura Moderna: 540 estabelecimentos agropecuários (2017) com predominância de propriedades médias e grandes (71% da área com mais de 200 ha).",
+          "Saneamento Básico em Evolução: 91,2% dos domicílios com banheiro de uso exclusivo (2021), aumento de 27,6 pontos percentuais desde 2000\\.",
+          "Crescimento do Setor de Serviços: Valor Adicionado Bruto em Serviços aumentou 45,5% entre 2017-2021, sinalizando incipiente diversificação econômica.",
+          "Redução da Mortalidade Infantil Histórica: Queda de 58,2 para 27,4 óbitos por mil nascidos vivos entre 1991-2022, indicando avanços em saúde básica."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 605,
+      "tamanho_analise_caracteres": 30072
+    },
+    {
+      "nome": "SÃO VALÉRIO DA NATIVIDADE",
+      "codigo_ibge": "1720499",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SAO VALERIO DA NATIVIDADE-COMPLETA.md",
+      "populacao_2022": 4422,
+      "area_km2": 2520.0,
+      "pib_total_2021": "156,734",
+      "pib_per_capita_2021": "44.080,82",
+      "idhm_2010": "0.643",
+      "taxa_urbanizacao": "67.5%",
+      "resumo_executivo": "O município de São Valério da Natividade apresenta um \"paradoxo de crescimento agropecuário com vulnerabilidade social persistente\". Com população estabilizada em torno de 4,4 mil habitantes, destaca-se pela forte vocação agrícola, especialmente na produção de soja, que impulsionou o PIB per capita para R$ 44,1 mil em 2021 (67º no estado). Contudo, contrasta com indicadores sociais preocupantes: IDHM de 0,643 (classificação média em 2010), 86% das famílias em condição de pobreza em 2010, e taxa ...",
+      "swot": {
+        "forcas": [
+          "Fortaleza Agropecuária Expressiva: Soja é carro-chefe com 21.609 ha colhidos e 78.228 toneladas produzidas em 2023; rebanho bovino em expansão (71.680 cabeças em 2023).",
+          "Crescimento Econômico Sustentado: PIB aumentou 14,3% entre 2020-2021; PIB per capita cresceu 20% no mesmo período.",
+          "Melhoria em Infraestrutura Básica: 95,1% dos domicílios com água por rede geral (2022); 97,2% com coleta direta de lixo.",
+          "Posição Geográfica Estratégica: Localizado na região centro-sul do TO, com acesso a polos como Natividade e Peixe.",
+          "Estabilidade Demográfica Relativa: População estabilizada após ajuste pós-emancipação, com taxa de urbanização crescente."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 620,
+      "tamanho_analise_caracteres": 26565
+    },
+    {
+      "nome": "SÃO VALÉRIO DA NATIVIDADE",
+      "codigo_ibge": "1720499",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SAO-VALERIO-COMPLETA.md",
+      "populacao_2022": 4422,
+      "area_km2": 2520.0,
+      "pib_total_2021": "156,734",
+      "pib_per_capita_2021": "44.080,82",
+      "idhm_2010": "0.643",
+      "taxa_urbanizacao": "67.5%",
+      "resumo_executivo": "O município de São Valério da Natividade apresenta um \"paradoxo de crescimento agropecuário com vulnerabilidade social persistente\". Com população estabilizada em torno de 4,4 mil habitantes, destaca-se pela forte vocação agrícola, especialmente na produção de soja, que impulsionou o PIB per capita para R$ 44,1 mil em 2021 (67º no estado). Contudo, contrasta com indicadores sociais preocupantes: IDHM de 0,643 (classificação média em 2010), 86% das famílias em condição de pobreza em 2010, e taxa ...",
+      "swot": {
+        "forcas": [
+          "Fortaleza Agropecuária Expressiva: Soja é carro-chefe com 21.609 ha colhidos e 78.228 toneladas produzidas em 2023; rebanho bovino em expansão (71.680 cabeças em 2023).",
+          "Crescimento Econômico Sustentado: PIB aumentou 14,3% entre 2020-2021; PIB per capita cresceu 20% no mesmo período.",
+          "Melhoria em Infraestrutura Básica: 95,1% dos domicílios com água por rede geral (2022); 97,2% com coleta direta de lixo.",
+          "Posição Geográfica Estratégica: Localizado na região centro-sul do TO, com acesso a polos como Natividade e Peixe.",
+          "Estabilidade Demográfica Relativa: População estabilizada após ajuste pós-emancipação, com taxa de urbanização crescente."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 620,
+      "tamanho_analise_caracteres": 26565
+    },
+    {
+      "nome": "TAGUATINGA",
+      "codigo_ibge": "1720903",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-TAGUATINGA-COMPLETA.md",
+      "populacao_2022": 14011,
+      "area_km2": 2342.6,
+      "pib_total_2021": "318,253",
+      "pib_per_capita_2021": "18.758,26",
+      "idhm_2010": "0.634",
+      "taxa_urbanizacao": "73.8%",
+      "resumo_executivo": "O município de Taguatinga, localizado no sudeste tocantinense, apresenta um \"paradoxo de crescimento econômico com estagnação social\". Enquanto a economia local demonstra vigor \\- com o PIB crescendo 34,3% em cinco anos (2017-2021) e o efetivo bovino aumentando 51,9% no mesmo período \\-, os indicadores sociais revelam desafios persistentes: 85% das famílias encontravam-se em situação de pobreza em 2010, o IDH-M Educação (0,497) permanecia na faixa \"muito baixo\" em 2010, e o saneamento básico ain...",
+      "swot": {
+        "forcas": [
+          "Expressivo Crescimento do Agronegócio: O VAB da agropecuária saltou de R$ 30,8 mil (2017) para R$ 81,2 mil (2021), um crescimento de 163,5%. O rebanho bovino atingiu 150.942 cabeças em 2023, consolidando a pecuária como atividade econômica principal.",
+          "Sólida Base de Empresas Locais: Em 2024, eram 755 estabelecimentos ativos, com predomínio do comércio (406) e serviços (241), demonstrando um tecido econômico diversificado para o porte municipal.",
+          "Melhoria Contínua dos Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 58,5 anos (1991) para 74,1 anos (2010), indicando avanços nas condições gerais de saúde e renda.",
+          "Alfabetização em Ascensão: A taxa de alfabetização da população adulta (15+) alcançou 87,3% em 2022, com destaque para os jovens entre 15-19 anos (98,8% alfabetizados).",
+          "Capacidade de Atração de Crédito Rural: O valor total de financiamentos concedidos a produtores e cooperativas cresceu de R$ 13,6 milhões (2019) para R$ 45,5 milhões (2023), sinalizando confiança do sistema financeiro no setor produtivo local."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 615,
+      "tamanho_analise_caracteres": 34803
+    },
+    {
+      "nome": "TAIPAS DO TOCANTINS",
+      "codigo_ibge": "1720937",
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-TAIPAS DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 2021,
+      "area_km2": 1105.4,
+      "pib_total_2021": "35.246",
+      "pib_per_capita_2021": "16.145,79",
+      "idhm_2010": "0.601",
+      "taxa_urbanizacao": "78.9%",
+      "resumo_executivo": "Taipas do Tocantins configura-se como um município de \"pequeno porte e baixa densidade demômica\", com apenas 2.021 habitantes em 2022, inserido no bioma Cerrado. Apresenta um paradoxo entre crescimento econômico recente e persistência de altos índices de pobreza. Seu PIB per capita cresceu 56% entre 2017 e 2021 (para R$ 16.145,79), impulsionado pela agropecuária, especialmente pela expansão do rebanho bovino. No entanto, em 2010, 88% das famílias estavam em situação de pobreza e o IDHM (0,601) a...",
+      "swot": {
+        "forcas": [
+          "Base Territorial Extensa e Baixa Densidade: Com 1.105,40 km² e apenas 1,8 hab/km², o município possui ampla disponibilidade de terra para expansão das atividades agropecuárias e preservação ambiental.",
+          "Evolução Positiva do IDHM: O índice saltou de 0,281 (1991) para 0,601 (2010), saindo da classificação \"muito baixo\" para \"médio\", refletindo avanços nas condições de vida.",
+          "Crescimento Econômico Recente: O PIB per capita apresentou crescimento significativo de 56,3% entre 2017 e 2021 (de R$ 10.327,35 para R$ 16.145,79), impulsionado principalmente pelo setor agropecuário.",
+          "Expansão do Setor Pecuário: O rebanho bovino cresceu 79% entre 2019 e 2023, alcançando 35.748 cabeças, configurando-se como uma atividade econômica robusta e em expansão.",
+          "Melhoria na Alfabetização: A taxa de alfabetização da população adulta (15+) evoluiu de 65,4% (2000) para 85,9% (2022), indicando progresso educacional."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 611,
+      "tamanho_analise_caracteres": 36947
     }
   ],
   "Porto Nacional": [
@@ -1406,6 +2071,33 @@
       },
       "tamanho_analise_linhas": 568,
       "tamanho_analise_caracteres": 40927
+    },
+    {
+      "nome": "IPUEIRAS",
+      "codigo_ibge": "1710508",
+      "microrregiao": "Porto Nacional",
+      "arquivo_fonte": "FICHA-MUNICIPAL-IPUEIRAS-COMPLETA.md",
+      "populacao_2022": 1590,
+      "area_km2": 821.0,
+      "pib_total_2021": "47,77",
+      "pib_per_capita_2021": "24.931",
+      "idhm_2010": "0.620",
+      "taxa_urbanizacao": "53.1%",
+      "resumo_executivo": "Ipueiras apresenta um \"paradoxo do crescimento econômico com declínio demográfico\". Enquanto o PIB municipal cresceu 30% entre 2017-2021, chegando a R$ 47,7 milhões, com destaque para o agronegócio (que responde por 59% do VAB em 2021), a população registrou redução de 3% entre 2010-2022, estabilizando-se em 1.590 habitantes. O município possui IDHM médio (0,620 em 2010), com avanços significativos nas últimas décadas, mas mantém dependência elevada de transferências governamentais (83% da recei...",
+      "swot": {
+        "forcas": [
+          "Crescimento Econômico Sustentado: O PIB municipal cresceu 30% entre 2017-2021 (de R$ 36,7 para R$ 47,8 milhões), com destaque para o setor agropecuário que aumentou sua participação de 37% para 59% do VAB no período.",
+          "Produção Agrícola em Expansão: A produção de soja triplicou entre 2019-2023 (de 9.235 para 21.122 toneladas), com área plantada crescendo de 3.141 para 6.642 hectares. O milho também apresentou crescimento de 50% no período.",
+          "Localização Estratégica: Situado a apenas 120 km de Palmas (capital), com acesso ao Rio Tocantins, facilitando o escoamento da produção e conexão com mercados.",
+          "Acesso a Programas Sociais: 232 famílias atendidas pelo Bolsa Família em 2023 (15% da população), com valor médio de R$ 672,80, e 244 pessoas recebendo Auxílio Emergencial em 2022\\.",
+          "Infraestrutura de Telecomunicações: Cobertura de 4G atinge 63% da população (Claro) e 63% (Tim), com 3 ERBs instaladas e acesso crescente à banda larga fixa."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 812,
+      "tamanho_analise_caracteres": 32723
     },
     {
       "nome": "LAJEADO",
@@ -2107,6 +2799,33 @@
       "tamanho_analise_caracteres": 38458
     },
     {
+      "nome": "DUERÉ",
+      "codigo_ibge": "1707306",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-DUERE-COMPLETA.md",
+      "populacao_2022": 4248,
+      "area_km2": 3421.0,
+      "pib_total_2021": "204,765",
+      "pib_per_capita_2021": "43.697,08",
+      "idhm_2010": "0.679",
+      "taxa_urbanizacao": "67.9%",
+      "resumo_executivo": "Dueré apresenta um \"paradoxo do crescimento econômico agropecuário com estagnação populacional e dependência fiscal\". Com apenas 4.248 habitantes (2022), o município registra declínio populacional (-0,6% ao ano entre 2010-2022), enquanto seu PIB mais que dobrou entre 2017-2021, impulsionado pela expansão da soja e pecuária bovina. Apesar da evolução do IDHM de 0,319 (1991) para 0,679 (2010) \\- faixa média \\-, persistem desafios críticos: 82% das famílias em condição de pobreza (2010), infraestru...",
+      "swot": {
+        "forcas": [
+          "Agropecuária Dinâmica e em Expansão: Valor Adicionado Bruto da agropecuária cresceu 104% entre 2017-2021, atingindo R$ 130,3 milhões. Produção de soja quintuplicou de 4.400 t (2019) para 17.840 t (2023). Rebanho bovino aumentou 43% no período 2019-2023, chegando a 207.190 cabeças.",
+          "Evolução Significativa do IDHM: Saltou de 0,319 (1991 \\- muito baixo) para 0,679 (2010 \\- médio), com destaque para o componente Longevidade que alcançou 0,846 (muito alto em 2010).",
+          "Melhoria dos Indicadores de Saúde Básica: Mortalidade infantil caiu drasticamente de 49,3‰ (1991) para 12,4‰ (2010). Esperança de vida ao nascer aumentou 12,3 anos no mesmo período (63,5 para 75,8 anos).",
+          "Alfabetização Elevada e em Ascensão: Taxa de alfabetização (15+ anos) cresceu de 79,2% (2000) para 88,7% (2022), com destaque para mulheres (91,6% em 2022).",
+          "Crescimento do PIB per capita Expressivo: Aumentou 72% entre 2017-2021, de R$ 25.421,82 para R$ 43.697,08."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 615,
+      "tamanho_analise_caracteres": 31167
+    },
+    {
       "nome": "FÁTIMA",
       "codigo_ibge": "1707553",
       "microrregiao": "Rio Formoso",
@@ -2344,482 +3063,6 @@
       },
       "tamanho_analise_linhas": 594,
       "tamanho_analise_caracteres": 33629
-    }
-  ],
-  "Dianópolis": [
-    {
-      "nome": "ARRAIAS",
-      "codigo_ibge": "1702406",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-ARRAIAS-COMPLETA.md",
-      "populacao_2022": 10287,
-      "area_km2": 5803.68,
-      "pib_total_2021": "223,31",
-      "pib_per_capita_2021": "21.263,55",
-      "idhm_2010": "0.651",
-      "taxa_urbanizacao": "69.2%",
-      "resumo_executivo": "Arraias apresenta um \"paradoxo de desenvolvimento desigual\": enquanto a economia avança com forte crescimento da agropecuária e aumento do PIB, a população declina continuamente (-0,3% ao ano) e os indicadores sociais evoluem lentamente. Com apenas 10.287 habitantes (2022), o município viu sua participação na população tocantinense cair de 1,4% para 0,7% em três décadas. Apesar do IDHM ter saltado de \"muito baixo\" para \"médio\" entre 1991 e 2010, permanecem desafios críticos: 81% das famílias em ...",
-      "swot": {
-        "forcas": [
-          "Base Econômica Agropecuária Sólida: Pecuária bovina em expansão contínua (281.522 cabeças em 2023, \\+42% desde 2019), com crescimento do VAB agropecuário de 137% entre 2017-2021. Produção de leite (11,5 milhões litros/ano) e mandioca (2.966 ton em 2023\\) estabelecem cadeias produtivas locais.",
-          "Crescimento do PIB Sustentado: PIB aumentou 40% em termos nominais entre 2017-2021 (R$159,7 mi para R$223,3 mi), com PIB per capita crescendo 43% no período. Posição relativa melhorou de 47ª para 42ª no ranking estadual.",
-          "Estrutura Fundiária Consolidada: 859 estabelecimentos agropecuários (2017) com 74% das terras em condições próprias. Área total de estabelecimentos aumentou 13% (2006-2017), indicando investimento no setor.",
-          "Melhoria em Indicadores de Longevidade: Esperança de vida ao nascer saltou de 60,6 anos (1991) para 74,7 anos (2010). Mortalidade infantil caiu drasticamente de 61,1 para 14,5 por mil no mesmo período.",
-          "Infraestrutura Bancária e de Conectividade Básica: Presença de agências bancárias, 4 estações rádio base, e cobertura 4G para 72% da população (Claro) e 67% (Tim). Acesso à telefonia móvel chega a 8.508 linhas (2023)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 833,
-      "tamanho_analise_caracteres": 36510
-    },
-    {
-      "nome": "AURORA DO TOCANTINS",
-      "codigo_ibge": "1702703",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-AURORA DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 3342,
-      "area_km2": 696.0,
-      "pib_total_2021": "58.806",
-      "pib_per_capita_2021": "15.438,70",
-      "idhm_2010": "0.677",
-      "taxa_urbanizacao": "68.0%",
-      "resumo_executivo": "Aurora do Tocantins apresenta um \"paradoxo da estagnação populacional com crescimento econômico recente\". Enquanto a população diminuiu 28,3% entre 1991-2022 (de 4.663 para 3.342 habitantes), o PIB per capita aumentou 40,7% no período 2017-2021, alcançando R$ 15.438,70. O município mantém forte dependência do setor agropecuário (32,6% do VAB em 2021\\) e das transferências governamentais, com indicadores sociais que evoluíram significativamente (IDHM saiu de 0,355 em 1991 para 0,677 em 2010\\) mas...",
-      "swot": {
-        "forcas": [],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 666,
-      "tamanho_analise_caracteres": 33067
-    },
-    {
-      "nome": "CHAPADA DA NATIVIDADE",
-      "codigo_ibge": null,
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-CHAPADA DA NATIVIDADE-COMPLETA.md",
-      "populacao_2022": 3117,
-      "area_km2": 1641.0,
-      "pib_total_2021": "148,973",
-      "pib_per_capita_2021": "44.736,71",
-      "idhm_2010": "0.620",
-      "taxa_urbanizacao": "57.8%",
-      "resumo_executivo": "Chapada da Natividade, município tocantinense de 3.117 habitantes, apresenta um \"**paradoxo de crescimento econômico com exclusão social persistente**\". Enquanto o PIB cresceu 123% entre 2017 e 2021, atingindo R$ 148,9 milhões, e a agropecuária demonstra dinamismo (soja e pecuária bovina), os indicadores sociais revelam realidades preocupantes: 90% das famílias estavam em situação de pobreza em 2010, o IDHM (0,620 em 2010) ainda é classificado como médio-baixo, e o município enfrenta declínio po...",
-      "swot": {
-        "forcas": [
-          "O VAB da agropecuária mais que dobrou entre 2017 e 2021 (de R$31,5 mi para R$83,5 mi), com produção expressiva de soja (~45 mil ton.) e milho (~24 mil ton.). A pecuária bovina conta com um rebanho de 37 mil cabeças (2023).",
-          "Produção significativa de peixes nativos (tambaqui, tambacu, pintado), totalizando mais de 98 mil kg em 2023, representando uma alternativa de diversificação.",
-          "O PIB total apresentou crescimento notável de 123% entre 2017 e 2021, impulsionado pelo setor primário.",
-          "Volume de financiamentos crescente, atingindo R$ 64,2 milhões em 2023, indicando investimentos no setor produtivo.",
-          "Origem no ciclo do ouro no século XVIII e presença de comunidades quilombolas (São José e Chapada da Natividade), base para turismo cultural e étnico."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 568,
-      "tamanho_analise_caracteres": 40109
-    },
-    {
-      "nome": "COMBINADO",
-      "codigo_ibge": "1705607",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-COMBINADO-COMPLETA.md",
-      "populacao_2022": 4756,
-      "area_km2": 209.383,
-      "pib_total_2021": "76,524",
-      "pib_per_capita_2021": "15.713,45",
-      "idhm_2010": "0.697",
-      "taxa_urbanizacao": "85.7%",
-      "resumo_executivo": "O município de Combinado apresenta um diagnóstico marcado pelo \"paradoxo da estabilidade improdutiva\": uma economia e população essencialmente estagnadas nas últimas décadas, apesar de possuir indicadores sociais em melhoria contínua e um perfil agropecuário consolidado. Com população praticamente constante desde 1991 (4.870 hab.) e um PIB que oscila sem crescimento robusto, Combinado enfrenta o desafio de traduzir seus avanços em educação, longevidade e infraestrutura básica em desenvolvimento ...",
-      "swot": {
-        "forcas": [
-          "IDHM em trajetória consistente de melhoria: Evoluiu de \"Muito Baixo\" (0,341 em 1991\\) para \"Médio\" (0,697 em 2010), com avanços notáveis nos componentes Longevidade (0,815 \\- Muito Alto) e Educação (0,639 \\- Médio). Indica progresso social estrutural.",
-          "Infraestrutura de saneamento básico consolidada: 99,4% dos domicílios têm banheiro exclusivo (2022); 90,5% têm água via rede geral. Base sólida para saúde pública.",
-          "Agropecuária com rebanho bovino expressivo e em crescimento: 34.851 cabeças em 2023 (+54% desde 2019), com produção de leite também em alta (3,15 milhões de litros). Ativo econômico relevante.",
-          "Alfabetização em patamar elevado e crescente: 88,5% em 2022 (91,4% entre mulheres). Geração mais jovem (15-19 anos) tem taxa de 99%. Capital humano com base educacional fortalecida.",
-          "Conectividade móvel de boa qualidade: 93,8% dos moradores cobertos por 4G (Claro/Tim). Infraestrutura digital adequada para serviços e comunicação."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 798,
-      "tamanho_analise_caracteres": 40570
-    },
-    {
-      "nome": "DIANÓPOLIS",
-      "codigo_ibge": "1707009",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-DIANOPOLIS-COMPLETA.md",
-      "populacao_2022": 17739,
-      "area_km2": 3318.0,
-      "pib_total_2021": "644,829",
-      "pib_per_capita_2021": "28.401,58",
-      "idhm_2010": "0.701",
-      "taxa_urbanizacao": "87.4%",
-      "resumo_executivo": "Dianópolis apresenta um \"paradoxo de crescimento econômico com estagnação social\". Embora tenha experimentado significativo crescimento do PIB (111% entre 2017-2021) e avanços na infraestrutura de saneamento básico, o município enfrenta desafios persistentes: redução populacional de 7,2% entre 2010-2022, indicadores educacionais abaixo das metas, alta dependência de transferências governamentais (82% da receita estimada) e taxas preocupantes de mortalidade infantil (24,1 por mil em 2022). A econ...",
-      "swot": {
-        "forcas": [],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 598,
-      "tamanho_analise_caracteres": 34696
-    },
-    {
-      "nome": "LAVANDEIRA",
-      "codigo_ibge": "1712157",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-LAVANDEIRA-COMPLETA.md",
-      "populacao_2022": 1626,
-      "area_km2": 468.0,
-      "pib_total_2021": "37,870",
-      "pib_per_capita_2021": "17.797,60",
-      "idhm_2010": "0.660",
-      "taxa_urbanizacao": "65.7%",
-      "resumo_executivo": "Lavandeira, município tocantinense com apenas 1.626 habitantes (2022), apresenta um \"paradoxo de crescimento econômico com persistência de vulnerabilidades estruturais\". Seu PIB quase dobrou entre 2017 e 2021, impulsionado pela expansão da pecuária bovina (rebanho cresceu 62% no período). Contudo, mantém indicadores sociais preocupantes: taxa de mortalidade infantil de 87 por mil (2022, acima da média nacional), 87% das famílias em condição de pobreza (2010) e IDHM ainda na faixa média (0,660 em...",
-      "swot": {
-        "forcas": [
-          "Crescimento Econômico Recente Acelerado: O PIB cresceu 64% entre 2017 e 2021 (de R$ 23,9 mil para R$ 37,9 mil), com destaque para a agropecuária, que mais que quadruplicou seu Valor Adicionado Bruto no período.",
-          "Evolução Significativa do IDHM: O índice saltou de 0,305 (muito baixo) em 1991 para 0,660 (médio) em 2010, com progresso em todos os componentes, especialmente educação (de 0,129 para 0,620).",
-          "Base Produtiva Primária Consolidada: A pecuária bovina é robusta (32.565 cabeças em 2023\\) e crescente. A aquicultura (principalmente tambaqui e pintado) e a produção de mandioca apresentam produção estável, indicando setores consolidados.",
-          "Melhoria na Infraestrutura de Saneamento Básico: Avanço notável no acesso à água por rede geral (de 50% dos domicílios em 2000 para 65% em 2022\\) e na existência de banheiro de uso exclusivo (de 49% para 97% no mesmo período).",
-          "Alfabetização em Ascensão: A taxa de alfabetização da população de 15 anos ou mais subiu de 69,5% (2000) para 80,9% (2022), com melhoria em todas as faixas etárias, especialmente entre adultos jovens."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 667,
-      "tamanho_analise_caracteres": 41225
-    },
-    {
-      "nome": "NATIVIDADE",
-      "codigo_ibge": "1714203",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-NATIVIDADE-COMPLETA.md",
-      "populacao_2022": 8754,
-      "area_km2": 3242.0,
-      "pib_total_2021": "247,34",
-      "pib_per_capita_2021": "15.413,41",
-      "idhm_2010": "0.673",
-      "taxa_urbanizacao": "83.1%",
-      "resumo_executivo": "O município de Natividade, berro histórico e cultural do Tocantins, apresenta um \"paradoxo de estagnação demográfica em meio ao dinamismo agrícola\". Apesar de um crescimento econômico marcado pelo PIB em ascensão (R$ 247,3 milhões em 2021\\) e pelo forte desempenho da sojicultura e pecuária, o município enfrenta um declínio populacional persistente (-0,2% ao ano entre 2010-2022), envelhecimento acelerado da população e desafios sociais profundos. Indicadores críticos, como uma taxa de mortalidade...",
-      "swot": {
-        "forcas": [
-          "Base Agropecuária Forte e em Expansão: Soja, milho e pecuária bovina (109.404 cabeças em 2023\\) são os pilares econômicos. A produção de soja quintuplicou de 7 mil para 17,7 mil toneladas (2019-2023), demonstrando forte dinamismo.",
-          "Patrimônio Histórico e Cultural Singular: Cidade histórica fundada em 1734, com potencial turístico subexplorado relacionado ao ciclo do ouro e arquitetura colonial.",
-          "Melhoria Sustentada em Infraestrutura Básica: Evolução significativa no acesso à água encanada (de 18% para 81% dos domicílios, 1991-2022) e presença de banheiro (de 17% para 99%).",
-          "Estabilidade no Mercado de Trabalho Formal: Saldo positivo de empregos (67 novos vínculos em 2023\\) e estoque crescente (901 vínculos ativos).",
-          "Acesso Crescente à Conectividade Digital: Cobertura 4G atinge 77% da população (Claro/TIM) e acesso à banda larga fixa está presente, embora modesto (460 acessos em 2023)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 579,
-      "tamanho_analise_caracteres": 36014
-    },
-    {
-      "nome": "NOVO ALEGRE",
-      "codigo_ibge": "1715002",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-NOVO ALEGRE-COMPLETA.md",
-      "populacao_2022": 1846,
-      "area_km2": 200.1,
-      "pib_total_2021": "35,521",
-      "pib_per_capita_2021": "15.416",
-      "idhm_2010": "0.699",
-      "taxa_urbanizacao": "74.7%",
-      "resumo_executivo": "Novo Alegre, município tocantinense de apenas 1.846 habitantes (2022), apresenta um \"paradoxo de crescimento econômico com declínio populacional acelerado\". Enquanto o PIB per capita cresceu 43,7% entre 2017-2021 (atingindo R$ 15.416), a população encolheu 19,2% no mesmo período. A economia é dominada pela pecuária bovina (rebanho de 28.082 cabeças em 2023\\) e serviços, mas enfrenta desafios críticos: dependência fiscal extrema (78,8% da receita municipal vem de transferências), envelhecimento p...",
-      "swot": {
-        "forcas": [
-          "Evolução expressiva do IDHM: Salto de 0,410 (1991, \"muito baixo\") para 0,699 (2010, \"alto\"), com destaque para a dimensão Longevidade (0,812, \"muito alto\").",
-          "Crescimento econômico sustentado: PIB cresceu 31,3% (2017-2021) e PIB per capita 43,7%, com expansão dos setores de Agropecuária (+116,5%) e Serviços (+24,8%).",
-          "Pecuária bovina consolidada: Rebanho em crescimento constante, de 20.990 (2019) para 28.082 cabeças (2023), representando base econômica sólida e potencial para agregação de valor.",
-          "Alta taxa de alfabetização adulta: 87,7% em 2022, com desempenho superior entre mulheres (89,7%) e jovens de 15-19 anos (99,3%).",
-          "Cobertura universal de energia elétrica: 100% dos domicílios com acesso, com consumo estável e ampla rede de distribuição."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 759,
-      "tamanho_analise_caracteres": 37274
-    },
-    {
-      "nome": "NOVO JARDIM",
-      "codigo_ibge": "1715259",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-NOVO JARDIM-COMPLETA.md",
-      "populacao_2022": 2230,
-      "area_km2": 1216.0,
-      "pib_total_2021": "42,672",
-      "pib_per_capita_2021": "26.217,62",
-      "idhm_2010": "0.596",
-      "taxa_urbanizacao": "75.0%",
-      "resumo_executivo": "O município de Novo Jardim, localizado no sudeste do Tocantins, apresenta um \"paradoxo da estagnação com potencial agrícola latente\". Com uma população de apenas 2.230 habitantes (2022) em declínio (-0,8% ao ano), o município ocupa a 130ª posição no ranking estadual de PIB, evidenciando sua pequena dimensão econômica. Contraditoriamente, demonstra dinamismo no setor agropecuário, com crescimento expressivo do PIB (48% entre 2017-2021), expansão da sojicultura e aumento do rebanho bovino. No enta...",
-      "swot": {
-        "forcas": [
-          "Dinamismo do Setor Agropecuário: O Valor Adicionado Bruto da agropecuária cresceu 118% entre 2017-2021 (de R$ 4,9 mil para R$ 10,9 mil), puxado pela expansão da soja (de 0 ha em 2019 para 368 ha em 2023\\) e crescimento do rebanho bovino (de 11.800 para 17.187 cabeças no mesmo período).",
-          "Crescimento Econômico Recente: O PIB total aumentou 48% entre 2017-2021 (de R$ 28,9 mil para R$ 42,7 mil), com PIB per capita subindo de R$ 17.707 para R$ 26.218, indicando geração de riqueza acima do crescimento populacional.",
-          "Cobertura Básica de Serviços Urbanos: 100% dos domicílios têm acesso à rede geral de água (2022), 96% têm banheiro de uso exclusivo e 82% do lixo é coletado diretamente, indicando infraestrutura básica consolidada.",
-          "Baixa Criminalidade Violenta: Ausência de registros de homicídios dolosos nas principais causas de morte (2018-2022), sugerindo um ambiente de relativa segurança pública.",
-          "Avanços na Longevidade: A esperança de vida ao nascer aumentou de 60,8 anos (1991) para 68,8 anos (2010), e a mortalidade infantil caiu drasticamente de 60,1 (1991) para 30,4 (2010) por mil nascidos vivos."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 586,
-      "tamanho_analise_caracteres": 38242
-    },
-    {
-      "nome": "PARANÃ",
-      "codigo_ibge": null,
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PARANA-COMPLETA.md",
-      "populacao_2022": 10542,
-      "area_km2": 11217.0,
-      "pib_total_2021": "315,4",
-      "pib_per_capita_2021": "18.663,11",
-      "idhm_2010": "0.595",
-      "taxa_urbanizacao": "59.1%",
-      "resumo_executivo": "Paranã, município histórico do Tocantins, apresenta um **\"paradoxo de estagnação populacional com crescimento econômico recente\"**. Enquanto a população permanece praticamente estável há 30 anos (10.966 hab. em 1991 para 10.542 em 2022), o PIB municipal saltou 47,2% entre 2017 e 2021, impulsionado pela expansão da pecuária bovina (83,5% de crescimento no efetivo entre 2019-2023) e pelo avanço da sojicultura (iniciada em 2022). Apesar da melhoria em indicadores de longevidade (esperança de vida a...",
-      "swot": {
-        "forcas": [
-          "Efetivo cresceu 83,5% entre 2019-2023, atingindo 253.044 cabeças em 2023\\. O município possui o 5º maior rebanho do Tocantins, com produção de leite expressiva (4,1 milhões de litros em 2023).",
-          "Início da cultura em 2022 com 700 ha, expandindo para 800 ha em 2023, produzindo 1.440 toneladas. Potencial para diversificação da matriz econômica rural.",
-          "Esperança de vida ao nascer aumentou 10,2 anos entre 1991-2010 (61,4 para 71,6 anos), reflexo de melhorias em saúde básica.",
-          "Taxa cresceu de 17,6% (1991) para 59,1% (2022), indicando concentração de serviços e infraestrutura.",
-          "Valor total concedido aumentou 330% entre 2019-2023 (R$ 28,1 milhões para R$ 120,8 milhões), demonstrando dinamismo no setor agropecuário."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 543,
-      "tamanho_analise_caracteres": 34815
-    },
-    {
-      "nome": "PONTE ALTA DO BOM JESUS",
-      "codigo_ibge": "1717800",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PONTE ALTA DO BOM JESUS-COMPLETA.md",
-      "populacao_2022": 4220,
-      "area_km2": 1719.5,
-      "pib_total_2021": "66.158",
-      "pib_per_capita_2021": "14.791,31",
-      "idhm_2010": "0.603",
-      "taxa_urbanizacao": "55.1%",
-      "resumo_executivo": "O município de Ponte Alta do Bom Jesus apresenta um \"paradoxo de estagnação com base rural dinâmica\". Enquanto a população declina (-0,6% ao ano entre 2010-2022) e o IDHM (0,603 em 2010\\) permanece na faixa média – puxado para baixo pela educação \"muito baixa\" –, a economia agropecuária mostra vigor: o PIB cresceu 46% entre 2017-2021, o rebanho bovino aumentou 56% no mesmo período e o crédito rural multiplicou-se por 6\\. O município é hiperdependente de transferências governamentais (FPM represe...",
-      "swot": {
-        "forcas": [
-          "Base Produtiva Agropecuária Sólida e em Expansão: A agropecuária respondeu por 45% do VAB em 2021 (R$ 30 milhões), com rebanho bovino crescendo 56% (2019-23) para 51.618 cabeças e forte injeção de crédito rural (R$ 42,3 milhões em 2023).",
-          "Disponibilidade de Terras e Baixa Pressão Fundiária: Com densidade de 2,5 hab/km² e 46 mil hectares em estabelecimentos agropecuários (2017), há espaço para expansão ordenada de atividades produtivas.",
-          "Melhoria Consistente em Indicadores de Longevidade: Esperança de vida ao nascer saltou de 58,9 anos (1991) para 74,2 anos (2010). Mortalidade infantil caiu de 68,3‰ (1991) para 15,7‰ (2010).",
-          "Infraestrutura Básica de Telecomunicações: Cobertura 4G atinge mais de 75% da área e 57% dos moradores (2024), com 2 ERBs. Acesso à telefonia móvel (3.500) supera a população.",
-          "Gestão Pública com Transparência de Dados: A existência de um perfil socioeconômico detalhado e atualizado demonstra capacidade técnica e compromisso com planejamento."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 616,
-      "tamanho_analise_caracteres": 37045
-    },
-    {
-      "nome": "PORTO ALEGRE DO TOCANTINS",
-      "codigo_ibge": "1718006",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PORTO ALEGRE DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 2866,
-      "area_km2": 507.0,
-      "pib_total_2021": "47,043",
-      "pib_per_capita_2021": "68.063,36",
-      "idhm_2010": "0.645",
-      "taxa_urbanizacao": "73.9%",
-      "resumo_executivo": "Porto Alegre do Tocantins configura-se como um “município de pequeno porte em transição agropastoril”, com economia fortemente alicerçada na agropecuária e serviços básicos, e população estável em torno de 2.900 habitantes. Apresenta um “crescimento econômico recente sem reflexos imediatos no desenvolvimento humano”: entre 2017 e 2021, o PIB per capita saltou de R$ 35 mil para R$ 68 mil, impulsionado pelo agronegócio (especialmente soja e pecuária bovina), mas indicadores sociais como pobreza (8...",
-      "swot": {
-        "forcas": [
-          "Forte Base Agropecuária em Expansão: A agropecuária respondeu por 33,7% do VAB em 2021\\. A produção de soja explodiu de 0 ton em 2019 para 5.580 ton em 2023, e o rebanho bovino cresceu 67% no mesmo período, atingindo 13.426 cabeças. Há terra disponível e investimento em crédito rural (R$ 30,8 milhões concedidos em 2023).",
-          "Crescimento Econômico Acelerado Recente: O PIB nominal cresceu 62% entre 2017 e 2021 (de R$ 29 mi para R$ 47 mi), e o PIB per capita quase dobrou no período, saindo de R$ 35 mil para R$ 68 mil, indicando geração de riqueza.",
-          "Melhoria Significativa em Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 60,6 anos (1991) para 72,1 anos (2010). A mortalidade infantil caiu drasticamente de 61,1 óbitos por mil nascidos vivos (1991) para 20,8 (2010).",
-          "Alfabetização Adulta em Ascensão: A taxa de alfabetização da população com 15 anos ou mais subiu de 71,1% (2000) para 84,1% (2022), com destaque para os jovens (15-19 anos: 98,4% alfabetizados).",
-          "Infraestrutura Bancária e de Pagamentos Básica: Possui 1 posto de atendimento bancário eletrônico (PAE) e 1 casa lotérica em funcionamento, garantindo acesso mínimo a serviços financeiros."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 653,
-      "tamanho_analise_caracteres": 40294
-    },
-    {
-      "nome": "RIO DA CONCEIÇÃO",
-      "codigo_ibge": "1718659",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-RIO DA CONCEICAO-COMPLETA.md",
-      "populacao_2022": 1768,
-      "area_km2": 846.0,
-      "pib_total_2021": "29,142",
-      "pib_per_capita_2021": "29.846,56",
-      "idhm_2010": "0.608",
-      "taxa_urbanizacao": "90.7%",
-      "resumo_executivo": "Rio da Conceição, pequeno município tocantinense com apenas 1.768 habitantes (2022), apresenta um \"paradoxo da baixa escala\": apesar de avanços significativos no desenvolvimento humano (IDHM saltou de 0,247 em 1991 para 0,608 em 2010\\) e crescimento econômico recente (PIB per capita aumentou 89% entre 2017-2021), permanece extremamente dependente de transferências governamentais (89% da receita municipal em 2023\\) e enfrenta vulnerabilidades estruturais em saúde, educação e saneamento básico. Co...",
-      "swot": {
-        "forcas": [
-          "Evolução Significativa do IDH-M: O IDHM saltou de 0,247 (1991) para 0,608 (2010), saindo da classificação \"muito baixo\" para \"médio\", com destaque para o componente Longevidade (0,718 \\- alto).",
-          "Alta Taxa de Urbanização: Com 90,7% da população em área urbana (2022), o município possui concentração populacional que facilita o acesso a serviços básicos.",
-          "Crescimento Econômico Recente: PIB per capita cresceu 89% entre 2017-2021, atingindo R$ 29.846,56, impulsionado pela agropecuária (crescimento de 210% no VAB do setor no período).",
-          "Melhoria nos Indicadores Educacionais: Taxa de alfabetização de 15+ anos evoluiu de 71,4% (2000) para 89,5% (2022); IDEB dos anos iniciais atingiu 5,0 em 2023\\.",
-          "Baixa Criminalidade e Conflitos Fundiários: Ausência de exportações/importações e estrutura fundiária baseada em pequenas propriedades (69 estabelecimentos em 2017)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 604,
-      "tamanho_analise_caracteres": 32664
-    },
-    {
-      "nome": "SANTA ROSA DO TOCANTINS",
-      "codigo_ibge": "1718907",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-SANTA ROSA DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 4653,
-      "area_km2": 1805.3,
-      "pib_total_2021": "307.685",
-      "pib_per_capita_2021": "16.427",
-      "idhm_2010": "0.595",
-      "taxa_urbanizacao": "71.5%",
-      "resumo_executivo": "Santa Rosa do Tocantins apresenta um \"paradoxo de crescimento econômico com persistência de vulnerabilidades sociais\". O município experimentou significativa expansão agrícola (soja, milho e pecuária), com PIB per capita saltando de R$ 11.426 (2017) para R$ 16.427 (2021) e exportações crescendo 1.182% entre 2019-2023. Contudo, mantém indicadores sociais preocupantes: IDHM de 0,595 (classificação baixa), 88% das famílias em condição de pobreza (2010), alta dependência de transferências governamen...",
-      "swot": {
-        "forcas": [
-          "Potencial Agrícola Consolidado: Produção de soja (120,5 mil toneladas) e milho (35,5 mil toneladas) em 2023 com área colhida total de 49.846 ha. Exportações de US$ 309,2 milhões em 2023, crescimento de 1.182% desde 2019\\.",
-          "Estrutura Fundiária Propícia à Agricultura Moderna: 540 estabelecimentos agropecuários (2017) com predominância de propriedades médias e grandes (71% da área com mais de 200 ha).",
-          "Saneamento Básico em Evolução: 91,2% dos domicílios com banheiro de uso exclusivo (2021), aumento de 27,6 pontos percentuais desde 2000\\.",
-          "Crescimento do Setor de Serviços: Valor Adicionado Bruto em Serviços aumentou 45,5% entre 2017-2021, sinalizando incipiente diversificação econômica.",
-          "Redução da Mortalidade Infantil Histórica: Queda de 58,2 para 27,4 óbitos por mil nascidos vivos entre 1991-2022, indicando avanços em saúde básica."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 605,
-      "tamanho_analise_caracteres": 30072
-    },
-    {
-      "nome": "SÃO VALÉRIO DA NATIVIDADE",
-      "codigo_ibge": "1720499",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-SAO VALERIO DA NATIVIDADE-COMPLETA.md",
-      "populacao_2022": 4422,
-      "area_km2": 2520.0,
-      "pib_total_2021": "156,734",
-      "pib_per_capita_2021": "44.080,82",
-      "idhm_2010": "0.643",
-      "taxa_urbanizacao": "67.5%",
-      "resumo_executivo": "O município de São Valério da Natividade apresenta um \"paradoxo de crescimento agropecuário com vulnerabilidade social persistente\". Com população estabilizada em torno de 4,4 mil habitantes, destaca-se pela forte vocação agrícola, especialmente na produção de soja, que impulsionou o PIB per capita para R$ 44,1 mil em 2021 (67º no estado). Contudo, contrasta com indicadores sociais preocupantes: IDHM de 0,643 (classificação média em 2010), 86% das famílias em condição de pobreza em 2010, e taxa ...",
-      "swot": {
-        "forcas": [
-          "Fortaleza Agropecuária Expressiva: Soja é carro-chefe com 21.609 ha colhidos e 78.228 toneladas produzidas em 2023; rebanho bovino em expansão (71.680 cabeças em 2023).",
-          "Crescimento Econômico Sustentado: PIB aumentou 14,3% entre 2020-2021; PIB per capita cresceu 20% no mesmo período.",
-          "Melhoria em Infraestrutura Básica: 95,1% dos domicílios com água por rede geral (2022); 97,2% com coleta direta de lixo.",
-          "Posição Geográfica Estratégica: Localizado na região centro-sul do TO, com acesso a polos como Natividade e Peixe.",
-          "Estabilidade Demográfica Relativa: População estabilizada após ajuste pós-emancipação, com taxa de urbanização crescente."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 620,
-      "tamanho_analise_caracteres": 26565
-    },
-    {
-      "nome": "SÃO VALÉRIO DA NATIVIDADE",
-      "codigo_ibge": "1720499",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-SAO-VALERIO-COMPLETA.md",
-      "populacao_2022": 4422,
-      "area_km2": 2520.0,
-      "pib_total_2021": "156,734",
-      "pib_per_capita_2021": "44.080,82",
-      "idhm_2010": "0.643",
-      "taxa_urbanizacao": "67.5%",
-      "resumo_executivo": "O município de São Valério da Natividade apresenta um \"paradoxo de crescimento agropecuário com vulnerabilidade social persistente\". Com população estabilizada em torno de 4,4 mil habitantes, destaca-se pela forte vocação agrícola, especialmente na produção de soja, que impulsionou o PIB per capita para R$ 44,1 mil em 2021 (67º no estado). Contudo, contrasta com indicadores sociais preocupantes: IDHM de 0,643 (classificação média em 2010), 86% das famílias em condição de pobreza em 2010, e taxa ...",
-      "swot": {
-        "forcas": [
-          "Fortaleza Agropecuária Expressiva: Soja é carro-chefe com 21.609 ha colhidos e 78.228 toneladas produzidas em 2023; rebanho bovino em expansão (71.680 cabeças em 2023).",
-          "Crescimento Econômico Sustentado: PIB aumentou 14,3% entre 2020-2021; PIB per capita cresceu 20% no mesmo período.",
-          "Melhoria em Infraestrutura Básica: 95,1% dos domicílios com água por rede geral (2022); 97,2% com coleta direta de lixo.",
-          "Posição Geográfica Estratégica: Localizado na região centro-sul do TO, com acesso a polos como Natividade e Peixe.",
-          "Estabilidade Demográfica Relativa: População estabilizada após ajuste pós-emancipação, com taxa de urbanização crescente."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 620,
-      "tamanho_analise_caracteres": 26565
-    },
-    {
-      "nome": "TAGUATINGA",
-      "codigo_ibge": "1720903",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-TAGUATINGA-COMPLETA.md",
-      "populacao_2022": 14011,
-      "area_km2": 2342.6,
-      "pib_total_2021": "318,253",
-      "pib_per_capita_2021": "18.758,26",
-      "idhm_2010": "0.634",
-      "taxa_urbanizacao": "73.8%",
-      "resumo_executivo": "O município de Taguatinga, localizado no sudeste tocantinense, apresenta um \"paradoxo de crescimento econômico com estagnação social\". Enquanto a economia local demonstra vigor \\- com o PIB crescendo 34,3% em cinco anos (2017-2021) e o efetivo bovino aumentando 51,9% no mesmo período \\-, os indicadores sociais revelam desafios persistentes: 85% das famílias encontravam-se em situação de pobreza em 2010, o IDH-M Educação (0,497) permanecia na faixa \"muito baixo\" em 2010, e o saneamento básico ain...",
-      "swot": {
-        "forcas": [
-          "Expressivo Crescimento do Agronegócio: O VAB da agropecuária saltou de R$ 30,8 mil (2017) para R$ 81,2 mil (2021), um crescimento de 163,5%. O rebanho bovino atingiu 150.942 cabeças em 2023, consolidando a pecuária como atividade econômica principal.",
-          "Sólida Base de Empresas Locais: Em 2024, eram 755 estabelecimentos ativos, com predomínio do comércio (406) e serviços (241), demonstrando um tecido econômico diversificado para o porte municipal.",
-          "Melhoria Contínua dos Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 58,5 anos (1991) para 74,1 anos (2010), indicando avanços nas condições gerais de saúde e renda.",
-          "Alfabetização em Ascensão: A taxa de alfabetização da população adulta (15+) alcançou 87,3% em 2022, com destaque para os jovens entre 15-19 anos (98,8% alfabetizados).",
-          "Capacidade de Atração de Crédito Rural: O valor total de financiamentos concedidos a produtores e cooperativas cresceu de R$ 13,6 milhões (2019) para R$ 45,5 milhões (2023), sinalizando confiança do sistema financeiro no setor produtivo local."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 615,
-      "tamanho_analise_caracteres": 34803
-    },
-    {
-      "nome": "TAIPAS DO TOCANTINS",
-      "codigo_ibge": "1720937",
-      "microrregiao": "Dianópolis",
-      "arquivo_fonte": "FICHA-MUNICIPAL-TAIPAS DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 2021,
-      "area_km2": 1105.4,
-      "pib_total_2021": "35.246",
-      "pib_per_capita_2021": "16.145,79",
-      "idhm_2010": "0.601",
-      "taxa_urbanizacao": "78.9%",
-      "resumo_executivo": "Taipas do Tocantins configura-se como um município de \"pequeno porte e baixa densidade demômica\", com apenas 2.021 habitantes em 2022, inserido no bioma Cerrado. Apresenta um paradoxo entre crescimento econômico recente e persistência de altos índices de pobreza. Seu PIB per capita cresceu 56% entre 2017 e 2021 (para R$ 16.145,79), impulsionado pela agropecuária, especialmente pela expansão do rebanho bovino. No entanto, em 2010, 88% das famílias estavam em situação de pobreza e o IDHM (0,601) a...",
-      "swot": {
-        "forcas": [
-          "Base Territorial Extensa e Baixa Densidade: Com 1.105,40 km² e apenas 1,8 hab/km², o município possui ampla disponibilidade de terra para expansão das atividades agropecuárias e preservação ambiental.",
-          "Evolução Positiva do IDHM: O índice saltou de 0,281 (1991) para 0,601 (2010), saindo da classificação \"muito baixo\" para \"médio\", refletindo avanços nas condições de vida.",
-          "Crescimento Econômico Recente: O PIB per capita apresentou crescimento significativo de 56,3% entre 2017 e 2021 (de R$ 10.327,35 para R$ 16.145,79), impulsionado principalmente pelo setor agropecuário.",
-          "Expansão do Setor Pecuário: O rebanho bovino cresceu 79% entre 2019 e 2023, alcançando 35.748 cabeças, configurando-se como uma atividade econômica robusta e em expansão.",
-          "Melhoria na Alfabetização: A taxa de alfabetização da população adulta (15+) evoluiu de 65,4% (2000) para 85,9% (2022), indicando progresso educacional."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 611,
-      "tamanho_analise_caracteres": 36947
     }
   ],
   "Jalapão": [
@@ -3472,6 +3715,33 @@
       },
       "tamanho_analise_linhas": 579,
       "tamanho_analise_caracteres": 38443
+    },
+    {
+      "nome": "PAU D'ARCO",
+      "codigo_ibge": "1716307",
+      "microrregiao": "N/D",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PAU D ARCO-COMPLETA.md",
+      "populacao_2022": 4043,
+      "area_km2": 1671.14,
+      "pib_total_2021": "91.169",
+      "pib_per_capita_2021": "60.775,63",
+      "idhm_2010": "0.661",
+      "taxa_urbanizacao": "69.4%",
+      "resumo_executivo": "Pau D'Arco apresenta um \"potencial agropecuário subutilizado em meio ao declínio populacional e à alta dependência de transferências governamentais\". Com apenas 4.043 habitantes (2022), o município registra taxa de crescimento anual negativa (-1,0%) e densidade demográfica baixa (2,9 hab/km²). A economia é fortemente baseada na agropecuária, que respondeu por 67,3% do VAB em 2021, com destaque para a bovinocultura (93.397 cabeças) e cultivo de abacaxi (13.500 frutos/hectare em 2023). O IDHM (0,6...",
+      "swot": {
+        "forcas": [
+          "Agropecuária robusta e diversificada: O setor agropecuário apresentou VAB de R$ 420,7 mil em 2021 (67,3% do total), com rebanho bovino de 93.397 cabeças (2023) e produção de abacaxi de 13.500 frutos/hectare. A pecuária leiteira produz 6.225 mil litros/ano.",
+          "Melhoria significativa em indicadores sociais: O IDHM evoluiu de 0,281 (1991) para 0,661 (2010), saltando da classificação \"Muito baixo\" para \"Médio\". A taxa de alfabetização entre adultos alcançou 86,4% em 2022\\.",
+          "Acesso universal a banheiros e avanço no abastecimento de água: 100% dos domicílios possuem banheiro de uso exclusivo (2022), e 73,6% têm água fornecida por rede geral (aumento de 52,8% em 2000).",
+          "Cobertura vacinal elevada: Em 2021, a cobertura da Pentavalente atingiu 129,1% e da Febre Amarela 114,5% em menores de 1 ano, indicando boa adesão aos programas de imunização.",
+          "Crescimento do empreendedorismo individual: O número de Microempreendedores Individuais (MEI) saltou de 129 (2019) para 190 (2023), com 114 ativos em 2024, demonstrando vitalidade econômica em pequena escala."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 653,
+      "tamanho_analise_caracteres": 33248
     },
     {
       "nome": "PINDORAMA DO TOCANTINS",

@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE MIRACEMA DO TOCANTINS
 
-**Total de Municípios:** 15
+**Total de Municípios:** 19
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -12,11 +12,15 @@
 | GUARAÍ | 24.775 | 2107.0 | 880.403 | 29.950 | 0.741 |
 | MIRACEMA DO TOCANTINS | 18.566 | 2664.0 | 642.003 | 28.804,15 | 0.684 |
 | MIRANORTE | 12.701 | 1033.22 | 390.325 | 36.212,17 | 0.662 |
+| COLMÉIA | 8.941 | 1161.0 | 182.796 | 22.628,82 | 0.671 |
 | ARAGUACEMA | 5.927 | 2775.0 | 240,2 | 33.261,20 | 0.639 |
 | COUTO MAGALHÃES | 5.331 | 1584.0 | 203.473 | 35.759,76 | 0.605 |
+| PEQUIZEIRO | 4.921 | 1206.0 | 107.606 | 19.258 | 0.627 |
 | CASEARA | 4.847 | 1680.17 | 389.493.000 | 70.637 | 0.658 |
 | BARROLÂNDIA | 4.846 | 698.361 | 122,016 | 21.523 | 0.642 |
+| GOIANORTE | 4.738 | 1797.0 | 193.502 | 17.535,44 | 0.621 |
 | BERNARDO SAYÃO | 4.229 | 924.0 | 102.684 | 23.132,25 | 0.638 |
+| TABOCÃO | 3.455 | 624.0 | 232,898 | 37.675,68 | 0.659 |
 | PRESIDENTE KENNEDY | 3.047 | 772.0 | 65.165 | 30.103,17 | 0.669 |
 | RIO DOS BOIS | 2.738 | 847.0 | 85.928 | 17.150,42 | 0.616 |
 | ABREULÂNDIA | 2.576 | 1906.0 | 112.135.000 | 42.979,98 | 0.665 |
@@ -61,10 +65,20 @@
 - Significativo Acesso ao Crédito Rural: Volume expressivo de financiamentos (R$ 164 milhões em 2023), indicando capital de giro e investimento no setor produtivo.
 - Localização Estratégica e Potencial Turístico: Situado às margens do Rio Araguaia, com potencial para pesca esportiva e ecoturismo, além de proximidade com a capital Palmas (256 km).
 
+**COLMÉIA:**
+- Localização estratégica na BR-153: Proximidade com Guaraí (25km) e posicionamento na principal rodovia federal do estado, facilitando escoamento de produção e acesso a mercados.
+- Base agropecuária consolidada: Expressivo rebanho bovino (112.641 cabeças) e produção agrícola diversificada (milho, mandioca, banana, leite), gerando R$ 41,6 milhões em VAB em 2021\.
+- Expansão do empreendedorismo individual: Crescimento de 43% nos MEIs entre 2019-2023 (de 313 para 452), indicando vitalidade econômica de pequena escala.
+
 **COUTO MAGALHÃES:**
 - Agropecuária Dinâmica e Expansiva: Valor Adicionado Bruto da agropecuária saltou de R$ 19,9 milhões (2017) para R$ 87,0 milhões (2021), representando 42,8% do VAB total em 2021\. Produção de soja atin...
 - Acesso a Crédito Rural Significativo: Volume de financiamentos concedidos cresceu de R$ 16,7 milhões (2019) para R$ 90,7 milhões (2023), com predomínio para atividades agrícolas (85% do valor em 2023)...
 - Infraestrutura Energética em Expansão: Consumo total de energia elétrica cresceu 30% entre 2019-2023, atingindo 6.141 MWh. Número de consumidores residenciais aumentou 29% no mesmo período, refletindo...
+
+**GOIANORTE:**
+- Base Agropecuária Forte e Dinâmica: O município possui uma economia robusta baseada no agronegócio. O PIB saltou de R$ 79 milhões (2017) para R$ 193 milhões (2021), com o VAB da agropecuária crescendo...
+- Expressivo Acesso a Crédito Rural: O volume de financiamentos concedidos a produtores e cooperativas mais que dobrou entre 2019 (R$ 42,5 mi) e 2023 (R$ 111 mi), indicando confiança do sistema financei...
+- Pecuária Bovina em Expansão Contínua: O rebanho bovino cresceu consistentemente, passando de 95.753 cabeças (2019) para 118.607 (2023), um aumento de 24%. A produção de leite também cresceu 36% no per...
 
 **GUARAÍ:**
 - Posição Logística Estratégica: Situado às margens da BR-153 (Belém-Brasília), o município possui localização privilegiada para escoamento da produção e conexão com grandes centros.
@@ -86,6 +100,11 @@
 - PIB per capita Elevado: Com R$ 36.212,17, supera a média estadual, indicando potencial de geração de riqueza.
 - Boa Conectividade Digital: Cobertura 4G atinge cerca de 89% dos moradores, com 10 estações rádio base, infraestrutura favorável à modernização.
 
+**PEQUIZEIRO:**
+- Dinamismo do Agronegócio: Crescimento expressivo do VAB agropecuário (de R$ 11.690 mil em 2017 para R$ 33.421 mil em 2021, \+186%) e da produção de soja (de 714 ton em 2019 para 6.485 ton em 2023). Re...
+- Melhoria Sustentada do IDHM: Evolução consistente do Índice de Desenvolvimento Humano, saltando de 0.344 (Muito Baixo) em 1991 para 0.627 (Médio) em 2010, com destaque para o componente Longevidade (0...
+- PIB per capita em Ascensão: Aumento de 78% no PIB per capita entre 2017 (R$ 10.831) e 2021 (R$ 19.258), superando a média estadual em alguns anos.
+
 **PRESIDENTE KENNEDY:**
 - Localização Estratégica às Margens da BR-153: Situado na principal rodovia de ligação norte-sul (Belém-Brasília), facilita o escoamento de produção e o acesso a mercados regionais.
 - Base Produtiva Pecuária Consolidada: Efetivo de 51.614 bovinos (2023), representando a principal atividade econômica e gerando receita a partir do ITR e da produção de leite.
@@ -95,6 +114,11 @@
 - Valor Adicionado Bruto da agropecuária cresceu 285% entre 2017 e 2021, atingindo R$ 44,8 mil. A produção de soja (19 mil ton em 2023\) e milho (24,4 mil ton) são as principais culturas. O rebanho bovi...
 - Volume de financiamentos concedidos saltou de R$ 20,1 milhões (2019) para R$ 85,7 milhões (2023), indicando confiança do sistema financeiro e capacidade de investimento do produtor rural.
 - Em 2022, a cobertura para Pentavalente foi de 97,4% e para Poliomielite de 83,3%, demonstrando um sistema de atenção primária à saúde eficaz nesse aspecto.
+
+**TABOCÃO:**
+- expressivo para o estado.
+- Agropecuária representa 38,9% do VAB (2021). Produção de soja, milho e pecuária bovina com alta produtividade e crescente acesso a crédito rural (R$ 48,6 milhões em financiamentos em 2023).
+- Esperança de vida ao nascer saltou de 63,4 anos (1991) para 73,5 anos (2010). Taxa de alfabetização de adultos atingiu 91% (2022). IDHM teve avanço significativo (de 0,264 para 0,659 entre 1991-2010).
 
 **TUPIRAMA:**
 - Crescimento Econômico Acelerado: O PIB municipal mais que dobrou entre 2019 (R$ 55,98 mi) e 2021 (R$ 118,84 mi), com PIB per capita atingindo R$ 60,9 mil, um dos mais altos do estado, impulsionado pel...
@@ -113,10 +137,10 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 97.583 habitantes
-- **Área Total:** 19.715,75 km²
-- **Densidade Média:** 4.95 hab/km²
-- **Número de Municípios:** 15
+- **População Total:** 119.638 habitantes
+- **Área Total:** 24.503,75 km²
+- **Densidade Média:** 4.88 hab/km²
+- **Número de Municípios:** 19
 - **Município Mais Populoso:** GUARAÍ (24.775 hab)
 - **Município Menos Populoso:** TUPIRATINS (1.874 hab)
 

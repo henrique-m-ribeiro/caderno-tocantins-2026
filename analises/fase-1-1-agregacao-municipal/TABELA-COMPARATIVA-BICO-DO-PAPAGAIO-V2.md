@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE BICO DO PAPAGAIO
 
-**Total de Municípios:** 23
+**Total de Municípios:** 24
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -23,6 +23,7 @@
 | SÃO BENTO DO TOCANTINS | 5.654 | 1100.0 | 73,59 | 22.696,11 | 0.605 |
 | ITAGUATINS | 5.172 | 730.0 | 82,611 | 44.971,71 | 0.616 |
 | PALMEIRAS DO TOCANTINS | 4.872 | 743.0 | 95.357.000 | 22.110,47 | 0.628 |
+| NAZARÉ | 4.521 | 396.0 | 58,139 | 26.661 | 0.643 |
 | AGUIARNÓPOLIS | 4.497 | 237.0 | 165.480 | 23.475,65 | 0.657 |
 | SAMPAIO | 4.215 | 222.0 | 145.863 | 34.629,51 | 0.606 |
 | SÃO SEBASTIÃO DO TOCANTINS | 4.100 | 290.0 | 61.804 | 40.731,32 | 0.573 |
@@ -104,6 +105,11 @@
 - IDHM em Trajetória de Melhoria: Evolução positiva do IDHM: 0,280 (1991, muito baixo) → 0,454 (2000, muito baixo) → 0,639 (2010, médio).
 - Alfabetização em Nível Aceitável: Taxa de alfabetização de 87% (2022) para população 15+, acima da média regional.
 
+**NAZARÉ:**
+- Base Agropecuária Consolidada: Produção significativa de mandioca (3.500 ton.), milho (163 ton.) e bovinos (30.513 cabeças em 2023), com crescimento de 72% no rebanho bovino entre 2019-2023.
+- Melhoria Contínua do IDHM: Evolução de 0,295 (1991) para 0,643 (2010), com componente Longevidade atingindo nível "Alto" (0,792).
+- Crescimento do PIB Recente: Aumento de 29% no PIB entre 2017-2021 (R$ 45,013 mil para R$ 58,139 mil), com destaque para agropecuária.
+
 **PALMEIRAS DO TOCANTINS:**
 - Crescimento Econômico Sustentado: PIB aumentou 48% entre 2017-2021 (de R$ 64,6 milhões para R$ 95,4 milhões), com destaque para o setor agropecuário que mais que triplicou seu valor adicionado no perí...
 - Base Agropecuária Consolidada: Município possui 546 estabelecimentos agropecuários (2017), com produção diversificada (soja, milho, mandioca, bovinos, aves) e aumento significativo do crédito rural (v...
@@ -161,10 +167,10 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 195.131 habitantes
-- **Área Total:** 14.637,00 km²
-- **Densidade Média:** 13.33 hab/km²
-- **Número de Municípios:** 23
+- **População Total:** 199.652 habitantes
+- **Área Total:** 15.033,00 km²
+- **Densidade Média:** 13.28 hab/km²
+- **Número de Municípios:** 24
 - **Município Mais Populoso:** ARAGUATINS (31.918 hab)
 - **Município Menos Populoso:** CACHOEIRINHA (1.961 hab)
 

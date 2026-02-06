@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE GURUPI
 
-**Total de Municípios:** 12
+**Total de Municípios:** 13
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -18,6 +18,7 @@
 | BREJINHO DE NAZARÉ | 4.725 | 1723.0 | 272,945 | 49.268 | 0.686 |
 | CARIRI DO TOCANTINS | 4.007 | 1126.0 | 517.715 | 115.073,33 | 0.662 |
 | JAU DO TOCANTINS | 3.334 | 2167.0 | 97.865.000 | 20.420,86 | 0.662 |
+| TALISMÃ | 2.456 | 2156.0 | 146,7 | 51.822 | 0.654 |
 | SÃO SALVADOR DO TOCANTINS | 2.385 | 1425.0 | 49.467 | 12.618 | 0.605 |
 | SANTA RITA DO TOCANTINS | 2.219 | 3281.0 | 180.273 | 63.257,61 | 0.651 |
 | SUCUPIRA | 1.577 | 1018.0 | 532.374 | 89.062,14 | 0.667 |
@@ -88,6 +89,11 @@
 - Expressivo crescimento do PIB agropecuário: O Valor Adicionado da agropecuária cresceu 282% entre 2017 e 2021, saltando de R$ 14 mil para R$ 54 mil, puxado principalmente pela soja.
 - Infraestrutura bancária e de comunicações básica: Possui 1 posto de atendimento bancário eletrônico, 1 casa lotérica e cobertura móvel 4G para 67% dos moradores, assegurando conectividade mínima.
 
+**TALISMÃ:**
+- Agronegócio Dinâmico e de Alta Produtividade: Soja (52.151 t em 2023), milho (12.648 t) e pecuária bovina (127.521 cabeças) geram um VAB agropecuário de R$ 93,1 milhões (2021), representando 63,5% da ...
+- Crescimento Acelerado do PIB: O PIB mais que dobrou entre 2017-2021 (de R$ 83,4 mi para R$ 146,7 mi), com destaque para o salto de 2020, impulsionado pela alta dos preços das commodities.
+- Boa Longevidade e Redução da Mortalidade Infantil: Esperança de vida ao nascer aumentou de 64,5 anos (1991) para 73 anos (2010). A mortalidade infantil caiu de 45,6 (1991) para 18,4 (2010), embora ten...
+
 ### Principais Fraquezas Identificadas
 
 
@@ -95,10 +101,10 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 138.824 habitantes
-- **Área Total:** 24.321,00 km²
-- **Densidade Média:** 5.71 hab/km²
-- **Número de Municípios:** 12
+- **População Total:** 141.280 habitantes
+- **Área Total:** 26.477,00 km²
+- **Densidade Média:** 5.34 hab/km²
+- **Número de Municípios:** 13
 - **Município Mais Populoso:** GURUPI (85.125 hab)
 - **Município Menos Populoso:** SUCUPIRA (1.577 hab)
 

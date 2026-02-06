@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE RIO FORMOSO
 
-**Total de Municípios:** 12
+**Total de Municípios:** 13
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -15,6 +15,7 @@
 | ARAGUAÇU | 8.133 | 5155.0 | 349,05 | 41.464,68 | 0.675 |
 | PIUM | 7.128 | 10004.0 | 361.915 | 14.426,13 | 0.650 |
 | CRISTALÂNDIA | 6.371 | 1851.0 | 177.294.000 | 24.393,72 | 0.673 |
+| DUERÉ | 4.248 | 3421.0 | 204,765 | 43.697,08 | 0.679 |
 | SANDOLÂNDIA | 3.723 | 3528.6 | 116,736 | 22.913 | 0.659 |
 | FÁTIMA | 3.467 | 380.0 | 89,100 | 23.300 | 0.697 |
 | NOVA ROSALÂNDIA | 3.362 | 515.0 | 100,915 | 19.038,97 | 0.661 |
@@ -37,6 +38,11 @@
 - Crescimento Econômico Sustentado: PIB cresceu 52,8% entre 2020-2021 (de R$ 33,2 milhões para R$ 39,8 milhões), com expansão consistente da agropecuária.
 - Potencial Agropecuário Comprovado: Expressiva expansão da produção de soja (de 714 ton em 2019 para 7.557 ton em 2023\) e do rebanho bovino (de 27.031 cabeças em 2019 para 47.356 em 2023).
 - Melhoria Contínua do IDHM: Evolução significativa de 0,240 (1991) para 0,619 (2010), saindo de "muito baixo" para "médio" desenvolvimento humano.
+
+**DUERÉ:**
+- Agropecuária Dinâmica e em Expansão: Valor Adicionado Bruto da agropecuária cresceu 104% entre 2017-2021, atingindo R$ 130,3 milhões. Produção de soja quintuplicou de 4.400 t (2019) para 17.840 t (202...
+- Evolução Significativa do IDHM: Saltou de 0,319 (1991 \- muito baixo) para 0,679 (2010 \- médio), com destaque para o componente Longevidade que alcançou 0,846 (muito alto em 2010).
+- Melhoria dos Indicadores de Saúde Básica: Mortalidade infantil caiu drasticamente de 49,3‰ (1991) para 12,4‰ (2010). Esperança de vida ao nascer aumentou 12,3 anos no mesmo período (63,5 para 75,8 ano...
 
 **FÁTIMA:**
 - Economia agropecuária robusta e em expansão: O VAB da agropecuária cresceu 333% entre 2017-2021 (de R$ 5,8 para R$ 24,6 milhões), representando 27,6% do VAB total em 2021\. A produção de soja aumentou...
@@ -88,10 +94,10 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 123.571 habitantes
-- **Área Total:** 47.989,60 km²
-- **Densidade Média:** 2.57 hab/km²
-- **Número de Municípios:** 12
+- **População Total:** 127.819 habitantes
+- **Área Total:** 51.410,60 km²
+- **Densidade Média:** 2.49 hab/km²
+- **Número de Municípios:** 13
 - **Município Mais Populoso:** PARAÍSO DO TOCANTINS (52.360 hab)
 - **Município Menos Populoso:** OLIVEIRA DE FÁTIMA (1.164 hab)
 

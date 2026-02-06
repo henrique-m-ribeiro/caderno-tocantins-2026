@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE PORTO NACIONAL
 
-**Total de Municípios:** 10
+**Total de Municípios:** 11
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -19,6 +19,7 @@
 | BOM JESUS DO TOCANTINS | 4.038 | 2817.0 | 139,410 | 27.228,47 | 0.660 |
 | LAJEADO | 3.357 | 318.0 | 64,405 | 19.087,53 | 0.675 |
 | SANTA MARIA DO TOCANTINS | 2.680 | 1412.0 | 139,63 | 74.895,14 | 0.634 |
+| IPUEIRAS | 1.590 | 821.0 | 47,77 | 24.931 | 0.620 |
 
 ---
 
@@ -35,6 +36,11 @@
 - Agropecuária responde por 59,8% do VAB (2021). A produção de soja atingiu 55.270 toneladas (2022) e o rebanho bovino tem 37.065 cabeças (2023). Acesso robusto a crédito rural (R$ 83,8 milhões em 2023)...
 - 79% dos domicílios com água por rede geral (2022). 97% dos domicílios possuem banheiro de uso exclusivo. Coleta direta de lixo atinge 79% dos domicílios.
 - Esperança de vida ao nascer saltou de 60,6 anos (1991) para 75,0 anos (2010). Mortalidade infantil caiu de 61,1 (1991) para 14,0 (2010, última disponível).
+
+**IPUEIRAS:**
+- Crescimento Econômico Sustentado: O PIB municipal cresceu 30% entre 2017-2021 (de R$ 36,7 para R$ 47,8 milhões), com destaque para o setor agropecuário que aumentou sua participação de 37% para 59% do...
+- Produção Agrícola em Expansão: A produção de soja triplicou entre 2019-2023 (de 9.235 para 21.122 toneladas), com área plantada crescendo de 3.141 para 6.642 hectares. O milho também apresentou cresci...
+- Localização Estratégica: Situado a apenas 120 km de Palmas (capital), com acesso ao Rio Tocantins, facilitando o escoamento da produção e conexão com mercados.
 
 **LAJEADO:**
 - Localização Estratégica Proxima à Capital: Apenas 56 km de Palmas, facilitando acesso a mercados, serviços e logística.
@@ -83,12 +89,12 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 414.266 habitantes
-- **Área Total:** 21.858,10 km²
-- **Densidade Média:** 18.95 hab/km²
-- **Número de Municípios:** 10
+- **População Total:** 415.856 habitantes
+- **Área Total:** 22.679,10 km²
+- **Densidade Média:** 18.34 hab/km²
+- **Número de Municípios:** 11
 - **Município Mais Populoso:** PALMAS (302.692 hab)
-- **Município Menos Populoso:** SANTA MARIA DO TOCANTINS (2.680 hab)
+- **Município Menos Populoso:** IPUEIRAS (1.590 hab)
 
 ---
 

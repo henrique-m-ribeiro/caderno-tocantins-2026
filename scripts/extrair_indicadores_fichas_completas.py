@@ -23,8 +23,17 @@ def extrair_nome_e_codigo(filepath):
 
         # Padrão: # **ANÁLISE SOCIOECONÔMICA \- NOME** ou # ANÁLISE SOCIOECONÔMICA - NOME
         # O hífen pode estar escapado com backslash, e os asteriscos são opcionais
-        match_nome = re.search(r'#\s*\*{0,2}AN[ÁA]LISE SOCIOECON[ÔO]MICA\s*\\?[-–]\s*([A-ZÀ-Ú\s]+?)(?:\*{0,2})(?:\n|$)', content, re.IGNORECASE)
-        nome = match_nome.group(1).strip() if match_nome else None
+        # Captura letras maiúsculas, acentos, espaços, parênteses, apóstrofos, barras
+        match_nome = re.search(r'#\s*\*{0,2}AN[ÁA]LISE SOCIOECON[ÔO]MICA\s*\\?[-–]\s*([A-ZÀ-Ú\s()\'\/]+?)(?:\*{0,2})(?:\n|$)', content, re.IGNORECASE)
+        if match_nome:
+            nome = match_nome.group(1).strip()
+            # Remove sufixos comuns: (TO), /TO, (FORTALEZA DO...)
+            nome = re.sub(r'\s*\(TO\)\s*$', '', nome, flags=re.IGNORECASE)
+            nome = re.sub(r'\s*/TO\s*$', '', nome, flags=re.IGNORECASE)
+            nome = re.sub(r'\s*\([^)]*FORTALEZA[^)]*\)\s*$', '', nome, flags=re.IGNORECASE)
+            nome = nome.strip()
+        else:
+            nome = None
 
         # Código IBGE - aceita com ou sem asteriscos
         match_codigo = re.search(r'C[óo]digo IBGE:\s*\*{0,2}(\d+)\*{0,2}', content)
