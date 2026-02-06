@@ -134,36 +134,60 @@ Cada ficha regional (v1.1) contém 12 seções:
 
 **Localização:** `analises/fase-1-1-agregacao-municipal/`
 
-- `TABELA-COMPARATIVA-PORTO-NACIONAL.md`
-- `TABELA-COMPARATIVA-ARAGUAÍNA.md`
-- `TABELA-COMPARATIVA-BICO-DO-PAPAGAIO.md`
-- `TABELA-COMPARATIVA-MIRACEMA-DO-TOCANTINS.md`
-- `TABELA-COMPARATIVA-GURUPI.md`
-- `TABELA-COMPARATIVA-DIANÓPOLIS.md`
-- `TABELA-COMPARATIVA-JALAPÃO.md`
-- `TABELA-COMPARATIVA-RIO-FORMOSO.md`
-- `TABELA-COMPARATIVA-N-D.md`
+**⭐ USAR VERSÃO 2 (V2) - Fonte: Fichas Completas Deepseek V3:**
+- `TABELA-COMPARATIVA-PORTO-NACIONAL-V2.md`
+- `TABELA-COMPARATIVA-ARAGUAÍNA-V2.md`
+- `TABELA-COMPARATIVA-BICO-DO-PAPAGAIO-V2.md`
+- `TABELA-COMPARATIVA-MIRACEMA-DO-TOCANTINS-V2.md`
+- `TABELA-COMPARATIVA-GURUPI-V2.md`
+- `TABELA-COMPARATIVA-DIANÓPOLIS-V2.md`
+- `TABELA-COMPARATIVA-JALAPÃO-V2.md`
+- `TABELA-COMPARATIVA-RIO-FORMOSO-V2.md`
+- `TABELA-COMPARATIVA-N-D-V2.md`
+
+**Conteúdo V2:**
+- ✅ Perfil Geral (População 2022, Área, PIB Total/per capita, IDHM 2010)
+- ✅ **SWOT Consolidado** (Forças e Fraquezas identificadas por município)
+- ✅ Estatísticas Agregadas (pop. total, área total, densidade, maior/menor município)
+
+**Versão 1 (obsoleta, manter para referência):**
+- Mesmos nomes sem "-V2"
+- Fonte: fichas básicas (2 páginas)
+- Dados limitados
+
+### 2. Fichas Municipais COMPLETAS (140 fichas) 📚 **FONTE PRIMÁRIA**
+
+**Localização:** `parte-iii-fichas-municipais/deepseek-v3/fichas-completas/`
+
+**Formato:** 15-25 páginas cada (~30-40KB)
 
 **Conteúdo:**
-- Perfil demográfico e territorial (população, área, densidade, urbanização)
-- Perfil econômico (PIB, IDHM, VAB setorial, empregos)
-- Indicadores educacionais (alfabetização)
+- ✅ Resumo Executivo
+- ✅ Dados Fundamentais (tabela com 7-10 indicadores-chave)
+- ✅ Análise SWOT Completa (5+ pontos por quadrante)
+- ✅ 9 Dimensões de Análise Detalhadas
+- ✅ Geradas via Deepseek V3 em 06/02/2026
 
-### 2. Dados Estruturados (JSON)
+**Status:** 140/140 fichas disponíveis
 
-**Arquivo:** `analises/fase-1-1-agregacao-municipal/dados-municipais-agregados.json`
+**Exemplo:** `FICHA-MUNICIPAL-PORTO NACIONAL-COMPLETA.md` (584 linhas)
 
-- Todos os indicadores extraídos em formato estruturado
+### 3. Dados Estruturados (JSON)
+
+**Arquivo V2:** `analises/fase-1-1-agregacao-municipal/dados-municipais-completos-deepseek-v3.json`
+
+**Conteúdo:**
+- Indicadores extraídos das fichas completas
+- Resumo executivo de cada município
+- SWOT completo (4 quadrantes)
+- Metadados (tamanho da análise)
 - Agrupados por microrregião
-- Pronto para processamento adicional (cálculos, rankings, etc.)
 
-### 3. Fichas Municipais (139 fichas)
+**Status:** 105/140 municípios processados (75%)
+- 49 municípios em "N/D" (mapeamento incompleto)
+- 35 fichas com erro (caracteres especiais)
 
-**Localização:** `parte-iii-fichas-municipais/fichas/`
-
-- Indicadores estruturados por município
-- 6 dimensões de dados
-- Fonte primária para validação
+**Arquivo V1 (obsoleto):** `dados-municipais-agregados.json`
 
 ---
 
