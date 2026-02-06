@@ -1,5 +1,439 @@
 {
+  "Miracema do Tocantins": [
+    {
+      "nome": "ABREULÂNDIA",
+      "codigo_ibge": null,
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ABREULANDIA-COMPLETA.md",
+      "populacao_2022": 2576,
+      "area_km2": 1906.0,
+      "pib_total_2021": "112.135.000",
+      "pib_per_capita_2021": "42.979,98",
+      "idhm_2010": "0.665",
+      "taxa_urbanizacao": "58.2%",
+      "resumo_executivo": "Abreulândia, município tocantinense com 2.576 habitantes, apresenta um **\"paradoxo de crescimento econômico concentrado com vulnerabilidades sociais e infraestruturais persistentes\"**. Seu PIB per capita (R$ 42,9 mil em 2021) supera a média estadual, posicionando-se em 82º no ranking, impulsionado por um agronegócio dinâmico baseado em soja, milho e pecuária bovina. Contudo, essa pujança econômica não se traduz integralmente em desenvolvimento humano integral: o IDHM (0,665 em 2010) é classifica...",
+      "swot": {
+        "forcas": [
+          "Soja (38.818 t em 2023), milho (24.615 t) e pecuária bovina (93.525 cabeças) formam a base econômica. O VAB da agropecuária cresceu 176% entre 2017-2021, atingindo R$ 74,7 milhões em 2021, representando 66,6% do VAB total.",
+          "R$ 42.979,98 (2021), valor significativo que indica potencial de arrecadação e consumo local, posicionando o município em 82º no estado.",
+          "Esperança de vida ao nascer saltou de 61,2 anos (1991) para 75,1 anos (2010). A mortalidade infantil caiu drasticamente de 58,3 (1991) para 13,7 (2010) por mil nascidos vivos.",
+          "O índice passou de muito baixo (0,215 em 1991) para médio (0,665 em 2010), com avanços notáveis nos componentes Longevidade (0,835 - Muito Alto) e Renda (0,700 - Alto).",
+          "134 estabelecimentos ativos em 2024, com destaque para comércio (62) e serviços (37). O número de MEIs cresceu de 102 (2019) para 128 (2023)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 538,
+      "tamanho_analise_caracteres": 39590
+    },
+    {
+      "nome": "ARAGUACEMA",
+      "codigo_ibge": "1701903",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ARAGUACEMA-COMPLETA.md",
+      "populacao_2022": 5927,
+      "area_km2": 2775.0,
+      "pib_total_2021": "240,2",
+      "pib_per_capita_2021": "33.261,20",
+      "idhm_2010": "0.639",
+      "taxa_urbanizacao": "47.6%",
+      "resumo_executivo": "Araguacema, município histórico às margens do rio Araguaia, apresenta um \"paradoxo de desenvolvimento baseado em recursos naturais com baixa transformação local\". Possui uma economia fortemente ancorada no agronegócio (soja, milho e pecuária), que gera expressivo PIB per capita (R$ 33,3 mil em 2021, acima da média de muitos municípios pequenos), mas convive com indicadores sociais ainda medianos (IDHM 0,639 em 2010\\) e significativa dependência de transferências governamentais. O município exper...",
+      "swot": {
+        "forcas": [
+          "Agronegócio Pujante e em Expansão: Soja e milho apresentam aumento expressivo de área colhida e produção entre 2019-2023 (soja: de 16.000 para 41.620 ha; milho: de 7.000 para 22.020 ha). Pecuária bovina estabilizada em torno de 63 mil cabeças. O VAB da agropecuária representou cerca de 62% do total em 2021\\.",
+          "Crescimento Econômico Recente: PIB mais que dobrou entre 2019 (R$ 143,6 mi) e 2021 (R$ 240,2 mi). PIB per capita cresceu de R$ 20,2 mil para R$ 33,3 mil no mesmo período.",
+          "Recursos Hídricos e Potencial Turístico: Localização às margens do rio Araguaia, um ativo estratégico para pesca, lazer e turismo, ainda subutilizado.",
+          "Acesso a Crédito Rural Significativo: Valor total de financiamentos concedidos a produtores e cooperativas saltou de R$ 38,5 milhões (2019) para R$ 152,1 milhões (2023), indicando capitalização do setor.",
+          "Infraestrutura de Telecomunicações em Desenvolvimento: Cobertura 4G para cerca de 58% da população (Claro) e 47% (Tim) em 2024\\. Número de acessos à banda larga fixa cresceu 65% entre 2019 e 2023\\."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 655,
+      "tamanho_analise_caracteres": 34588
+    },
+    {
+      "nome": "BARROLÂNDIA",
+      "codigo_ibge": "1703107",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-BARROLANDIA-COMPLETA.md",
+      "populacao_2022": 4846,
+      "area_km2": 698.361,
+      "pib_total_2021": "122,016",
+      "pib_per_capita_2021": "21.523",
+      "idhm_2010": "0.642",
+      "taxa_urbanizacao": "84.0%",
+      "resumo_executivo": "Barrolândia, município localizado a 105 km de Palmas, apresenta um cenário de \"crescimento econômico com esvaziamento populacional\". Entre 2010 e 2022, a população reduziu 9,5% (de 5.349 para 4.846 habitantes), enquanto o PIB cresceu 44% no mesmo período (2010-2021). A economia é fortemente baseada na agropecuária, com expansão significativa da soja e pecuária bovina, o que gerou aumento do PIB per capita para R$ 21.523 (2021). No entanto, indicadores sociais revelam desafios persistentes: IDHM ...",
+      "swot": {
+        "forcas": [
+          "Localização Estratégica e Conectividade: Situada às margens da rodovia Belém-Brasília (BR-153), com 105 km da capital Palmas. Possui cobertura móvel 4G para 87-88% da população.",
+          "Base Agropecuária Fortalecida: Expansão significativa da produção de soja (2.706 t em 2023, inexistente antes de 2022\\) e milho (2.250 t), com rebanho bovino de 79.618 cabeças (2023).",
+          "Infraestrutura de Saneamento Básico Avançada: 80,6% dos domicílios com rede geral de água (2022) e 99,8% com banheiro de uso exclusivo.",
+          "Crescimento do Setor de Serviços: Valor Adicionado Bruto dos Serviços cresceu 33% entre 2017-2021, representando 36% do VAB municipal.",
+          "Aumento do Crédito Rural: Financiamentos agropecuários totalizaram R$ 24,8 milhões em 2023, com crescimento de 76% desde 2019\\."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 833,
+      "tamanho_analise_caracteres": 38214
+    },
+    {
+      "nome": "BERNARDO SAYÃO",
+      "codigo_ibge": null,
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-BERNARDO SAYAO-COMPLETA.md",
+      "populacao_2022": 4229,
+      "area_km2": 924.0,
+      "pib_total_2021": "102.684",
+      "pib_per_capita_2021": "23.132,25",
+      "idhm_2010": "0.638",
+      "taxa_urbanizacao": "51.6%",
+      "resumo_executivo": "Bernardo Sayão apresenta um \"paradoxo econômico-demográfico\" marcante: enquanto a economia agropecuária registra crescimento expressivo, com PIB aumentando 32% entre 2017 e 2021, a população declina continuamente (-0,4% ao ano entre 2010-2022), resultando em densidade demográfica baixíssima (4,6 hab/km²). O município mantém alta dependência de transferências governamentais (FPM e FUNDEB representam 99% das transferências em 2023) e enfrenta desafios críticos em saneamento básico, com apenas 18% ...",
+      "swot": {
+        "forcas": [
+          "O setor agropecuário representa 41,7% do VAB em 2021, com crescimento de 66% no valor adicionado entre 2017-2021. A produção de soja saltou de 1.248 toneladas (2020) para 15.081 toneladas (2023).",
+          "A taxa caiu de 57,3 por mil (1991) para 22,2 por mil (2022), indicando melhoria nas condições de saúde básica.",
+          "Aumentou de 61,4 anos (1991) para 69,9 anos (2010), refletindo avanços nos indicadores de longevidade.",
+          "99,4% dos domicílios têm acesso a água por rede geral, poço ou nascente (2022).",
+          "Além da soja, destaca-se na produção de milho (7.660 t em 2023), pecuária bovina (99.589 cabeças) e aquicultura (tambaqui, pacu)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 541,
+      "tamanho_analise_caracteres": 28720
+    },
+    {
+      "nome": "BRASILÂNDIA DO TOCANTINS",
+      "codigo_ibge": "1703602",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-BRASILANDIA DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 1974,
+      "area_km2": 646.0,
+      "pib_total_2021": "75.634",
+      "pib_per_capita_2021": "34.054,21",
+      "idhm_2010": "0.684",
+      "taxa_urbanizacao": "64.9%",
+      "resumo_executivo": "O município de Brasilândia do Tocantins apresenta um diagnóstico de \"estagnação demográfica com crescimento econômico frágil\". Com uma população de apenas 1.974 habitantes (2022) em tendência de leve declínio (-0,4% ao ano entre 2010-2022), o município mantém uma economia essencialmente agropecuarista, responsável por 18,5% do VAB em 2021, com destaque para a bovinocultura (36.980 cabeças) e culturas de mandioca e milho. Apesar do expressivo crescimento do PIB (75,6 milhões em 2021\\) e do PIB pe...",
+      "swot": {
+        "forcas": [
+          "Agropecuária consolidada e diversificada: Expressivo rebanho bovino (36.980 cabeças em 2023\\) e produção significativa de mandioca (1.228 toneladas), milho (1.599 toneladas) e soja (1.811 toneladas). A pecuária representa uma base econômica estável e geradora de renda.",
+          "Crescimento econômico recente: PIB apresentou crescimento expressivo de 37,5% entre 2020 e 2021 (de R$ 54,9 mi para R$ 75,6 mi), e o PIB per capita saltou de R$ 24.860,70 para R$ 34.054,21 no mesmo período, indicando potencial de geração de riqueza.",
+          "Melhoria significativa dos indicadores humanos: O IDHM evoluiu de \"Muito Baixo\" (0,297 em 1991\\) para \"Médio\" (0,684 em 2010), com avanços notáveis nos componentes Longevidade (0,831 \\- Muito Alto) e Educação (0,601 \\- Médio).",
+          "Localização estratégica na BR-153: Histórica relação com a rodovia Belém-Brasília, fator de povoamento original, que pode favorecer o escoamento da produção e a logística.",
+          "Baixa pressão de queimadas: Número reduzido de focos de queimadas (12 em 2023, 0,12% do total do estado), indicando menor degradação ambiental comparada a outros municípios."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 590,
+      "tamanho_analise_caracteres": 41384
+    },
+    {
+      "nome": "CASEARA",
+      "codigo_ibge": "1705003",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-CASEARA-COMPLETA.md",
+      "populacao_2022": 4847,
+      "area_km2": 1680.17,
+      "pib_total_2021": "389.493.000",
+      "pib_per_capita_2021": "70.637",
+      "idhm_2010": "0.658",
+      "taxa_urbanizacao": "63.3%",
+      "resumo_executivo": "O município de Caseara, no Tocantins, apresenta um cenário marcado por um \"crescimento econômico concentrado e vulnerável\". Com um PIB que saltou de R$ 132,6 milhões (2017) para R$ 447,7 milhões (2020), refletindo um ciclo de alta nas commodities agrícolas, a renda não se traduziu em desenvolvimento humano e social proporcional. O IDHM (0,658 em 2010\\) é classificado como médio, mas com forte desigualdade: 82% das famílias estavam em condição de pobreza (até 1 salário mínimo) em 2010\\. A economi...",
+      "swot": {
+        "forcas": [
+          "Agronegócio Dinâmico e Produtivo: Base econômica sólida com forte produção de soja (181,7 mil t em 2023\\) e milho (147 mil t em 2023), gerando elevado valor adicionado.",
+          "Significativo Acesso ao Crédito Rural: Volume expressivo de financiamentos (R$ 164 milhões em 2023), indicando capital de giro e investimento no setor produtivo.",
+          "Localização Estratégica e Potencial Turístico: Situado às margens do Rio Araguaia, com potencial para pesca esportiva e ecoturismo, além de proximidade com a capital Palmas (256 km).",
+          "Crescimento do Empreendedorismo Formal: Aumento de 10,5% no número de empresas (2023-2024), com destaque para MEIs (196 em 2024), mostrando vitalidade econômica.",
+          "Melhoria Contínua em Conectividade: Expansão rápida do acesso à banda larga fixa (de 131 em 2019 para 2.781 em 2023\\) e boa cobertura de telefonia móvel 4G (\\~65% dos moradores)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 646,
+      "tamanho_analise_caracteres": 36458
+    },
+    {
+      "nome": "COUTO MAGALHÃES",
+      "codigo_ibge": "1706001",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-COUTO MAGALHAES-COMPLETA.md",
+      "populacao_2022": 5331,
+      "area_km2": 1584.0,
+      "pib_total_2021": "203.473",
+      "pib_per_capita_2021": "35.759,76",
+      "idhm_2010": "0.605",
+      "taxa_urbanizacao": "51.3%",
+      "resumo_executivo": "O município de Couto Magalhães apresenta um \"paradoxo entre crescimento econômico agropecuário e persistência de vulnerabilidades sociais estruturais\". Com população de 5.331 habitantes (2022) e PIB que saltou de R$ 95,8 mil em 2017 para R$ 203,5 mil em 2021 – posicionando-se em 50º no estado –, a economia é impulsionada pela agropecuária, especialmente soja, milho e pecuária bovina. No entanto, indicadores sociais revelam desafios profundos: 87% das famílias estavam em condição de pobreza em 20...",
+      "swot": {
+        "forcas": [
+          "Agropecuária Dinâmica e Expansiva: Valor Adicionado Bruto da agropecuária saltou de R$ 19,9 milhões (2017) para R$ 87,0 milhões (2021), representando 42,8% do VAB total em 2021\\. Produção de soja atingiu 46.893 toneladas em 2023, e o rebanho bovino cresceu 38% no período 2019-2023, chegando a 72.510 cabeças.",
+          "Acesso a Crédito Rural Significativo: Volume de financiamentos concedidos cresceu de R$ 16,7 milhões (2019) para R$ 90,7 milhões (2023), com predomínio para atividades agrícolas (85% do valor em 2023), indicando confiança do sistema financeiro e capacidade de investimento.",
+          "Infraestrutura Energética em Expansão: Consumo total de energia elétrica cresceu 30% entre 2019-2023, atingindo 6.141 MWh. Número de consumidores residenciais aumentou 29% no mesmo período, refletindo eletrificação e potencial consumo.",
+          "Frota de Veículos em Crescimento: Frota total aumentou 32% entre 2019-2023 (1.186 para 1.564 veículos), com destaque para motocicletas (48% da frota) e automóveis (23%), indicando mobilidade e atividade econômica.",
+          "Posição Geográfica Estratégica: Localizado na fronteira com o Pará e com limites com municípios como Araguacema, possui potencial logístico e de integração regional, além de estar em área de transição Cerrado-Amazônia."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 664,
+      "tamanho_analise_caracteres": 43317
+    },
+    {
+      "nome": "GUARAÍ",
+      "codigo_ibge": "1709302",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-GUARAI-COMPLETA.md",
+      "populacao_2022": 24775,
+      "area_km2": 2107.0,
+      "pib_total_2021": "880.403",
+      "pib_per_capita_2021": "29.950",
+      "idhm_2010": "0.741",
+      "taxa_urbanizacao": "91.7%",
+      "resumo_executivo": "Guaraí, município tocantinense com 24.775 habitantes (2022), apresenta um \"crescimento econômico recente ancorado no agronegócio, mas com desafios persistentes na distribuição de renda e na qualidade dos serviços públicos\". Localizado às margens da BR-153, seu desenvolvimento histórico está intrinsecamente ligado à logística. Entre 2017 e 2021, o PIB cresceu 46% (para R$ 880,4 milhões), impulsionado pela agropecuária e serviços. Contudo, apesar de um IDHM classificado como Alto (0,741 em 2010), ...",
+      "swot": {
+        "forcas": [
+          "Posição Logística Estratégica: Situado às margens da BR-153 (Belém-Brasília), o município possui localização privilegiada para escoamento da produção e conexão com grandes centros.",
+          "Dinamismo do Agronegócio: Forte expansão da produção de soja (36,5 mil ton em 2023), milho (13,5 mil ton) e pecuária bovina (154 mil cabeças), com crescimento expressivo do VAB agropecuário (de R$ 40,7 mi em 2017 para R$ 135,9 mi em 2021).",
+          "em ascensão. Saldo positivo consistente na balança comercial (exportações de US$ 198,8 mi em 2023).",
+          "Mercado de Trabalho em Expansão: Estoque de empregos formais aumentou 22% entre 2020-2023, com saldo positivo anual desde 2021\\. Aumento no número de empresas (2.411 em 2024).",
+          "Alta Taxa de Urbanização: 91,7% da população vive na área urbana, o que potencialmente reduz custos de provisão de serviços públicos e infraestrutura."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 781,
+      "tamanho_analise_caracteres": 41618
+    },
+    {
+      "nome": "JUARINA",
+      "codigo_ibge": "1711803",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-JUARINA-COMPLETA.md",
+      "populacao_2022": 2243,
+      "area_km2": 483.0,
+      "pib_total_2021": "44,395",
+      "pib_per_capita_2021": "71.373,60",
+      "idhm_2010": "0.584",
+      "taxa_urbanizacao": "54.0%",
+      "resumo_executivo": "Juarina, município tocantinense com 2.243 habitantes (2022), apresenta um \"paradoxo econômico-demográfico\": crescimento expressivo do PIB agropecuário, especialmente da soja, convive com indicadores sociais estagnados, alta dependência de transferências governamentais e uma população que praticamente não cresce há duas décadas. A economia, fortemente ancorada na pecuária bovina (35.150 cabeças) e na expansão da soja (4.323 toneladas em 2023), gerou um PIB per capita de R$ 71,4 mil (2021), superi...",
+      "swot": {
+        "forcas": [
+          "Economia Agropecuária Dinâmica e em Expansão: O VAB da agropecuária saltou de R$ 190,9 mil (2019) para R$ 507,6 mil (2021), com destaque para a soja (área colhida de 1.310 ha em 2023\\) e a pecuária bovina (rebanho de 35.150 cabeças). O setor atrai financiamento rural significativo (R$ 18,4 milhões em 2023).",
+          "Melhoria Contínua em Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 58,9 anos (1991) para 69,5 anos (2010). A mortalidade infantil caiu de 68,5 (1991) para 28,0 por mil (2010), refletindo avanços no acesso à saúde.",
+          "Infraestrutura de Saneamento Básico em Expansão: A cobertura de água por rede geral atingiu 359 domicílios (49% do total) em 2022, um aumento consistente. Quase todos os domicílios (99,7%) possuem banheiro de uso exclusivo.",
+          "Alfabetização Adulta em Nível Satisfatório: A taxa de alfabetização de pessoas com 15 anos ou mais é de 86,5% (2022), com equilíbrio entre homens (84,8%) e mulheres (88,4%).",
+          "Base Econômica Diversificada para um Pequeno Município: Além da agropecuária, há presença de comércio (68 empresas), serviços (35 empresas) e um estoque de 240 empregos formais, com destaque para a administração pública (189 vínculos)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 595,
+      "tamanho_analise_caracteres": 35357
+    },
+    {
+      "nome": "MIRACEMA DO TOCANTINS",
+      "codigo_ibge": "1713205",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-MIRACEMA DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 18566,
+      "area_km2": 2664.0,
+      "pib_total_2021": "642.003",
+      "pib_per_capita_2021": "28.804,15",
+      "idhm_2010": "0.684",
+      "taxa_urbanizacao": "82.8%",
+      "resumo_executivo": "Miracema do Tocantins, município histórico que sediou a primeira capital do estado, apresenta um \"paradoxo do crescimento econômico com estagnação social\". Enquanto o PIB per capita cresceu 70% entre 2017 e 2021 (atingindo R$ 28,8 mil), a população encolheu 10% na última década, configurando um êxodo populacional preocupante. A economia é marcada pela primarização agropecuarista (agropecuária responde por 54% do VAB em 2021), com significativa expansão da soja, mas com baixa geração de emprego f...",
+      "swot": {
+        "forcas": [
+          "Localização Estratégica Próxima à Capital: A apenas 78 km de Palmas, permite integração econômica e acesso a serviços estaduais.",
+          "Base Agropecuária Consolidada e em Expansão: Soja saltou de 30 mil para 50 mil toneladas (2019-2023); rebanho bovino cresceu 33% no período, atingindo 169.773 cabeças.",
+          "Infraestrutura de Conectividade Digital Razoável: Cobertura 4G para 88% da população (Claro/Tim) e 6 Estações Rádio Base instaladas.",
+          "Histórico de Capital Temporária do Estado: Traz reconhecimento simbólico e potencial turístico histórico-cultural subutilizado.",
+          "Recursos Hídricos e Potencial para Aquicultura: Produção de tambaqui saltou de 1.900 para 4.900 kg (2019-2023), indicando vocação natural."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 683,
+      "tamanho_analise_caracteres": 33659
+    },
+    {
+      "nome": "MIRANORTE",
+      "codigo_ibge": "1713304",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-MIRANORTE-COMPLETA.md",
+      "populacao_2022": 12701,
+      "area_km2": 1033.22,
+      "pib_total_2021": "390.325",
+      "pib_per_capita_2021": "36.212,17",
+      "idhm_2010": "0.662",
+      "taxa_urbanizacao": "89.7%",
+      "resumo_executivo": "O município de Miranorte apresenta um \"paradoxo de crescimento econômico com exclusão social\". Com um PIB per capita de R$ 36.212,17 (2021) \\- acima da média estadual \\- e uma economia fortemente baseada no agronegócio (52,5% do VAB), o município ostenta indicadores sociais medianos e preocupantes. Apesar da renda relativamente elevada, 80% das famílias estavam em situação de pobreza em 2010, a educação apresenta índices abaixo do desejável (IDEB de 4,2 no Ensino Médio) e a saúde enfrenta desafi...",
+      "swot": {
+        "forcas": [
+          "Agronegócio Pujante e Diversificado: A agropecuária responde por 52,5% do VAB (2021), com produção expressiva de soja (42.600 t), milho (34.560 t) e criação de bovinos (104.582 cabeças). O crédito rural atingiu R$ 194,5 milhões em 2023, indicando investimento no setor.",
+          "PIB per capita Elevado: Com R$ 36.212,17, supera a média estadual, indicando potencial de geração de riqueza.",
+          "Boa Conectividade Digital: Cobertura 4G atinge cerca de 89% dos moradores, com 10 estações rádio base, infraestrutura favorável à modernização.",
+          "Mercado de Trabalho Formal em Expansão: Saldo positivo de 166 empregos formais em 2023, com estoque de 1.279 vínculos. O setor de serviços é o maior empregador (429 postos).",
+          "Alta Esperança de Vida: Indicador de longevidade do IDHM atingiu 0,804 em 2010 (classificação \"Muito Alto\"), refletindo melhorias nas condições de saúde ao longo das décadas."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 697,
+      "tamanho_analise_caracteres": 37599
+    },
+    {
+      "nome": "PRESIDENTE KENNEDY",
+      "codigo_ibge": "1718403",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PRESIDENTE KENNEDY-COMPLETA.md",
+      "populacao_2022": 3047,
+      "area_km2": 772.0,
+      "pib_total_2021": "65.165",
+      "pib_per_capita_2021": "30.103,17",
+      "idhm_2010": "0.669",
+      "taxa_urbanizacao": "84.9%",
+      "resumo_executivo": "Presidente Kennedy apresenta um \"paradoxo de declínio populacional com urbanização crescente\". Entre 1991 e 2022, o município perdeu mais da metade de seus habitantes (queda de 53,1%), passando de 6.498 para 3.047 pessoas, ocupando a 104ª posição no estado. Contraditoriamente, a taxa de urbanização atingiu 84,9%, indicando um intenso êxodo rural e uma concentração urbana em meio a um cenário de retração demográfica geral. A economia mantém-se frágil, com PIB de R$ 65 milhões (115º no estado) e f...",
+      "swot": {
+        "forcas": [
+          "Localização Estratégica às Margens da BR-153: Situado na principal rodovia de ligação norte-sul (Belém-Brasília), facilita o escoamento de produção e o acesso a mercados regionais.",
+          "Base Produtiva Pecuária Consolidada: Efetivo de 51.614 bovinos (2023), representando a principal atividade econômica e gerando receita a partir do ITR e da produção de leite.",
+          "IDEB Satisfatório nos Anos Iniciais: Índice de 5,7 (2023) na rede municipal, acima da média nacional, indicando qualidade no ensino fundamental.",
+          "Alta Cobertura de Telefonia Móvel e Internet: 90,8% dos moradores cobertos por sinal 4G (Claro/Tim) e 1.399 acessos à telefonia móvel (2023), infraestrutura básica para conectividade.",
+          "Terra Majoritariamente Própria e com Áreas Preservadas: 100% dos estabelecimentos agropecuários em terras próprias (2017) e 13.708 ha de matas/ florestas destinadas à preservação, ativo ambiental importante."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 666,
+      "tamanho_analise_caracteres": 42313
+    },
+    {
+      "nome": "RIO DOS BOIS",
+      "codigo_ibge": null,
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-RIO DOS BOIS-COMPLETA.md",
+      "populacao_2022": 2738,
+      "area_km2": 847.0,
+      "pib_total_2021": "85.928",
+      "pib_per_capita_2021": "17.150,42",
+      "idhm_2010": "0.616",
+      "taxa_urbanizacao": "58.7%",
+      "resumo_executivo": "Rio dos Bois, município tocantinense com 2.738 habitantes (2022), apresenta um **\"crescimento econômico recente não acompanhado por avanços sociais estruturais\"**. Entre 2017 e 2021, o PIB municipal mais que dobrou (de R$ 44,3 mil para R$ 85,9 mil), impulsionado pela agropecuária, especialmente a soja e a pecuária bovina. No entanto, o IDHM (0,616 em 2010\\) ainda é classificado como médio, com o componente educação sendo o mais frágil. Apesar da elevação da renda, 85% das famílias estavam em con...",
+      "swot": {
+        "forcas": [
+          "Valor Adicionado Bruto da agropecuária cresceu 285% entre 2017 e 2021, atingindo R$ 44,8 mil. A produção de soja (19 mil ton em 2023\\) e milho (24,4 mil ton) são as principais culturas. O rebanho bovino cresceu 37% no período (20.091 cabeças em 2023).",
+          "Volume de financiamentos concedidos saltou de R$ 20,1 milhões (2019) para R$ 85,7 milhões (2023), indicando confiança do sistema financeiro e capacidade de investimento do produtor rural.",
+          "Em 2022, a cobertura para Pentavalente foi de 97,4% e para Poliomielite de 83,3%, demonstrando um sistema de atenção primária à saúde eficaz nesse aspecto.",
+          "Taxa de alfabetização na faixa 15-19 anos atingiu 98,7% em 2022, indicando uma base educacional mais sólida para as novas gerações.",
+          "O estoque de vínculos formais cresceu 33% entre 2020 e 2023 (de 267 para 355), com a Administração Pública sendo o principal empregador (362 vínculos em 2022)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 499,
+      "tamanho_analise_caracteres": 37435
+    },
+    {
+      "nome": "TUPIRAMA",
+      "codigo_ibge": "1721257",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-TUPIRAMA-COMPLETA.md",
+      "populacao_2022": 1909,
+      "area_km2": 707.0,
+      "pib_total_2021": "118,839",
+      "pib_per_capita_2021": "60.880,42",
+      "idhm_2010": "0.670",
+      "taxa_urbanizacao": "67.7%",
+      "resumo_executivo": "O município de Tupirama, localizado no estado do Tocantins, apresenta um cenário de “crescimento econômico recente com persistência de vulnerabilidades sociais e infraestruturais”. Com uma população de 1.909 habitantes (2022), o município experimentou um expressivo salto no PIB entre 2019 e 2021, puxado principalmente pelo setor agropecuário, que representa mais de 50% do Valor Adicionado Bruto. No entanto, esse dinamismo econômico não se traduziu plenamente em melhoria das condições de vida par...",
+      "swot": {
+        "forcas": [
+          "Crescimento Econômico Acelerado: O PIB municipal mais que dobrou entre 2019 (R$ 55,98 mi) e 2021 (R$ 118,84 mi), com PIB per capita atingindo R$ 60,9 mil, um dos mais altos do estado, impulsionado pelo setor agropecuário.",
+          "Base Agropecuária Consolidada e Produtiva: O município possui uma forte produção de grãos (soja, milho, sorgo) e um rebanho bovino em crescimento (24.981 cabeças em 2023). O Valor Adicionado da Agropecuária saltou de R$ 23,1 mi (2017) para R$ 62,6 mi (2021).",
+          "Posição Geográfica Estratégica: Localizado às margens do Rio Tocantins e com limites com municípios importantes como Pedro Afonso e Guaraí, possui potencial logístico.",
+          "Melhoria Sustentada em Indicadores de Longevidade e Educação: A esperança de vida ao nascer evoluiu de 59,2 anos (1991) para 73,5 anos (2010). A taxa de alfabetização de adultos subiu de 72,2% (2000) para 88% (2022).",
+          "Redução da Mortalidade Infantil: A taxa de mortalidade até 1 ano de idade caiu drasticamente de 66,9 por mil (1991) para 17,3 por mil (2010)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 578,
+      "tamanho_analise_caracteres": 34690
+    },
+    {
+      "nome": "TUPIRATINS",
+      "codigo_ibge": "1721307",
+      "microrregiao": "Miracema do Tocantins",
+      "arquivo_fonte": "FICHA-MUNICIPAL-TUPIRATINS-COMPLETA.md",
+      "populacao_2022": 1874,
+      "area_km2": 889.0,
+      "pib_total_2021": "38,619",
+      "pib_per_capita_2021": "13.866,63",
+      "idhm_2010": "0.587",
+      "taxa_urbanizacao": "58.5%",
+      "resumo_executivo": "O município de Tupiratins, localizado no estado do Tocantins, apresenta um \"paradoxo de crescimento econômico com estagnação populacional e desafios sociais persistentes\". Entre 2017 e 2021, o PIB cresceu 35,1%, saltando de R$ 28,6 milhões para R$ 38,6 milhões, impulsionado principalmente pelo setor agropecuário. No entanto, a população residente diminuiu de 2.097 habitantes (2010) para 1.874 (2022), uma queda de 10,6%, refletindo um processo de êxodo rural e envelhecimento populacional. O IDHM ...",
+      "swot": {
+        "forcas": [
+          "Base Agropecuária Sólida e em Expansão: O setor agropecuário cresceu 54,2% no VAB entre 2017 e 2021, atingindo R$ 8,5 milhões. A produção de soja aumentou de 651 toneladas (2019) para 4.881 toneladas (2023), e o rebanho bovino cresceu 29,8% no período 2019-2023, chegando a 19.234 cabeças.",
+          "Aumento do PIB per capita: O PIB per capita cresceu 24,9% entre 2017 e 2021, de R$ 11.104,04 para R$ 13.866,63, indicando maior geração de riqueza por habitante.",
+          "Melhoria na Alfabetização: A taxa de alfabetização da população de 15 anos ou mais subiu de 71,5% (2000) para 84,9% (2022), com destaque para a faixa de 15 a 19 anos (98,6% em 2022).",
+          "Crescimento do Emprego Formal: O estoque de empregos formais aumentou 32,4% entre 2020 e 2023, de 55 para 80 vínculos, com saldo positivo de 8 empregos em 2023\\.",
+          "Acesso a Programas de Transferência de Renda: 250 famílias foram atendidas pelo Bolsa Família em 2023, com valor médio de R$ 612,90, e 260 pessoas receberam Auxílio Emergencial em 2022, com valor médio de R$ 614,50."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 631,
+      "tamanho_analise_caracteres": 40609
+    }
+  ],
   "Bico do Papagaio": [
+    {
+      "nome": "AGUIARNÓPOLIS",
+      "codigo_ibge": null,
+      "microrregiao": "Bico do Papagaio",
+      "arquivo_fonte": "FICHA-MUNICIPAL-AGUIARNOPOLIS-COMPLETA.md",
+      "populacao_2022": 4497,
+      "area_km2": 237.0,
+      "pib_total_2021": "165.480",
+      "pib_per_capita_2021": "23.475,65",
+      "idhm_2010": "0.657",
+      "taxa_urbanizacao": "83.3%",
+      "resumo_executivo": "Aguiarnópolis apresenta um cenário de **\"desenvolvimento humano intermediário com vulnerabilidades socioeconômicas persistentes\"**. Com apenas 4.497 habitantes (2022), o município registra declínio populacional (-1,1% ao ano entre 2010-2022) e economia modesta (PIB de R$165,5 milhões em 2021). Apesar de avanços no IDHM (0,657 em 2010, classificação média), o componente educação permanece baixo (0,571), refletindo desafios estruturais. A economia é altamente dependente do setor de serviços (58,7%...",
+      "swot": {
+        "forcas": [
+          "Com densidade de apenas 19 hab/km², o município possui espaço para expansão urbana e rural sem conflitos fundiários significativos.",
+          "86,3% dos domicílios têm abastecimento de água por rede geral (2022) e 86,2% têm coleta direta de lixo.",
+          "O número de MEIs aumentou 61,9% entre 2019-2023 (97 para 157), indicando dinamismo no setor de serviços.",
+          "Efetivo de bovinos cresceu 85,3% entre 2019-2023 (10.100 para 18.715 cabeças), constituindo base produtiva relevante.",
+          "Receitas de transferências constitucionais cresceram 70,3% entre 2019-2023, com FPM representando 58,1% do total em 2023."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 554,
+      "tamanho_analise_caracteres": 33371
+    },
     {
       "nome": "ANANÁS",
       "codigo_ibge": "1701002",
@@ -80,6 +514,33 @@
       },
       "tamanho_analise_linhas": 639,
       "tamanho_analise_caracteres": 34234
+    },
+    {
+      "nome": "AUGUSTINÓPOLIS",
+      "codigo_ibge": null,
+      "microrregiao": "Bico do Papagaio",
+      "arquivo_fonte": "FICHA-MUNICIPAL-AUGUSTINOPOLIS-COMPLETA.md",
+      "populacao_2022": 17484,
+      "area_km2": 389.0,
+      "pib_total_2021": "305,1",
+      "pib_per_capita_2021": "16.169,50",
+      "idhm_2010": "0.670",
+      "taxa_urbanizacao": "86.4%",
+      "resumo_executivo": "Augustinópolis, localizada no extremo norte do Tocantins (Bico do Papagaio), apresenta um **\"crescimento socioeconômico moderado com infraestrutura social em descompasso\"**. A população cresceu 69% entre 1991 e 2022, atingindo 17.484 habitantes, com PIB per capita de R$ 16,1 mil (2021). O IDHM evoluiu de muito baixo (0,297) para médio (0,670) em duas décadas, impulsionado pela longevidade. No entanto, persistem desafios críticos: 86% dos domicílios têm esgoto por \"outros meios\" (fossas rudimenta...",
+      "swot": {
+        "forcas": [
+          "A população cresceu a uma taxa média de 1,4% a.a. nas últimas três décadas, indicando atratividade e vitalidade demográfica, com estabilização da razão de dependência em 58,2%.",
+          "Salto de 0,297 (1991) para 0,670 (2010), com destaque para o componente Longevidade (0,793 - Alto), refletindo melhorias no acesso à saúde e condições de vida.",
+          "PIB cresceu 29% entre 2017-2021, com aumento real do Valor Adicionado em todos os setores, especialmente na Agropecuária (+131% no período).",
+          "Saldo positivo de empregos formais desde 2021, com estoque de vínculos ativos alcançando 1.522 em 2023, após queda em 2020.",
+          "Praticamente 100% dos domicílios com energia elétrica e cobertura móvel 4G superior a 85% da população."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 574,
+      "tamanho_analise_caracteres": 37554
     },
     {
       "nome": "AXIXÁ DO TOCANTINS",
@@ -217,6 +678,59 @@
       "tamanho_analise_caracteres": 41513
     },
     {
+      "nome": "ESPERANTINA",
+      "codigo_ibge": null,
+      "microrregiao": "Bico do Papagaio",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ESPERANTINA-COMPLETA.md",
+      "populacao_2022": 7530,
+      "area_km2": 506.0,
+      "pib_total_2021": "118.724",
+      "pib_per_capita_2021": "10.525,18",
+      "idhm_2010": "0.570",
+      "taxa_urbanizacao": "77.3%",
+      "resumo_executivo": "Esperantina apresenta um **\"paradoxo de crescimento econômico com fragilidade social e declínio populacional\"**. Entre 2010 e 2022, sua população reduziu-se em 20,6% (de 9.476 para 7.530 habitantes), contrastando com o crescimento do PIB (40,1% entre 2017-2021) e da agropecuária. A economia é majoritariamente terciária (serviços e administração pública), com elevada dependência de transferências constitucionais (FPM e FUNDEB respondem por 99% do total). Apesar de avanços no IDHM (0,189 em 1991 p...",
+      "swot": {
+        "forcas": [
+          "Município inserido no bioma Amazônia, com potencial para atividades sustentáveis de extrativismo, turismo ecológico e produção florestal.",
+          "Valor adicionado bruto da agropecuária cresceu 98% entre 2017-2021 (para R$ 18,028 mil). Destaque para a produção de mandioca, bovinocultura (rebanho de 27.978 cabeças em 2023\\) e piscicultura emergente (tambaqui e tambacu).",
+          "Setor de serviços responde por 66,6% do VAB (2021) e apresenta crescimento consistente, impulsionado pelo comércio local e administração pública.",
+          "Total de estabelecimentos saltou de 299 (2023) para 330 (2024), com destaque para comércio (215) e serviços (79), indicando dinamismo econômico local.",
+          "Taxa de alfabetização (15+ anos) cresceu de 64,2% (2000) para 78,2% (2022), com destaque para jovens de 20-29 anos (95,7%)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 502,
+      "tamanho_analise_caracteres": 32232
+    },
+    {
+      "nome": "ITAGUATINS",
+      "codigo_ibge": null,
+      "microrregiao": "Bico do Papagaio",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ITAGUATINS-COMPLETA.md",
+      "populacao_2022": 5172,
+      "area_km2": 730.0,
+      "pib_total_2021": "82,611",
+      "pib_per_capita_2021": "44.971,71",
+      "idhm_2010": "0.616",
+      "taxa_urbanizacao": "56.0%",
+      "resumo_executivo": "O município de Itaguatins apresenta um **\"paradoxo de crescimento econômico com estagnação demográfica e social\"**. Entre 2017 e 2021, seu PIB total mais que dobrou (de R$ 59,4 milhões para R$ 82,6 milhões), impulsionado pela expansão da agropecuária, que saltou de 53% para 87% do Valor Adicionado Bruto (VAB). Contraditoriamente, a população segue em trajetória de declínio acentuado (-1,3% ao ano entre 2010-2022), caindo de 11.080 habitantes (1991) para 5.172 (2022). Apesar de avanços no IDHM (d...",
+      "swot": {
+        "forcas": [
+          "Setor respondeu por 87% do VAB em 2021 (R$ 117,5 milhões), com crescimento de 275% no valor adicionado entre 2017-2021. Rebanho bovino expressivo (61.536 cabeças em 2023\\) e produção consolidada de mandioca (813 ton), milho (135 ton) e aquicultura (Tambacu/Tambaqui: 247,9 ton).",
+          "em 2010, impulsionado pelo componente Longevidade (0,799 \\- Muito Alto).",
+          "Taxa de alfabetização (15+ anos) subiu de 70,8% (2000) para 82,4% (2022), com destaque para jovens de 20-29 anos (96,8% alfabetizados).",
+          "Volume significativo de financiamentos, atingindo R$ 18,2 milhões em 2023, demonstrando confiança do sistema financeiro no setor produtivo."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 503,
+      "tamanho_analise_caracteres": 38294
+    },
+    {
       "nome": "LUZINÓPOLIS",
       "codigo_ibge": "1712454",
       "microrregiao": "Bico do Papagaio",
@@ -269,6 +783,33 @@
       },
       "tamanho_analise_linhas": 604,
       "tamanho_analise_caracteres": 39406
+    },
+    {
+      "nome": "PRAIA NORTE",
+      "codigo_ibge": null,
+      "microrregiao": "Bico do Papagaio",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PRAIA NORTE-COMPLETA.md",
+      "populacao_2022": 9044,
+      "area_km2": 301.0,
+      "pib_total_2021": "93,139",
+      "pib_per_capita_2021": "17.765,89",
+      "idhm_2010": "0.583",
+      "taxa_urbanizacao": "60.2%",
+      "resumo_executivo": "Praia Norte, município de 9.044 habitantes no extremo norte do Tocantins, apresenta um perfil de **\"crescimento demográfico com bases econômicas e sociais frágeis\"**. Entre 1991 e 2022, sua população cresceu 49,1%, com aumento da urbanização (60,2%), porém mantém uma economia pouco diversificada, fortemente dependente de transferências constitucionais (R$ 25,7 milhões em 2023\\) e do setor agropecuário tradicional. O IDHM evoluiu de \"muito baixo\" (0,252 em 1991\\) para \"baixo\" (0,583 em 2010), mas...",
+      "swot": {
+        "forcas": [
+          "População aumentou de 6.068 (1991) para 9.044 (2022), com taxa média geométrica positiva (1,4% entre 2010-2022), indicando atratividade relativa.",
+          "Limita-se com o Maranhão, posicionando-se como potencial ponto de integração regional. Possui 3 Estações Rádio Base, cobertura 4G superior a 75% dos moradores e acesso a serviços bancários básicos.",
+          "Produção de tambaqui saltou de 4.000 kg (2019) para 28.400 kg (2023), e de tambacu/tambatinga de 3.000 kg para 11.000 kg no mesmo período, indicando um setor dinâmico.",
+          "Produção significativa de mandioca (405 toneladas em 2023), milho (70 ton), feijão (17 ton), arroz (64 ton) e melancia (160 ton), demonstrando resiliência produtiva.",
+          "Localizado às margens do Rio Tocantins, com solo predominante de Latossolos (aptos para agricultura) e relevo plano a suavemente ondulado, favorável à mecanização."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 499,
+      "tamanho_analise_caracteres": 35583
     },
     {
       "nome": "RIACHINHO",
@@ -433,6 +974,33 @@
       "tamanho_analise_caracteres": 28075
     },
     {
+      "nome": "SÍTIO NOVO DO TOCANTINS",
+      "codigo_ibge": null,
+      "microrregiao": "Bico do Papagaio",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SITIO NOVO DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 10830,
+      "area_km2": 307.0,
+      "pib_total_2021": "132.862",
+      "pib_per_capita_2021": "265.258,58",
+      "idhm_2010": "0.604",
+      "taxa_urbanizacao": "51.4%",
+      "resumo_executivo": "O município de Sítio Novo do Tocantins apresenta um cenário de **\"crescimento econômico recente com persistente dependência de transferências públicas e desafios sociais estruturais\"**. Com uma população de 10.830 habitantes (2022), o município experimentou um significativo salto no PIB em 2021, impulsionado pelo setor agropecuário. No entanto, esse crescimento não se traduziu de forma proporcional em autonomia financeira, com as transferências constitucionais representando uma parcela vital do ...",
+      "swot": {
+        "forcas": [
+          "O Valor Adicionado Bruto (VAB) da agropecuária saltou de R$ 37 mil em 2019 para R$ 494,5 mil em 2021, tornando-se o motor da economia local. O efetivo bovino supera 50 mil cabeças (2023).",
+          "A população cresceu 18,4% entre 2000 e 2022, sinalizando atratividade relativa e base para expansão do mercado interno.",
+          "Número de empresas ativas cresceu de 337 (2023) para 366 (2024), com destaque para o comércio (196) e serviços (121). Microempreendedores Individuais (MEI) passaram de 0 em 2019 para 303 em 2023\\.",
+          "A produção de peixes (tambaqui, tambacu, pintado) é expressiva e crescente, atingindo quase 1 milhão de kg em 2023, configurando uma vocação econômica promissora.",
+          "Aumento no número de profissionais de saúde (de 37 em 2019 para 54 em 2023\\) e presença de 20 leitos SUS."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 521,
+      "tamanho_analise_caracteres": 39553
+    },
+    {
       "nome": "TOCANTINÓPOLIS",
       "codigo_ibge": "1721109",
       "microrregiao": "Bico do Papagaio",
@@ -460,6 +1028,330 @@
       "tamanho_analise_caracteres": 30265
     }
   ],
+  "Gurupi": [
+    {
+      "nome": "ALIANÇA DO TOCANTINS",
+      "codigo_ibge": null,
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ALIANCA-DO-TOCANTINS-COMPLETA.md",
+      "populacao_2022": 5147,
+      "area_km2": 1581.0,
+      "pib_total_2021": "616,571",
+      "pib_per_capita_2021": "116.268,40",
+      "idhm_2010": "0.663",
+      "taxa_urbanizacao": "84.5%",
+      "resumo_executivo": "Aliança do Tocantins apresenta um \"paradoxo econômico-demográfico\" marcante: enquanto a população diminui consistentemente há três décadas (-25,2% desde 1991), a economia registra crescimento expressivo, especialmente na agropecuária. O município consolidou-se como potência agrícola regional, com PIB que saltou de R$ 116 milhões em 2017 para R$ 616 milhões em 2021, posicionando-o no 15º lugar no estado. Contudo, este crescimento econômico não se reflete em desenvolvimento humano equitativo: o ID...",
+      "swot": {
+        "forcas": [
+          "Soja é o carro-chefe com 34.741 toneladas produzidas em 2023, crescimento de 81,7% desde 2019. A agropecuária representa 76,6% do VAB municipal em 2021.",
+          "Localizado à margem da BR-153 (Belém-Brasília), facilitando escoamento da produção e conectividade regional.",
+          "97,9% das terras agrícolas são próprias (2017), com estabilidade jurídica para investimentos.",
+          "Saldo positivo de 50 empregos formais em 2023, com crescimento de 12,5% no estoque.",
+          "Potencial para aquicultura (50 toneladas de tambacu/tambatinga em 2023) e pecuária (100.605 bovinos)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 580,
+      "tamanho_analise_caracteres": 31502
+    },
+    {
+      "nome": "ALVORADA",
+      "codigo_ibge": null,
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ALVORADA-COMPLETA.md",
+      "populacao_2022": 8802,
+      "area_km2": 1207.0,
+      "pib_total_2021": "474.111",
+      "pib_per_capita_2021": "56.569,78",
+      "idhm_2010": "0.708",
+      "taxa_urbanizacao": "95.3%",
+      "resumo_executivo": "Alvorada, município do Tocantins fundado em 1963, apresenta um perfil marcado pelo **\"crescimento econômico agroexportador com vulnerabilidades sociais persistentes\"**. Com uma população de 8.802 habitantes (2022) e alta taxa de urbanização (95,3%), o município experimentou forte expansão de seu PIB (R$ 474,1 milhões em 2021), posicionando-se como o 19º maior PIB do estado, impulsionado pela agropecuária tecnificada, especialmente soja, milho e sorgo. No entanto, apesar do PIB per capita elevado...",
+      "swot": {
+        "forcas": [
+          "Situado à margem da BR-153 (Belém-Brasília), com distância de 319 km da capital Palmas, proporcionando logística favorável para escoamento da produção agrícola. Presença de cobertura de telefonia móvel 4G para mais de 90% da população.",
+          "Forte especialização em grãos, com produção de soja (116.528 toneladas em 2023), milho (33.264 toneladas) e sorgo (21.600 toneladas). Exportações cresceram 1.270% de 2019 a 2023 (US$ 10,9 mi para US$ 148,8 mi), com balança comercial superavitária.",
+          "102.164 hectares de área total dos estabelecimentos agropecuários (2017), com predomínio de grandes propriedades (45 estabelecimentos acima de 500 ha controlam 76% da área). Alta taxa de propriedade privada (88,8% da área).",
+          "Crescimento de 64,5% no estoque de empregos formais entre 2020-2023 (1.141 para 1.878 vínculos). Saldo positivo de empregos anuais desde 2020, com maior absorção nos setores de Serviços (386 postos) e Comércio (350 postos).",
+          "Presença de 1 agência bancária, 4 postos de atendimento, 1 casa lotérica e 1 agência dos correios. Crescimento de 3,8% no número de empresas (977 para 1.014 de 2023 a 2024), com predomínio do comércio (445 estabelecimentos)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 541,
+      "tamanho_analise_caracteres": 39333
+    },
+    {
+      "nome": "BREJINHO DE NAZARÉ",
+      "codigo_ibge": "1703701",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-BREJINHO DE NAZARE-COMPLETA.md",
+      "populacao_2022": 4725,
+      "area_km2": 1723.0,
+      "pib_total_2021": "272,945",
+      "pib_per_capita_2021": "49.268",
+      "idhm_2010": "0.686",
+      "taxa_urbanizacao": "79.4%",
+      "resumo_executivo": "Brejinho de Nazaré, município tocantinense localizado a 92 km da capital Palmas, apresenta um \"paradoxo da riqueza agrícola com estagnação socioeconômica\". Com economia fortemente ancorada no agronegócio (soja, milho e pecuária), o município registrou PIB per capita de R$ 49.268 em 2021, acima da média estadual. Contudo, convive com declínio populacional (-0,8% ao ano entre 2010-2022), dependência significativa de transferências governamentais (64% da receita em 2023\\) e indicadores sociais que,...",
+      "swot": {
+        "forcas": [
+          "Base econômica agropecuária sólida: Produção de soja (79.020 toneladas em 2023\\) e milho (20.096 toneladas) com expansão contínua da área plantada. Rebanho bovino de 58.484 cabeças (2023) representa ativo significativo.",
+          "Localização estratégica: Próximo a Porto Nacional (município-mãe) e a 92 km de Palmas, facilitando escoamento e acesso a serviços.",
+          "Elevado PIB per capita: R$ 49.268 (2021), 52% acima da média estadual, indicando potencial de geração de riqueza.",
+          "Boa evolução do IDHM: Salto de 0,346 (1991) para 0,686 (2010), com avanços significativos em longevidade (0,820 \\- muito alto).",
+          "Infraestrutura de conectividade móvel adequada: Cobertura 4G para 82,6% dos moradores (Claro) e 82,6% (Tim), acima da média para municípios rurais."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 666,
+      "tamanho_analise_caracteres": 30230
+    },
+    {
+      "nome": "CARIRI DO TOCANTINS",
+      "codigo_ibge": "1703867",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-CARIRI DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 4007,
+      "area_km2": 1126.0,
+      "pib_total_2021": "517.715",
+      "pib_per_capita_2021": "115.073,33",
+      "idhm_2010": "0.662",
+      "taxa_urbanizacao": "62.2%",
+      "resumo_executivo": "Cariri do Tocantins, município com cerca de 4.000 habitantes, apresenta um \"crescimento agroexportador com vulnerabilidades sociais e infraestruturais\". Sua economia é fortemente ancorada na produção de soja e pecuária bovina, com PIB per capita (R$ 115 mil em 2021\\) significativamente acima da média estadual, impulsionado por exportações que ultrapassaram US$ 90 milhões em 2023\\. Contudo, este dinamismo econômico convive com desafios estruturais: IDHM (0,662) ainda na faixa média, 77% das famíl...",
+      "swot": {
+        "forcas": [
+          "Economia Agroexportadora Dinâmica: Exportações recordes de US$ 90,8 milhões em 2023, com balança comercial superavitária. Produção de soja (88.532 toneladas em 2023\\) e pecuária bovina (86.274 cabeças) são os principais motores econômicos.",
+          "Localização Estratégica e Logística: Situado às margens da BR-153, principal corredor de escoamento do Centro-Oeste, facilitando o transporte de grãos e insumos.",
+          "Crescimento Sustentado do PIB: Evolução consistente do PIB, de R$ 345 milhões (2017) para R$ 518 milhões (2021), com aumento de 50% em 5 anos.",
+          "Mercado de Trabalho Formal em Expansão: Saldo positivo de empregos formais entre 2020-2023, com estoque crescendo 43% (de 740 para 1.061 vínculos ativos).",
+          "Disponibilidade de Crédito Rural: Financiamentos cresceram de R$ 56,8 milhões (2019) para R$ 162,3 milhões (2023), indicando investimento no setor produtivo."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 579,
+      "tamanho_analise_caracteres": 35914
+    },
+    {
+      "nome": "FIGUEIRÓPOLIS",
+      "codigo_ibge": null,
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-FIGUEIROPOLIS-COMPLETA.md",
+      "populacao_2022": 5211,
+      "area_km2": 1936.0,
+      "pib_total_2021": "256,7",
+      "pib_per_capita_2021": "49.167,40",
+      "idhm_2010": "0.689",
+      "taxa_urbanizacao": "79.5%",
+      "resumo_executivo": "Figueirópolis apresenta um **\"paradoxo de crescimento econômico com estagnação demográfica\"**. Enquanto o PIB municipal cresceu 63,4% entre 2017 e 2021 (atingindo R$ 256,7 milhões) e as exportações ultrapassaram US$ 109 milhões em 2023, a população declina continuamente desde 1991 (-29,2% em 31 anos), com densidade demográfica de apenas 2,7 hab/km². O município possui economia fortemente agroexportadora (soja representa 95,8% das exportações em 2023\\) e elevado PIB per capita (R$ 49.167 em 2021)...",
+      "swot": {
+        "forcas": [
+          "Exportações crescentes de US$ 34,4 milhões (2019) para US$ 109,6 milhões (2023), com saldo comercial sempre positivo. Soja representa 95,8% do valor exportado em 2023\\.",
+          "Produção de soja aumentou 47,0% entre 2019-2023 (de 65.182 para 95.768 toneladas), com produtividade média de 3.725 kg/ha (2023).",
+          "R$ 49.167,40 (2021), posicionando o município como um dos mais ricos do Tocantins em termos per capita.",
+          "91,6% das terras dos estabelecimentos agropecuários são próprias (2017), com predomínio de grandes propriedades (48,2% da área em estabelecimentos acima de 1.000 ha).",
+          "81,9-83,0% dos moradores cobertos por tecnologia 4G pelas três operadoras (2024), infraestrutura digital adequada."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 477,
+      "tamanho_analise_caracteres": 33187
+    },
+    {
+      "nome": "GURUPI",
+      "codigo_ibge": null,
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-GURUPI-COMPLETA.md",
+      "populacao_2022": 85125,
+      "area_km2": 1844.0,
+      "pib_total_2021": "2.648.420.000",
+      "pib_per_capita_2021": "22.879",
+      "idhm_2010": "0.759",
+      "taxa_urbanizacao": "97.7%",
+      "resumo_executivo": "O município de Gurupi apresenta um perfil de \"**crescimento econômico com desigualdade social e vulnerabilidades ambientais**\". Com a terceira maior população do estado (85.125 hab), uma economia dinâmica e diversificada (PIB de R$ 2,6 bilhões, 4ª posição estadual) e um IDHM em ascensão (0,759 \\- alto), o município se destaca como polo regional no sul do Tocantins. Entretanto, esse desenvolvimento convive com desafios estruturais significativos: alta dependência de transferências governamentais,...",
+      "swot": {
+        "forcas": [
+          "4º maior PIB do estado (R$ 2,6 bilhões). Setor de serviços responde por 77% do VAB, seguido pela agropecuária (19%). Forte crescimento do agronegócio (soja, milho e pecuária).",
+          "Taxa de urbanização de 97,7%. Boa infraestrutura de telecomunicações com cobertura 4G superior a 97% da população para as principais operadoras.",
+          "Presença de uma instituição de ensino superior com 25 cursos presenciais e 17 polos EaD. Maior número de leitos hospitalares (248) e de estabelecimentos de saúde (226) da região, atraindo pacientes de municípios vizinhos.",
+          "Localizado às margens da BR-153 (Belém-Brasília), distante 230 km da capital. Conta com 9 agências bancárias, 5 casas lotéricas e 3 agências dos correios, sendo um centro de serviços para a região.",
+          "Estoque de empregos formais cresceu 39% entre 2020 e 2023, chegando a 16.495 vínculos. Saldo positivo de 834 novos empregos em 2023\\."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 512,
+      "tamanho_analise_caracteres": 39502
+    },
+    {
+      "nome": "JAU DO TOCANTINS",
+      "codigo_ibge": "1711506",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-JAU DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 3334,
+      "area_km2": 2167.0,
+      "pib_total_2021": "97.865.000",
+      "pib_per_capita_2021": "20.420,86",
+      "idhm_2010": "0.662",
+      "taxa_urbanizacao": "40.3%",
+      "resumo_executivo": "O município de Jaú do Tocantins apresenta um \"crescimento econômico com estagnação demográfica e desigualdades sociais persistentes\". Com população de apenas 3.334 habitantes (2022) e densidade de 1,5 hab/km², caracteriza-se como um município essencialmente rural (59,7% da população), mas com indicadores econômicos em ascensão, especialmente no agronegócio. O PIB per capita de R$ 20.420,86 (2021) supera a média estadual, porém contrasta com um IDHM de 0,662 (2010) ainda classificado como médio e...",
+      "swot": {
+        "forcas": [
+          "Base Agropecuária Forte e Diversificada: Efetivo bovino de 124.937 cabeças (2023) em expansão, produção de soja (7.798 toneladas em 2023), milho, mandioca e aquicultura. A agropecuária representa 60,4% do VAB municipal (2021).",
+          "Crescimento Econômico Sustentado: PIB cresceu 68% entre 2017-2021 (de R$ 58,4 milhões para R$ 97,9 milhões), com PIB per capita aumentando 27,7% no período.",
+          "Baixa Pressão Ambiental por Queimadas: Apenas 8 focos em 2023 (0,08% do total estadual), indicando relativa preservação do bioma Cerrado.",
+          "Disponibilidade de Crédito Rural: Financiamentos totais de R$ 102,2 milhões em 2023, com crescimento de 291% desde 2019, demonstrando confiança do sistema financeiro no setor.",
+          "Estrutura Fundiária Consolidada: 99,9% das terras são próprias (Censo Agro 2017), com estabilidade jurídica para investimentos."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 709,
+      "tamanho_analise_caracteres": 32854
+    },
+    {
+      "nome": "PALMEIRÓPOLIS",
+      "codigo_ibge": "1715705",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PALMEIROPOLIS-COMPLETA.md",
+      "populacao_2022": 6975,
+      "area_km2": 1709.0,
+      "pib_total_2021": "170,1",
+      "pib_per_capita_2021": "28.820,73",
+      "idhm_2010": "0.673",
+      "taxa_urbanizacao": "84.0%",
+      "resumo_executivo": "Palmeirópolis apresenta um \"paradoxo de crescimento econômico com declínio populacional persistente\". Entre 1991 e 2022, a população caiu 41,5% (de 11.915 para 6.975 habitantes), enquanto o PIB cresceu 49,2% entre 2017 e 2021 (para R$170,1 milhões). O município tem economia fortemente baseada no agronegócio (soja em expansão) e alta dependência de transferências constitucionais (78,6% da receita em 2023). Apesar de melhorias no IDHM (0,673 em 2010 \\- médio) e indicadores sociais, enfrenta desafi...",
+      "swot": {
+        "forcas": [
+          "Base Agrícola Forte e em Expansão: Soja cresceu 228,8% na produção entre 2019-2023 (de 5.656 para 18.591 toneladas), com área expandindo de 2.020 para 4.767 hectares. O município tem vocação consolidada para grãos.",
+          "Pecuária Bovina Expressiva: Rebanho de 87.918 cabeças (2023), com crescimento de 40,5% desde 2019, representando ativo econômico significativo.",
+          "Melhoria Contínua do IDHM: Evoluiu de 0,412 (muito baixo) em 1991 para 0,673 (médio) em 2010, com componente longevidade atingindo 0,817 (muito alto).",
+          "Saneamento Básico em Melhoria: 84,0% dos domicílios com água por rede geral (2022), contra 38,6% em 1991\\. Coleta de lixo atinge 84,0% dos domicílios.",
+          "Educação com Indicadores Positivos: IDEB dos anos iniciais (6,2 em 2023\\) acima da média nacional; taxa de alfabetização de 88,4% (2022)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 945,
+      "tamanho_analise_caracteres": 37858
+    },
+    {
+      "nome": "PEIXE",
+      "codigo_ibge": null,
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PEIXE-COMPLETA.md",
+      "populacao_2022": 9317,
+      "area_km2": 5304.0,
+      "idhm_2010": "0.674",
+      "taxa_urbanizacao": "48.9%",
+      "resumo_executivo": "O município de Peixe apresenta um “paradoxo da riqueza agrícola com exclusão social”. Com uma economia fortemente ancorada no agronegócio – destacando-se como produtor expressivo de soja, milho e bovinos –, o município gera um Valor Adicionado Bruto crescente, especialmente no setor agropecuário. No entanto, esse dinamismo econômico não se traduz de forma equitativa em bem-estar social. Indicadores como o IDHM (0,674 em 2010, classificação médio) revelam um componente educacional ainda baixo (0,...",
+      "swot": {
+        "forcas": [
+          "Base Econômica Agropecuária Sólida e em Expansão: O Valor Adicionado Bruto (VAB) da agropecuária saltou de R$ 23,5 milhões (2017) para R$ 41,3 milhões (2021). A produção de soja atingiu 184.965 toneladas em 2023 e o rebanho bovino superou 287 mil cabeças, configurando uma base produtiva robusta.",
+          "Expressivo Acesso ao Crédito Rural: O volume de financiamentos concedidos à agricultura e pecuária cresceu consistentemente, atingindo R$ 413,7 milhões em 2023\\. Isso indica confiança do sistema financeiro e capacidade de investimento dos produtores.",
+          "Estrutura Fundiária com Predomínio de Grandes Propriedades: Em 2017, 74,8% da área total dos estabelecimentos (263.176 ha) estava em propriedades com mais de 1.000 hectares, o que pode facilitar a adoção de tecnologias e ganhos de escala.",
+          "Melhoria Contínua em Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 62,9 anos (1991) para 73,7 anos (2010), e a mortalidade infantil caiu drasticamente de 51,4 (1991) para 16,8 (2010) por mil nascidos vivos.",
+          "Crescimento do Empreendedorismo Individual: O número de Microempreendedores Individuais (MEI) mais que dobrou entre 2019 (296) e 2023 (648), sinalizando dinamismo no setor de serviços e comércio local."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 614,
+      "tamanho_analise_caracteres": 39125
+    },
+    {
+      "nome": "SANTA RITA DO TOCANTINS",
+      "codigo_ibge": "1718899",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SANTA RITA DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 2219,
+      "area_km2": 3281.0,
+      "pib_total_2021": "180.273",
+      "pib_per_capita_2021": "63.257,61",
+      "idhm_2010": "0.651",
+      "taxa_urbanizacao": "45.2%",
+      "resumo_executivo": "Santa Rita do Tocantins apresenta o \"paradoxo da prosperidade agropecuária com estagnação socioestrutural\". Com população de apenas 2.219 habitantes (2022), o município possui um PIB per capita elevado (R$ 63.257,61 em 2021 \\- 57º no estado) impulsionado por uma agropecuária tecnificada e expansiva, mas convive com baixos indicadores de desenvolvimento humano (IDHM 0,651 em 2010 \\- classificação \"médio\"), infraestrutura sanitária precária (apenas 34,5% dos domicílios com água da rede geral em 20...",
+      "swot": {
+        "forcas": [
+          "Agronegócio tecnificado e expansivo: VAB da agropecuária cresceu 158% entre 2017-2021 (R$ 68.447 mil para R$ 177.193 mil), com produtividade elevada (soja: 3,25 t/ha em 2023).",
+          "PIB per capita elevado: R$ 63.257,61 (2021), 41,5% acima da média do Tocantins, indicando capacidade econômica per capita significativa.",
+          "Disponibilidade de crédito rural: Financiamentos agrícolas aumentaram 284% em valor entre 2019-2023 (R$ 63,7 milhões para R$ 244,4 milhões), demonstrando acesso ao crédito.",
+          "Boa conectividade móvel: Cobertura 4G atinge 46,8% dos moradores (Claro/Tim), acima da média para municípios rurais.",
+          "Recursos naturais preservados: 49.397 ha de matas/florestas destinadas à preservação (20,7% da área dos estabelecimentos), potencial para créditos ambientais."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 824,
+      "tamanho_analise_caracteres": 33273
+    },
+    {
+      "nome": "SÃO SALVADOR DO TOCANTINS",
+      "codigo_ibge": "1720259",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SAO SALVADOR DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 2385,
+      "area_km2": 1425.0,
+      "pib_total_2021": "49.467",
+      "pib_per_capita_2021": "12.618",
+      "idhm_2010": "0.605",
+      "taxa_urbanizacao": "50.8%",
+      "resumo_executivo": "São Salvador do Tocantins apresenta um cenário de \"estagnação socioeconômica com dependência estrutural\". Com população em declínio contínuo (2.385 habitantes em 2022), o município mantém uma economia modesta baseada em serviços públicos e agropecuária familiar, mas enfrenta desafios críticos em educação, saneamento básico e saúde pública. Apesar de possuir potencial agropecuário e localização estratégica às margens do Rio Tocantins, o município demonstra alta dependência de transferências const...",
+      "swot": {
+        "forcas": [
+          "Localização Estratégica e Recurso Hídrico: Situado às margens do Rio Tocantins, com potencial para aquicultura, turismo e irrigação. Presença de córrego São Salvador e recursos hídricos subterrâneos (268 domicílios com poço artesiano).",
+          "Base Agropecuária Consolidada: Efetivo bovino crescente (47.160 cabeças em 2023), produção significativa de mandioca (1.085 ton) e diversidade de cultivos (arroz, feijão, milho, banana). Acesso a crédito rural em expansão (R$ 53,2 milhões em 2023).",
+          "Estrutura Fundiária Predominantemente Familiar: 72% dos estabelecimentos com menos de 100 hectares, indicando agricultura familiar com potencial para políticas de assistência técnica e agregação de valor.",
+          "Infraestrutura Básica de Comunicações: Cobertura móvel 4G para 72% dos moradores (Claro), 3 ERBs operando, e acesso a banda larga fixa (92 acessos em 2023).",
+          "Gestão Fiscal com Receita Crescente: Transferências constitucionais aumentaram 67% (2019-2023), com FPM superando R$ 10 milhões em 2023, proporcionando capacidade de investimento público."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 639,
+      "tamanho_analise_caracteres": 31891
+    },
+    {
+      "nome": "SUCUPIRA",
+      "codigo_ibge": "1720853",
+      "microrregiao": "Gurupi",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SUCUPIRA-COMPLETA.md",
+      "populacao_2022": 1577,
+      "area_km2": 1018.0,
+      "pib_total_2021": "532.374",
+      "pib_per_capita_2021": "89.062,14",
+      "idhm_2010": "0.667",
+      "taxa_urbanizacao": "72.2%",
+      "resumo_executivo": "O município de Sucupira configura-se como um \"caso de estagnação econômica com vulnerabilidade social persistente\". Com apenas 1.577 habitantes em 2022, registra queda populacional de 9,5% desde 2010, contrariando a tendência de crescimento do estado. Apesar de um PIB que quintuplicou em 5 anos (R$ 532 mil em 2021), impulsionado pela sojicultura, esta riqueza não se traduz em desenvolvimento humano proporcional: o IDHM de 0,667 (2010) ainda é classificado como médio, e 84% das famílias viviam em...",
+      "swot": {
+        "forcas": [
+          "Localização estratégica em corredor boiadeiro histórico: Situado na antiga estrada ligando Peixe a Figueirópolis, mantém vocação de conexão regional que originou o núcleo urbano.",
+          "Expressivo crescimento do PIB agropecuário: O Valor Adicionado da agropecuária cresceu 282% entre 2017 e 2021, saltando de R$ 14 mil para R$ 54 mil, puxado principalmente pela soja.",
+          "Infraestrutura bancária e de comunicações básica: Possui 1 posto de atendimento bancário eletrônico, 1 casa lotérica e cobertura móvel 4G para 67% dos moradores, assegurando conectividade mínima.",
+          "Avanço consistente do IDHM: O índice saltou de 0,319 (muito baixo) em 1991 para 0,667 (médio) em 2010, com melhoria em todos os componentes, especialmente educação.",
+          "Alta taxa de alfabetização entre jovens: 99,2% dos jovens de 15 a 19 anos eram alfabetizados em 2022, indicando base educacional positiva para as novas gerações."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 627,
+      "tamanho_analise_caracteres": 31774
+    }
+  ],
   "Porto Nacional": [
     {
       "nome": "APARECIDA DO RIO NEGRO",
@@ -476,7 +1368,6 @@
       "swot": {
         "forcas": [
           "Economia Agropecuária Dinâmica e em Expansão: O Valor Adicionado Bruto (VAB) da agropecuária cresceu 300% entre 2017 e 2021 (de R$ 40,1 mi para R$ 161,6 mi), sendo o setor dominante da economia local (63,2% do VAB em 2021). A produção de grãos (soja e milho) é expressiva e crescente.",
-          "Significativo Aumento da Capacidade Econômica (PIB): O PIB municipal mais que dobrou em 5 anos, passando de R$ 91,4 milhões (2017) para R$ 255,9 milhões (2021). O PIB",
           "cresceu 170% no mesmo período, superando a média estadual.",
           "Base Empresarial em Expansão: O número de empresas ativas cresceu de 301 (2023) para 315 (2024). O comércio é o setor mais representativo, seguido por serviços e agropecuária.",
           "Aumento Expressivo das Transferências Constitucionais: As transferências totais para o município cresceram 70,5% entre 2019 e 2023, passando de R$ 10,3 mi para R$ 17,6 mi, ampliando a capacidade de investimento público.",
@@ -488,6 +1379,33 @@
       },
       "tamanho_analise_linhas": 642,
       "tamanho_analise_caracteres": 39803
+    },
+    {
+      "nome": "BOM JESUS DO TOCANTINS",
+      "codigo_ibge": null,
+      "microrregiao": "Porto Nacional",
+      "arquivo_fonte": "FICHA-MUNICIPAL-BOM JESUS DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 4038,
+      "area_km2": 2817.0,
+      "pib_total_2021": "139,410",
+      "pib_per_capita_2021": "27.228,47",
+      "idhm_2010": "0.660",
+      "taxa_urbanizacao": "80.0%",
+      "resumo_executivo": "O município de Bom Jesus do Tocantins apresenta um perfil marcado por um **\"crescimento agropecuário robusto, porém com vulnerabilidades sociais e infraestruturais persistentes\"**. Com uma população de 4.038 habitantes (2022) e PIB de R$ 139,4 milhões (2021), sua economia é dominada pela agropecuária (59,8% do VAB em 2021), com destaque para soja, milho e pecuária bovina. Apesar da melhoria expressiva no IDHM (de 0,240 em 1991 para 0,660 em 2010) e da ampliação do acesso a saneamento básico, o m...",
+      "swot": {
+        "forcas": [
+          "Agropecuária responde por 59,8% do VAB (2021). A produção de soja atingiu 55.270 toneladas (2022) e o rebanho bovino tem 37.065 cabeças (2023). Acesso robusto a crédito rural (R$ 83,8 milhões em 2023).",
+          "79% dos domicílios com água por rede geral (2022). 97% dos domicílios possuem banheiro de uso exclusivo. Coleta direta de lixo atinge 79% dos domicílios.",
+          "Esperança de vida ao nascer saltou de 60,6 anos (1991) para 75,0 anos (2010). Mortalidade infantil caiu de 61,1 (1991) para 14,0 (2010, última disponível).",
+          "Número de MEIs (Microempreendedores Individuais) cresceu 45% entre 2019 (114) e 2023 (165), indicando dinamismo na base da economia.",
+          "Razão de dependência de 63,5% (2022) indica uma população potencialmente ativa (15-64 anos) proporcionalmente grande, uma janela de oportunidade para crescimento."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 568,
+      "tamanho_analise_caracteres": 40927
     },
     {
       "nome": "LAJEADO",
@@ -625,6 +1543,33 @@
       "tamanho_analise_caracteres": 39513
     },
     {
+      "nome": "SANTA MARIA DO TOCANTINS",
+      "codigo_ibge": null,
+      "microrregiao": "Porto Nacional",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SANTA MARIA DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 2680,
+      "area_km2": 1412.0,
+      "pib_total_2021": "139,63",
+      "pib_per_capita_2021": "74.895,14",
+      "idhm_2010": "0.634",
+      "taxa_urbanizacao": "68.7%",
+      "resumo_executivo": "O município de Santa Maria do Tocantins apresenta um **\"paradoxo de crescimento econômico com estagnação demográfica\"**. Com uma população de apenas 2.680 habitantes (2022), registra tendência de leve declínio (-0,6% ao ano entre 2010-2022), contrastando com um PIB que mais que triplicou entre 2017 e 2021, alcançando R$ 139,6 milhões. Esta dinâmica revela uma economia agropecuária robusta e capital-intensiva, liderada pela soja e pecuária, mas com limitada capacidade de gerar empregos formais e ...",
+      "swot": {
+        "forcas": [
+          "Base econômica sólida com produção agrícola expressiva, especialmente soja (41,3 mil ton/2023) e milho (38,3 mil ton/2023). PIB per capita elevado (R$ 74,9 mil) reflete produtividade.",
+          "Progresso notável no desenvolvimento humano, saindo de 0,248 (1991) para 0,634 (2010), com melhoria em todos os componentes (longevidade, educação e renda).",
+          "99,7% dos estabelecimentos agropecuários são de terras próprias (2017), garantindo segurança jurídica para investimentos.",
+          "Cobertura 4G para 64,8% dos moradores (Claro/Tim), infraestrutura fundamental para modernização e comunicação.",
+          "IDEB dos anos iniciais (5,0 em 2023\\) supera a meta nacional; taxa de alfabetização de adultos atingiu 88,1% (2022)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 545,
+      "tamanho_analise_caracteres": 35372
+    },
+    {
       "nome": "SILVANÓPOLIS",
       "codigo_ibge": "1720655",
       "microrregiao": "Porto Nacional",
@@ -679,334 +1624,33 @@
       "tamanho_analise_caracteres": 32213
     }
   ],
-  "Miracema do Tocantins": [
-    {
-      "nome": "ARAGUACEMA",
-      "codigo_ibge": "1701903",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-ARAGUACEMA-COMPLETA.md",
-      "populacao_2022": 5927,
-      "area_km2": 2775.0,
-      "pib_total_2021": "240,2",
-      "pib_per_capita_2021": "33.261,20",
-      "idhm_2010": "0.639",
-      "taxa_urbanizacao": "47.6%",
-      "resumo_executivo": "Araguacema, município histórico às margens do rio Araguaia, apresenta um \"paradoxo de desenvolvimento baseado em recursos naturais com baixa transformação local\". Possui uma economia fortemente ancorada no agronegócio (soja, milho e pecuária), que gera expressivo PIB per capita (R$ 33,3 mil em 2021, acima da média de muitos municípios pequenos), mas convive com indicadores sociais ainda medianos (IDHM 0,639 em 2010\\) e significativa dependência de transferências governamentais. O município exper...",
-      "swot": {
-        "forcas": [
-          "Agronegócio Pujante e em Expansão: Soja e milho apresentam aumento expressivo de área colhida e produção entre 2019-2023 (soja: de 16.000 para 41.620 ha; milho: de 7.000 para 22.020 ha). Pecuária bovina estabilizada em torno de 63 mil cabeças. O VAB da agropecuária representou cerca de 62% do total em 2021\\.",
-          "Crescimento Econômico Recente: PIB mais que dobrou entre 2019 (R$ 143,6 mi) e 2021 (R$ 240,2 mi). PIB per capita cresceu de R$ 20,2 mil para R$ 33,3 mil no mesmo período.",
-          "Recursos Hídricos e Potencial Turístico: Localização às margens do rio Araguaia, um ativo estratégico para pesca, lazer e turismo, ainda subutilizado.",
-          "Acesso a Crédito Rural Significativo: Valor total de financiamentos concedidos a produtores e cooperativas saltou de R$ 38,5 milhões (2019) para R$ 152,1 milhões (2023), indicando capitalização do setor.",
-          "Infraestrutura de Telecomunicações em Desenvolvimento: Cobertura 4G para cerca de 58% da população (Claro) e 47% (Tim) em 2024\\. Número de acessos à banda larga fixa cresceu 65% entre 2019 e 2023\\."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 655,
-      "tamanho_analise_caracteres": 34588
-    },
-    {
-      "nome": "BARROLÂNDIA",
-      "codigo_ibge": "1703107",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-BARROLANDIA-COMPLETA.md",
-      "populacao_2022": 4846,
-      "area_km2": 698.361,
-      "pib_total_2021": "122,016",
-      "pib_per_capita_2021": "21.523",
-      "idhm_2010": "0.642",
-      "taxa_urbanizacao": "84.0%",
-      "resumo_executivo": "Barrolândia, município localizado a 105 km de Palmas, apresenta um cenário de \"crescimento econômico com esvaziamento populacional\". Entre 2010 e 2022, a população reduziu 9,5% (de 5.349 para 4.846 habitantes), enquanto o PIB cresceu 44% no mesmo período (2010-2021). A economia é fortemente baseada na agropecuária, com expansão significativa da soja e pecuária bovina, o que gerou aumento do PIB per capita para R$ 21.523 (2021). No entanto, indicadores sociais revelam desafios persistentes: IDHM ...",
-      "swot": {
-        "forcas": [
-          "Localização Estratégica e Conectividade: Situada às margens da rodovia Belém-Brasília (BR-153), com 105 km da capital Palmas. Possui cobertura móvel 4G para 87-88% da população.",
-          "Base Agropecuária Fortalecida: Expansão significativa da produção de soja (2.706 t em 2023, inexistente antes de 2022\\) e milho (2.250 t), com rebanho bovino de 79.618 cabeças (2023).",
-          "Infraestrutura de Saneamento Básico Avançada: 80,6% dos domicílios com rede geral de água (2022) e 99,8% com banheiro de uso exclusivo.",
-          "Crescimento do Setor de Serviços: Valor Adicionado Bruto dos Serviços cresceu 33% entre 2017-2021, representando 36% do VAB municipal.",
-          "Aumento do Crédito Rural: Financiamentos agropecuários totalizaram R$ 24,8 milhões em 2023, com crescimento de 76% desde 2019\\."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 833,
-      "tamanho_analise_caracteres": 38214
-    },
-    {
-      "nome": "BRASILÂNDIA DO TOCANTINS",
-      "codigo_ibge": "1703602",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-BRASILANDIA DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 1974,
-      "area_km2": 646.0,
-      "pib_total_2021": "75.634",
-      "pib_per_capita_2021": "34.054,21",
-      "idhm_2010": "0.684",
-      "taxa_urbanizacao": "64.9%",
-      "resumo_executivo": "O município de Brasilândia do Tocantins apresenta um diagnóstico de \"estagnação demográfica com crescimento econômico frágil\". Com uma população de apenas 1.974 habitantes (2022) em tendência de leve declínio (-0,4% ao ano entre 2010-2022), o município mantém uma economia essencialmente agropecuarista, responsável por 18,5% do VAB em 2021, com destaque para a bovinocultura (36.980 cabeças) e culturas de mandioca e milho. Apesar do expressivo crescimento do PIB (75,6 milhões em 2021\\) e do PIB pe...",
-      "swot": {
-        "forcas": [
-          "Agropecuária consolidada e diversificada: Expressivo rebanho bovino (36.980 cabeças em 2023\\) e produção significativa de mandioca (1.228 toneladas), milho (1.599 toneladas) e soja (1.811 toneladas). A pecuária representa uma base econômica estável e geradora de renda.",
-          "Crescimento econômico recente: PIB apresentou crescimento expressivo de 37,5% entre 2020 e 2021 (de R$ 54,9 mi para R$ 75,6 mi), e o PIB per capita saltou de R$ 24.860,70 para R$ 34.054,21 no mesmo período, indicando potencial de geração de riqueza.",
-          "Melhoria significativa dos indicadores humanos: O IDHM evoluiu de \"Muito Baixo\" (0,297 em 1991\\) para \"Médio\" (0,684 em 2010), com avanços notáveis nos componentes Longevidade (0,831 \\- Muito Alto) e Educação (0,601 \\- Médio).",
-          "Localização estratégica na BR-153: Histórica relação com a rodovia Belém-Brasília, fator de povoamento original, que pode favorecer o escoamento da produção e a logística.",
-          "Baixa pressão de queimadas: Número reduzido de focos de queimadas (12 em 2023, 0,12% do total do estado), indicando menor degradação ambiental comparada a outros municípios."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 590,
-      "tamanho_analise_caracteres": 41384
-    },
-    {
-      "nome": "CASEARA",
-      "codigo_ibge": "1705003",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-CASEARA-COMPLETA.md",
-      "populacao_2022": 4847,
-      "area_km2": 1680.17,
-      "pib_total_2021": "389.493.000",
-      "pib_per_capita_2021": "70.637",
-      "idhm_2010": "0.658",
-      "taxa_urbanizacao": "63.3%",
-      "resumo_executivo": "O município de Caseara, no Tocantins, apresenta um cenário marcado por um \"crescimento econômico concentrado e vulnerável\". Com um PIB que saltou de R$ 132,6 milhões (2017) para R$ 447,7 milhões (2020), refletindo um ciclo de alta nas commodities agrícolas, a renda não se traduziu em desenvolvimento humano e social proporcional. O IDHM (0,658 em 2010\\) é classificado como médio, mas com forte desigualdade: 82% das famílias estavam em condição de pobreza (até 1 salário mínimo) em 2010\\. A economi...",
-      "swot": {
-        "forcas": [
-          "Agronegócio Dinâmico e Produtivo: Base econômica sólida com forte produção de soja (181,7 mil t em 2023\\) e milho (147 mil t em 2023), gerando elevado valor adicionado.",
-          "Significativo Acesso ao Crédito Rural: Volume expressivo de financiamentos (R$ 164 milhões em 2023), indicando capital de giro e investimento no setor produtivo.",
-          "Localização Estratégica e Potencial Turístico: Situado às margens do Rio Araguaia, com potencial para pesca esportiva e ecoturismo, além de proximidade com a capital Palmas (256 km).",
-          "Crescimento do Empreendedorismo Formal: Aumento de 10,5% no número de empresas (2023-2024), com destaque para MEIs (196 em 2024), mostrando vitalidade econômica.",
-          "Melhoria Contínua em Conectividade: Expansão rápida do acesso à banda larga fixa (de 131 em 2019 para 2.781 em 2023\\) e boa cobertura de telefonia móvel 4G (\\~65% dos moradores)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 646,
-      "tamanho_analise_caracteres": 36458
-    },
-    {
-      "nome": "COUTO MAGALHÃES",
-      "codigo_ibge": "1706001",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-COUTO MAGALHAES-COMPLETA.md",
-      "populacao_2022": 5331,
-      "area_km2": 1584.0,
-      "pib_total_2021": "203.473",
-      "pib_per_capita_2021": "35.759,76",
-      "idhm_2010": "0.605",
-      "taxa_urbanizacao": "51.3%",
-      "resumo_executivo": "O município de Couto Magalhães apresenta um \"paradoxo entre crescimento econômico agropecuário e persistência de vulnerabilidades sociais estruturais\". Com população de 5.331 habitantes (2022) e PIB que saltou de R$ 95,8 mil em 2017 para R$ 203,5 mil em 2021 – posicionando-se em 50º no estado –, a economia é impulsionada pela agropecuária, especialmente soja, milho e pecuária bovina. No entanto, indicadores sociais revelam desafios profundos: 87% das famílias estavam em condição de pobreza em 20...",
-      "swot": {
-        "forcas": [
-          "Agropecuária Dinâmica e Expansiva: Valor Adicionado Bruto da agropecuária saltou de R$ 19,9 milhões (2017) para R$ 87,0 milhões (2021), representando 42,8% do VAB total em 2021\\. Produção de soja atingiu 46.893 toneladas em 2023, e o rebanho bovino cresceu 38% no período 2019-2023, chegando a 72.510 cabeças.",
-          "Acesso a Crédito Rural Significativo: Volume de financiamentos concedidos cresceu de R$ 16,7 milhões (2019) para R$ 90,7 milhões (2023), com predomínio para atividades agrícolas (85% do valor em 2023), indicando confiança do sistema financeiro e capacidade de investimento.",
-          "Infraestrutura Energética em Expansão: Consumo total de energia elétrica cresceu 30% entre 2019-2023, atingindo 6.141 MWh. Número de consumidores residenciais aumentou 29% no mesmo período, refletindo eletrificação e potencial consumo.",
-          "Frota de Veículos em Crescimento: Frota total aumentou 32% entre 2019-2023 (1.186 para 1.564 veículos), com destaque para motocicletas (48% da frota) e automóveis (23%), indicando mobilidade e atividade econômica.",
-          "Posição Geográfica Estratégica: Localizado na fronteira com o Pará e com limites com municípios como Araguacema, possui potencial logístico e de integração regional, além de estar em área de transição Cerrado-Amazônia."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 664,
-      "tamanho_analise_caracteres": 43317
-    },
-    {
-      "nome": "GUARAÍ",
-      "codigo_ibge": "1709302",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-GUARAI-COMPLETA.md",
-      "populacao_2022": 24775,
-      "area_km2": 2107.0,
-      "pib_total_2021": "880.403",
-      "pib_per_capita_2021": "29.950",
-      "idhm_2010": "0.741",
-      "taxa_urbanizacao": "91.7%",
-      "resumo_executivo": "Guaraí, município tocantinense com 24.775 habitantes (2022), apresenta um \"crescimento econômico recente ancorado no agronegócio, mas com desafios persistentes na distribuição de renda e na qualidade dos serviços públicos\". Localizado às margens da BR-153, seu desenvolvimento histórico está intrinsecamente ligado à logística. Entre 2017 e 2021, o PIB cresceu 46% (para R$ 880,4 milhões), impulsionado pela agropecuária e serviços. Contudo, apesar de um IDHM classificado como Alto (0,741 em 2010), ...",
-      "swot": {
-        "forcas": [
-          "Posição Logística Estratégica: Situado às margens da BR-153 (Belém-Brasília), o município possui localização privilegiada para escoamento da produção e conexão com grandes centros.",
-          "Dinamismo do Agronegócio: Forte expansão da produção de soja (36,5 mil ton em 2023), milho (13,5 mil ton) e pecuária bovina (154 mil cabeças), com crescimento expressivo do VAB agropecuário (de R$ 40,7 mi em 2017 para R$ 135,9 mi em 2021).",
-          "Crescimento Econômico Sustentado: PIB cresceu 46% entre 2017-2021, com PIB",
-          "em ascensão. Saldo positivo consistente na balança comercial (exportações de US$ 198,8 mi em 2023).",
-          "Mercado de Trabalho em Expansão: Estoque de empregos formais aumentou 22% entre 2020-2023, com saldo positivo anual desde 2021\\. Aumento no número de empresas (2.411 em 2024).",
-          "Alta Taxa de Urbanização: 91,7% da população vive na área urbana, o que potencialmente reduz custos de provisão de serviços públicos e infraestrutura."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 781,
-      "tamanho_analise_caracteres": 41618
-    },
-    {
-      "nome": "JUARINA",
-      "codigo_ibge": "1711803",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-JUARINA-COMPLETA.md",
-      "populacao_2022": 2243,
-      "area_km2": 483.0,
-      "pib_total_2021": "44,395",
-      "pib_per_capita_2021": "71.373,60",
-      "idhm_2010": "0.584",
-      "taxa_urbanizacao": "54.0%",
-      "resumo_executivo": "Juarina, município tocantinense com 2.243 habitantes (2022), apresenta um \"paradoxo econômico-demográfico\": crescimento expressivo do PIB agropecuário, especialmente da soja, convive com indicadores sociais estagnados, alta dependência de transferências governamentais e uma população que praticamente não cresce há duas décadas. A economia, fortemente ancorada na pecuária bovina (35.150 cabeças) e na expansão da soja (4.323 toneladas em 2023), gerou um PIB per capita de R$ 71,4 mil (2021), superi...",
-      "swot": {
-        "forcas": [
-          "Economia Agropecuária Dinâmica e em Expansão: O VAB da agropecuária saltou de R$ 190,9 mil (2019) para R$ 507,6 mil (2021), com destaque para a soja (área colhida de 1.310 ha em 2023\\) e a pecuária bovina (rebanho de 35.150 cabeças). O setor atrai financiamento rural significativo (R$ 18,4 milhões em 2023).",
-          "Melhoria Contínua em Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 58,9 anos (1991) para 69,5 anos (2010). A mortalidade infantil caiu de 68,5 (1991) para 28,0 por mil (2010), refletindo avanços no acesso à saúde.",
-          "Infraestrutura de Saneamento Básico em Expansão: A cobertura de água por rede geral atingiu 359 domicílios (49% do total) em 2022, um aumento consistente. Quase todos os domicílios (99,7%) possuem banheiro de uso exclusivo.",
-          "Alfabetização Adulta em Nível Satisfatório: A taxa de alfabetização de pessoas com 15 anos ou mais é de 86,5% (2022), com equilíbrio entre homens (84,8%) e mulheres (88,4%).",
-          "Base Econômica Diversificada para um Pequeno Município: Além da agropecuária, há presença de comércio (68 empresas), serviços (35 empresas) e um estoque de 240 empregos formais, com destaque para a administração pública (189 vínculos)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 595,
-      "tamanho_analise_caracteres": 35357
-    },
-    {
-      "nome": "MIRACEMA DO TOCANTINS",
-      "codigo_ibge": "1713205",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-MIRACEMA DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 18566,
-      "area_km2": 2664.0,
-      "pib_total_2021": "642.003",
-      "pib_per_capita_2021": "28.804,15",
-      "idhm_2010": "0.684",
-      "taxa_urbanizacao": "82.8%",
-      "resumo_executivo": "Miracema do Tocantins, município histórico que sediou a primeira capital do estado, apresenta um \"paradoxo do crescimento econômico com estagnação social\". Enquanto o PIB per capita cresceu 70% entre 2017 e 2021 (atingindo R$ 28,8 mil), a população encolheu 10% na última década, configurando um êxodo populacional preocupante. A economia é marcada pela primarização agropecuarista (agropecuária responde por 54% do VAB em 2021), com significativa expansão da soja, mas com baixa geração de emprego f...",
-      "swot": {
-        "forcas": [
-          "Localização Estratégica Próxima à Capital: A apenas 78 km de Palmas, permite integração econômica e acesso a serviços estaduais.",
-          "Base Agropecuária Consolidada e em Expansão: Soja saltou de 30 mil para 50 mil toneladas (2019-2023); rebanho bovino cresceu 33% no período, atingindo 169.773 cabeças.",
-          "Infraestrutura de Conectividade Digital Razoável: Cobertura 4G para 88% da população (Claro/Tim) e 6 Estações Rádio Base instaladas.",
-          "Histórico de Capital Temporária do Estado: Traz reconhecimento simbólico e potencial turístico histórico-cultural subutilizado.",
-          "Recursos Hídricos e Potencial para Aquicultura: Produção de tambaqui saltou de 1.900 para 4.900 kg (2019-2023), indicando vocação natural."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 683,
-      "tamanho_analise_caracteres": 33659
-    },
-    {
-      "nome": "MIRANORTE",
-      "codigo_ibge": "1713304",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-MIRANORTE-COMPLETA.md",
-      "populacao_2022": 12701,
-      "area_km2": 1033.22,
-      "pib_total_2021": "390.325",
-      "pib_per_capita_2021": "36.212,17",
-      "idhm_2010": "0.662",
-      "taxa_urbanizacao": "89.7%",
-      "resumo_executivo": "O município de Miranorte apresenta um \"paradoxo de crescimento econômico com exclusão social\". Com um PIB per capita de R$ 36.212,17 (2021) \\- acima da média estadual \\- e uma economia fortemente baseada no agronegócio (52,5% do VAB), o município ostenta indicadores sociais medianos e preocupantes. Apesar da renda relativamente elevada, 80% das famílias estavam em situação de pobreza em 2010, a educação apresenta índices abaixo do desejável (IDEB de 4,2 no Ensino Médio) e a saúde enfrenta desafi...",
-      "swot": {
-        "forcas": [
-          "Agronegócio Pujante e Diversificado: A agropecuária responde por 52,5% do VAB (2021), com produção expressiva de soja (42.600 t), milho (34.560 t) e criação de bovinos (104.582 cabeças). O crédito rural atingiu R$ 194,5 milhões em 2023, indicando investimento no setor.",
-          "PIB per capita Elevado: Com R$ 36.212,17, supera a média estadual, indicando potencial de geração de riqueza.",
-          "Boa Conectividade Digital: Cobertura 4G atinge cerca de 89% dos moradores, com 10 estações rádio base, infraestrutura favorável à modernização.",
-          "Mercado de Trabalho Formal em Expansão: Saldo positivo de 166 empregos formais em 2023, com estoque de 1.279 vínculos. O setor de serviços é o maior empregador (429 postos).",
-          "Alta Esperança de Vida: Indicador de longevidade do IDHM atingiu 0,804 em 2010 (classificação \"Muito Alto\"), refletindo melhorias nas condições de saúde ao longo das décadas."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 697,
-      "tamanho_analise_caracteres": 37599
-    },
-    {
-      "nome": "PRESIDENTE KENNEDY",
-      "codigo_ibge": "1718403",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PRESIDENTE KENNEDY-COMPLETA.md",
-      "populacao_2022": 3047,
-      "area_km2": 772.0,
-      "pib_total_2021": "65.165",
-      "pib_per_capita_2021": "30.103,17",
-      "idhm_2010": "0.669",
-      "taxa_urbanizacao": "84.9%",
-      "resumo_executivo": "Presidente Kennedy apresenta um \"paradoxo de declínio populacional com urbanização crescente\". Entre 1991 e 2022, o município perdeu mais da metade de seus habitantes (queda de 53,1%), passando de 6.498 para 3.047 pessoas, ocupando a 104ª posição no estado. Contraditoriamente, a taxa de urbanização atingiu 84,9%, indicando um intenso êxodo rural e uma concentração urbana em meio a um cenário de retração demográfica geral. A economia mantém-se frágil, com PIB de R$ 65 milhões (115º no estado) e f...",
-      "swot": {
-        "forcas": [
-          "Localização Estratégica às Margens da BR-153: Situado na principal rodovia de ligação norte-sul (Belém-Brasília), facilita o escoamento de produção e o acesso a mercados regionais.",
-          "Base Produtiva Pecuária Consolidada: Efetivo de 51.614 bovinos (2023), representando a principal atividade econômica e gerando receita a partir do ITR e da produção de leite.",
-          "IDEB Satisfatório nos Anos Iniciais: Índice de 5,7 (2023) na rede municipal, acima da média nacional, indicando qualidade no ensino fundamental.",
-          "Alta Cobertura de Telefonia Móvel e Internet: 90,8% dos moradores cobertos por sinal 4G (Claro/Tim) e 1.399 acessos à telefonia móvel (2023), infraestrutura básica para conectividade.",
-          "Terra Majoritariamente Própria e com Áreas Preservadas: 100% dos estabelecimentos agropecuários em terras próprias (2017) e 13.708 ha de matas/ florestas destinadas à preservação, ativo ambiental importante."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 666,
-      "tamanho_analise_caracteres": 42313
-    },
-    {
-      "nome": "TUPIRAMA",
-      "codigo_ibge": "1721257",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-TUPIRAMA-COMPLETA.md",
-      "populacao_2022": 1909,
-      "area_km2": 707.0,
-      "pib_total_2021": "118,839",
-      "pib_per_capita_2021": "60.880,42",
-      "idhm_2010": "0.670",
-      "taxa_urbanizacao": "67.7%",
-      "resumo_executivo": "O município de Tupirama, localizado no estado do Tocantins, apresenta um cenário de “crescimento econômico recente com persistência de vulnerabilidades sociais e infraestruturais”. Com uma população de 1.909 habitantes (2022), o município experimentou um expressivo salto no PIB entre 2019 e 2021, puxado principalmente pelo setor agropecuário, que representa mais de 50% do Valor Adicionado Bruto. No entanto, esse dinamismo econômico não se traduziu plenamente em melhoria das condições de vida par...",
-      "swot": {
-        "forcas": [
-          "Crescimento Econômico Acelerado: O PIB municipal mais que dobrou entre 2019 (R$ 55,98 mi) e 2021 (R$ 118,84 mi), com PIB per capita atingindo R$ 60,9 mil, um dos mais altos do estado, impulsionado pelo setor agropecuário.",
-          "Base Agropecuária Consolidada e Produtiva: O município possui uma forte produção de grãos (soja, milho, sorgo) e um rebanho bovino em crescimento (24.981 cabeças em 2023). O Valor Adicionado da Agropecuária saltou de R$ 23,1 mi (2017) para R$ 62,6 mi (2021).",
-          "Posição Geográfica Estratégica: Localizado às margens do Rio Tocantins e com limites com municípios importantes como Pedro Afonso e Guaraí, possui potencial logístico.",
-          "Melhoria Sustentada em Indicadores de Longevidade e Educação: A esperança de vida ao nascer evoluiu de 59,2 anos (1991) para 73,5 anos (2010). A taxa de alfabetização de adultos subiu de 72,2% (2000) para 88% (2022).",
-          "Redução da Mortalidade Infantil: A taxa de mortalidade até 1 ano de idade caiu drasticamente de 66,9 por mil (1991) para 17,3 por mil (2010)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 578,
-      "tamanho_analise_caracteres": 34690
-    },
-    {
-      "nome": "TUPIRATINS",
-      "codigo_ibge": "1721307",
-      "microrregiao": "Miracema do Tocantins",
-      "arquivo_fonte": "FICHA-MUNICIPAL-TUPIRATINS-COMPLETA.md",
-      "populacao_2022": 1874,
-      "area_km2": 889.0,
-      "pib_total_2021": "38,619",
-      "pib_per_capita_2021": "13.866,63",
-      "idhm_2010": "0.587",
-      "taxa_urbanizacao": "58.5%",
-      "resumo_executivo": "O município de Tupiratins, localizado no estado do Tocantins, apresenta um \"paradoxo de crescimento econômico com estagnação populacional e desafios sociais persistentes\". Entre 2017 e 2021, o PIB cresceu 35,1%, saltando de R$ 28,6 milhões para R$ 38,6 milhões, impulsionado principalmente pelo setor agropecuário. No entanto, a população residente diminuiu de 2.097 habitantes (2010) para 1.874 (2022), uma queda de 10,6%, refletindo um processo de êxodo rural e envelhecimento populacional. O IDHM ...",
-      "swot": {
-        "forcas": [
-          "Base Agropecuária Sólida e em Expansão: O setor agropecuário cresceu 54,2% no VAB entre 2017 e 2021, atingindo R$ 8,5 milhões. A produção de soja aumentou de 651 toneladas (2019) para 4.881 toneladas (2023), e o rebanho bovino cresceu 29,8% no período 2019-2023, chegando a 19.234 cabeças.",
-          "Aumento do PIB per capita: O PIB per capita cresceu 24,9% entre 2017 e 2021, de R$ 11.104,04 para R$ 13.866,63, indicando maior geração de riqueza por habitante.",
-          "Melhoria na Alfabetização: A taxa de alfabetização da população de 15 anos ou mais subiu de 71,5% (2000) para 84,9% (2022), com destaque para a faixa de 15 a 19 anos (98,6% em 2022).",
-          "Crescimento do Emprego Formal: O estoque de empregos formais aumentou 32,4% entre 2020 e 2023, de 55 para 80 vínculos, com saldo positivo de 8 empregos em 2023\\.",
-          "Acesso a Programas de Transferência de Renda: 250 famílias foram atendidas pelo Bolsa Família em 2023, com valor médio de R$ 612,90, e 260 pessoas receberam Auxílio Emergencial em 2022, com valor médio de R$ 614,50."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 631,
-      "tamanho_analise_caracteres": 40609
-    }
-  ],
   "Araguaína": [
+    {
+      "nome": "ARAGOMINAS",
+      "codigo_ibge": null,
+      "microrregiao": "Araguaína",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ARAGOMINAS-COMPLETA.md",
+      "populacao_2022": 5290,
+      "area_km2": 1168.0,
+      "pib_total_2021": "98,441",
+      "pib_per_capita_2021": "17.255,24",
+      "idhm_2010": "0.593",
+      "taxa_urbanizacao": "48.0%",
+      "resumo_executivo": "Aragominas, município localizado no norte do Tocantins, apresenta um **\"paradoxo do crescimento econômico com exclusão social e vulnerabilidade ambiental\"**. A economia demonstra robustez e expansão significativa, com o PIB crescendo 55.5% entre 2017 e 2021, impulsionado pela forte vocação agropecuária, especialmente a pecuária bovina e a soja. No entanto, este crescimento não se traduz em um desenvolvimento humano proporcional. O IDHM (0,593 em 2010) permanece classificado como \"Baixo\", com o c...",
+      "swot": {
+        "forcas": [
+          "em 2023. É um setor dinâmico e consolidado.",
+          "no mesmo período.",
+          "Com R$ 17.255,24 em 2021, o PIB per capita do município supera a média de muitos municípios da região, indicando uma geração de riqueza significativa para o seu porte populacional.",
+          "(UBS e Unidade de Vigilância), com presença constante de médicos de família, enfermeiros e dentistas, garantindo cobertura de atenção primária."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 528,
+      "tamanho_analise_caracteres": 37604
+    },
     {
       "nome": "ARAGUAÍNA",
       "codigo_ibge": "1702109",
@@ -1224,6 +1868,60 @@
       "tamanho_analise_caracteres": 42549
     },
     {
+      "nome": "NOVA OLINDA",
+      "codigo_ibge": null,
+      "microrregiao": "Araguaína",
+      "arquivo_fonte": "FICHA-MUNICIPAL-NOVA OLINDA-COMPLETA.md",
+      "populacao_2022": 10367,
+      "area_km2": 1568.0,
+      "pib_total_2021": "320.311",
+      "pib_per_capita_2021": "23.209,50",
+      "idhm_2010": "0.631",
+      "taxa_urbanizacao": "74.6%",
+      "resumo_executivo": "Nova Olinda apresenta um cenário de **\"crescimento econômico agropecuário com fragilidades sociais persistentes\"**. Com uma população de 10.367 habitantes (2022) e PIB de R$ 320,3 mil (2021), o município experimentou crescimento significativo no setor agropecuário (soja e pecuária bovina), impulsionando o PIB per capita para R$ 23.209,50. Entretanto, mantém indicadores sociais preocupantes: IDEB dos anos iniciais em 3,9 (abaixo da meta), mortalidade infantil com pico de 24,2/1000 (2022), e alta ...",
+      "swot": {
+        "forcas": [
+          "Valor adicionado bruto da agropecuária cresceu 368,9% entre 2017-2021 (R$ 10.582 mil para R$ 49.602 mil). Soja é o principal produto (1.502 toneladas em 2023), com rebanho bovino de 100.414 cabeças (2023).",
+          "Exportações consistentes (US$ 11,47 milhões em 2023\\) sem importações, indicando produção voltada para mercado externo.",
+          "Aumento de 111,5% entre 2017-2021 (R$ 11.749,76 para R$ 23.209,50), sinal de dinamismo econômico.",
+          "99,3% dos domicílios com banheiro de uso exclusivo (2022); 74,2% com água por rede geral.",
+          "594 empresas em 2024 (+7,2% em um ano), com destaque para comércio (304 estabelecimentos) e crescimento de MEIs (459 em 2023)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 644,
+      "tamanho_analise_caracteres": 41392
+    },
+    {
+      "nome": "PALMEIRANTE",
+      "codigo_ibge": null,
+      "microrregiao": "Araguaína",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PALMEIRANTE-COMPLETA.md",
+      "populacao_2022": 4798,
+      "area_km2": 2638.0,
+      "pib_total_2021": "185.349",
+      "pib_per_capita_2021": "13.961,56",
+      "idhm_2010": "0.571",
+      "taxa_urbanizacao": "40.5%",
+      "resumo_executivo": "Palmeirante apresenta um **\"paradoxo de estagnação populacional com crescimento econômico concentrado\"**. Entre 2010 e 2022, sua população diminuiu de 4.954 para 4.798 habitantes (-3,2%), enquanto o PIB municipal mais que dobrou no mesmo período, saltando de R$ 88,6 mil (2019) para R$ 185,3 mil (2021). Este crescimento, no entanto, é intensamente focado no agronegócio (especialmente soja e bovinocultura) e não se traduz em desenvolvimento social amplo. O IDHM de 0,571 (2010) ainda é classificado...",
+      "swot": {
+        "forcas": [
+          "A agropecuária é o carro-chefe, com o VAB do setor crescendo 101,5% entre 2017 e 2021 (de R$ 14,1 mil para R$ 27,4 mil). A soja teve produção recorde em 2023 (28.980 toneladas).",
+          "Balança comercial fortemente positiva, com saldo de US$ 84,2 milhões em 2023, indicando alta produtividade e inserção no mercado externo.",
+          "Aumento de 13,5% no número de estabelecimentos agropecuários (2006-2017), com predomínio de propriedades entre 20 e 500 ha, sugerando um setor em consolidação.",
+          "Taxa de alfabetização da população de 15 anos ou mais atingiu 83,5% em 2022, contra 69,8% em 2000\\.",
+          "Presença do rio Tocantins e produção consolidada de tambaqui (5.000 kg em 2023), apontando para oportunidade na piscicultura."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 577,
+      "tamanho_analise_caracteres": 38058
+    },
+    {
       "nome": "PIRAQUÊ",
       "codigo_ibge": "1717206",
       "microrregiao": "Araguaína",
@@ -1332,6 +2030,322 @@
       "tamanho_analise_caracteres": 40969
     }
   ],
+  "Rio Formoso": [
+    {
+      "nome": "ARAGUAÇU",
+      "codigo_ibge": null,
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-ARAGUACU-COMPLETA.md",
+      "populacao_2022": 8133,
+      "area_km2": 5155.0,
+      "pib_total_2021": "349,05",
+      "pib_per_capita_2021": "41.464,68",
+      "idhm_2010": "0.675",
+      "taxa_urbanizacao": "67.9%",
+      "resumo_executivo": "Araguaçu apresenta um **\"paradoxo de estagnação populacional com crescimento agropecuário volátil\"**. O município, fundado a partir da exploração de cristais, viu sua população reduzir em 36% desde 1991 (de 12.712 para 8.133 habitantes em 2022), refletindo um intenso êxodo rural e baixa atratividade. Contraditoriamente, seu PIB total apresentou forte expansão em 2019, impulsionado pela agropecuária, mas com alta volatilidade nos anos seguintes. A economia é quase exclusivamente baseada na pecuár...",
+      "swot": {
+        "forcas": [
+          "Destaque na pecuária bovina (487.469 cabeças em 2023\\) e na produção de soja (19.195 ha colhidos). O VAB da agropecuária representou 57% do total em 2021 (R$ 200,3 milhões).",
+          "Área total dos estabelecimentos agropecuários cresceu 65% (para 372.925 ha) entre 2006 e 2017, predominando propriedades de grande porte (\\>1000 ha).",
+          "Financiamentos totais saltaram de R$ 228 mi (2019) para R$ 544 mi (2023), indicando dinamismo e confiança no setor.",
+          "Evoluiu de \"Muito Baixo\" (0,332 em 1991\\) para \"Médio\" (0,675 em 2010), com ganhos significativos em Longevidade e Educação.",
+          "Possui 3 agências bancárias, 1 casa lotérica, 10 estabelecimentos de saúde e 31 leitos SUS."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 480,
+      "tamanho_analise_caracteres": 40566
+    },
+    {
+      "nome": "CHAPADA DE AREIA",
+      "codigo_ibge": "1704600",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-CHAPADA DE AREIA-COMPLETA.md",
+      "populacao_2022": 1501,
+      "area_km2": 659.0,
+      "pib_total_2021": "39.824",
+      "pib_per_capita_2021": "28.144,10",
+      "idhm_2010": "0.619",
+      "taxa_urbanizacao": "63.7%",
+      "resumo_executivo": "Chapada de Areia, município tocantinense emancipado em 1997, apresenta um \"paradoxo do isolamento produtivo\": enquanto demonstra crescimento econômico significativo baseado na agropecuária expansiva (especialmente soja e bovinocultura), permanece como o único município do estado não ligado por asfalto até a BR-153, condição que limita seu desenvolvimento integrado e acesso a mercados. Com apenas 1.501 habitantes (2022) e densidade demográfica de 2,3 hab/km², é um município essencialmente rural (...",
+      "swot": {
+        "forcas": [
+          "Crescimento Econômico Sustentado: PIB cresceu 52,8% entre 2020-2021 (de R$ 33,2 milhões para R$ 39,8 milhões), com expansão consistente da agropecuária.",
+          "Potencial Agropecuário Comprovado: Expressiva expansão da produção de soja (de 714 ton em 2019 para 7.557 ton em 2023\\) e do rebanho bovino (de 27.031 cabeças em 2019 para 47.356 em 2023).",
+          "Melhoria Contínua do IDHM: Evolução significativa de 0,240 (1991) para 0,619 (2010), saindo de \"muito baixo\" para \"médio\" desenvolvimento humano.",
+          "Acesso a Crédito Rural: Volume expressivo de financiamentos (R$ 22,3 milhões em 2023\\) indicando dinamismo no setor produtivo.",
+          "Baixa Pressão Demográfica: Densidade de apenas 2,3 hab/km² permite expansão das atividades produtivas sem conflitos fundiários significativos."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 598,
+      "tamanho_analise_caracteres": 31674
+    },
+    {
+      "nome": "CRISTALÂNDIA",
+      "codigo_ibge": "1706107",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-CRISTALANDIA-COMPLETA.md",
+      "populacao_2022": 6371,
+      "area_km2": 1851.0,
+      "pib_total_2021": "177.294.000",
+      "pib_per_capita_2021": "24.393,72",
+      "idhm_2010": "0.673",
+      "taxa_urbanizacao": "81.6%",
+      "resumo_executivo": "Cristalândia, município tocantinense fundado na década de 1940, apresenta um quadro de \"crescimento econômico agro-dependente com estagnação populacional e vulnerabilidade social\". Sua economia é fortemente ancorada no agronegócio, com PIB majoritariamente derivado da agropecuária (45,6% em 2021\\) e um crescimento expressivo do valor adicionado no setor (200% entre 2017-2021). No entanto, essa força econômica não se traduz em desenvolvimento humano equitativo, refletido em um IDHM ainda médio (0...",
+      "swot": {
+        "forcas": [],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 629,
+      "tamanho_analise_caracteres": 38458
+    },
+    {
+      "nome": "FÁTIMA",
+      "codigo_ibge": "1707553",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-FATIMA-COMPLETA.md",
+      "populacao_2022": 3467,
+      "area_km2": 380.0,
+      "pib_total_2021": "89,100",
+      "pib_per_capita_2021": "23.300",
+      "idhm_2010": "0.697",
+      "taxa_urbanizacao": "84.5%",
+      "resumo_executivo": "O município de Fátima apresenta um \"paradoxo de estagnação populacional com crescimento econômico recente\". Enquanto a população residente diminui consistentemente (-0,8% ao ano entre 2010-2022), o PIB municipal cresceu 50% entre 2017-2021, impulsionado pela expansão da sojicultura e pecuária. Este cenário revela uma economia agropecuária dinâmica que, no entanto, não retém população local, especialmente jovens, gerando desafios estruturais em educação, saúde e desenvolvimento social. Apesar de ...",
+      "swot": {
+        "forcas": [
+          "Economia agropecuária robusta e em expansão: O VAB da agropecuária cresceu 333% entre 2017-2021 (de R$ 5,8 para R$ 24,6 milhões), representando 27,6% do VAB total em 2021\\. A produção de soja aumentou 142% no período 2019-2023, atingindo 13.466 toneladas.",
+          "Boa conectividade digital: Cobertura móvel 4G alcança 90%+ da população pelas operadoras Claro e Tim. Acesso à banda larga fixa presente, embora com números modestos (77 acessos em 2023).",
+          "Sistema educacional público consolidado: 100% das matrículas são em instituições públicas (estaduais e municipais). IDEB dos anos iniciais alcançou 5,7 em 2019, indicando qualidade razoável no ensino fundamental.",
+          "Baixa incidência de doenças endêmicas: Casos de dengue, chikungunya e zika são esporádicos. Hanseníase apresenta média de 2-3 casos anuais, demonstrando controle epidemiológico.",
+          "Forte cultura empreendedora individual: 126 MEIs (49% do total de empresas) e crescimento de 29% no número de MEIs entre 2019-2023, indicando dinamismo econômico local."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 586,
+      "tamanho_analise_caracteres": 28230
+    },
+    {
+      "nome": "FORMOSO DO ARAGUAIA",
+      "codigo_ibge": null,
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-FORMOSO DO ARAGUAIA-COMPLETA.md",
+      "populacao_2022": 18881,
+      "area_km2": 13432.0,
+      "pib_total_2021": "1.414.038",
+      "pib_per_capita_2021": "77.025,73",
+      "idhm_2010": "0.670",
+      "taxa_urbanizacao": "71.2%",
+      "resumo_executivo": "Formoso do Araguaia apresenta um **\"potencial agropecuário com contradições socioambientais\"**. Com uma população estável em torno de 18.900 habitantes, o município consolidou-se como um importante produtor de grãos (soja, arroz) e pecuária bovina, refletido no expressivo PIB de R$ 1,4 bilhão em 2021 e no 6º lugar no ranking estadual. No entanto, este dinamismo econômico não se traduz uniformemente em bem-estar social: o IDHM (0,670) é classificado apenas como médio, há altas taxas de pobreza (7...",
+      "swot": {
+        "forcas": [
+          "O município é um dos maiores produtores de grãos (soja e arroz) e possui um dos maiores rebanhos bovinos do estado (328 mil cabeças em 2023), gerando um PIB per capita expressivo.",
+          "Cobertura 4G para mais de 70% da população, com presença de três operadoras, facilitando o acesso à informação e serviços digitais.",
+          "O Projeto Rio Formoso, maior da América Latina na época de sua implantação (1979), representa um ativo histórico e potencial para agricultura tecnificada.",
+          "Localização privilegiada com rios e presença de produção aquícola consolidada (9 ton de tambaqui em 2023), indicando potencial para piscicultura.",
+          "Número de MEIs mais que dobrou entre 2019 (721) e 2023 (1.039), indicando dinamismo no setor de serviços e pequenos negócios."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 548,
+      "tamanho_analise_caracteres": 35528
+    },
+    {
+      "nome": "LAGOA DA CONFUSÃO",
+      "codigo_ibge": "1711902",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-LAGOA DA CONFUSAO-COMPLETA.md",
+      "populacao_2022": 15288,
+      "area_km2": 10563.0,
+      "pib_total_2021": "998,445",
+      "pib_per_capita_2021": "20.006,45",
+      "idhm_2010": "0.627",
+      "taxa_urbanizacao": "75.3%",
+      "resumo_executivo": "Lagoa da Confusão apresenta um \"crescimento econômico marcado por disparidades sociais e fragilidades na infraestrutura pública\". Com uma economia impulsionada pela agropecuária de grãos e pecuária extensiva, o município alcançou o 8º maior PIB do estado em 2021 e um PIB per capita de R$ 20 mil, acima da média estadual. No entanto, o IDH-M (0,627 em 2010\\) classifica-se apenas como médio, puxado para baixo pelo componente educação (0,496, muito baixo). Apesar da urbanização crescente (75,3% em 2...",
+      "swot": {
+        "forcas": [
+          "Economia Agropecuária Robustamente Estruturada: Grande produtor de soja (149.240 t em 2023), milho (98.040 t), arroz (291.640 t) e feijão (45.060 t). Rebanho bovino expressivo (143.915 cabeças em 2023), com crescimento de 67% desde 2019\\. O VAB da agropecuária saltou de R$ 6,9 milhões (2017) para R$ 42,2 milhões (2021).",
+          "PIB per capita Elevado e em Ascensão: Com R$ 20.006 em 2021, o PIB per capita mais que dobrou em relação a 2017 (R$ 9.214) e posiciona o município acima da média de muitos municípios tocantinenses.",
+          "Crescimento Populacional e Urbanização Dinâmica: População cresceu 50% entre 2010 e 2022, com taxa de urbanização atingindo 75,3%, indicando atratividade e concentração de serviços.",
+          "Infraestrutura de Conectividade Digital em Expansão: Acessos à banda larga fixa explodiram de 345 (2019) para 2.033 (2023). Cobertura 4G atinge mais de 60% dos moradores pelas principais operadoras.",
+          "Presença de Oferta de Ensino Superior: Há uma instituição ofertando 31 cursos presenciais e 30 polos de EAD, com 199 matrículas (2023), um diferencial para municípios de porte similar."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 662,
+      "tamanho_analise_caracteres": 44335
+    },
+    {
+      "nome": "NOVA ROSALÂNDIA",
+      "codigo_ibge": "1718907",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-NOVA ROSALANDIA-COMPLETA.md",
+      "populacao_2022": 3362,
+      "area_km2": 515.0,
+      "pib_total_2021": "100,915",
+      "pib_per_capita_2021": "19.038,97",
+      "idhm_2010": "0.661",
+      "taxa_urbanizacao": "82.7%",
+      "resumo_executivo": "Nova Rosalândia é um município tocantinense de pequeno porte (3.362 hab., 2022\\) que apresenta um \"paradoxo de crescimento agropecuário sem desenvolvimento humano proporcional\". Enquanto o PIB cresceu 104% entre 2017-2021, impulsionado pela expansão da soja e milho, o IDHM permanece em patamar médio (0,661 em 2010\\) e indicadores sociais como pobreza extrema (28% das famílias em 2010\\) e educação apresentam desafios significativos. O município tem alta dependência de transferências governamentai...",
+      "swot": {
+        "forcas": [
+          "Crescimento econômico sustentado: PIB cresceu 104% entre 2017-2021 (R$49,4 milhões para R$100,9 milhões), com destaque para o setor agropecuário que cresceu 230% no período.",
+          "Base produtiva agropecuária consolidada: Soja (28.451 toneladas em 2023), milho (16.910 toneladas) e pecuária bovina (21.728 cabeças) formam base econômica sólida.",
+          "Urbanização crescente com infraestrutura básica: Taxa de urbanização alcança 82,7% em 2022, com 97,9% dos domicílios tendo banheiro e 71,4% com água via rede geral.",
+          "Acesso a crédito rural expressivo: R$47,98 milhões em financiamentos concedidos em 2023, indicando dinamismo no setor produtivo.",
+          "Melhoria contínua em indicadores de longevidade: Esperança de vida ao nascer aumentou de 62,7 anos (1991) para 72,5 anos (2010)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 630,
+      "tamanho_analise_caracteres": 25195
+    },
+    {
+      "nome": "OLIVEIRA DE FÁTIMA",
+      "codigo_ibge": "1715507",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-OLIVEIRA DE FATIMA-COMPLETA.md",
+      "populacao_2022": 1164,
+      "area_km2": 209.0,
+      "pib_total_2021": "29,469",
+      "pib_per_capita_2021": "32.977,35",
+      "idhm_2010": "0.675",
+      "taxa_urbanizacao": "84.5%",
+      "resumo_executivo": "Oliveira de Fátima representa o \"paradoxo do pequeno município tocantinense em transição\": embora apresente crescimento econômico recente (PIB aumentou 50% em 4 anos) e avanços sociais significativos no IDHM (de 0,340 para 0,675 em 20 anos), permanece como o menor município do estado em população (1.164 hab) e enfrenta vulnerabilidades estruturais. O diagnóstico principal revela uma economia em transformação \\- com explosão da sojicultura (área quadruplicada em 5 anos) e dependência crítica do s...",
+      "swot": {
+        "forcas": [
+          "ALTO) e Educação (avanço de 0,148 para 0,614)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 1006,
+      "tamanho_analise_caracteres": 41591
+    },
+    {
+      "nome": "PARAÍSO DO TOCANTINS",
+      "codigo_ibge": null,
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PARAISO DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 52360,
+      "area_km2": 1292.0,
+      "pib_total_2021": "1.513.693.000",
+      "pib_per_capita_2021": "30.250,98",
+      "idhm_2010": "0.764",
+      "taxa_urbanizacao": "96.7%",
+      "resumo_executivo": "Paraíso do Tocantins apresenta um perfil de \"centro urbano em expansão com base econômica agroexportadora e desafios de desenvolvimento humano\". Com população de 52.360 habitantes (2022), o município mantém a 5ª posição populacional no estado, exibindo crescimento constante desde 1991\\. Sua economia é impulsionada pelo agronegócio (soja, milho e pecuária bovina), refletido em PIB de R$ 1,513 bilhão (2021) e forte superávit comercial. No entanto, persistem contradições: enquanto a taxa de urbaniz...",
+      "swot": {
+        "forcas": [
+          "Situado na BR-153 (Belém-Brasília), a 63 km da capital Palmas, com cobertura móvel 4G acima de 96% da população e 85 estabelecimentos de saúde.",
+          "Exportações de US$ 165,9 milhões (2023) com saldo comercial positivo consistente; produção de soja (9.606 toneladas) e milho (7.784 toneladas) em 2023\\.",
+          "6.230 estabelecimentos (2024), com destaque para comércio (2.434), serviços (2.608) e 3.259 MEIs, indicando ambiente empreendedor ativo.",
+          "13.268 matrículas (2023) com IDEB dos anos iniciais de 6,3 (municipal) e 6,0 (estadual), acima das metas nacionais.",
+          "91,4% dos domicílios com rede geral de água (2022); 97,7% dos domicílios têm banheiro exclusivo."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 507,
+      "tamanho_analise_caracteres": 29678
+    },
+    {
+      "nome": "PIUM",
+      "codigo_ibge": "1717503",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PIUM-COMPLETA.md",
+      "populacao_2022": 7128,
+      "area_km2": 10004.0,
+      "pib_total_2021": "361.915",
+      "pib_per_capita_2021": "14.426,13",
+      "idhm_2010": "0.650",
+      "taxa_urbanizacao": "53.4%",
+      "resumo_executivo": "O município de Pium, localizado na região do Araguaia, apresenta um \"paradoxo do crescimento econômico agro-dependente com desenvolvimento social ainda moderado\". Com uma população de 7.128 habitantes (2022) e área territorial de 10.004 km², o município registrou um crescimento expressivo do PIB entre 2017 e 2021 (de R$ 140,6 milhões para R$ 361,9 milhões), impulsionado principalmente pela expansão da soja e da pecuária bovina. No entanto, esse dinamismo econômico não se traduziu em avanços soci...",
+      "swot": {
+        "forcas": [
+          "Base agropecuária forte e em expansão: Valor adicionado da agropecuária cresceu 151% entre 2017-2021 (de R$ 6,5 milhões para R$ 16,4 milhões), com destaque para soja (117 mil toneladas em 2023), milho (56 mil toneladas) e rebanho bovino (204,7 mil cabeças).",
+          "Localização geográfica estratégica: Fronteira com o Pará e proximidade com Porto Nacional (119 km da capital), inserido em região de expansão do agronegócio.",
+          "Melhoria significativa nos indicadores de longevidade: Esperança de vida ao nascer saltou de 59,2 anos (1991) para 74,3 anos (2010); mortalidade infantil reduziu de 66,9‰ (1991) para 15,5‰ (2010).",
+          "Crescimento econômico acelerado: PIB cresceu 157% entre 2017-2021 (2,6 vezes a média estadual), com PIB per capita 25% acima da média do Tocantins.",
+          "Estrutura empresarial em consolidação: 424 empresas ativas (2024), com predominância de comércio (178) e serviços (156), além de 184 MEIs."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 629,
+      "tamanho_analise_caracteres": 34542
+    },
+    {
+      "nome": "PUGMIL",
+      "codigo_ibge": "1718455",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PUGMIL-COMPLETA.md",
+      "populacao_2022": 2193,
+      "area_km2": 401.0,
+      "pib_total_2021": "82.663",
+      "pib_per_capita_2021": "20.842,97",
+      "idhm_2010": "0.669",
+      "taxa_urbanizacao": "80.2%",
+      "resumo_executivo": "O município de Pugmil apresenta um \"paradoxo de crescimento econômico com estagnação demográfica e desafios sociais persistentes\". Com população de apenas 2.193 habitantes (2022), registra crescimento econômico significativo \\- PIB aumentou 63% entre 2017-2021, impulsionado pelo agronegócio (soja e pecuária). No entanto, a população diminuiu 7,4% desde 2010, indicando possíveis fluxos migratórios. O IDHM (0,669 em 2010\\) classifica o município como \"Médio\", mas com desigualdades marcantes: 20% m...",
+      "swot": {
+        "forcas": [
+          "Agronegócio Dinâmico e em Expansão: Produção de soja saltou de 7.442 ton (2019) para 16.266 ton (2023), crescimento de 118,5%. Área plantada de soja aumentou 89% no período.",
+          "Pecuária Forte e Diversificada: Rebanho bovino de 20.134 cabeças (2023), com crescimento de 41% desde 2019\\. Produção significativa de peixes (aquicultura).",
+          "Posição Logística Estratégica: Localizado às margens da BR-153 (Belém-Brasília), principal eixo de transporte regional.",
+          "Alfabetização Elevada: Taxa de alfabetização de 90% (2022), acima da média nacional para municípios pequenos.",
+          "IDHM em Trajetória Ascendente: Evoluiu de 0,196 (1991, muito baixo) para 0,669 (2010, médio), crescimento de 241% em duas décadas."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 615,
+      "tamanho_analise_caracteres": 30949
+    },
+    {
+      "nome": "SANDOLÂNDIA",
+      "codigo_ibge": "1718840",
+      "microrregiao": "Rio Formoso",
+      "arquivo_fonte": "FICHA-MUNICIPAL-SANDOLANDIA-COMPLETA.md",
+      "populacao_2022": 3723,
+      "area_km2": 3528.6,
+      "pib_total_2021": "116,736",
+      "pib_per_capita_2021": "22.913",
+      "idhm_2010": "0.659",
+      "taxa_urbanizacao": "56.1%",
+      "resumo_executivo": "Sandolândia, município tocantinense com 3.723 habitantes, apresenta um \"paradoxo do crescimento econômico concentrado com exclusão social\". A economia, impulsionada pelo agronegócio (especialmente soja e pecuária bovina), registrou crescimento significativo do PIB (67% entre 2017 e 2021). No entanto, este dinamismo não se traduziu em desenvolvimento social proporcional: 83% das famílias viviam em condição de pobreza em 2010, o IDHM (0,659) permanece na faixa média, e há elevada dependência de tr...",
+      "swot": {
+        "forcas": [
+          "Agronegócio Dinâmico e em Expansão: O setor agropecuário respondeu por 67,6% do VAB em 2021, com produção de soja crescendo de 2.023 ton (2019) para 4.873 ton (2023) e rebanho bovino estável em torno de 200 mil cabeças. O crédito rural (cust+inv+com) saltou de R$ 81,5 milhões (2019) para R$ 155,4 milhões (2023).",
+          "Crescimento Econômico Consistente: PIB cresceu 67% entre 2017-2021 (de R$ 69,8 mi para R$ 116,7 mi). PIB per capita aumentou 47,7% no mesmo período (R$ 15.517 para R$ 22.913).",
+          "Estrutura Fundiária com Propriedade Consolidada: 94% dos estabelecimentos agropecuários (388 de 413\\) são de terras próprias (2017), garantindo segurança jurídica para investimentos.",
+          "Melhoria em Indicadores de Longevidade: Esperança de vida ao nascer saltou de 61,4 anos (1991) para 72,5 anos (2010). Mortalidade infantil caiu drasticamente de 57,7‰ (1991) para 19,8‰ (2010).",
+          "Base Empresarial em Expansão: Total de empresas aumentou 11,5% entre 2023-2024 (de 261 para 291), com destaque para o crescimento de MEIs (de 117 para 157)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 594,
+      "tamanho_analise_caracteres": 33629
+    }
+  ],
   "Dianópolis": [
     {
       "nome": "ARRAIAS",
@@ -1380,6 +2394,33 @@
       },
       "tamanho_analise_linhas": 666,
       "tamanho_analise_caracteres": 33067
+    },
+    {
+      "nome": "CHAPADA DA NATIVIDADE",
+      "codigo_ibge": null,
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-CHAPADA DA NATIVIDADE-COMPLETA.md",
+      "populacao_2022": 3117,
+      "area_km2": 1641.0,
+      "pib_total_2021": "148,973",
+      "pib_per_capita_2021": "44.736,71",
+      "idhm_2010": "0.620",
+      "taxa_urbanizacao": "57.8%",
+      "resumo_executivo": "Chapada da Natividade, município tocantinense de 3.117 habitantes, apresenta um \"**paradoxo de crescimento econômico com exclusão social persistente**\". Enquanto o PIB cresceu 123% entre 2017 e 2021, atingindo R$ 148,9 milhões, e a agropecuária demonstra dinamismo (soja e pecuária bovina), os indicadores sociais revelam realidades preocupantes: 90% das famílias estavam em situação de pobreza em 2010, o IDHM (0,620 em 2010) ainda é classificado como médio-baixo, e o município enfrenta declínio po...",
+      "swot": {
+        "forcas": [
+          "O VAB da agropecuária mais que dobrou entre 2017 e 2021 (de R$31,5 mi para R$83,5 mi), com produção expressiva de soja (~45 mil ton.) e milho (~24 mil ton.). A pecuária bovina conta com um rebanho de 37 mil cabeças (2023).",
+          "Produção significativa de peixes nativos (tambaqui, tambacu, pintado), totalizando mais de 98 mil kg em 2023, representando uma alternativa de diversificação.",
+          "O PIB total apresentou crescimento notável de 123% entre 2017 e 2021, impulsionado pelo setor primário.",
+          "Volume de financiamentos crescente, atingindo R$ 64,2 milhões em 2023, indicando investimentos no setor produtivo.",
+          "Origem no ciclo do ouro no século XVIII e presença de comunidades quilombolas (São José e Chapada da Natividade), base para turismo cultural e étnico."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 568,
+      "tamanho_analise_caracteres": 40109
     },
     {
       "nome": "COMBINADO",
@@ -1536,6 +2577,33 @@
       },
       "tamanho_analise_linhas": 586,
       "tamanho_analise_caracteres": 38242
+    },
+    {
+      "nome": "PARANÃ",
+      "codigo_ibge": null,
+      "microrregiao": "Dianópolis",
+      "arquivo_fonte": "FICHA-MUNICIPAL-PARANA-COMPLETA.md",
+      "populacao_2022": 10542,
+      "area_km2": 11217.0,
+      "pib_total_2021": "315,4",
+      "pib_per_capita_2021": "18.663,11",
+      "idhm_2010": "0.595",
+      "taxa_urbanizacao": "59.1%",
+      "resumo_executivo": "Paranã, município histórico do Tocantins, apresenta um **\"paradoxo de estagnação populacional com crescimento econômico recente\"**. Enquanto a população permanece praticamente estável há 30 anos (10.966 hab. em 1991 para 10.542 em 2022), o PIB municipal saltou 47,2% entre 2017 e 2021, impulsionado pela expansão da pecuária bovina (83,5% de crescimento no efetivo entre 2019-2023) e pelo avanço da sojicultura (iniciada em 2022). Apesar da melhoria em indicadores de longevidade (esperança de vida a...",
+      "swot": {
+        "forcas": [
+          "Efetivo cresceu 83,5% entre 2019-2023, atingindo 253.044 cabeças em 2023\\. O município possui o 5º maior rebanho do Tocantins, com produção de leite expressiva (4,1 milhões de litros em 2023).",
+          "Início da cultura em 2022 com 700 ha, expandindo para 800 ha em 2023, produzindo 1.440 toneladas. Potencial para diversificação da matriz econômica rural.",
+          "Esperança de vida ao nascer aumentou 10,2 anos entre 1991-2010 (61,4 para 71,6 anos), reflexo de melhorias em saúde básica.",
+          "Taxa cresceu de 17,6% (1991) para 59,1% (2022), indicando concentração de serviços e infraestrutura.",
+          "Valor total concedido aumentou 330% entre 2019-2023 (R$ 28,1 milhões para R$ 120,8 milhões), demonstrando dinamismo no setor agropecuário."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 543,
+      "tamanho_analise_caracteres": 34815
     },
     {
       "nome": "PONTE ALTA DO BOM JESUS",
@@ -2161,455 +3229,6 @@
       "tamanho_analise_caracteres": 30952
     }
   ],
-  "Gurupi": [
-    {
-      "nome": "BREJINHO DE NAZARÉ",
-      "codigo_ibge": "1703701",
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-BREJINHO DE NAZARE-COMPLETA.md",
-      "populacao_2022": 4725,
-      "area_km2": 1723.0,
-      "pib_total_2021": "272,945",
-      "pib_per_capita_2021": "49.268",
-      "idhm_2010": "0.686",
-      "taxa_urbanizacao": "79.4%",
-      "resumo_executivo": "Brejinho de Nazaré, município tocantinense localizado a 92 km da capital Palmas, apresenta um \"paradoxo da riqueza agrícola com estagnação socioeconômica\". Com economia fortemente ancorada no agronegócio (soja, milho e pecuária), o município registrou PIB per capita de R$ 49.268 em 2021, acima da média estadual. Contudo, convive com declínio populacional (-0,8% ao ano entre 2010-2022), dependência significativa de transferências governamentais (64% da receita em 2023\\) e indicadores sociais que,...",
-      "swot": {
-        "forcas": [
-          "Base econômica agropecuária sólida: Produção de soja (79.020 toneladas em 2023\\) e milho (20.096 toneladas) com expansão contínua da área plantada. Rebanho bovino de 58.484 cabeças (2023) representa ativo significativo.",
-          "Localização estratégica: Próximo a Porto Nacional (município-mãe) e a 92 km de Palmas, facilitando escoamento e acesso a serviços.",
-          "Elevado PIB per capita: R$ 49.268 (2021), 52% acima da média estadual, indicando potencial de geração de riqueza.",
-          "Boa evolução do IDHM: Salto de 0,346 (1991) para 0,686 (2010), com avanços significativos em longevidade (0,820 \\- muito alto).",
-          "Infraestrutura de conectividade móvel adequada: Cobertura 4G para 82,6% dos moradores (Claro) e 82,6% (Tim), acima da média para municípios rurais."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 666,
-      "tamanho_analise_caracteres": 30230
-    },
-    {
-      "nome": "CARIRI DO TOCANTINS",
-      "codigo_ibge": "1703867",
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-CARIRI DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 4007,
-      "area_km2": 1126.0,
-      "pib_total_2021": "517.715",
-      "pib_per_capita_2021": "115.073,33",
-      "idhm_2010": "0.662",
-      "taxa_urbanizacao": "62.2%",
-      "resumo_executivo": "Cariri do Tocantins, município com cerca de 4.000 habitantes, apresenta um \"crescimento agroexportador com vulnerabilidades sociais e infraestruturais\". Sua economia é fortemente ancorada na produção de soja e pecuária bovina, com PIB per capita (R$ 115 mil em 2021\\) significativamente acima da média estadual, impulsionado por exportações que ultrapassaram US$ 90 milhões em 2023\\. Contudo, este dinamismo econômico convive com desafios estruturais: IDHM (0,662) ainda na faixa média, 77% das famíl...",
-      "swot": {
-        "forcas": [
-          "Economia Agroexportadora Dinâmica: Exportações recordes de US$ 90,8 milhões em 2023, com balança comercial superavitária. Produção de soja (88.532 toneladas em 2023\\) e pecuária bovina (86.274 cabeças) são os principais motores econômicos.",
-          "Localização Estratégica e Logística: Situado às margens da BR-153, principal corredor de escoamento do Centro-Oeste, facilitando o transporte de grãos e insumos.",
-          "Crescimento Sustentado do PIB: Evolução consistente do PIB, de R$ 345 milhões (2017) para R$ 518 milhões (2021), com aumento de 50% em 5 anos.",
-          "Mercado de Trabalho Formal em Expansão: Saldo positivo de empregos formais entre 2020-2023, com estoque crescendo 43% (de 740 para 1.061 vínculos ativos).",
-          "Disponibilidade de Crédito Rural: Financiamentos cresceram de R$ 56,8 milhões (2019) para R$ 162,3 milhões (2023), indicando investimento no setor produtivo."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 579,
-      "tamanho_analise_caracteres": 35914
-    },
-    {
-      "nome": "JAU DO TOCANTINS",
-      "codigo_ibge": "1711506",
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-JAU DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 3334,
-      "area_km2": 2167.0,
-      "pib_total_2021": "97.865.000",
-      "pib_per_capita_2021": "20.420,86",
-      "idhm_2010": "0.662",
-      "taxa_urbanizacao": "40.3%",
-      "resumo_executivo": "O município de Jaú do Tocantins apresenta um \"crescimento econômico com estagnação demográfica e desigualdades sociais persistentes\". Com população de apenas 3.334 habitantes (2022) e densidade de 1,5 hab/km², caracteriza-se como um município essencialmente rural (59,7% da população), mas com indicadores econômicos em ascensão, especialmente no agronegócio. O PIB per capita de R$ 20.420,86 (2021) supera a média estadual, porém contrasta com um IDHM de 0,662 (2010) ainda classificado como médio e...",
-      "swot": {
-        "forcas": [
-          "Base Agropecuária Forte e Diversificada: Efetivo bovino de 124.937 cabeças (2023) em expansão, produção de soja (7.798 toneladas em 2023), milho, mandioca e aquicultura. A agropecuária representa 60,4% do VAB municipal (2021).",
-          "Crescimento Econômico Sustentado: PIB cresceu 68% entre 2017-2021 (de R$ 58,4 milhões para R$ 97,9 milhões), com PIB per capita aumentando 27,7% no período.",
-          "Baixa Pressão Ambiental por Queimadas: Apenas 8 focos em 2023 (0,08% do total estadual), indicando relativa preservação do bioma Cerrado.",
-          "Disponibilidade de Crédito Rural: Financiamentos totais de R$ 102,2 milhões em 2023, com crescimento de 291% desde 2019, demonstrando confiança do sistema financeiro no setor.",
-          "Estrutura Fundiária Consolidada: 99,9% das terras são próprias (Censo Agro 2017), com estabilidade jurídica para investimentos."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 709,
-      "tamanho_analise_caracteres": 32854
-    },
-    {
-      "nome": "PALMEIRÓPOLIS",
-      "codigo_ibge": "1715705",
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PALMEIROPOLIS-COMPLETA.md",
-      "populacao_2022": 6975,
-      "area_km2": 1709.0,
-      "pib_total_2021": "170,1",
-      "pib_per_capita_2021": "28.820,73",
-      "idhm_2010": "0.673",
-      "taxa_urbanizacao": "84.0%",
-      "resumo_executivo": "Palmeirópolis apresenta um \"paradoxo de crescimento econômico com declínio populacional persistente\". Entre 1991 e 2022, a população caiu 41,5% (de 11.915 para 6.975 habitantes), enquanto o PIB cresceu 49,2% entre 2017 e 2021 (para R$170,1 milhões). O município tem economia fortemente baseada no agronegócio (soja em expansão) e alta dependência de transferências constitucionais (78,6% da receita em 2023). Apesar de melhorias no IDHM (0,673 em 2010 \\- médio) e indicadores sociais, enfrenta desafi...",
-      "swot": {
-        "forcas": [
-          "Base Agrícola Forte e em Expansão: Soja cresceu 228,8% na produção entre 2019-2023 (de 5.656 para 18.591 toneladas), com área expandindo de 2.020 para 4.767 hectares. O município tem vocação consolidada para grãos.",
-          "Pecuária Bovina Expressiva: Rebanho de 87.918 cabeças (2023), com crescimento de 40,5% desde 2019, representando ativo econômico significativo.",
-          "Melhoria Contínua do IDHM: Evoluiu de 0,412 (muito baixo) em 1991 para 0,673 (médio) em 2010, com componente longevidade atingindo 0,817 (muito alto).",
-          "Saneamento Básico em Melhoria: 84,0% dos domicílios com água por rede geral (2022), contra 38,6% em 1991\\. Coleta de lixo atinge 84,0% dos domicílios.",
-          "Educação com Indicadores Positivos: IDEB dos anos iniciais (6,2 em 2023\\) acima da média nacional; taxa de alfabetização de 88,4% (2022)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 945,
-      "tamanho_analise_caracteres": 37858
-    },
-    {
-      "nome": "PEIXE",
-      "codigo_ibge": null,
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PEIXE-COMPLETA.md",
-      "populacao_2022": 9317,
-      "area_km2": 5304.0,
-      "idhm_2010": "0.674",
-      "taxa_urbanizacao": "48.9%",
-      "resumo_executivo": "O município de Peixe apresenta um “paradoxo da riqueza agrícola com exclusão social”. Com uma economia fortemente ancorada no agronegócio – destacando-se como produtor expressivo de soja, milho e bovinos –, o município gera um Valor Adicionado Bruto crescente, especialmente no setor agropecuário. No entanto, esse dinamismo econômico não se traduz de forma equitativa em bem-estar social. Indicadores como o IDHM (0,674 em 2010, classificação médio) revelam um componente educacional ainda baixo (0,...",
-      "swot": {
-        "forcas": [
-          "Base Econômica Agropecuária Sólida e em Expansão: O Valor Adicionado Bruto (VAB) da agropecuária saltou de R$ 23,5 milhões (2017) para R$ 41,3 milhões (2021). A produção de soja atingiu 184.965 toneladas em 2023 e o rebanho bovino superou 287 mil cabeças, configurando uma base produtiva robusta.",
-          "Expressivo Acesso ao Crédito Rural: O volume de financiamentos concedidos à agricultura e pecuária cresceu consistentemente, atingindo R$ 413,7 milhões em 2023\\. Isso indica confiança do sistema financeiro e capacidade de investimento dos produtores.",
-          "Estrutura Fundiária com Predomínio de Grandes Propriedades: Em 2017, 74,8% da área total dos estabelecimentos (263.176 ha) estava em propriedades com mais de 1.000 hectares, o que pode facilitar a adoção de tecnologias e ganhos de escala.",
-          "Melhoria Contínua em Indicadores de Longevidade: A esperança de vida ao nascer aumentou de 62,9 anos (1991) para 73,7 anos (2010), e a mortalidade infantil caiu drasticamente de 51,4 (1991) para 16,8 (2010) por mil nascidos vivos.",
-          "Crescimento do Empreendedorismo Individual: O número de Microempreendedores Individuais (MEI) mais que dobrou entre 2019 (296) e 2023 (648), sinalizando dinamismo no setor de serviços e comércio local."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 614,
-      "tamanho_analise_caracteres": 39125
-    },
-    {
-      "nome": "SANTA RITA DO TOCANTINS",
-      "codigo_ibge": "1718899",
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-SANTA RITA DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 2219,
-      "area_km2": 3281.0,
-      "pib_total_2021": "180.273",
-      "pib_per_capita_2021": "63.257,61",
-      "idhm_2010": "0.651",
-      "taxa_urbanizacao": "45.2%",
-      "resumo_executivo": "Santa Rita do Tocantins apresenta o \"paradoxo da prosperidade agropecuária com estagnação socioestrutural\". Com população de apenas 2.219 habitantes (2022), o município possui um PIB per capita elevado (R$ 63.257,61 em 2021 \\- 57º no estado) impulsionado por uma agropecuária tecnificada e expansiva, mas convive com baixos indicadores de desenvolvimento humano (IDHM 0,651 em 2010 \\- classificação \"médio\"), infraestrutura sanitária precária (apenas 34,5% dos domicílios com água da rede geral em 20...",
-      "swot": {
-        "forcas": [
-          "Agronegócio tecnificado e expansivo: VAB da agropecuária cresceu 158% entre 2017-2021 (R$ 68.447 mil para R$ 177.193 mil), com produtividade elevada (soja: 3,25 t/ha em 2023).",
-          "PIB per capita elevado: R$ 63.257,61 (2021), 41,5% acima da média do Tocantins, indicando capacidade econômica per capita significativa.",
-          "Disponibilidade de crédito rural: Financiamentos agrícolas aumentaram 284% em valor entre 2019-2023 (R$ 63,7 milhões para R$ 244,4 milhões), demonstrando acesso ao crédito.",
-          "Boa conectividade móvel: Cobertura 4G atinge 46,8% dos moradores (Claro/Tim), acima da média para municípios rurais.",
-          "Recursos naturais preservados: 49.397 ha de matas/florestas destinadas à preservação (20,7% da área dos estabelecimentos), potencial para créditos ambientais."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 824,
-      "tamanho_analise_caracteres": 33273
-    },
-    {
-      "nome": "SÃO SALVADOR DO TOCANTINS",
-      "codigo_ibge": "1720259",
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-SAO SALVADOR DO TOCANTINS-COMPLETA.md",
-      "populacao_2022": 2385,
-      "area_km2": 1425.0,
-      "pib_total_2021": "49.467",
-      "pib_per_capita_2021": "12.618",
-      "idhm_2010": "0.605",
-      "taxa_urbanizacao": "50.8%",
-      "resumo_executivo": "São Salvador do Tocantins apresenta um cenário de \"estagnação socioeconômica com dependência estrutural\". Com população em declínio contínuo (2.385 habitantes em 2022), o município mantém uma economia modesta baseada em serviços públicos e agropecuária familiar, mas enfrenta desafios críticos em educação, saneamento básico e saúde pública. Apesar de possuir potencial agropecuário e localização estratégica às margens do Rio Tocantins, o município demonstra alta dependência de transferências const...",
-      "swot": {
-        "forcas": [
-          "Localização Estratégica e Recurso Hídrico: Situado às margens do Rio Tocantins, com potencial para aquicultura, turismo e irrigação. Presença de córrego São Salvador e recursos hídricos subterrâneos (268 domicílios com poço artesiano).",
-          "Base Agropecuária Consolidada: Efetivo bovino crescente (47.160 cabeças em 2023), produção significativa de mandioca (1.085 ton) e diversidade de cultivos (arroz, feijão, milho, banana). Acesso a crédito rural em expansão (R$ 53,2 milhões em 2023).",
-          "Estrutura Fundiária Predominantemente Familiar: 72% dos estabelecimentos com menos de 100 hectares, indicando agricultura familiar com potencial para políticas de assistência técnica e agregação de valor.",
-          "Infraestrutura Básica de Comunicações: Cobertura móvel 4G para 72% dos moradores (Claro), 3 ERBs operando, e acesso a banda larga fixa (92 acessos em 2023).",
-          "Gestão Fiscal com Receita Crescente: Transferências constitucionais aumentaram 67% (2019-2023), com FPM superando R$ 10 milhões em 2023, proporcionando capacidade de investimento público."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 639,
-      "tamanho_analise_caracteres": 31891
-    },
-    {
-      "nome": "SUCUPIRA",
-      "codigo_ibge": "1720853",
-      "microrregiao": "Gurupi",
-      "arquivo_fonte": "FICHA-MUNICIPAL-SUCUPIRA-COMPLETA.md",
-      "populacao_2022": 1577,
-      "area_km2": 1018.0,
-      "pib_total_2021": "532.374",
-      "pib_per_capita_2021": "89.062,14",
-      "idhm_2010": "0.667",
-      "taxa_urbanizacao": "72.2%",
-      "resumo_executivo": "O município de Sucupira configura-se como um \"caso de estagnação econômica com vulnerabilidade social persistente\". Com apenas 1.577 habitantes em 2022, registra queda populacional de 9,5% desde 2010, contrariando a tendência de crescimento do estado. Apesar de um PIB que quintuplicou em 5 anos (R$ 532 mil em 2021), impulsionado pela sojicultura, esta riqueza não se traduz em desenvolvimento humano proporcional: o IDHM de 0,667 (2010) ainda é classificado como médio, e 84% das famílias viviam em...",
-      "swot": {
-        "forcas": [
-          "Localização estratégica em corredor boiadeiro histórico: Situado na antiga estrada ligando Peixe a Figueirópolis, mantém vocação de conexão regional que originou o núcleo urbano.",
-          "Expressivo crescimento do PIB agropecuário: O Valor Adicionado da agropecuária cresceu 282% entre 2017 e 2021, saltando de R$ 14 mil para R$ 54 mil, puxado principalmente pela soja.",
-          "Infraestrutura bancária e de comunicações básica: Possui 1 posto de atendimento bancário eletrônico, 1 casa lotérica e cobertura móvel 4G para 67% dos moradores, assegurando conectividade mínima.",
-          "Avanço consistente do IDHM: O índice saltou de 0,319 (muito baixo) em 1991 para 0,667 (médio) em 2010, com melhoria em todos os componentes, especialmente educação.",
-          "Alta taxa de alfabetização entre jovens: 99,2% dos jovens de 15 a 19 anos eram alfabetizados em 2022, indicando base educacional positiva para as novas gerações."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 627,
-      "tamanho_analise_caracteres": 31774
-    }
-  ],
-  "Rio Formoso": [
-    {
-      "nome": "CHAPADA DE AREIA",
-      "codigo_ibge": "1704600",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-CHAPADA DE AREIA-COMPLETA.md",
-      "populacao_2022": 1501,
-      "area_km2": 659.0,
-      "pib_total_2021": "39.824",
-      "pib_per_capita_2021": "28.144,10",
-      "idhm_2010": "0.619",
-      "taxa_urbanizacao": "63.7%",
-      "resumo_executivo": "Chapada de Areia, município tocantinense emancipado em 1997, apresenta um \"paradoxo do isolamento produtivo\": enquanto demonstra crescimento econômico significativo baseado na agropecuária expansiva (especialmente soja e bovinocultura), permanece como o único município do estado não ligado por asfalto até a BR-153, condição que limita seu desenvolvimento integrado e acesso a mercados. Com apenas 1.501 habitantes (2022) e densidade demográfica de 2,3 hab/km², é um município essencialmente rural (...",
-      "swot": {
-        "forcas": [
-          "Crescimento Econômico Sustentado: PIB cresceu 52,8% entre 2020-2021 (de R$ 33,2 milhões para R$ 39,8 milhões), com expansão consistente da agropecuária.",
-          "Potencial Agropecuário Comprovado: Expressiva expansão da produção de soja (de 714 ton em 2019 para 7.557 ton em 2023\\) e do rebanho bovino (de 27.031 cabeças em 2019 para 47.356 em 2023).",
-          "Melhoria Contínua do IDHM: Evolução significativa de 0,240 (1991) para 0,619 (2010), saindo de \"muito baixo\" para \"médio\" desenvolvimento humano.",
-          "Acesso a Crédito Rural: Volume expressivo de financiamentos (R$ 22,3 milhões em 2023\\) indicando dinamismo no setor produtivo.",
-          "Baixa Pressão Demográfica: Densidade de apenas 2,3 hab/km² permite expansão das atividades produtivas sem conflitos fundiários significativos."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 598,
-      "tamanho_analise_caracteres": 31674
-    },
-    {
-      "nome": "CRISTALÂNDIA",
-      "codigo_ibge": "1706107",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-CRISTALANDIA-COMPLETA.md",
-      "populacao_2022": 6371,
-      "area_km2": 1851.0,
-      "pib_total_2021": "177.294.000",
-      "pib_per_capita_2021": "24.393,72",
-      "idhm_2010": "0.673",
-      "taxa_urbanizacao": "81.6%",
-      "resumo_executivo": "Cristalândia, município tocantinense fundado na década de 1940, apresenta um quadro de \"crescimento econômico agro-dependente com estagnação populacional e vulnerabilidade social\". Sua economia é fortemente ancorada no agronegócio, com PIB majoritariamente derivado da agropecuária (45,6% em 2021\\) e um crescimento expressivo do valor adicionado no setor (200% entre 2017-2021). No entanto, essa força econômica não se traduz em desenvolvimento humano equitativo, refletido em um IDHM ainda médio (0...",
-      "swot": {
-        "forcas": [],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 629,
-      "tamanho_analise_caracteres": 38458
-    },
-    {
-      "nome": "FÁTIMA",
-      "codigo_ibge": "1707553",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-FATIMA-COMPLETA.md",
-      "populacao_2022": 3467,
-      "area_km2": 380.0,
-      "pib_total_2021": "89,100",
-      "pib_per_capita_2021": "23.300",
-      "idhm_2010": "0.697",
-      "taxa_urbanizacao": "84.5%",
-      "resumo_executivo": "O município de Fátima apresenta um \"paradoxo de estagnação populacional com crescimento econômico recente\". Enquanto a população residente diminui consistentemente (-0,8% ao ano entre 2010-2022), o PIB municipal cresceu 50% entre 2017-2021, impulsionado pela expansão da sojicultura e pecuária. Este cenário revela uma economia agropecuária dinâmica que, no entanto, não retém população local, especialmente jovens, gerando desafios estruturais em educação, saúde e desenvolvimento social. Apesar de ...",
-      "swot": {
-        "forcas": [
-          "Economia agropecuária robusta e em expansão: O VAB da agropecuária cresceu 333% entre 2017-2021 (de R$ 5,8 para R$ 24,6 milhões), representando 27,6% do VAB total em 2021\\. A produção de soja aumentou 142% no período 2019-2023, atingindo 13.466 toneladas.",
-          "Boa conectividade digital: Cobertura móvel 4G alcança 90%+ da população pelas operadoras Claro e Tim. Acesso à banda larga fixa presente, embora com números modestos (77 acessos em 2023).",
-          "Sistema educacional público consolidado: 100% das matrículas são em instituições públicas (estaduais e municipais). IDEB dos anos iniciais alcançou 5,7 em 2019, indicando qualidade razoável no ensino fundamental.",
-          "Baixa incidência de doenças endêmicas: Casos de dengue, chikungunya e zika são esporádicos. Hanseníase apresenta média de 2-3 casos anuais, demonstrando controle epidemiológico.",
-          "Forte cultura empreendedora individual: 126 MEIs (49% do total de empresas) e crescimento de 29% no número de MEIs entre 2019-2023, indicando dinamismo econômico local."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 586,
-      "tamanho_analise_caracteres": 28230
-    },
-    {
-      "nome": "LAGOA DA CONFUSÃO",
-      "codigo_ibge": "1711902",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-LAGOA DA CONFUSAO-COMPLETA.md",
-      "populacao_2022": 15288,
-      "area_km2": 10563.0,
-      "pib_total_2021": "998,445",
-      "pib_per_capita_2021": "20.006,45",
-      "idhm_2010": "0.627",
-      "taxa_urbanizacao": "75.3%",
-      "resumo_executivo": "Lagoa da Confusão apresenta um \"crescimento econômico marcado por disparidades sociais e fragilidades na infraestrutura pública\". Com uma economia impulsionada pela agropecuária de grãos e pecuária extensiva, o município alcançou o 8º maior PIB do estado em 2021 e um PIB per capita de R$ 20 mil, acima da média estadual. No entanto, o IDH-M (0,627 em 2010\\) classifica-se apenas como médio, puxado para baixo pelo componente educação (0,496, muito baixo). Apesar da urbanização crescente (75,3% em 2...",
-      "swot": {
-        "forcas": [
-          "Economia Agropecuária Robustamente Estruturada: Grande produtor de soja (149.240 t em 2023), milho (98.040 t), arroz (291.640 t) e feijão (45.060 t). Rebanho bovino expressivo (143.915 cabeças em 2023), com crescimento de 67% desde 2019\\. O VAB da agropecuária saltou de R$ 6,9 milhões (2017) para R$ 42,2 milhões (2021).",
-          "PIB per capita Elevado e em Ascensão: Com R$ 20.006 em 2021, o PIB per capita mais que dobrou em relação a 2017 (R$ 9.214) e posiciona o município acima da média de muitos municípios tocantinenses.",
-          "Crescimento Populacional e Urbanização Dinâmica: População cresceu 50% entre 2010 e 2022, com taxa de urbanização atingindo 75,3%, indicando atratividade e concentração de serviços.",
-          "Infraestrutura de Conectividade Digital em Expansão: Acessos à banda larga fixa explodiram de 345 (2019) para 2.033 (2023). Cobertura 4G atinge mais de 60% dos moradores pelas principais operadoras.",
-          "Presença de Oferta de Ensino Superior: Há uma instituição ofertando 31 cursos presenciais e 30 polos de EAD, com 199 matrículas (2023), um diferencial para municípios de porte similar."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 662,
-      "tamanho_analise_caracteres": 44335
-    },
-    {
-      "nome": "NOVA ROSALÂNDIA",
-      "codigo_ibge": "1718907",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-NOVA ROSALANDIA-COMPLETA.md",
-      "populacao_2022": 3362,
-      "area_km2": 515.0,
-      "pib_total_2021": "100,915",
-      "pib_per_capita_2021": "19.038,97",
-      "idhm_2010": "0.661",
-      "taxa_urbanizacao": "82.7%",
-      "resumo_executivo": "Nova Rosalândia é um município tocantinense de pequeno porte (3.362 hab., 2022\\) que apresenta um \"paradoxo de crescimento agropecuário sem desenvolvimento humano proporcional\". Enquanto o PIB cresceu 104% entre 2017-2021, impulsionado pela expansão da soja e milho, o IDHM permanece em patamar médio (0,661 em 2010\\) e indicadores sociais como pobreza extrema (28% das famílias em 2010\\) e educação apresentam desafios significativos. O município tem alta dependência de transferências governamentai...",
-      "swot": {
-        "forcas": [
-          "Crescimento econômico sustentado: PIB cresceu 104% entre 2017-2021 (R$49,4 milhões para R$100,9 milhões), com destaque para o setor agropecuário que cresceu 230% no período.",
-          "Base produtiva agropecuária consolidada: Soja (28.451 toneladas em 2023), milho (16.910 toneladas) e pecuária bovina (21.728 cabeças) formam base econômica sólida.",
-          "Urbanização crescente com infraestrutura básica: Taxa de urbanização alcança 82,7% em 2022, com 97,9% dos domicílios tendo banheiro e 71,4% com água via rede geral.",
-          "Acesso a crédito rural expressivo: R$47,98 milhões em financiamentos concedidos em 2023, indicando dinamismo no setor produtivo.",
-          "Melhoria contínua em indicadores de longevidade: Esperança de vida ao nascer aumentou de 62,7 anos (1991) para 72,5 anos (2010)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 630,
-      "tamanho_analise_caracteres": 25195
-    },
-    {
-      "nome": "OLIVEIRA DE FÁTIMA",
-      "codigo_ibge": "1715507",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-OLIVEIRA DE FATIMA-COMPLETA.md",
-      "populacao_2022": 1164,
-      "area_km2": 209.0,
-      "pib_total_2021": "29,469",
-      "pib_per_capita_2021": "32.977,35",
-      "idhm_2010": "0.675",
-      "taxa_urbanizacao": "84.5%",
-      "resumo_executivo": "Oliveira de Fátima representa o \"paradoxo do pequeno município tocantinense em transição\": embora apresente crescimento econômico recente (PIB aumentou 50% em 4 anos) e avanços sociais significativos no IDHM (de 0,340 para 0,675 em 20 anos), permanece como o menor município do estado em população (1.164 hab) e enfrenta vulnerabilidades estruturais. O diagnóstico principal revela uma economia em transformação \\- com explosão da sojicultura (área quadruplicada em 5 anos) e dependência crítica do s...",
-      "swot": {
-        "forcas": [],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 1006,
-      "tamanho_analise_caracteres": 41591
-    },
-    {
-      "nome": "PIUM",
-      "codigo_ibge": "1717503",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PIUM-COMPLETA.md",
-      "populacao_2022": 7128,
-      "area_km2": 10004.0,
-      "pib_total_2021": "361.915",
-      "pib_per_capita_2021": "14.426,13",
-      "idhm_2010": "0.650",
-      "taxa_urbanizacao": "53.4%",
-      "resumo_executivo": "O município de Pium, localizado na região do Araguaia, apresenta um \"paradoxo do crescimento econômico agro-dependente com desenvolvimento social ainda moderado\". Com uma população de 7.128 habitantes (2022) e área territorial de 10.004 km², o município registrou um crescimento expressivo do PIB entre 2017 e 2021 (de R$ 140,6 milhões para R$ 361,9 milhões), impulsionado principalmente pela expansão da soja e da pecuária bovina. No entanto, esse dinamismo econômico não se traduziu em avanços soci...",
-      "swot": {
-        "forcas": [
-          "Base agropecuária forte e em expansão: Valor adicionado da agropecuária cresceu 151% entre 2017-2021 (de R$ 6,5 milhões para R$ 16,4 milhões), com destaque para soja (117 mil toneladas em 2023), milho (56 mil toneladas) e rebanho bovino (204,7 mil cabeças).",
-          "Localização geográfica estratégica: Fronteira com o Pará e proximidade com Porto Nacional (119 km da capital), inserido em região de expansão do agronegócio.",
-          "Melhoria significativa nos indicadores de longevidade: Esperança de vida ao nascer saltou de 59,2 anos (1991) para 74,3 anos (2010); mortalidade infantil reduziu de 66,9‰ (1991) para 15,5‰ (2010).",
-          "Crescimento econômico acelerado: PIB cresceu 157% entre 2017-2021 (2,6 vezes a média estadual), com PIB per capita 25% acima da média do Tocantins.",
-          "Estrutura empresarial em consolidação: 424 empresas ativas (2024), com predominância de comércio (178) e serviços (156), além de 184 MEIs."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 629,
-      "tamanho_analise_caracteres": 34542
-    },
-    {
-      "nome": "PUGMIL",
-      "codigo_ibge": "1718455",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-PUGMIL-COMPLETA.md",
-      "populacao_2022": 2193,
-      "area_km2": 401.0,
-      "pib_total_2021": "82.663",
-      "pib_per_capita_2021": "20.842,97",
-      "idhm_2010": "0.669",
-      "taxa_urbanizacao": "80.2%",
-      "resumo_executivo": "O município de Pugmil apresenta um \"paradoxo de crescimento econômico com estagnação demográfica e desafios sociais persistentes\". Com população de apenas 2.193 habitantes (2022), registra crescimento econômico significativo \\- PIB aumentou 63% entre 2017-2021, impulsionado pelo agronegócio (soja e pecuária). No entanto, a população diminuiu 7,4% desde 2010, indicando possíveis fluxos migratórios. O IDHM (0,669 em 2010\\) classifica o município como \"Médio\", mas com desigualdades marcantes: 20% m...",
-      "swot": {
-        "forcas": [
-          "Agronegócio Dinâmico e em Expansão: Produção de soja saltou de 7.442 ton (2019) para 16.266 ton (2023), crescimento de 118,5%. Área plantada de soja aumentou 89% no período.",
-          "Pecuária Forte e Diversificada: Rebanho bovino de 20.134 cabeças (2023), com crescimento de 41% desde 2019\\. Produção significativa de peixes (aquicultura).",
-          "Posição Logística Estratégica: Localizado às margens da BR-153 (Belém-Brasília), principal eixo de transporte regional.",
-          "Alfabetização Elevada: Taxa de alfabetização de 90% (2022), acima da média nacional para municípios pequenos.",
-          "IDHM em Trajetória Ascendente: Evoluiu de 0,196 (1991, muito baixo) para 0,669 (2010, médio), crescimento de 241% em duas décadas."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 615,
-      "tamanho_analise_caracteres": 30949
-    },
-    {
-      "nome": "SANDOLÂNDIA",
-      "codigo_ibge": "1718840",
-      "microrregiao": "Rio Formoso",
-      "arquivo_fonte": "FICHA-MUNICIPAL-SANDOLANDIA-COMPLETA.md",
-      "populacao_2022": 3723,
-      "area_km2": 3528.6,
-      "pib_total_2021": "116,736",
-      "pib_per_capita_2021": "22.913",
-      "idhm_2010": "0.659",
-      "taxa_urbanizacao": "56.1%",
-      "resumo_executivo": "Sandolândia, município tocantinense com 3.723 habitantes, apresenta um \"paradoxo do crescimento econômico concentrado com exclusão social\". A economia, impulsionada pelo agronegócio (especialmente soja e pecuária bovina), registrou crescimento significativo do PIB (67% entre 2017 e 2021). No entanto, este dinamismo não se traduziu em desenvolvimento social proporcional: 83% das famílias viviam em condição de pobreza em 2010, o IDHM (0,659) permanece na faixa média, e há elevada dependência de tr...",
-      "swot": {
-        "forcas": [
-          "Agronegócio Dinâmico e em Expansão: O setor agropecuário respondeu por 67,6% do VAB em 2021, com produção de soja crescendo de 2.023 ton (2019) para 4.873 ton (2023) e rebanho bovino estável em torno de 200 mil cabeças. O crédito rural (cust+inv+com) saltou de R$ 81,5 milhões (2019) para R$ 155,4 milhões (2023).",
-          "Crescimento Econômico Consistente: PIB cresceu 67% entre 2017-2021 (de R$ 69,8 mi para R$ 116,7 mi). PIB per capita aumentou 47,7% no mesmo período (R$ 15.517 para R$ 22.913).",
-          "Estrutura Fundiária com Propriedade Consolidada: 94% dos estabelecimentos agropecuários (388 de 413\\) são de terras próprias (2017), garantindo segurança jurídica para investimentos.",
-          "Melhoria em Indicadores de Longevidade: Esperança de vida ao nascer saltou de 61,4 anos (1991) para 72,5 anos (2010). Mortalidade infantil caiu drasticamente de 57,7‰ (1991) para 19,8‰ (2010).",
-          "Base Empresarial em Expansão: Total de empresas aumentou 11,5% entre 2023-2024 (de 261 para 291), com destaque para o crescimento de MEIs (de 117 para 157)."
-        ],
-        "fraquezas": [],
-        "oportunidades": [],
-        "ameacas": []
-      },
-      "tamanho_analise_linhas": 594,
-      "tamanho_analise_caracteres": 33629
-    }
-  ],
   "N/D": [
     {
       "nome": "COLINAS DO TOCANTINS",
@@ -2720,6 +3339,33 @@
       "tamanho_analise_caracteres": 36295
     },
     {
+      "nome": "DOIS IRMÃOS DO TOCANTINS",
+      "codigo_ibge": null,
+      "microrregiao": "N/D",
+      "arquivo_fonte": "FICHA-MUNICIPAL-DOIS IRMAOS DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 6327,
+      "area_km2": 3748.0,
+      "pib_total_2021": "216.149",
+      "pib_per_capita_2021": "30.133,74",
+      "idhm_2010": "0.583",
+      "taxa_urbanizacao": "48.1%",
+      "resumo_executivo": "Dois Irmãos do Tocantins apresenta um **\"crescimento econômico recente acompanhado de exclusão social e declínio populacional persistente\"**. Entre 2017 e 2021, o PIB per capita saltou de R$ 14 mil para R$ 30 mil, impulsionado pela expansão da soja e da pecuária. No entanto, esse indicador reflete mais a redução da população (–1% ao ano desde 2010\\) do que uma melhoria generalizada da renda. O IDHM (0,583 em 2010\\) permanece na faixa \"baixa\", puxado para baixo por uma educação historicamente frá...",
+      "swot": {
+        "forcas": [
+          "Soja (39,6 mil t em 2023), milho (27,7 mil t) e pecuária bovina (218,5 mil cabeças) formam a base econômica. O Valor Adicionado da Agropecuária mais que dobrou entre 2017-2021 (R$ 39,3 mil para R$ 95,4 mil).",
+          "Aumento de 114% entre 2017 e 2021 (de R$ 14 mil para R$ 30 mil), superando a média estadual.",
+          "Avanço no acesso à água por rede geral (1.071 domicílios em 2022\\) e na existência de banheiro exclusivo (94,7% dos domicílios).",
+          "Financiamentos somaram R$ 174,1 milhões em 2023, indicando dinamismo no setor produtivo.",
+          "320 empresas ativas em 2024, com destaque para o comércio (177) e serviços (83). O número de MEIs cresceu 42,5% entre 2019-2023."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 564,
+      "tamanho_analise_caracteres": 35309
+    },
+    {
       "nome": "ITAPORÃ DO TOCANTINS",
       "codigo_ibge": "1711100",
       "microrregiao": "N/D",
@@ -2799,6 +3445,33 @@
       },
       "tamanho_analise_linhas": 618,
       "tamanho_analise_caracteres": 37990
+    },
+    {
+      "nome": "MONTE SANTO DO TOCANTINS",
+      "codigo_ibge": null,
+      "microrregiao": "N/D",
+      "arquivo_fonte": "FICHA-MUNICIPAL-MONTE SANTO DO TOCANTINS-COMPLETA.md",
+      "populacao_2022": 2396,
+      "area_km2": 1073.0,
+      "pib_total_2021": "75.004",
+      "pib_per_capita_2021": "19.173,33",
+      "idhm_2010": "0.620",
+      "taxa_urbanizacao": "55.1%",
+      "resumo_executivo": "Monte Santo do Tocantins é um município jovem (emancipado em 1994), de pequeno porte populacional (2.396 habitantes) e economia fortemente ancorada na agropecuária, especialmente na soja e na pecuária bovina. A análise revela um \"**paradoxo do crescimento econômico com persistência de vulnerabilidades sociais**\". Embora tenha apresentado salto expressivo no PIB (de R$ 36,6 mi em 2017 para R$ 75,0 mi em 2021\\) e uma evolução positiva do IDHM (de 0,153 para 0,620 entre 1991 e 2010), o município ai...",
+      "swot": {
+        "forcas": [
+          "Expressiva produção de soja (8.745 ton em 2023\\) e grande rebanho bovino (100.353 cabeças em 2023). O Valor Adicionado da Agropecuária cresceu 98% entre 2017 e 2021\\.",
+          "PIB mais que dobrou em 5 anos (2017-2021), com salto no ranking estadual de 118º para 105º.",
+          "O índice saiu de \"Muito Baixo\" (0,153) em 1991 para \"Médio\" (0,620) em 2010, impulsionado principalmente pelos componentes Longevidade e Educação.",
+          "Valor total de financiamentos concedidos saltou de R$ 19,9 mi (2019) para R$ 81,0 mi (2023), indicando investimento no setor produtivo.",
+          "89,4% em 2022, com destaque para a alfabetização de mulheres (91,9%)."
+        ],
+        "fraquezas": [],
+        "oportunidades": [],
+        "ameacas": []
+      },
+      "tamanho_analise_linhas": 579,
+      "tamanho_analise_caracteres": 38443
     },
     {
       "nome": "PINDORAMA DO TOCANTINS",

@@ -1,6 +1,6 @@
 # TABELA COMPARATIVA DETALHADA: MICRORREGIÃO DE ARAGUAÍNA
 
-**Total de Municípios:** 12
+**Total de Municípios:** 15
 **Fonte:** Fichas Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -12,10 +12,13 @@
 | ARAGUAÍNA | 171.301 | 4005.2 | 5.239.050 | 28.129,89 | 0.733 |
 | WANDERLÂNDIA | 10.522 | 1365.0 | 183.424 | 15.566,87 | 0.638 |
 | XAMBIOÁ | 10.517 | 1190.0 | 471.020 | 40.958,25 | 0.671 |
+| NOVA OLINDA | 10.367 | 1568.0 | 320.311 | 23.209,50 | 0.631 |
 | BABAÇULÂNDIA | 7.880 | 1790.0 | 158,7 | 14.880,15 | 0.642 |
 | FILADÉLFIA | 7.712 | 1991.0 | 129.323 | 14.543,77 | 0.621 |
 | SANTA FÉ DO ARAGUAIA | 7.216 | 1671.0 | 175.927 | 39.477,03 | 0.616 |
 | ARAPOEMA | 5.550 | 1558.0 | 324,5 | 49.244,74 | 0.680 |
+| ARAGOMINAS | 5.290 | 1168.0 | 98,441 | 17.255,24 | 0.593 |
+| PALMEIRANTE | 4.798 | 2638.0 | 185.349 | 13.961,56 | 0.571 |
 | ARAGUANÃ | 4.310 | 835.0 | 101,858 | 17.393,75 | 0.604 |
 | BANDEIRANTES DO TOCANTINS | 3.407 | 1541.0 | 178,654 | 49.202,29 | 0.638 |
 | MURICILÂNDIA | 3.367 | 1194.0 | 69,465 | 26.722,15 | 0.596 |
@@ -27,6 +30,11 @@
 ## 2. SWOT CONSOLIDADO DA MICRORREGIÃO
 
 ### Principais Forças Identificadas (por município)
+
+**ARAGOMINAS:**
+- em 2023. É um setor dinâmico e consolidado.
+- no mesmo período.
+- Com R$ 17.255,24 em 2021, o PIB per capita do município supera a média de muitos municípios da região, indicando uma geração de riqueza significativa para o seu porte populacional.
 
 **ARAGUAÍNA:**
 - Polo Regional de Serviços e Saúde: Maior cidade do interior tocantinense, com 598 leitos hospitalares, 5 instituições de ensino superior e ampla rede de comércio e serviços, atraindo população de toda...
@@ -68,6 +76,16 @@
 - Acesso a Crédito Rural Consolidado: O município conta com fluxo significativo de financiamentos para produtores e cooperativas, totalizando R$ 29,9 milhões em 2023, indicando confiança do sistema fina...
 - PIB per capita Relativamente Alto: Com R$ 26.722 (2021), o PIB per capita está acima da média estadual, indicando potencial de geração de renda a ser melhor distribuído e convertido em bem-estar.
 
+**NOVA OLINDA:**
+- Valor adicionado bruto da agropecuária cresceu 368,9% entre 2017-2021 (R$ 10.582 mil para R$ 49.602 mil). Soja é o principal produto (1.502 toneladas em 2023), com rebanho bovino de 100.414 cabeças (2...
+- Exportações consistentes (US$ 11,47 milhões em 2023\) sem importações, indicando produção voltada para mercado externo.
+- Aumento de 111,5% entre 2017-2021 (R$ 11.749,76 para R$ 23.209,50), sinal de dinamismo econômico.
+
+**PALMEIRANTE:**
+- A agropecuária é o carro-chefe, com o VAB do setor crescendo 101,5% entre 2017 e 2021 (de R$ 14,1 mil para R$ 27,4 mil). A soja teve produção recorde em 2023 (28.980 toneladas).
+- Balança comercial fortemente positiva, com saldo de US$ 84,2 milhões em 2023, indicando alta produtividade e inserção no mercado externo.
+- Aumento de 13,5% no número de estabelecimentos agropecuários (2006-2017), com predomínio de propriedades entre 20 e 500 ha, sugerando um setor em consolidação.
+
 **PIRAQUÊ:**
 - Agronegócio Dinâmico e em Expansão: Valor Adicionado Bruto da agropecuária cresceu 400% entre 2017-2021, saltando de R$ 63,9 mil para R$ 253,1 mil. A produção de soja atingiu 22,5 mil toneladas (2022)...
 - Crescimento Econômico Sustentado: PIB municipal cresceu 97.7% em 5 anos (2017-2021), com PIB per capita mais que dobrando no período, indicando geração de riqueza acima do crescimento populacional.
@@ -95,10 +113,10 @@
 
 ## 3. ESTATÍSTICAS DA MICRORREGIÃO
 
-- **População Total:** 236.265 habitantes
-- **Área Total:** 18.842,20 km²
-- **Densidade Média:** 12.54 hab/km²
-- **Número de Municípios:** 12
+- **População Total:** 256.720 habitantes
+- **Área Total:** 24.216,20 km²
+- **Densidade Média:** 10.60 hab/km²
+- **Número de Municípios:** 15
 - **Município Mais Populoso:** ARAGUAÍNA (171.301 hab)
 - **Município Menos Populoso:** CARMOLÂNDIA (2.201 hab)
 
