@@ -142,6 +142,74 @@ Análise detalhada de cada microrregião:
 
 ---
 
+## 📋 PLANEJAMENTO DAS FASES FINAIS
+
+**Data:** 06 de Fevereiro de 2026
+**Status:** ✅ Planejamento Completo Criado | ⏳ Aguardando Aprovação para Início
+
+### Estratégia: Consolidação Ascendente + Refinamento
+
+Com as **139 fichas municipais completas** em mãos, agora executaremos:
+
+1. **Consolidação Ascendente:** Município → Microrregião → Estado
+2. **Refinamento e Aprofundamento:** Volume 1 v2.0 + Fichas com análise comparativa
+3. **Simplificação para Volume 2:** Fichas de 3 páginas para uso em campanha
+
+### 📄 Documentos de Planejamento
+
+- **Detalhado:** [`PLANEJAMENTO-FASES-FINAIS.md`](./PLANEJAMENTO-FASES-FINAIS.md) (~40 páginas)
+- **Resumo Executivo:** [`RESUMO-PLANEJAMENTO.md`](./RESUMO-PLANEJAMENTO.md) (~5 páginas)
+
+### 🎯 6 Fases Principais
+
+| Fase | Nome | Duração | Entregas Principais |
+|------|------|---------|---------------------|
+| **1** | Consolidação Ascendente | 1-2 sem | 8 fichas regionais + Panorama Estadual revisados |
+| **2** | Volume 1 v2.0 | 3-5 dias | Volume 1 aprimorado (~130-150 pág) |
+| **3** | Refinamento Municipal | 2-3 sem | Fichas v2.0 com análise comparativa + Base CSV |
+| **4** | Volume 2 - Estruturação | 3-5 dias | Estrutura fichas simplificadas (3 pág) definida |
+| **5** | Volume 2 - Produção | 1-2 sem | 139 fichas simplificadas organizadas |
+| **6** | Publicação Final | 1 sem | Volume 2 completo publicado |
+
+### 📅 Cronograma Estimado
+
+- **Início:** 10 de Fevereiro de 2026
+- **Conclusão:** Meados de Abril de 2026
+- **Duração:** 4-6 semanas (130-190 horas de esforço)
+
+### 🎁 Entregas Finais Previstas
+
+**Volume 1 v2.0:**
+- ~130-150 páginas (vs. 100-110 do v1.1)
+- Análises aprofundadas com dados dos 139 municípios
+- Rankings e análises comparativas
+
+**Volume 2 v1.0:**
+- 139 fichas simplificadas (3 páginas cada = 417 páginas)
+- Base de dados completa (139 × 824 indicadores)
+- Organizadas por 8 microrregiões
+
+**Produtos Auxiliares:**
+- 139 fichas completas v2.0 (18-20 páginas cada, com análise comparativa)
+- Base de dados CSV e Excel
+- Dicionários e guias de uso
+
+**TOTAL DO PROJETO:** ~3.350 páginas de análise + base de dados estruturada
+
+### ✋ Próximos Passos
+
+**Aguardando Decisão:**
+1. Aprovar planejamento para iniciar Fase 1
+2. Definir prioridades de execução (todas as fases ou caminho mais rápido?)
+3. Alocar recursos e tempo
+
+**Opções de Execução:**
+- **Opção A - Completo:** Todas as 6 fases (máxima qualidade, mais tempo)
+- **Opção B - Direto ao Vol.2:** Fases 3.2→4→5→6 (publicação mais rápida)
+- **Opção C - Híbrido:** Fases críticas agora, aprofundamento depois
+
+---
+
 ## 🔄 Refatoração V02 - Em Planejamento
 
 **Data do Plano:** 27 de Janeiro de 2026

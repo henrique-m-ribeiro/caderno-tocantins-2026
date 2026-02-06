@@ -16,6 +16,28 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
   - Estimativa: 55-60 horas de trabalho em 6 semanas
   - **Progresso Atual:** 141/279 documentos (50.5%)
 
+### 📋 Planejamento (06/02/2026)
+- 🎯 **PLANEJAMENTO COMPLETO DAS FASES FINAIS CRIADO**
+  - Documento: `PLANEJAMENTO-FASES-FINAIS.md` (detalhado, 40+ páginas)
+  - Resumo: `RESUMO-PLANEJAMENTO.md` (executivo, 5 páginas)
+  - **Estratégia:** Consolidação ascendente (município → região → estado) + refinamento
+  - **6 Fases definidas:**
+    1. **Consolidação Ascendente** - Revisar fichas regionais e panorama estadual
+    2. **Volume 1 v2.0** - Publicar versão aprimorada do Volume 1
+    3. **Refinamento Municipal** - Adicionar visão comparativa + gerar CSVs completos
+    4. **Volume 2 - Estruturação** - Definir fichas simplificadas (3 páginas)
+    5. **Volume 2 - Produção** - Gerar 139 fichas simplificadas
+    6. **Publicação Final** - Consolidar e publicar Volume 2 completo
+  - **Cronograma:** 4-6 semanas (130-190 horas de esforço)
+  - **Entregas Finais:**
+    * Volume 1 v2.0: ~130-150 páginas (vs. 100-110 do v1.1)
+    * Volume 2 v1.0: 139 fichas simplificadas (3 pág × 139 = 417 pág)
+    * Base de dados completa: 139 municípios × 824 indicadores
+    * Fichas completas v2.0: 139 × 18-20 páginas (com análise comparativa)
+  - **Total do Projeto:** ~3.350 páginas + base estruturada
+  - **Pontos de decisão:** 6 aprovações ao longo das fases
+  - **Status:** ⏳ Aguardando aprovação para iniciar Fase 1
+
 ### ✅ Concluído (06/02/2026)
 - 🎉 **TODAS AS 139 FICHAS MUNICIPAIS COMPLETAS**
   - Localização: `parte-iii-fichas-municipais/deepseek-v3/fichas-completas/`
