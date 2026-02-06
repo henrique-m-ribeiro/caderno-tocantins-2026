@@ -8,6 +8,7 @@ Formato: Fichas de 15-25 páginas com análise SWOT, resumo executivo, 9 dimens�
 import os
 import re
 import json
+import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
@@ -138,8 +139,23 @@ def extrair_swot(content):
 
     return swot
 
+def normalizar_nome(nome):
+    """Remove acentos e normaliza o nome do município"""
+    if not nome:
+        return None
+    # Remove acentos
+    nome_norm = unicodedata.normalize('NFKD', nome)
+    nome_norm = ''.join([c for c in nome_norm if not unicodedata.combining(c)])
+    # Remove espaços extras e converte para maiúsculas
+    return nome_norm.upper().strip()
+
 def identificar_microrregiao(nome_municipio):
     """Identifica a microrregião do município"""
+    # Normaliza o nome antes de buscar no mapeamento
+    nome_norm = normalizar_nome(nome_municipio)
+    if not nome_norm:
+        return 'N/D'
+
     # Mapeamento conhecido das microrregiões (baseado no mapeamento anterior)
     mapeamento = {
         # Porto Nacional
@@ -288,8 +304,6 @@ def identificar_microrregiao(nome_municipio):
         'SANDOLANDIA': 'Rio Formoso',
     }
 
-    # Normaliza nome para busca
-    nome_norm = nome_municipio.upper().strip()
     return mapeamento.get(nome_norm, 'N/D')
 
 def processar_ficha_completa(filepath):
