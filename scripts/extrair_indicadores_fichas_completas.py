@@ -8,6 +8,7 @@ Formato: Fichas de 15-25 páginas com análise SWOT, resumo executivo, 9 dimens�
 import os
 import re
 import json
+import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
@@ -20,13 +21,22 @@ def extrair_nome_e_codigo(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read(2000)  # Lê primeiras linhas
 
-        # Padrão: # **ANÁLISE SOCIOECONÔMICA \- NOME DO MUNICÍPIO**
-        # O hífen pode estar escapado com backslash
-        match_nome = re.search(r'#\s*\*\*AN[ÁA]LISE SOCIOECON[ÔO]MICA\s*\\?[-–]\s*([A-ZÀ-Ú\s]+)\*\*', content, re.IGNORECASE)
-        nome = match_nome.group(1).strip() if match_nome else None
+        # Padrão: # **ANÁLISE SOCIOECONÔMICA \- NOME** ou # ANÁLISE SOCIOECONÔMICA - NOME
+        # O hífen pode estar escapado com backslash, e os asteriscos são opcionais
+        # Captura letras maiúsculas, acentos, espaços, parênteses, apóstrofos, barras
+        match_nome = re.search(r'#\s*\*{0,2}AN[ÁA]LISE SOCIOECON[ÔO]MICA\s*\\?[-–]\s*([A-ZÀ-Ú\s()\'\/]+?)(?:\*{0,2})(?:\n|$)', content, re.IGNORECASE)
+        if match_nome:
+            nome = match_nome.group(1).strip()
+            # Remove sufixos comuns: (TO), /TO, (FORTALEZA DO...)
+            nome = re.sub(r'\s*\(TO\)\s*$', '', nome, flags=re.IGNORECASE)
+            nome = re.sub(r'\s*/TO\s*$', '', nome, flags=re.IGNORECASE)
+            nome = re.sub(r'\s*\([^)]*FORTALEZA[^)]*\)\s*$', '', nome, flags=re.IGNORECASE)
+            nome = nome.strip()
+        else:
+            nome = None
 
-        # Código IBGE
-        match_codigo = re.search(r'C[óo]digo IBGE:\s*(\d+)', content)
+        # Código IBGE - aceita com ou sem asteriscos
+        match_codigo = re.search(r'C[óo]digo IBGE:\s*\*{0,2}(\d+)\*{0,2}', content)
         codigo_ibge = match_codigo.group(1) if match_codigo else None
 
         return nome, codigo_ibge
@@ -35,8 +45,8 @@ def extrair_dados_fundamentais(content):
     """Extrai tabela de dados fundamentais"""
     dados = {}
 
-    # Encontra a seção "DADOS FUNDAMENTAIS"
-    match_section = re.search(r'##\s*\*\*📊 DADOS FUNDAMENTAIS\*\*\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
+    # Encontra a seção "DADOS FUNDAMENTAIS" - com ou sem asteriscos
+    match_section = re.search(r'##\s*\*{0,2}📊 DADOS FUNDAMENTAIS\*{0,2}\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
     if not match_section:
         return dados
 
@@ -93,8 +103,8 @@ def extrair_dados_fundamentais(content):
     return dados
 
 def extrair_resumo_executivo(content):
-    """Extrai o resumo executivo"""
-    match = re.search(r'##\s*\*\*📋 RESUMO EXECUTIVO\*\*\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
+    """Extrai o resumo executivo - com ou sem asteriscos"""
+    match = re.search(r'##\s*\*{0,2}📋 RESUMO EXECUTIVO\*{0,2}\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
     if match:
         resumo = match.group(1).strip()
         # Limita a 500 caracteres para o JSON
@@ -102,44 +112,59 @@ def extrair_resumo_executivo(content):
     return None
 
 def extrair_swot(content):
-    """Extrai análise SWOT"""
+    """Extrai análise SWOT - com ou sem asteriscos"""
     swot = {'forcas': [], 'fraquezas': [], 'oportunidades': [], 'ameacas': []}
 
-    # Encontra seção SWOT
-    match_swot = re.search(r'##\s*\*\*🎯 AN[ÁA]LISE SWOT\*\*\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
+    # Encontra seção SWOT - com ou sem asteriscos
+    match_swot = re.search(r'##\s*\*{0,2}🎯 AN[ÁA]LISE SWOT\*{0,2}\s*\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
     if not match_swot:
         return swot
 
     swot_text = match_swot.group(1)
 
-    # Extrai Forças
-    match_forcas = re.search(r'###\s*\*\*FOR[ÇC]AS.*?\*\*\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
+    # Extrai Forças - com ou sem asteriscos
+    match_forcas = re.search(r'###\s*\*{0,2}FOR[ÇC]AS.*?\*{0,2}\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
     if match_forcas:
         forcas_text = match_forcas.group(1)
-        swot['forcas'] = [f.strip() for f in re.findall(r'\*\s+([^\*\n]+)', forcas_text)]
+        swot['forcas'] = [f.strip() for f in re.findall(r'[-\*]\s+([^\*\n]+?)(?:\n|$)', forcas_text)]
 
-    # Extrai Fraquezas
-    match_fraquezas = re.search(r'###\s*\*\*FRAQUEZAS.*?\*\*\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
+    # Extrai Fraquezas - com ou sem asteriscos
+    match_fraquezas = re.search(r'###\s*\*{0,2}FRAQUEZAS.*?\*{0,2}\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
     if match_fraquezas:
         fraquezas_text = match_fraquezas.group(1)
-        swot['fraquezas'] = [f.strip() for f in re.findall(r'\*\s+([^\*\n]+)', fraquezas_text)]
+        swot['fraquezas'] = [f.strip() for f in re.findall(r'[-\*]\s+([^\*\n]+?)(?:\n|$)', fraquezas_text)]
 
-    # Extrai Oportunidades
-    match_opor = re.search(r'###\s*\*\*OPORTUNIDADES.*?\*\*\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
+    # Extrai Oportunidades - com ou sem asteriscos
+    match_opor = re.search(r'###\s*\*{0,2}OPORTUNIDADES.*?\*{0,2}\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
     if match_opor:
         opor_text = match_opor.group(1)
-        swot['oportunidades'] = [f.strip() for f in re.findall(r'\*\s+([^\*\n]+)', opor_text)]
+        swot['oportunidades'] = [f.strip() for f in re.findall(r'[-\*]\s+([^\*\n]+?)(?:\n|$)', opor_text)]
 
-    # Extrai Ameaças
-    match_ameacas = re.search(r'###\s*\*\*AMEA[ÇC]AS.*?\*\*\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
+    # Extrai Ameaças - com ou sem asteriscos
+    match_ameacas = re.search(r'###\s*\*{0,2}AMEA[ÇC]AS.*?\*{0,2}\s*\n(.*?)(?=\n###|\Z)', swot_text, re.DOTALL)
     if match_ameacas:
         ameacas_text = match_ameacas.group(1)
-        swot['ameacas'] = [f.strip() for f in re.findall(r'\*\s+([^\*\n]+)', ameacas_text)]
+        swot['ameacas'] = [f.strip() for f in re.findall(r'[-\*]\s+([^\*\n]+?)(?:\n|$)', ameacas_text)]
 
     return swot
 
+def normalizar_nome(nome):
+    """Remove acentos e normaliza o nome do município"""
+    if not nome:
+        return None
+    # Remove acentos
+    nome_norm = unicodedata.normalize('NFKD', nome)
+    nome_norm = ''.join([c for c in nome_norm if not unicodedata.combining(c)])
+    # Remove espaços extras e converte para maiúsculas
+    return nome_norm.upper().strip()
+
 def identificar_microrregiao(nome_municipio):
     """Identifica a microrregião do município"""
+    # Normaliza o nome antes de buscar no mapeamento
+    nome_norm = normalizar_nome(nome_municipio)
+    if not nome_norm:
+        return 'N/D'
+
     # Mapeamento conhecido das microrregiões (baseado no mapeamento anterior)
     mapeamento = {
         # Porto Nacional
@@ -288,8 +313,6 @@ def identificar_microrregiao(nome_municipio):
         'SANDOLANDIA': 'Rio Formoso',
     }
 
-    # Normaliza nome para busca
-    nome_norm = nome_municipio.upper().strip()
     return mapeamento.get(nome_norm, 'N/D')
 
 def processar_ficha_completa(filepath):
