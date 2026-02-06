@@ -13,12 +13,15 @@
 ✅ **140 fichas municipais** extraídas com sucesso (99,3% do total)
 ✅ **8 tabelas comparativas** por microrregião geradas
 ✅ **1 JSON consolidado** com dados estruturados de 140 municípios
-✅ **FICHA 01 (Porto Nacional)** revisada e expandida (piloto completo)
+✅ **FICHA 01 (Porto Nacional)** revisada - 11 municípios
+✅ **FICHA 02 (Araguaína)** revisada - 15 municípios
+✅ **FICHA 03 (Bico do Papagaio)** revisada - 24 municípios
+✅ **FICHA 04 (Dianópolis)** revisada - 18 municípios (menor densidade: 2,40 hab/km²)
 ✅ **Script robusto** com 4 iterações de melhorias documentadas
 
 ### Próximos Passos
-⏳ Criar FICHA 02 (Araguaína) - 15 municípios
-⏳ Revisar demais 6 fichas regionais (03-08)
+⏳ Revisar FICHA 05 (Gurupi) - 13 municípios
+⏳ Revisar demais 3 fichas regionais (06-08)
 ⏳ Revisar Panorama Estadual (Parte I)
 ⏳ Publicar Volume 1 v2.0
 
@@ -45,8 +48,8 @@
 | Arquivo | Microrregião | Municípios | População | Status |
 |---------|--------------|------------|-----------|--------|
 | **[TABELA-COMPARATIVA-ARAGUAÍNA-V2.md](TABELA-COMPARATIVA-ARAGUAÍNA-V2.md)** | Araguaína | 15 | 256.720 | ✅ 100% |
-| **[TABELA-COMPARATIVA-BICO-DO-PAPAGAIO-V2.md](TABELA-COMPARATIVA-BICO-DO-PAPAGAIO-V2.md)** | Bico do Papagaio | 24 | ~300.000 | ✅ 100% |
-| **[TABELA-COMPARATIVA-DIANÓPOLIS-V2.md](TABELA-COMPARATIVA-DIANÓPOLIS-V2.md)** | Dianópolis | 19 | - | ✅ 100% |
+| **[TABELA-COMPARATIVA-BICO-DO-PAPAGAIO-V2.md](TABELA-COMPARATIVA-BICO-DO-PAPAGAIO-V2.md)** | Bico do Papagaio | 24 | 199.652 | ✅ 100% |
+| **[TABELA-COMPARATIVA-DIANÓPOLIS-V2.md](TABELA-COMPARATIVA-DIANÓPOLIS-V2.md)** | Dianópolis | 18 | 109.121 | ✅ 100% |
 | **[TABELA-COMPARATIVA-GURUPI-V2.md](TABELA-COMPARATIVA-GURUPI-V2.md)** | Gurupi | 13 | - | ✅ 100% |
 | **[TABELA-COMPARATIVA-JALAPÃO-V2.md](TABELA-COMPARATIVA-JALAPÃO-V2.md)** | Jalapão | 15 | - | ✅ 100% |
 | **[TABELA-COMPARATIVA-MIRACEMA-DO-TOCANTINS-V2.md](TABELA-COMPARATIVA-MIRACEMA-DO-TOCANTINS-V2.md)** | Miracema do Tocantins | 19 | - | ✅ 100% |
@@ -58,10 +61,10 @@
 
 | Arquivo | Microrregião | Municípios | Páginas | Status |
 |---------|--------------|------------|---------|--------|
-| **[FICHA-01-PORTO-NACIONAL-REVISADA.md](FICHA-01-PORTO-NACIONAL-REVISADA.md)** | Porto Nacional | 11 | 15 | ✅ Piloto Completo |
-| **FICHA-02-ARAGUAÍNA-REVISADA.md** | Araguaína | 15 | ~15 | ⏳ Pendente |
-| **FICHA-03-BICO-DO-PAPAGAIO-REVISADA.md** | Bico do Papagaio | 24 | ~18 | ⏳ Pendente |
-| **FICHA-04-DIANÓPOLIS-REVISADA.md** | Dianópolis | 19 | ~16 | ⏳ Pendente |
+| **[FICHA-01-PORTO-NACIONAL-REVISADA.md](FICHA-01-PORTO-NACIONAL-REVISADA.md)** | Porto Nacional | 11 | 15 | ✅ Completo |
+| **[FICHA-02-ARAGUAINA-REVISADA.md](FICHA-02-ARAGUAINA-REVISADA.md)** | Araguaína | 15 | 15 | ✅ Completo |
+| **[FICHA-03-BICO-DO-PAPAGAIO-REVISADA.md](FICHA-03-BICO-DO-PAPAGAIO-REVISADA.md)** | Bico do Papagaio | 24 | 20 | ✅ Completo |
+| **[FICHA-04-DIANOPOLIS-REVISADA.md](FICHA-04-DIANOPOLIS-REVISADA.md)** | Dianópolis | 18 | 18 | ✅ Completo |
 | **FICHA-05-GURUPI-REVISADA.md** | Gurupi | 13 | ~14 | ⏳ Pendente |
 | **FICHA-06-JALAPÃO-REVISADA.md** | Jalapão | 15 | ~15 | ⏳ Pendente |
 | **FICHA-07-MIRACEMA-REVISADA.md** | Miracema do Tocantins | 19 | ~16 | ⏳ Pendente |
