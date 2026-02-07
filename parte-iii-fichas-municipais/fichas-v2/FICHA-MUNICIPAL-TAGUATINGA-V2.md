@@ -1,6 +1,6 @@
 # TAGUATINGA — Ficha Municipal
 
-**Código IBGE**: 1720903 | **Microrregião**: Região Sudeste | **Área**: 2.342,6 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720903 | **Microrregião**: Dianópolis  | **Área**: 2.342,6 km² | **Bioma**: Cerrado
 
 ---
 

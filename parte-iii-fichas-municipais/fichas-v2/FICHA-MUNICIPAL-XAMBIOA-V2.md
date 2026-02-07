@@ -1,6 +1,6 @@
 # XAMBIOÁ — Ficha Municipal
 
-**Código IBGE**: 1722107 | **Microrregião**: Bico do Papagaio | **Área**: 1.190 km² | **Bioma**: Amazônia
+**Código IBGE**: 1722107 | **Microrregião**: Araguaína  | **Área**: 1.190 km² | **Bioma**: Amazônia
 
 ---
 

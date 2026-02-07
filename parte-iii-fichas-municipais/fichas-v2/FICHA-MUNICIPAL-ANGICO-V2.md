@@ -1,6 +1,6 @@
 # ANGICO — Ficha Municipal
 
-**Código IBGE**: 1701051 | **Microrregião**: Bico do Papagaio | **Área**: 448 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1701051 | **Microrregião**: Bico do Papagaio  | **Área**: 448 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

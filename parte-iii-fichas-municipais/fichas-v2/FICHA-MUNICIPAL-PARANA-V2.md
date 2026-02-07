@@ -1,6 +1,6 @@
 # PARANÃ — Ficha Municipal
 
-**Código IBGE**: 1716208 | **Microrregião**: Dianópolis | **Área**: 11.217 km² | **Bioma**: Cerrado
+**Código IBGE**: 1716208 | **Microrregião**: Dianópolis  | **Área**: 11.217 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # FIGUEIRÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1707652 | **Microrregião**: Gurupi | **Área**: 1.936 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707652 | **Microrregião**: Gurupi  | **Área**: 1.936 km² | **Bioma**: Cerrado
 
 ---
 

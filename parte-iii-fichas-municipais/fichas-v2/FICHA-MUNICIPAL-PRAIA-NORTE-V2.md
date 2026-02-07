@@ -1,6 +1,6 @@
 # PRAIA NORTE — Ficha Municipal
 
-**Código IBGE**: 1718303 | **Microrregião**: Bico do Papagaio | **Área**: 301 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718303 | **Microrregião**: Bico do Papagaio  | **Área**: 301 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # SANTA ROSA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1718907 | **Microrregião**: Dianópolis | **Área**: 1.805,3 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718907 | **Microrregião**: Dianópolis  | **Área**: 1.805,3 km² | **Bioma**: Cerrado
 
 ---
 

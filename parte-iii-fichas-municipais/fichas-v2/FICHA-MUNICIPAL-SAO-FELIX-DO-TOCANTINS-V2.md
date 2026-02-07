@@ -1,6 +1,6 @@
 # SÃO FÉLIX DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1720159 | **Microrregião**: Jalapão | **Área**: 1.913 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720159 | **Microrregião**: Jalapão  | **Área**: 1.913 km² | **Bioma**: Cerrado
 
 ---
 

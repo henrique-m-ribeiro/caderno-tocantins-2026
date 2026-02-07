@@ -1,6 +1,6 @@
 # APARECIDA DO RIO NEGRO — Ficha Municipal
 
-**Código IBGE**: 1701101 | **Microrregião**: Central | **Área**: 1.159 km² | **Bioma**: Cerrado
+**Código IBGE**: 1701101 | **Microrregião**: Porto Nacional  | **Área**: 1.159 km² | **Bioma**: Cerrado
 
 ---
 

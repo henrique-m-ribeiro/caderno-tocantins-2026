@@ -1,6 +1,6 @@
 # ARAGUAÇU — Ficha Municipal
 
-**Código IBGE**: 1701903 | **Microrregião**: Dueré | **Área**: 5.155 km² | **Bioma**: Cerrado
+**Código IBGE**: 1701903 | **Microrregião**: Rio Formoso  | **Área**: 5.155 km² | **Bioma**: Cerrado
 
 ---
 

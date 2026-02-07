@@ -1,6 +1,6 @@
 # AGUIARNÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1700301 | **Microrregião**: Bico do Papagaio | **Área**: 237 km² | **Bioma**: Cerrado
+**Código IBGE**: 1700301 | **Microrregião**: Bico do Papagaio  | **Área**: 237 km² | **Bioma**: Cerrado
 
 ---
 

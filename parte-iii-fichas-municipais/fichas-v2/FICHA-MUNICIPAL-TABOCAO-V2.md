@@ -1,6 +1,6 @@
 # TABOCÃO — Ficha Municipal
 
-**Código IBGE**: 1720903 | **Microrregião**: Guaraí | **Área**: 624 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720903 | **Microrregião**: Miracema do Tocantins  | **Área**: 624 km² | **Bioma**: Cerrado
 
 ---
 

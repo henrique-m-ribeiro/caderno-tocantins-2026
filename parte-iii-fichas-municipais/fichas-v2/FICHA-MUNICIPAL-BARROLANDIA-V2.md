@@ -1,6 +1,6 @@
 # BARROLÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1703107 | **Microrregião**: Miracema do Tocantins | **Área**: 698,361 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703107 | **Microrregião**: Miracema do Tocantins  | **Área**: 698,361 km² | **Bioma**: Cerrado
 
 ---
 

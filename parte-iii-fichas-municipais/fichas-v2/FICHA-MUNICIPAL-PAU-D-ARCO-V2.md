@@ -1,6 +1,6 @@
 # PAU D'ARCO — Ficha Municipal
 
-**Código IBGE**: 1716307 | **Microrregião**: Araguaína | **Área**: 1.671 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1716307 | **Microrregião**: Araguaína  | **Área**: 1.671 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

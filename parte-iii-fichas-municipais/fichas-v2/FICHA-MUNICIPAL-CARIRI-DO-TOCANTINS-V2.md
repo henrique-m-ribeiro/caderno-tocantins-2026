@@ -1,6 +1,6 @@
 # CARIRI DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1703867 | **Microrregião**: Gurupi | **Área**: 1.126 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703867 | **Microrregião**: Gurupi  | **Área**: 1.126 km² | **Bioma**: Cerrado
 
 ---
 

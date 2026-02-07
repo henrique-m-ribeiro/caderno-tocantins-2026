@@ -1,6 +1,6 @@
 # NAZARÉ — Ficha Municipal
 
-**Código IBGE**: 1714302 | **Microrregião**: Bico do Papagaio | **Área**: 396 km² | **Bioma**: Cerrado
+**Código IBGE**: 1714302 | **Microrregião**: Bico do Papagaio  | **Área**: 396 km² | **Bioma**: Cerrado
 
 ---
 

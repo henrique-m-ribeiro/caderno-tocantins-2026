@@ -1,6 +1,6 @@
 # SANTA TEREZINHA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1718865 | **Microrregião**: Bico do Papagaio | **Área**: 274 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718865 | **Microrregião**: Bico do Papagaio  | **Área**: 274 km² | **Bioma**: Cerrado
 
 ---
 

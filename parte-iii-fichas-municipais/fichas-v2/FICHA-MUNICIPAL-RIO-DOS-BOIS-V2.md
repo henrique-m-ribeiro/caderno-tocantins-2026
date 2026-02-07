@@ -1,6 +1,6 @@
 # RIO DOS BOIS — Ficha Municipal
 
-**Código IBGE**: 1718758 | **Microrregião**: Miracema do Tocantins | **Área**: 847 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718758 | **Microrregião**: Miracema do Tocantins  | **Área**: 847 km² | **Bioma**: Cerrado
 
 ---
 

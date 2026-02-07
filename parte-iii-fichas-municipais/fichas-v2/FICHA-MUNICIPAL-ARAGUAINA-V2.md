@@ -1,6 +1,6 @@
 # ARAGUAÍNA — Ficha Municipal
 
-**Código IBGE**: 1702109 | **Microrregião**: Araguaína | **Área**: 4.005,2 km² | **Bioma**: Cerrado
+**Código IBGE**: 1702109 | **Microrregião**: Araguaína  | **Área**: 4.005,2 km² | **Bioma**: Cerrado
 
 ---
 

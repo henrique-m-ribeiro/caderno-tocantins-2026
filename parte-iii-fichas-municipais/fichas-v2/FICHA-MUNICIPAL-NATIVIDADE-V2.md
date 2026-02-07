@@ -1,6 +1,6 @@
 # NATIVIDADE — Ficha Municipal
 
-**Código IBGE**: 1714203 | **Microrregião**: Dianópolis | **Área**: 3.242 km² | **Bioma**: Cerrado
+**Código IBGE**: 1714203 | **Microrregião**: Dianópolis  | **Área**: 3.242 km² | **Bioma**: Cerrado
 
 ---
 

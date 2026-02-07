@@ -1,6 +1,6 @@
 # PRESIDENTE KENNEDY — Ficha Municipal
 
-**Código IBGE**: 1718403 | **Microrregião**: Gurupi | **Área**: 772 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1718403 | **Microrregião**: Miracema do Tocantins  | **Área**: 772 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

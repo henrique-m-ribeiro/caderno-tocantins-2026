@@ -1,6 +1,6 @@
 # NOVO JARDIM — Ficha Municipal
 
-**Código IBGE**: 1715259 | **Microrregião**: Dianópolis | **Área**: 1.216 km² | **Bioma**: Cerrado
+**Código IBGE**: 1715259 | **Microrregião**: Dianópolis  | **Área**: 1.216 km² | **Bioma**: Cerrado
 
 ---
 

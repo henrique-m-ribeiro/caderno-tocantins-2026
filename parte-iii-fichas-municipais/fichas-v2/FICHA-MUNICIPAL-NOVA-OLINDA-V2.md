@@ -1,6 +1,6 @@
 # NOVA OLINDA — Ficha Municipal
 
-**Código IBGE**: 1715002 | **Microrregião**: Araguaína | **Área**: 1.568 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1715002 | **Microrregião**: Araguaína  | **Área**: 1.568 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

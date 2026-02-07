@@ -1,6 +1,6 @@
 # TALISMÃ — Ficha Municipal
 
-**Código IBGE**: 1720903 | **Microrregião**: Sul do Tocantins | **Área**: 2.156 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720903 | **Microrregião**: Gurupi  | **Área**: 2.156 km² | **Bioma**: Cerrado
 
 ---
 

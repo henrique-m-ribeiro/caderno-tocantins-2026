@@ -1,6 +1,6 @@
 # GUARAÍ — Ficha Municipal
 
-**Código IBGE**: 1709302 | **Microrregião**: Guaraí | **Área**: 2.107 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1709302 | **Microrregião**: Miracema do Tocantins  | **Área**: 2.107 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

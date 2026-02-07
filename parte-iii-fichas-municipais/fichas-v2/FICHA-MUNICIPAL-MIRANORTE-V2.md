@@ -1,6 +1,6 @@
 # MIRANORTE — Ficha Municipal
 
-**Código IBGE**: 1713304 | **Microrregião**: Miracema do Tocantins | **Área**: 1.033 km² | **Bioma**: Cerrado/Amazônia (transição)
+**Código IBGE**: 1713304 | **Microrregião**: Miracema do Tocantins  | **Área**: 1.033 km² | **Bioma**: Cerrado/Amazônia (transição)
 
 ---
 

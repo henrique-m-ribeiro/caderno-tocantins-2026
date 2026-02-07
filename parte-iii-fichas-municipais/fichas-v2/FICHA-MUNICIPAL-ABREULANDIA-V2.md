@@ -1,6 +1,6 @@
 # ABREULANDIA — Ficha Municipal
 
-**Codigo IBGE**: 1700251 | **Microrregiao**: Miracema do Tocantins | **Area**: 1.906 km² | **Bioma**: Cerrado
+**Codigo IBGE**: 1700251 | **Microrregiao**: Miracema do Tocantins  | **Area**: 1.906 km² | **Bioma**: Cerrado
 
 ---
 

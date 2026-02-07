@@ -1,6 +1,6 @@
 # FILADÉLFIA — Ficha Municipal
 
-**Código IBGE**: 1707702 | **Microrregião**: Bico do Papagaio | **Área**: 1.991 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707702 | **Microrregião**: Araguaína  | **Área**: 1.991 km² | **Bioma**: Cerrado
 
 ---
 

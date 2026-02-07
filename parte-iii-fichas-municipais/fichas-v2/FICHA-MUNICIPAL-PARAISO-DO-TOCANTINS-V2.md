@@ -1,6 +1,6 @@
 # PARAÍSO DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1716109 | **Microrregião**: Porto Nacional | **Área**: 1.292 km² | **Bioma**: Cerrado
+**Código IBGE**: 1716109 | **Microrregião**: Rio Formoso  | **Área**: 1.292 km² | **Bioma**: Cerrado
 
 ---
 

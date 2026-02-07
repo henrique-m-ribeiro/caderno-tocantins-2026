@@ -1,6 +1,6 @@
 # MONTE DO CARMO — Ficha Municipal
 
-**Código IBGE**: 1713601 | **Microrregião**: Porto Nacional | **Área**: 3.601 km² | **Bioma**: Cerrado
+**Código IBGE**: 1713601 | **Microrregião**: Porto Nacional  | **Área**: 3.601 km² | **Bioma**: Cerrado
 
 ---
 

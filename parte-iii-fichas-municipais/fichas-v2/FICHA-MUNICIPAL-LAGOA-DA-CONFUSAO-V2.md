@@ -1,6 +1,6 @@
 # LAGOA DA CONFUSÃO — Ficha Municipal
 
-**Código IBGE**: 1711902 | **Microrregião**: Formoso do Araguaia | **Área**: 10.563 km² | **Bioma**: Cerrado
+**Código IBGE**: 1711902 | **Microrregião**: Rio Formoso  | **Área**: 10.563 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # PORTO ALEGRE DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1718006 | **Microrregião**: Dianópolis | **Área**: 507 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718006 | **Microrregião**: Dianópolis  | **Área**: 507 km² | **Bioma**: Cerrado
 
 ---
 

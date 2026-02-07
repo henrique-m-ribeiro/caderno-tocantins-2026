@@ -1,6 +1,6 @@
 # LUZINÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1712454 | **Microrregião**: Bico do Papagaio | **Área**: 282 km² | **Bioma**: Cerrado
+**Código IBGE**: 1712454 | **Microrregião**: Bico do Papagaio  | **Área**: 282 km² | **Bioma**: Cerrado
 
 ---
 

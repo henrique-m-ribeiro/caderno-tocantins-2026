@@ -1,6 +1,6 @@
 # PEQUIZEIRO — Ficha Municipal
 
-**Código IBGE**: 1716653 | **Microrregião**: Bico do Papagaio | **Área**: 1.206 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1716653 | **Microrregião**: Miracema do Tocantins  | **Área**: 1.206 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

@@ -1,6 +1,6 @@
 # PONTE ALTA DO BOM JESUS — Ficha Municipal
 
-**Código IBGE**: 1717800 | **Microrregião**: Dianópolis | **Área**: 1.719,5 km² | **Bioma**: Cerrado
+**Código IBGE**: 1717800 | **Microrregião**: Dianópolis  | **Área**: 1.719,5 km² | **Bioma**: Cerrado
 
 ---
 

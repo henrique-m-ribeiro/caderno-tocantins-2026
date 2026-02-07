@@ -1,6 +1,6 @@
 # NOVO ACORDO — Ficha Municipal
 
-**Código IBGE**: 1715101 | **Microrregião**: Porto Nacional | **Área**: 2.678 km² | **Bioma**: Cerrado
+**Código IBGE**: 1715101 | **Microrregião**: Jalapão  | **Área**: 2.678 km² | **Bioma**: Cerrado
 
 ---
 

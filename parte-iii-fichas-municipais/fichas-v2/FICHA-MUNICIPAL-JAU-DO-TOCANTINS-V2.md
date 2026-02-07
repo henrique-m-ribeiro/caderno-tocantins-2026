@@ -1,6 +1,6 @@
 # JAÚ DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1711506 | **Microrregião**: Sudoeste do Tocantins | **Área**: 2.167 km² | **Bioma**: Cerrado
+**Código IBGE**: 1711506 | **Microrregião**: Gurupi  | **Área**: 2.167 km² | **Bioma**: Cerrado
 
 ---
 

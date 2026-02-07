@@ -1,6 +1,6 @@
 # SÃO VALÉRIO DA NATIVIDADE — Ficha Municipal
 
-**Código IBGE**: 1720499 | **Microrregião**: Dianópolis | **Área**: 2.520 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720499 | **Microrregião**: Dianópolis  | **Área**: 2.520 km² | **Bioma**: Cerrado
 
 ---
 

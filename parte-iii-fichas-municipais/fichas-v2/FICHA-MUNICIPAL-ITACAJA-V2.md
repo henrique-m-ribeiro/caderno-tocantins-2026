@@ -1,6 +1,6 @@
 # ITACAJÁ — Ficha Municipal
 
-**Código IBGE**: 1710508 | **Microrregião**: Vale do Tocantins | **Área**: 3.047 km² | **Bioma**: Cerrado
+**Código IBGE**: 1710508 | **Microrregião**: Jalapão  | **Área**: 3.047 km² | **Bioma**: Cerrado
 
 ---
 

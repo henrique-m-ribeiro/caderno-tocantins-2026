@@ -1,6 +1,6 @@
 # MONTE SANTO DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1713700 | **Microrregião**: [Não especificada] | **Área**: 1.073 km² | **Bioma**: Cerrado
+**Código IBGE**: 1713700 | **Microrregião**: Miracema do Tocantins  | **Área**: 1.073 km² | **Bioma**: Cerrado
 
 ---
 

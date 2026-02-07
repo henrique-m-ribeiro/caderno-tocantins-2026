@@ -1,6 +1,6 @@
 # MATEIROS — Ficha Municipal
 
-**Código IBGE**: 1712702 | **Microrregião**: Jalapão | **Área**: 9.589 km² | **Bioma**: Cerrado
+**Código IBGE**: 1712702 | **Microrregião**: Jalapão  | **Área**: 9.589 km² | **Bioma**: Cerrado
 
 ---
 

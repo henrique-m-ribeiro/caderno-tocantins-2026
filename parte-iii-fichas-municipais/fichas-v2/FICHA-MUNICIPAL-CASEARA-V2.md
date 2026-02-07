@@ -1,6 +1,6 @@
 # CASEARA — Ficha Municipal
 
-**Código IBGE**: 1705003 | **Microrregião**: Jalapão | **Área**: 1.680,17 km² | **Bioma**: Cerrado
+**Código IBGE**: 1705003 | **Microrregião**: Miracema do Tocantins  | **Área**: 1.680,17 km² | **Bioma**: Cerrado
 
 ---
 

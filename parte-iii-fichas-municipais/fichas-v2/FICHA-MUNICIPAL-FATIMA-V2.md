@@ -1,6 +1,6 @@
 # FÁTIMA — Ficha Municipal
 
-**Código IBGE**: 1707553 | **Microrregião**: Porto Nacional | **Área**: 380 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707553 | **Microrregião**: Rio Formoso  | **Área**: 380 km² | **Bioma**: Cerrado
 
 ---
 

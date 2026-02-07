@@ -1,6 +1,6 @@
 # CRIXÁS DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1706258 | **Microrregião**: Gurupi | **Área**: 987 km² | **Bioma**: Cerrado
+**Código IBGE**: 1706258 | **Microrregião**: Gurupi  | **Área**: 987 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # OLIVEIRA DE FÁTIMA — Ficha Municipal
 
-**Código IBGE**: 1715507 | **Microrregião**: Porto Nacional | **Área**: 209 km² | **Bioma**: Cerrado
+**Código IBGE**: 1715507 | **Microrregião**: Rio Formoso  | **Área**: 209 km² | **Bioma**: Cerrado
 
 ---
 

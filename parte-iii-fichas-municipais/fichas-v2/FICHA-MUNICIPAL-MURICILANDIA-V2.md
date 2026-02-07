@@ -1,6 +1,6 @@
 # MURICILÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1713957 | **Microrregião**: Araguaína | **Área**: 1.194 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1713957 | **Microrregião**: Araguaína  | **Área**: 1.194 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

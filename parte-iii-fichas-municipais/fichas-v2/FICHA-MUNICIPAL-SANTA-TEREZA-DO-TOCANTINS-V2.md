@@ -1,6 +1,6 @@
 # SANTA TEREZA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1716505 | **Microrregião**: Porto Nacional | **Área**: 540 km² | **Bioma**: Cerrado
+**Código IBGE**: 1716505 | **Microrregião**: Jalapão  | **Área**: 540 km² | **Bioma**: Cerrado
 
 ---
 

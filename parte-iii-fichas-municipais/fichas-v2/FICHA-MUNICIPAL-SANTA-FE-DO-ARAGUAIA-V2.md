@@ -1,6 +1,6 @@
 # SANTA FÉ DO ARAGUAIA — Ficha Municipal
 
-**Código IBGE**: 1718865 | **Microrregião**: Araguaína | **Área**: 1.671 km² | **Bioma**: Amazônia
+**Código IBGE**: 1718865 | **Microrregião**: Araguaína  | **Área**: 1.671 km² | **Bioma**: Amazônia
 
 ---
 

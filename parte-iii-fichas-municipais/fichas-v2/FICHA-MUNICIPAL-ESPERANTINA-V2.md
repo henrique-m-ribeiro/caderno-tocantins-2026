@@ -1,6 +1,6 @@
 # ESPERANTINA — Ficha Municipal
 
-**Código IBGE**: 1707307 | **Microrregião**: Bico do Papagaio | **Área**: 506 km² | **Bioma**: Amazônia
+**Código IBGE**: 1707307 | **Microrregião**: Bico do Papagaio  | **Área**: 506 km² | **Bioma**: Amazônia
 
 ---
 

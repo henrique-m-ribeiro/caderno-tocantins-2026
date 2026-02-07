@@ -1,6 +1,6 @@
 # ITAPIRATINS — Ficha Municipal
 
-**Código IBGE**: 1710904 | **Microrregião**: Porto Nacional | **Área**: 1.246 km² | **Bioma**: Cerrado
+**Código IBGE**: 1710904 | **Microrregião**: Jalapão  | **Área**: 1.246 km² | **Bioma**: Cerrado
 
 ---
 

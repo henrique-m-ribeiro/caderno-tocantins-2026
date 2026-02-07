@@ -1,6 +1,6 @@
 # SUCUPIRA — Ficha Municipal
 
-**Código IBGE**: 1720853 | **Microrregião**: Gurupi | **Área**: 1.018 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720853 | **Microrregião**: Gurupi  | **Área**: 1.018 km² | **Bioma**: Cerrado
 
 ---
 

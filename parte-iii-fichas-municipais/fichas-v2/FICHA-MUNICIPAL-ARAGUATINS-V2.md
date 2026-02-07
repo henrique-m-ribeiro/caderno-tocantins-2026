@@ -1,6 +1,6 @@
 # ARAGUATINS — Ficha Municipal
 
-**Código IBGE**: 1702208 | **Microrregião**: Bico do Papagaio | **Área**: 2.633 km² | **Bioma**: Cerrado e Amazônia (transição)
+**Código IBGE**: 1702208 | **Microrregião**: Bico do Papagaio  | **Área**: 2.633 km² | **Bioma**: Cerrado e Amazônia (transição)
 
 ---
 

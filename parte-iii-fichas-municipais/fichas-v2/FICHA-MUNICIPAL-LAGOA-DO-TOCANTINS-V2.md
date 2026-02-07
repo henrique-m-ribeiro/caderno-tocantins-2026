@@ -1,6 +1,6 @@
 # LAGOA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1711902 | **Microrregião**: Porto Nacional | **Área**: 918 km² | **Bioma**: Cerrado
+**Código IBGE**: 1711902 | **Microrregião**: Jalapão  | **Área**: 918 km² | **Bioma**: Cerrado
 
 ---
 

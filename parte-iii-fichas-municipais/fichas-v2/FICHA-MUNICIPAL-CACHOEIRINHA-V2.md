@@ -1,6 +1,6 @@
 # CACHOEIRINHA — Ficha Municipal
 
-**Código IBGE**: 1703826 | **Microrregião**: — | **Área**: 352 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703826 | **Microrregião**: Bico do Papagaio  | **Área**: 352 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # CONCEIÇÃO DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1705607 | **Microrregião**: Dianópolis | **Área**: 2.531 km² | **Bioma**: Cerrado
+**Código IBGE**: 1705607 | **Microrregião**: Dianópolis  | **Área**: 2.531 km² | **Bioma**: Cerrado
 
 ---
 

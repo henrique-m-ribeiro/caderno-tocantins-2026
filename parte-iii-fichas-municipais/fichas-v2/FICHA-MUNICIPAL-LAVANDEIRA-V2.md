@@ -1,6 +1,6 @@
 # LAVANDEIRA — Ficha Municipal
 
-**Código IBGE**: 1712157 | **Microrregião**: Dianópolis | **Área**: 468 km² | **Bioma**: Cerrado
+**Código IBGE**: 1712157 | **Microrregião**: Dianópolis  | **Área**: 468 km² | **Bioma**: Cerrado
 
 ---
 

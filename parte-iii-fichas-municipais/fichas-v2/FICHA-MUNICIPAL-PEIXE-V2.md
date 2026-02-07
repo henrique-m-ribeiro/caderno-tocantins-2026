@@ -1,6 +1,6 @@
 # PEIXE — Ficha Municipal
 
-**Código IBGE**: 1716604 | **Microrregião**: Gurupi | **Área**: 5.304 km² | **Bioma**: Cerrado
+**Código IBGE**: 1716604 | **Microrregião**: Gurupi  | **Área**: 5.304 km² | **Bioma**: Cerrado
 
 ---
 

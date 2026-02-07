@@ -1,6 +1,6 @@
 # PALMEIRANTE — Ficha Municipal
 
-**Código IBGE**: 1715705 | **Microrregião**: Bico do Papagaio | **Área**: 2.638 km² | **Bioma**: Cerrado
+**Código IBGE**: 1715705 | **Microrregião**: Araguaína  | **Área**: 2.638 km² | **Bioma**: Cerrado
 
 ---
 

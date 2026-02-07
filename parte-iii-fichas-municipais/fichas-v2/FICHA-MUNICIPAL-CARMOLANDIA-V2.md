@@ -1,6 +1,6 @@
 # CARMOLÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1703883 | **Microrregião**: Araguaína | **Área**: 339 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703883 | **Microrregião**: Araguaína  | **Área**: 339 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # GURUPI — Ficha Municipal
 
-**Código IBGE**: 1709500 | **Microrregião**: Gurupi | **Área**: 1.844 km² | **Bioma**: Cerrado
+**Código IBGE**: 1709500 | **Microrregião**: Gurupi  | **Área**: 1.844 km² | **Bioma**: Cerrado
 
 ---
 

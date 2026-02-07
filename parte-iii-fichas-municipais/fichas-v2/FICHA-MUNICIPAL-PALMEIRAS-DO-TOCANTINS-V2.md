@@ -1,6 +1,6 @@
 # PALMEIRAS DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1715705 | **Microrregião**: Bico do Papagaio | **Área**: 743 km² | **Bioma**: Cerrado
+**Código IBGE**: 1715705 | **Microrregião**: Bico do Papagaio  | **Área**: 743 km² | **Bioma**: Cerrado
 
 ---
 

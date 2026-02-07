@@ -1,6 +1,6 @@
 # SAMPAIO — Ficha Municipal
 
-**Código IBGE**: 1718808 | **Microrregião**: Bico do Papagaio | **Área**: 222 km² | **Bioma**: Cerrado e Amazônia (transição)
+**Código IBGE**: 1718808 | **Microrregião**: Bico do Papagaio  | **Área**: 222 km² | **Bioma**: Cerrado e Amazônia (transição)
 
 ---
 

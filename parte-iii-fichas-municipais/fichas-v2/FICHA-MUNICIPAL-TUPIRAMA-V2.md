@@ -1,6 +1,6 @@
 # TUPIRAMA — Ficha Municipal
 
-**Código IBGE**: 1721257 | **Microrregião**: Guaraí | **Área**: 707 km² | **Bioma**: Cerrado
+**Código IBGE**: 1721257 | **Microrregião**: Miracema do Tocantins  | **Área**: 707 km² | **Bioma**: Cerrado
 
 ---
 

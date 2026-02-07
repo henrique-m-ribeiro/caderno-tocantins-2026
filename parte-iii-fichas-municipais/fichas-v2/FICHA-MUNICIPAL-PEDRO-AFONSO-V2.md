@@ -1,6 +1,6 @@
 # PEDRO AFONSO — Ficha Municipal
 
-**Código IBGE**: 1716505 | **Microrregião**: Central do Tocantins | **Área**: 2.020,1 km² | **Bioma**: Cerrado
+**Código IBGE**: 1716505 | **Microrregião**: Porto Nacional  | **Área**: 2.020,1 km² | **Bioma**: Cerrado
 
 ---
 
