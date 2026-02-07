@@ -18,8 +18,9 @@ A ficha condensada deve:
 4. **Preservar o diagnóstico integrado** com paradoxo e cadeia causal
 5. **Manter as 4 diretrizes estratégicas**, cada uma com 2 ações-chave e 1 indicador
 6. **Condensar os alertas** em tabela de semáforo (2 itens por nível)
-7. **Eliminar** seções de baixo valor estratégico (eleitores detalhados, tipos de domicílio, acidentes com animais, comércio exterior zerado, produtos de origem animal por ano, agenda de implementação, recomendações para estudos)
-8. **NÃO inventar dados** — usar exclusivamente o que consta na ficha completa
+7. **Incluir o perfil do eleitorado** em tabela compacta dentro da Dimensão 1 (dado estratégico para inteligência territorial)
+8. **Eliminar** seções de baixo valor estratégico (tipos de domicílio, acidentes com animais, comércio exterior zerado, produtos de origem animal por ano, agenda de implementação, recomendações para estudos)
+9. **NÃO inventar dados** — usar exclusivamente o que consta na ficha completa
 
 ## ESTRUTURA OBRIGATÓRIA DO DOCUMENTO
 
@@ -86,7 +87,19 @@ A ficha condensada deve:
 | Famílias em pobreza (2010) | XX% | XXX famílias |
 | Bolsa Família (2023) | XXX famílias | XX% do total, média R$ XXX |
 
-**Análise**: [2-3 frases sobre: tendência demográfica (crescimento/declínio), perfil de envelhecimento, situação de pobreza e desigualdade. Usar dados concretos.]
+**Perfil do Eleitorado (2024)**:
+
+| Indicador | Valor |
+|-----------|-------|
+| Total de eleitores | X.XXX |
+| Sexo | Homens XX,X% / Mulheres XX,X% |
+| Faixa etária predominante | XX-XX anos (XX%) |
+| Jovens (16-29 anos) | XX,X% |
+| Idosos (60+ anos) | XX,X% |
+| Ensino Médio completo ou superior | XX,X% |
+| Analfabetos | XX,X% |
+
+**Análise**: [2-3 frases sobre: tendência demográfica (crescimento/declínio), perfil de envelhecimento, situação de pobreza e desigualdade. Incluir 1 frase sobre o perfil do eleitorado e suas implicações para políticas públicas.]
 
 ---
 
@@ -296,7 +309,6 @@ NÃO inclua na ficha condensada:
 - Histórico do município e localização geográfica detalhada
 - Composição por cor/raça
 - Detalhes de domicílio (tipo, moradores por domicílio)
-- Perfil detalhado de eleitores (total, sexo, faixa etária, instrução)
 - Detalhes de admissões/desligamentos/saldo por ano
 - Empregos por escolaridade e faixa etária
 - Comércio exterior (zero na grande maioria dos municípios)
@@ -323,6 +335,7 @@ NÃO inclua na ficha condensada:
 ### 4. O QUE PRESERVAR COM MÁXIMA FIDELIDADE
 
 - **Todos os valores numéricos** presentes na estrutura obrigatória — copiar exatamente
+- **O perfil do eleitorado** — incluir tabela compacta na Dimensão 1 com total, sexo, faixas etárias agregadas (jovens 16-29, idosos 60+), escolaridade agregada (EM completo ou superior, analfabetos)
 - **O paradoxo central** — preservar a frase entre aspas do diagnóstico integrado
 - **A cadeia causal** — preservar a lógica, condensar para 5 elos
 - **Os nomes das 4 prioridades estratégicas** — preservar os títulos e reformular ações

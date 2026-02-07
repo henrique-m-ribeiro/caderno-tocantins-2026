@@ -56,7 +56,19 @@ Aguiarnópolis apresenta um cenário de **"enclave desenvolvimentista em retraç
 | Famílias em pobreza (2010) | 82% | 1.084 famílias |
 | Bolsa Família (2023) | 513 famílias | 11,4% do total, média R$ 686,70 |
 
-**Análise**: O município vive declínio demográfico sustentado (-1,1% ao ano), com tendência de envelhecimento (índice de envelhecimento 58,2 em 2022). O componente educação do IDHM (0,571) é o mais frágil, em contraste com longevidade (0,804). A pobreza atinge 82% das famílias (2010), com 20% mais ricos detendo 53,5% da renda — estrutura de desigualdade que alimenta o êxodo.
+**Perfil do Eleitorado (2024)**:
+
+| Indicador | Valor |
+|-----------|-------|
+| Total de eleitores | 4.073 |
+| Sexo | Homens 51,2% / Mulheres 48,8% |
+| Faixa etária predominante | 30-39 anos (20,7%) |
+| Jovens (16-29 anos) | 30,8% |
+| Idosos (60+ anos) | 15,9% |
+| Ensino Médio completo ou superior | 35,2% |
+| Analfabetos | 6,0% |
+
+**Análise**: O município vive declínio demográfico sustentado (-1,1% ao ano), com tendência de envelhecimento (índice de envelhecimento 58,2 em 2022). O componente educação do IDHM (0,571) é o mais frágil, em contraste com longevidade (0,804). A pobreza atinge 82% das famílias (2010), com 20% mais ricos detendo 53,5% da renda. O eleitorado é relativamente jovem (30,8% com até 29 anos), mas com baixa escolaridade — apenas 35,2% têm ensino médio completo ou superior, refletindo o déficit educacional do município.
 
 ---
 
