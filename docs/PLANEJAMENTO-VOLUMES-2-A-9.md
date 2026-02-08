@@ -1,7 +1,7 @@
 # PLANEJAMENTO — REFATORAÇÃO DO VOLUME 2 EM 8 VOLUMES (2 a 9)
 
 **Data**: 07 de fevereiro de 2026
-**Status**: Proposta para revisão
+**Status**: ✅ EXECUÇÃO CONCLUÍDA (08/02/2026)
 **Sessão**: claude/review-handoff-docs-lZ6Qi
 
 ---
@@ -504,6 +504,54 @@ volumes-finalizados/
 | | **TOTAL** | **~7-9 h** | |
 
 **Nota**: As fases 2 e 3 podem ser parcialmente paralelizadas — volumes de microrregiões sem alteração (Porto Nacional, Jalapão, Rio Formoso) podem ser montados enquanto as revisões das outras 5 fichas microrregionais estão em andamento.
+
+---
+
+---
+
+## 9. REGISTRO DE EXECUÇÃO
+
+**Data de conclusão:** 08 de fevereiro de 2026
+
+### Resumo da Execução
+
+| Fase | Status | Resultado |
+|------|--------|-----------|
+| **1** Correção de labels | ✅ Concluída | 61/139 fichas corrigidas (44% — muito acima da estimativa de ~20) |
+| **2** Revisão fichas microrregionais | ✅ Concluída | 6 fichas revisadas: Araguaína (+Colinas, Pau d'Arco), Bico (+Maurilândia), Dianópolis (+Conceição, Pindorama), Gurupi (+Crixás), Miracema (+5 municípios), Rio Formoso (verificada) |
+| **3** Produção dos 8 volumes | ✅ Concluída | 8 volumes produzidos com estrutura completa (capa, ficha técnica, índice, apresentação, sumário executivo, ficha microrregional, fichas V2) |
+| **4** Validação de qualidade | ✅ Concluída | 139/139 municípios presentes, Prioridade 4 em 100%, todos < 500 KB |
+| **5** Commit, push, organização | ✅ Concluída | Volumes salvos em `volumes-finalizados/`, README atualizado |
+
+### Volumes Produzidos
+
+| Volume | Microrregião | Municípios | Linhas | Tamanho |
+|--------|-------------|------------|--------|---------|
+| Vol. 2 | Porto Nacional | 11 | 4.377 | 248 KB |
+| Vol. 3 | Araguaína | 17 | 5.975 | 358 KB |
+| Vol. 4 | Bico do Papagaio | 25 | 8.024 | 484 KB |
+| Vol. 5 | Miracema do Tocantins | 24 | 7.942 | 498 KB |
+| Vol. 6 | Gurupi | 14 | 5.455 | 331 KB |
+| Vol. 7 | Dianópolis | 20 | 6.885 | 419 KB |
+| Vol. 8 | Jalapão | 15 | 5.443 | 319 KB |
+| Vol. 9 | Rio Formoso | 13 | 4.040 | 250 KB |
+| **Total** | | **139** | **48.141** | **~2,9 MB** |
+
+### Decisões Tomadas pelo Usuário
+
+1. Porto Nacional = Vol. 2, seguindo numeração proposta
+2. Vol. 2 consolidado mantido como backup (pesquisa-ação)
+3. Revisão profunda das fichas microrregionais (preservar substância)
+4. Sumário executivo específico por microrregião
+5. Ficha técnica adaptada para identidade da coleção
+6. Apresentação contextualizada por microrregião, posicionada na coleção
+7. Manter versionamento V1.0
+
+### Lições Aprendidas
+
+1. **Estimativa de labels incorretos subestimada**: Planejamento previu ~20 fichas, real foi 61 (44%)
+2. **Estratégia de agentes divididos**: Agentes focados em front matter + concatenação mecânica via Python é mais confiável que agentes compostos que tentam ler 20+ fichas
+3. **Miracema como caso crítico**: Com 5 municípios ausentes (21% da microrregião), exigiu abordagem especial com dados pré-extraídos
 
 ---
 
