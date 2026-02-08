@@ -1,17 +1,17 @@
 # FICHA 05: MICRORREGIÃO DE GURUPI
 
 **Sistema de Inteligência Territorial - Caderno Tocantins 2026**
-**Versão 1.1 - Revisada com Dados Consolidados (Fase 1.1)**
+**Versão 1.2 - Revisada com Dados Consolidados (Fase 1.1)**
 
 ---
 
 ## DADOS GERAIS DA MICRORREGIÃO
 
-**Municípios:** Aliança do Tocantins, Alvorada, Brejinho de Nazaré, Cariri do Tocantins, Figueirópolis, Gurupi, Jaú do Tocantins, Palmeirópolis, Peixe, Santa Rita do Tocantins, São Salvador do Tocantins, Sucupira, Talismã (13 municípios)
+**Municípios:** Aliança do Tocantins, Alvorada, Brejinho de Nazaré, Cariri do Tocantins, Crixás do Tocantins, Figueirópolis, Gurupi, Jaú do Tocantins, Palmeirópolis, Peixe, Santa Rita do Tocantins, São Salvador do Tocantins, Sucupira, Talismã (14 municípios)
 
-**População Total (2022):** 141.280 habitantes
-**Área Total:** 26.477,00 km²
-**Densidade Demográfica:** 5,34 hab/km² (próxima à média estadual)
+**População Total (2022):** 142.750 habitantes
+**Área Total:** 27.464,00 km²
+**Densidade Demográfica:** 5,20 hab/km² (próxima à média estadual)
 **Fonte dos Dados:** Fichas Municipais Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -20,23 +20,23 @@
 
 ### 1.1. Características Gerais
 
-A Microrregião de Gurupi, situada no sul do estado do Tocantins, representa o **segundo maior polo econômico e populacional estadual**, caracterizando-se como **centro regional de serviços e agronegócio dinâmico**. Com 13 municípios distribuídos em 26.477 km², a região destaca-se pela presença da cidade de **Gurupi** (85.125 habitantes), que funciona como epicentro comercial, educacional e de saúde para todo o sul tocantinense e áreas limítrofes.
+A Microrregião de Gurupi, situada no sul do estado do Tocantins, representa o **segundo maior polo econômico e populacional estadual**, caracterizando-se como **centro regional de serviços e agronegócio dinâmico**. Com 14 municípios distribuídos em 27.464 km², a região destaca-se pela presença da cidade de **Gurupi** (85.125 habitantes), que funciona como epicentro comercial, educacional e de saúde para todo o sul tocantinense e áreas limítrofes.
 
 **Perfil Demográfico Distintivo:**
-- População de 141.280 habitantes, representando aproximadamente **9% da população estadual**
-- Densidade média de 5,34 hab/km², **próxima à média estadual** (~5,7 hab/km²)
-- **Concentração populacional extrema:** Gurupi concentra 60,2% da população microrregional (85.125 hab)
+- População de 142.750 habitantes, representando aproximadamente **9% da população estadual**
+- Densidade média de 5,20 hab/km², **próxima à média estadual** (~5,7 hab/km²)
+- **Concentração populacional extrema:** Gurupi concentra 59,6% da população microrregional (85.125 hab)
 - Urbanização elevada: Taxa de urbanização regional de aproximadamente 93%, com Gurupi atingindo 97,7%
-- Distribuição polarizada: 1 polo regional forte (Gurupi) + 12 municípios pequenos e médios (1.577 a 9.317 hab)
+- Distribuição polarizada: 1 polo regional forte (Gurupi) + 13 municípios pequenos e médios (1.470 a 9.317 hab)
 
 **Contexto Econômico Singular:**
 Gurupi destaca-se como **polo regional de serviços e agronegócio tecnificado**, apresentando indicadores econômicos expressivos:
-- **PIB regional:** Aproximadamente R$ 3,5-4,0 bilhões (estimativa com base em dados parciais)
+- **PIB regional:** Aproximadamente R$ 4,1-4,6 bilhões (estimativa com base em dados parciais)
 - **PIB de Gurupi:** R$ 2,6 bilhões (4º maior do estado), com setor de serviços representando 77% do VAB
-- **Municípios com PIB per capita extraordinário:** Aliança do Tocantins (R$ 116.268), Cariri do Tocantins (R$ 115.073), Sucupira (R$ 89.062), Santa Rita do Tocantins (R$ 63.257)
+- **Municípios com PIB per capita extraordinário:** Aliança do Tocantins (R$ 116.268), Cariri do Tocantins (R$ 115.073), Sucupira (R$ 89.062), Santa Rita do Tocantins (R$ 63.257), Crixás do Tocantins (R$ 44.965)
 - **Exportações agrícolas recordes:** Alvorada (US$ 149,3 mi em 2023, +1.270% desde 2019), Cariri (US$ 90,8 mi), Figueirópolis (US$ 109,6 mi)
-- **Produção de soja:** Estimada em 750.000-850.000 toneladas/ano regionalmente
-- **Rebanho bovino:** Aproximadamente 750.000-850.000 cabeças
+- **Produção de soja:** Estimada em 770.000-870.000 toneladas/ano regionalmente
+- **Rebanho bovino:** Aproximadamente 800.000-900.000 cabeças
 
 **Centro Regional de Serviços:**
 Gurupi consolidou-se como **polo de saúde e educação superior** do sul do Tocantins, com 248 leitos hospitalares (maior da região), 226 estabelecimentos de saúde, e instituição de ensino superior com 25 cursos presenciais, atraindo população de municípios vizinhos e estados limítrofes.
@@ -96,7 +96,7 @@ Gurupi especializou-se em **educação superior, saúde referenciada e serviços
   - PIB: R$ 2,6 bilhões (4º do estado)
   - PIB per capita: R$ 22.879
   - Setor de serviços: 77% do VAB municipal
-  - Polarização: 60,2% da população microrregional
+  - Polarização: 59,6% da população microrregional
   - Função: Hub logístico, educação superior (25 cursos presenciais), saúde referenciada (248 leitos)
 
 **Centros Intermediários Agrícolas (5.000-10.000 hab):**
@@ -116,20 +116,22 @@ Seis municípios caracterizados por **economia agropecuária altamente produtiva
 - **São Salvador do Tocantins (2.385 hab):** PIB per capita R$ 12.618, economia familiar diversificada
 - **Santa Rita do Tocantins (2.219 hab):** PIB per capita R$ 63.257, agronegócio tecnificado em expansão
 
-**Município Muito Pequeno:**
-- **Sucupira (1.577 hab):** Menor município, mas com PIB per capita R$ 89.062 (3º da microrregião), demonstrando alta produtividade agropecuária
+**Municípios Muito Pequenos (<2.000 hab):**
+Dois municípios com população reduzida, mas com economia agropecuária expressiva:
+- **Sucupira (1.577 hab):** PIB per capita R$ 89.062 (3º da microrregião), demonstrando alta produtividade agropecuária
+- **Crixás do Tocantins (1.470 hab):** PIB per capita R$ 44.965, soja em expansão (17.226 ton), rebanho bovino de 53.532 cabeças (+33,5% desde 2019). PIB cresceu 91% entre 2017-2021, impulsionado pela agropecuária (59,9% do VAB). Apresenta vulnerabilidades sociais relevantes: zero leitos hospitalares, IDHM 0,644, taxa de urbanização de 67,7% (a mais baixa da microrregião) e 83% das famílias em condição de pobreza (2010)
 
 #### Distribuição Territorial
 
 | Porte Populacional | Nº Municípios | % Municípios | População Total | % População |
 |-------------------|---------------|--------------|-----------------|-------------|
-| Acima de 10.000 | 1 | 7,7% | 85.125 | 60,2% |
-| 5.000 a 10.000 | 5 | 38,5% | 35.452 | 25,1% |
-| 2.000 a 5.000 | 6 | 46,2% | 19.126 | 13,5% |
-| Menos de 2.000 | 1 | 7,7% | 1.577 | 1,1% |
+| Acima de 10.000 | 1 | 7,1% | 85.125 | 59,6% |
+| 5.000 a 10.000 | 5 | 35,7% | 35.452 | 24,8% |
+| 2.000 a 5.000 | 6 | 42,9% | 19.126 | 13,4% |
+| Menos de 2.000 | 2 | 14,3% | 3.047 | 2,1% |
 
 **Observação Crítica:**
-Gurupi apresenta **extrema concentração populacional** no polo regional (60,2% em um único município), padrão típico de microrregiões com forte polarização urbana. Simultaneamente, os pequenos municípios apresentam **extraordinário PIB per capita**, demonstrando economia agropecuária altamente tecnificada e capital-intensiva.
+Gurupi apresenta **extrema concentração populacional** no polo regional (59,6% em um único município), padrão típico de microrregiões com forte polarização urbana. Simultaneamente, os pequenos municípios apresentam **extraordinário PIB per capita**, demonstrando economia agropecuária altamente tecnificada e capital-intensiva. A inclusão de Crixás do Tocantins reforça este padrão: PIB per capita de R$ 44.965 (bem acima da média estadual) coexiste com indicadores sociais frágeis (IDHM 0,644, zero leitos hospitalares), evidenciando o paradoxo entre crescimento produtivo e desenvolvimento humano.
 
 #### Rankings por PIB per capita 2021
 
@@ -140,7 +142,24 @@ Gurupi apresenta **extrema concentração populacional** no polo regional (60,2%
 4. Santa Rita do Tocantins: R$ 63.257
 5. Alvorada: R$ 56.569
 
-**Observação:** Todos os municípios do top 5 têm menos de 9.000 habitantes, demonstrando que riqueza agropecuária não se traduz proporcionalmente em população residente, característica típica do agronegócio mecanizado.
+**Ranking Completo (Top 10):**
+
+| Posição | Município | PIB per capita (R$) | Principal Motor Econômico |
+|---------|-----------|---------------------|---------------------------|
+| 1º | Aliança do Tocantins | 116.268,40 | Soja (34.741 ton), 76,6% VAB agro |
+| 2º | Cariri do Tocantins | 115.073,33 | Soja (88.532 ton), export US$ 90,8 mi |
+| 3º | Sucupira | 89.062,14 | Agropecuária (VAB +282% 2017-21) |
+| 4º | Santa Rita do Tocantins | 63.257,61 | Agronegócio tecnificado |
+| 5º | Alvorada | 56.569,78 | Soja (116.528 ton), export US$ 149,3 mi |
+| 6º | Talismã | 51.822,00 | Soja (52.151 ton), pecuária (127.521 cab) |
+| 7º | Brejinho de Nazaré | 49.268,00 | Soja (79.020 ton), pecuária (58.484 cab) |
+| 8º | Figueirópolis | 49.167,40 | Soja (95.768 ton), export US$ 109,6 mi |
+| 9º | Crixás do Tocantins | 44.965,00 | Soja (17.226 ton), pecuária (53.532 cab) |
+| 10º | Palmeirópolis | 28.820,73 | Soja em expansão (+228,8%), pecuária |
+
+**Nota:** Gurupi, polo regional, ocupa a 11ª posição com R$ 22.879 per capita, refletindo sua estrutura econômica baseada em serviços (77% do VAB), que gera PIB absoluto elevado (R$ 2,6 bilhões) mas per capita moderado dada sua população expressiva (85.125 hab).
+
+**Observação:** 10 dos 14 municípios com maior PIB per capita têm menos de 9.000 habitantes, demonstrando que riqueza agropecuária não se traduz proporcionalmente em população residente, característica típica do agronegócio mecanizado.
 
 ---
 
@@ -154,12 +173,12 @@ A microrregião apresenta dinâmica demográfica marcada por **crescimento popul
 **Padrões Municipais:**
 - **Gurupi:** Crescimento populacional sustentado, impulsionado por migração interna (de municípios menores) e investimentos em serviços
 - **Municípios agrícolas dinâmicos (Alvorada, Cariri, Figueirópolis):** Estabilização demográfica com forte crescimento econômico
-- **Municípios muito pequenos:** Tendência de perda populacional por emigração de jovens para Gurupi, Palmas ou centros maiores
+- **Municípios muito pequenos (Sucupira, Crixás do Tocantins):** Tendência de perda populacional por emigração de jovens para Gurupi, Palmas ou centros maiores. Crixás registra variação de -6,0% entre 2010-2022 (-0,5% ao ano)
 - **Urbanização acelerada:** Esvaziamento rural generalizado, com concentração nas sedes municipais (taxa regional ~93%)
 
 **Perfil Etário:**
 - Estrutura etária em transição: Envelhecimento relativo nos municípios menores, população mais jovem concentrada em Gurupi
-- Razão de dependência: Tendência de redução nos municípios agrícolas (perda de jovens, retenção de adultos em idade ativa)
+- Razão de dependência: Tendência de redução nos municípios agrícolas (perda de jovens, retenção de adultos em idade ativa). Crixás do Tocantins apresenta razão de dependência elevada (62,1%), refletindo o envelhecimento de sua população
 - **Vantagem de Gurupi:** Presença de ensino superior retém jovens e atrai estudantes de municípios vizinhos e de outros estados
 
 ### 2.2. Urbanização e Distribuição Espacial
@@ -171,6 +190,9 @@ A microrregião apresenta dinâmica demográfica marcada por **crescimento popul
 - Diversos municípios pequenos com taxa acima de 90%
 - Padrão regional: Concentração nas sedes, esvaziamento rural generalizado
 
+**Município com Urbanização Abaixo da Média Regional:**
+- **Crixás do Tocantins: 67,7%** — exceção ao padrão regional, com 32,3% da população em área rural, indicando maior presença de agricultura familiar e ocupação rural ativa
+
 **Padrão de Ocupação:**
 - **Concentração urbana extrema em Gurupi:** Polo regional com funções de cidade média (comércio, saúde, educação)
 - **Pequenas sedes urbanas:** Municípios menores com sedes urbanas compactas, servindo como apoio ao agronegócio local
@@ -178,7 +200,7 @@ A microrregião apresenta dinâmica demográfica marcada por **crescimento popul
 - **População rural remanescente:** Agricultura familiar de subsistência em pequenas propriedades, tendência de envelhecimento
 
 **Implicação Territorial:**
-Vastas extensões rurais com densidade populacional próxima de zero, dominadas por latifúndios agropecuários geridos remotamente. Proprietários frequentemente residem em Gurupi, Palmas, Goiânia ou em seus estados de origem (Sul, Centro-Oeste).
+Vastas extensões rurais com densidade populacional próxima de zero, dominadas por latifúndios agropecuários geridos remotamente. Proprietários frequentemente residem em Gurupi, Palmas, Goiânia ou em seus estados de origem (Sul, Centro-Oeste). Crixás do Tocantins, com densidade de apenas 1,5 hab/km², exemplifica este padrão de ocupação rarefeita.
 
 ### 2.3. Fluxos Migratórios
 
@@ -202,7 +224,7 @@ Vastas extensões rurais com densidade populacional próxima de zero, dominadas 
 **Saldo Migratório:**
 - **Gurupi:** Positivo (atração regional)
 - **Municípios agrícolas dinâmicos:** Equilibrado ou levemente positivo (chegada de profissionais especializados compensa saída de jovens)
-- **Municípios pequenos:** Negativo (perda contínua de população jovem)
+- **Municípios pequenos e muito pequenos (incluindo Crixás do Tocantins):** Negativo (perda contínua de população jovem)
 
 ---
 
@@ -211,7 +233,7 @@ Vastas extensões rurais com densidade populacional próxima de zero, dominadas 
 ### 3.1. Estrutura Econômica Regional
 
 **PIB Regional Consolidado (estimativa baseada em dados municipais 2021):**
-- **PIB Total:** Aproximadamente R$ 4,0-4,5 bilhões (incluindo Gurupi com R$ 2,6 bi)
+- **PIB Total:** Aproximadamente R$ 4,1-4,6 bilhões (incluindo Gurupi com R$ 2,6 bi e Crixás do Tocantins com R$ 78,6 mi)
 - **PIB per capita médio:** R$ 30.000-35.000 (bem acima da média estadual de R$ 22.100)
 - **Participação no PIB Estadual:** ~11-13%
 
@@ -224,16 +246,16 @@ A microrregião apresenta **dois perfis econômicos complementares**:
    - **Indústria:** 4% do VAB (pequenas indústrias, agroindústria, construção civil)
    - **Função:** Centro regional de serviços, hub logístico e comercial
 
-2. **Municípios agrícolas (11 municípios):**
-   - **Agropecuária:** 50-75% do VAB municipal (soja, milho, pecuária bovina)
+2. **Municípios agrícolas (13 municípios):**
+   - **Agropecuária:** 50-75% do VAB municipal (soja, milho, pecuária bovina). Crixás do Tocantins exemplifica com 59,9% do VAB em agropecuária
    - **Serviços:** 20-35% do VAB (administração pública, comércio básico)
-   - **Indústria:** 5-15% do VAB (agroindústria, beneficiamento)
+   - **Indústria:** 2-15% do VAB (agroindústria, beneficiamento). Crixás apresenta apenas 2,2% em indústria
    - **Função:** Produção de commodities agrícolas para exportação
 
 **Produção Agropecuária Regional (estimativas 2023):**
-- **Soja:** 750.000-850.000 toneladas/ano
-- **Milho:** 150.000-180.000 toneladas/ano
-- **Pecuária bovina:** 750.000-850.000 cabeças
+- **Soja:** 770.000-870.000 toneladas/ano
+- **Milho:** 155.000-185.000 toneladas/ano
+- **Pecuária bovina:** 800.000-900.000 cabeças
 - **Exportações:** Aproximadamente US$ 500-600 milhões/ano (grãos)
    - Indústria de transformação incipiente
 
@@ -241,7 +263,7 @@ A microrregião apresenta **dois perfis econômicos complementares**:
 A microrregião apresenta **dupla fonte de arrecadação**:
 - **Gurupi:** ICMS sobre comércio/serviços + circulação de commodities + ISS
 - **Municípios agrícolas:** ICMS sobre circulação de grãos (repasse estadual)
-- **Desafio:** Municípios pequenos ainda dependem majoritariamente de FPM e transferências estaduais
+- **Desafio:** Municípios pequenos ainda dependem majoritariamente de FPM e transferências estaduais. Crixás do Tocantins exemplifica esta vulnerabilidade com dependência de aproximadamente 82% de transferências na receita corrente
 
 ### 3.2. Principais Atividades Econômicas
 
@@ -250,7 +272,7 @@ A microrregião apresenta **dupla fonte de arrecadação**:
 **Dimensão da Atividade:**
 
 **Soja (cultura dominante absoluta):**
-- **Produção Regional:** 750.000-850.000 toneladas/ano
+- **Produção Regional:** 770.000-870.000 toneladas/ano
 - **Principais produtores:**
   - **Peixe:** 184.965 toneladas (2023), maior produtor da microrregião
   - **Alvorada:** 116.528 toneladas, exportações US$ 149,3 mi (+1.270% desde 2019)
@@ -260,11 +282,12 @@ A microrregião apresenta **dupla fonte de arrecadação**:
   - **Talismã:** 52.151 toneladas
   - **Aliança do Tocantins:** 34.741 toneladas (+81,7% desde 2019)
   - **Palmeirópolis:** 18.591 toneladas (+228,8% desde 2019)
+  - **Crixás do Tocantins:** 17.226 toneladas (2023), produção em expansão acompanhando o movimento regional de avanço da soja
 
 **Milho:**
-- **Produção Regional:** 150.000-180.000 toneladas/ano
+- **Produção Regional:** 155.000-185.000 toneladas/ano
 - Cultivo principalmente em segunda safra (safrinha) após soja e sorgo
-- **Principais produtores:** Alvorada (33.264 t), Brejinho de Nazaré (20.096 t), Talismã (12.648 t)
+- **Principais produtores:** Alvorada (33.264 t), Brejinho de Nazaré (20.096 t), Talismã (12.648 t), Crixás do Tocantins (4.151 t)
 
 **Sorgo:**
 - **Produção crescente:** Alvorada (21.600 toneladas), rotação de culturas
@@ -284,14 +307,15 @@ A microrregião apresenta **dupla fonte de arrecadação**:
 #### Pecuária Bovina
 
 **Dimensão da Atividade:**
-- **Rebanho Regional:** 750.000-850.000 cabeças (estimativa consolidada)
+- **Rebanho Regional:** 800.000-900.000 cabeças (estimativa consolidada)
 - **Maiores rebanhos municipais:**
   - **Talismã:** 127.521 cabeças
   - **Jaú do Tocantins:** 124.937 cabeças
   - **Palmeirópolis:** 87.918 cabeças (+40,5% desde 2019)
   - **Cariri do Tocantins:** 86.274 cabeças
-  - **Peixe:** Rebanho expressivo em expansão
   - **Brejinho de Nazaré:** 58.484 cabeças
+  - **Crixás do Tocantins:** 53.532 cabeças (+33,5% desde 2019), rebanho em forte expansão
+  - **Peixe:** Rebanho expressivo em expansão
   - **São Salvador do Tocantins:** 47.160 cabeças
 
 **Sistemas Produtivos:**
@@ -323,16 +347,17 @@ A microrregião beneficia-se de **acesso extraordinário ao crédito rural**, re
 **Exemplos Destacados:**
 - **Peixe:** R$ 413,7 milhões em financiamentos rurais (2023), o maior volume absoluto da microrregião
 - **Santa Rita do Tocantins:** Aumento de 284% nos financiamentos agrícolas (2019-2023), de R$ 63,7 mi para R$ 244,4 mi
+- **Crixás do Tocantins:** R$ 57,2 milhões (2023), crescimento de 131% desde 2019, sinalizando dinamismo agropecuário expressivo
 - **Alvorada, Cariri, Figueirópolis:** Dezenas de milhões anuais em custeio e investimento
 - **Municípios em expansão:** Palmeirópolis, Brejinho de Nazaré com crescimento contínuo
 
 **Volume Regional Estimado:**
-- **Financiamentos totais 2023:** R$ 800 milhões - R$ 1 bilhão (incluindo Peixe com R$ 413,7 mi)
+- **Financiamentos totais 2023:** R$ 850 milhões - R$ 1,05 bilhão (incluindo Peixe com R$ 413,7 mi e Crixás com R$ 57,2 mi)
 - **Destino principal:** Custeio de safra (soja, milho, sorgo), aquisição de máquinas, investimentos em irrigação
 - **Fontes:** Banco do Brasil, bancos privados, cooperativas de crédito
 
 **Desafio Estrutural:**
-Pequenos produtores familiares enfrentam barreiras ao crédito (burocracia, falta de garantias, assistência técnica limitada), perpetuando desigualdades e dificultando diversificação econômica.
+Pequenos produtores familiares enfrentam barreiras ao crédito (burocracia, falta de garantias, assistência técnica limitada), perpetuando desigualdades e dificultando diversificação econômica. Em Crixás do Tocantins, onde 65% dos empregos formais estão na administração pública e a base industrial representa apenas 2,2% do VAB, o desafio de converter o crédito rural disponível em diversificação econômica efetiva é particularmente agudo.
 
 ### 3.4. Rankings e Benchmarking Municipal
 
@@ -348,10 +373,12 @@ Pequenos produtores familiares enfrentam barreiras ao crédito (burocracia, falt
 | 6º | Talismã | 51.822,00 | Soja (52.151 ton), pecuária (127.521 cab) |
 | 7º | Brejinho de Nazaré | 49.268,00 | Soja (79.020 ton), pecuária (58.484 cab) |
 | 8º | Figueirópolis | 49.167,40 | Soja (95.768 ton), export US$ 109,6 mi |
-| 9º | Palmeirópolis | 28.820,73 | Soja em expansão (+228,8%), pecuária |
-| 10º | Gurupi | 22.879,00 | Serviços (77%), polo regional |
+| 9º | Crixás do Tocantins | 44.965,00 | Soja (17.226 ton), pecuária (53.532 cab), PIB +91% |
+| 10º | Palmeirópolis | 28.820,73 | Soja em expansão (+228,8%), pecuária |
 
-**Observação:** 9 dos 10 municípios com maior PIB per capita têm população inferior a 9.000 habitantes, demonstrando economia de commodities altamente produtiva e capital-intensiva.
+**Nota:** Gurupi, polo regional, ocupa a 11ª posição com PIB per capita de R$ 22.879, refletindo sua base econômica de serviços (77% do VAB) e população expressiva (85.125 hab).
+
+**Observação:** 10 dos 14 municípios com maior PIB per capita têm menos de 9.000 habitantes, demonstrando que riqueza agropecuária não se traduz proporcionalmente em população residente, característica típica do agronegócio mecanizado.
 
 #### IDHM 2010 - Rankings
 
@@ -370,11 +397,14 @@ Pequenos produtores familiares enfrentam barreiras ao crédito (burocracia, falt
 - Jaú do Tocantins: 0,662
 - Talismã: 0,654
 - Santa Rita do Tocantins: 0,651
+- Crixás do Tocantins: 0,644
 
 **Municípios com IDHM "Baixo" (<0,600):**
 - São Salvador do Tocantins: 0,605
 
-**Destaque Positivo:** A microrregião apresenta IDHM consistentemente superior à média estadual, com 12 dos 13 municípios na faixa "Médio" ou "Alto", reflexo da proximidade do polo regional (Gurupi) e acesso a serviços.
+**Destaque Positivo:** A microrregião apresenta IDHM consistentemente superior à média estadual, com 13 dos 14 municípios na faixa "Médio" ou "Alto", reflexo da proximidade do polo regional (Gurupi) e acesso a serviços.
+
+**Caso Crixás do Tocantins:** IDHM de 0,644, com componente de Longevidade alto (0,798), Renda médio (0,603) e Educação baixo (0,555). O componente educacional é o mais frágil, refletindo defasagens históricas que se manifestam na distorção idade-série de 30,4% no ensino médio e na taxa de pobreza de 83% das famílias (2010).
 
 **Paradoxo Persistente:** Municípios com PIB per capita extraordinário (Aliança do Tocantins R$ 116.268, Cariri R$ 115.073) apresentam IDHM "Médio" (0,663 e 0,662), evidenciando:
 - Concentração de renda no agronegócio patronal
@@ -385,13 +415,14 @@ Pequenos produtores familiares enfrentam barreiras ao crédito (burocracia, falt
 #### Crescimento Econômico Recente (2017-2021)
 
 **Municípios com Maior Crescimento do PIB:**
+- **Crixás do Tocantins:** +91% (de R$ 41,0 mi para R$ 78,6 mi), impulsionado pelo VAB agropecuário (+176%)
 - **Talismã:** PIB mais que dobrou (de R$ 83,4 mi para R$ 146,7 mi), +76%
 - **Jaú do Tocantins:** +68% (de R$ 58,4 mi para R$ 97,9 mi)
 - **Cariri do Tocantins:** +50% (de R$ 345 mi para R$ 518 mi)
 - **Porto Alegre do Tocantins:** +62% (de R$ 29 mi para R$ 47 mi)
 - **Peixe, Alvorada, Figueirópolis:** Crescimento sustentado acima de 30-40%
 
-**Driver Principal:** Expansão da área plantada de soja, aumento da produtividade, alta dos preços internacionais de commodities (2020-2021), e acesso ao crédito rural.
+**Driver Principal:** Expansão da área plantada de soja, aumento da produtividade, alta dos preços internacionais de commodities (2020-2021), e acesso ao crédito rural. Em Crixás do Tocantins, o crédito rural cresceu 131% (alcançando R$ 57,2 mi em 2023), acompanhando a forte expansão da soja e do rebanho bovino.
 
 ---
 
@@ -407,12 +438,14 @@ Pequenos produtores familiares enfrentam barreiras ao crédito (burocracia, falt
 - **Rede municipal (ensino fundamental):** Sedes municipais e escolas rurais (em declínio)
 - **Rede estadual (ensino médio):** Concentrada em **Gurupi** (maior oferta), Peixe, Alvorada, Figueirópolis
 - **Gurupi:** Hub educacional regional com escolas de maior porte e melhor infraestrutura
+- **Crixás do Tocantins:** Rede 100% pública (5 estabelecimentos, 29 docentes), 402 matrículas totais (2023), sem ensino superior local
 - **Desafio:** Escolas rurais enfrentam fechamento (esvaziamento rural, concentração nas sedes)
 
 **Qualidade Educacional:**
 - **Gurupi:** Desempenho superior à média estadual (IDEB acima de 5,0 nos anos iniciais)
 - **Municípios menores:** Desempenho mediano a crítico (IDEB 4,0-5,0)
 - **Anos Finais e Ensino Médio:** Desafio generalizado (<4,5 na maioria dos municípios)
+- **Crixás do Tocantins:** IDEB Anos Iniciais 5,0 (meta atingida), mas Anos Finais 3,9 e Ensino Médio 4,1 (metas não atingidas). Distorção idade-série no ensino médio de 30,4%, uma das mais altas da microrregião
 - Fatores: Rotatividade docente nos municípios pequenos, migração de estudantes para Gurupi
 
 ### 4.2. Educação Superior
@@ -430,7 +463,7 @@ Pequenos produtores familiares enfrentam barreiras ao crédito (burocracia, falt
 - Dinamização do setor de serviços em Gurupi
 
 **Desafio:**
-Municípios menores continuam dependentes de Gurupi ou centros maiores para educação superior, resultando em emigração de jovens qualificados.
+Municípios menores continuam dependentes de Gurupi ou centros maiores para educação superior, resultando em emigração de jovens qualificados. Crixás do Tocantins, com ensino superior totalmente ausente e apenas 35,4% do eleitorado com ensino médio completo ou superior, ilustra a magnitude deste desafio.
 
 ### 4.3. Alfabetização
 
@@ -439,12 +472,13 @@ Melhoria expressiva nas taxas de alfabetização:
 - **População 15+ anos:** 85-92% alfabetizada (maioria dos municípios)
 - **Jovens 15-19 anos:** >97% alfabetizados
 - **Analfabetismo residual:** Concentrado em população acima de 60 anos
+- **Crixás do Tocantins:** Taxa de 91,1% (2022), evolução de +1,8 p.p. em relação a 2010
 
 **Destaque - Gurupi:**
 Taxa de alfabetização superior à média estadual, reflexo de investimentos educacionais e urbanização elevada (97,7%).
 
 **Desafio Persistente:**
-Analfabetismo funcional em áreas rurais e população idosa dos municípios menores.
+Analfabetismo funcional em áreas rurais e população idosa dos municípios menores. Em Crixás do Tocantins, 4,9% do eleitorado é analfabeto.
 
 ---
 
@@ -464,6 +498,14 @@ Analfabetismo funcional em áreas rurais e população idosa dos municípios men
 - **Atenção Básica:** Unidades Básicas de Saúde (UBS) em todas as sedes municipais
 - **Municípios intermediários (Peixe, Alvorada):** Pequenos hospitais municipais, ESF
 - **Desafio:** Municípios menores dependem de Gurupi para procedimentos de média/alta complexidade
+
+**Situação Crítica — Crixás do Tocantins:**
+- **Zero leitos hospitalares:** Ausência total de internação no município
+- **1 UBS e 1 Academia da Saúde:** Infraestrutura mínima
+- **Apenas 9 profissionais de saúde (3 médicos):** Quadro insuficiente para a população
+- **Mortalidade infantil: 50,0‰ (2018)** — muito acima da média estadual (~13,4‰), evidenciando grave fragilidade no atendimento materno-infantil
+- **Coberturas vacinais abaixo da meta:** Poliomielite (78,3%) e febre amarela (71,4%) estão abaixo da meta OMS de 95%, representando risco sanitário
+- Qualquer emergência ou internação depende de municípios vizinhos, sobretudo Gurupi
 
 **Alta Complexidade:**
 Inexistente na microrregião - referência em **Palmas** (230 km), Goiânia (550 km) ou Brasília (750 km).
@@ -487,6 +529,7 @@ Melhoria significativa entre 1991-2010:
 - **Taguatinga:** 58,5 → 74,1 anos (+15,6 anos)
 - **Talismã:** 64,5 → 73,0 anos
 - **Gurupi:** Indicador superior à média regional (próximo a 75 anos)
+- **Crixás do Tocantins:** IDHM Longevidade de 0,798 (componente "Alto"), indicando avanço relativo nesta dimensão apesar das carências infraestruturais
 
 **Mortalidade Infantil:**
 Redução expressiva:
@@ -496,6 +539,9 @@ Redução expressiva:
 
 **Exemplo:**
 - **Talismã:** 45,6 → 18,4 por mil (-60%)
+
+**Alerta — Crixás do Tocantins:**
+Mortalidade infantil de 50,0‰ (2018), valor extremamente elevado e discrepante em relação à média regional. Este indicador demanda atenção emergencial e investigação de causas (possível subnotificação em anos anteriores ou fragilidade real no atendimento).
 
 **Fatores de Melhoria:**
 - Expansão da atenção básica (ESF) e fortalecimento da rede em Gurupi
@@ -516,9 +562,13 @@ Redução expressiva:
 - Santa Rita do Tocantins, Alvorada, Brejinho de Nazaré: 90-95%
 - Evolução significativa nas últimas décadas
 
+**Municípios com cobertura abaixo da média:**
+- **Crixás do Tocantins: 68,4%** — significativamente abaixo do padrão regional, com 31,6% dos domicílios sem acesso à rede geral
+
 **Esgotamento Sanitário:**
 - **Situação crítica generalizada:** Maioria dos municípios sem rede coletora de esgoto
 - **Gurupi:** Melhor infraestrutura regional, mas ainda com cobertura parcial de rede coletora
+- **Crixás do Tocantins:** Apenas 10,4% dos domicílios com esgoto via rede geral; 56,1% utilizam fossa rudimentar, configurando risco sanitário e ambiental
 - Soluções individuais predominantes (fossas sépticas, muitas inadequadas)
 - **Desafio ambiental:** Lançamento in natura em córregos e rios
 
@@ -526,6 +576,7 @@ Redução expressiva:
 - **Cobertura elevada nas sedes municipais:** >85-98%
 - **Gurupi:** Coleta universal na área urbana, aterro sanitário (melhor da região)
 - **São Valério, Novo Jardim:** 97-100% com coleta direta
+- **Crixás do Tocantins:** Cobertura de apenas 68,3%, com 23,2% dos domicílios queimando lixo na propriedade. **Destinação final em lixão**, configurando crime ambiental (Lei 12.305/2010) e impedindo acesso a financiamentos
 - **Áreas rurais:** Coleta inexistente ou irregular
 - **Destinação final:** Lixões a céu aberto ainda presentes em municípios menores (passivo ambiental)
 
@@ -549,6 +600,9 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - **Médias propriedades (50-500 ha):** Pecuária, soja em escala média, integração lavoura-pecuária
 - **Grandes propriedades (>500 ha):** Soja em larga escala, pecuária extensiva, mecanização plena
 
+**Caso Crixás do Tocantins:**
+Apresenta 63,5% das terras em condições próprias, com área média dos estabelecimentos que caiu de 550 ha para 266 ha entre os censos, sugerindo fragmentação fundiária ou mudança metodológica. O número de estabelecimentos cresceu 61,9% entre 2006 e 2017 (de 105 para 170), acompanhando a expansão agropecuária no município.
+
 **Regularização Fundiária:**
 - **Situação avançada:** Titulação consolidada na maioria dos municípios
 - **Alvorada:** 97,9% das terras em condições próprias (2017)
@@ -564,12 +618,15 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Estrutura:**
 - **São Salvador do Tocantins:** 72% dos estabelecimentos <100 ha (agricultura familiar predominante)
-- Presença expressiva em municípios menores (Sucupira, Taipas, Jaú do Tocantins)
+- Presença expressiva em municípios menores (Sucupira, Taipas, Jaú do Tocantins, Crixás do Tocantins)
+
+**Caso Crixás do Tocantins:**
+O município apresenta taxa de urbanização de apenas 67,7% (a mais baixa da microrregião), indicando presença rural significativa. A aquicultura, que produzia 49.300 kg em 2021, zerou em 2022-2023, representando oportunidade perdida que poderia ser retomada. O arroz, cultura tradicional que já atingiu 8.900 toneladas, caiu para apenas 204 toneladas, demonstrando a transição acelerada para soja e pecuária.
 
 **Desafios Estruturais:**
 - **Assistência técnica:** Insuficiente ou inexistente nos municípios menores
 - **Acesso a mercados:** Dependência de atravessadores, distâncias longas para centros consumidores
-- **Crédito:** Dificuldade de acesso ao PRONAF (burocracia, falta de garantias, baixa bancarização)
+- **Crédito:** Dificuldade de acesso ao PRONAF (burocracia, falta de garantias, baixa bancarização). Em Crixás do Tocantins, não há sequer agência bancária (apenas um posto de atendimento)
 - **Infraestrutura:** Estradas vicinais precárias, ausência de estruturas de beneficiamento e armazenamento
 - **Esvaziamento rural acelerado:** Jovens migram para Gurupi, Palmas ou outras regiões
 
@@ -578,6 +635,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Agroindústrias familiares (polpas, farinhas, queijos artesanais, mel)
 - Turismo rural integrado com Gurupi (proximidade da BR-153)
 - Agregação de valor via cooperativismo
+- Retomada da aquicultura em municípios como Crixás do Tocantins (infraestrutura hídrica disponível)
 
 ### 6.3. Uso do Solo e Recursos Naturais
 
@@ -637,6 +695,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 **Telecomunicações:**
 - **Gurupi:** Cobertura 4G >97% (principais operadoras), infraestrutura de telecomunicações consolidada
 - **Municípios menores:** Cobertura 4G variável (60-90%), melhorias contínuas
+- **Crixás do Tocantins:** Cobertura 4G de apenas ~58% da população, com apenas 45 acessos de banda larga fixa — um dos piores indicadores de conectividade da microrregião
 - **Internet fixa:** Disponível em Gurupi e sedes municipais maiores (fibra óptica em expansão)
 
 **Qualidade do Fornecimento:**
@@ -653,6 +712,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - **Situação:** Penetração baixa, concentrada em sedes municipais maiores
 - **Dianópolis, Taguatinga:** Oferta comercial de banda larga
 - **Municípios pequenos:** Acesso limitado, velocidades baixas
+- **Crixás do Tocantins:** Apenas 45 acessos de banda larga fixa, sem agência bancária (apenas posto de atendimento), refletindo exclusão digital e financeira
 - **Áreas rurais:** Praticamente inexistente
 
 **Impacto:**
@@ -695,6 +755,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 **Queimadas:**
 - Uso tradicional de fogo para limpeza de áreas
 - Incêndios descontrolados em períodos de seca
+- **Crixás do Tocantins:** 24 focos de queimadas em 2023 (média de 21 focos/ano), com padrão irregular e pico histórico de 41 focos em 2014
 - Impactos: Perda de vegetação, emissões de gases de efeito estufa, problemas respiratórios
 
 ### 8.3. Gestão Ambiental
@@ -709,10 +770,14 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - **Reserva Legal e APPs:** Cumprimento irregular, fiscalização deficiente
 - **Licenciamento ambiental:** Morosidade, acúmulo de processos
 
+**Destaque Negativo — Resíduos Sólidos:**
+O lixão de Crixás do Tocantins, com ausência de coleta seletiva e destinação final inadequada, configura crime ambiental nos termos da Lei 12.305/2010 (Política Nacional de Resíduos Sólidos). Esta situação impede o município de acessar financiamentos e programas federais, agravando o ciclo de carências infraestruturais.
+
 **Desafios:**
 - Conciliar expansão agrícola com conservação ambiental
 - Implementar efetivamente o Código Florestal
 - Promover agricultura sustentável (ILPF, plantio direto, corredores ecológicos)
+- Erradicar lixões remanescentes nos municípios menores
 
 **Oportunidades:**
 - Certificação ambiental de propriedades (mercados premium)
@@ -736,6 +801,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Migração de jovens (falta de oportunidades diversificadas)
 - Sub-investimento em educação e saúde municipais
 - Dependência de ciclos de preços de commodities
+- **Caso Crixás do Tocantins:** PIB per capita de R$ 44.965 (acima da média estadual) coexiste com 83% das famílias em pobreza, zero leitos hospitalares e apenas 88 empregos formais — ilustração extrema do paradoxo entre crescimento produtivo e desenvolvimento humano
 
 #### 2. Pressão Ambiental Insustentável
 
@@ -743,6 +809,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Desmatamento acelerado de cerrado nativo
 - Uso intensivo de agrotóxicos
 - Degradação de recursos hídricos
+- Lixões ainda operantes em municípios menores (caso de Crixás do Tocantins)
 
 **Consequências:**
 - Perda de biodiversidade e serviços ecossistêmicos
@@ -766,6 +833,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Economia dependente de soja e pecuária
 - Ausência de indústrias de transformação
 - Setor de serviços limitado a comércio básico
+- **Crixás do Tocantins:** Indústria representa apenas 2,2% do VAB, com 65% dos empregos formais na administração pública
 
 **Riscos:**
 - Vulnerabilidade a oscilações de preços internacionais
@@ -775,14 +843,17 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Educação:**
 - Qualidade insuficiente (IDEB baixo)
-- Ausência de ensino superior na região
+- Ausência de ensino superior na maioria dos municípios
+- Distorção idade-série elevada (30,4% no ensino médio de Crixás do Tocantins)
 
 **Saúde:**
 - Acesso limitado a média/alta complexidade
 - Dificuldade de fixação de profissionais
+- **Municípios sem leitos hospitalares:** Crixás do Tocantins opera sem nenhum leito, com mortalidade infantil de 50‰
 
 **Saneamento:**
 - Esgotamento sanitário praticamente inexistente
+- Lixões como destino final em municípios menores
 
 ### 9.2. Oportunidades de Desenvolvimento
 
@@ -799,6 +870,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Indústrias de processamento de soja (óleo, farelo, biodiesel)
 - Frigoríficos e laticínios (pecuária)
 - Agroindústrias de pescado (aquicultura)
+- Beneficiamento de grãos e carne em municípios como Crixás do Tocantins, aproveitando o crédito rural disponível (R$ 57,2 mi)
 
 **Benefícios:**
 - Geração de empregos locais
@@ -811,6 +883,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - **Natividade:** Cidade histórica (arquitetura colonial, igrejas barrocas, museus)
 - **Patrimônio do ciclo do ouro:** Minas históricas, trilhas, ruínas
 - **Ecoturismo:** Chapadas, cachoeiras, observação de fauna e flora do cerrado
+- **Turismo rural e pesca esportiva:** Potencial em municípios como Crixás do Tocantins, com paisagem de cerrado e histórico de aquicultura
 
 **Desenvolvimento Necessário:**
 - Infraestrutura turística (pousadas, restaurantes, sinalização)
@@ -841,22 +914,22 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 #### **FORÇAS (Strengths)**
 
 1. **Gurupi como Polo Regional Consolidado**
-   - **Segundo maior polo econômico e populacional do estado** (85.125 hab, 60% da população regional)
+   - **Segundo maior polo econômico e populacional do estado** (85.125 hab, 59,6% da população regional)
    - **Educação superior:** 25 cursos presenciais, 17 polos EaD - único polo de ensino superior do sul do Tocantins
    - **Saúde referenciada:** 248 leitos hospitalares, 226 estabelecimentos - maior capacidade regional
    - **Hub de serviços:** Comércio especializado, insumos agrícolas, assistência técnica, oficinas
    - **IDHM 0,759:** 2º do estado, único da microrregião com classificação "Alto"
 
 2. **Agronegócio Altamente Tecnificado e Exportador**
-   - Produção regional de soja: **750.000-850.000 toneladas/ano** (uma das maiores do estado)
+   - Produção regional de soja: **770.000-870.000 toneladas/ano** (uma das maiores do estado)
    - **Exportações recordes:** Alvorada (US$ 149,3 mi), Figueirópolis (US$ 109,6 mi), Cariri (US$ 90,8 mi) - total ~US$ 500-600 milhões/ano
-   - Rebanho bovino: 750.000-850.000 cabeças
-   - **Acesso privilegiado ao crédito rural:** Peixe (R$ 413,7 mi em 2023), Santa Rita (+284% crescimento)
+   - Rebanho bovino: 800.000-900.000 cabeças
+   - **Acesso privilegiado ao crédito rural:** Peixe (R$ 413,7 mi em 2023), Santa Rita (+284% crescimento), Crixás do Tocantins (R$ 57,2 mi, +131%)
    - Crescimento do VAB agropecuário: 100-280% entre 2017-2021 em vários municípios
 
 3. **PIB per capita Extraordinário**
    - Média regional R$ 30.000-35.000 (bem acima da média estadual de R$ 22.100)
-   - **Municípios excepcionais:** Aliança do Tocantins (R$ 116.268), Cariri (R$ 115.073), Sucupira (R$ 89.062)
+   - **Municípios excepcionais:** Aliança do Tocantins (R$ 116.268), Cariri (R$ 115.073), Sucupira (R$ 89.062), Crixás do Tocantins (R$ 44.965)
    - Capacidade de arrecadação tributária superior (ICMS sobre commodities + serviços em Gurupi)
 
 4. **Localização Estratégica na BR-153**
@@ -868,7 +941,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 5. **Melhoria Consistente de Indicadores Sociais**
    - Esperança de vida: Aumento de 10-15 anos entre 1991-2010
    - Mortalidade infantil: Redução de 60-70%
-   - **12 dos 13 municípios com IDHM "Médio" ou "Alto"** (melhor distribuição regional do estado)
+   - **13 dos 14 municípios com IDHM "Médio" ou "Alto"** (melhor distribuição regional do estado)
    - Saneamento básico em evolução (água encanada >90% na maioria dos municípios)
 
 6. **Infraestrutura Consolidada**
@@ -881,24 +954,26 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 1. **Modelo Econômico Altamente Concentrador**
    - Benefícios do agronegócio concentrados em grandes proprietários (estrutura fundiária: >70% em grandes propriedades)
    - Baixíssima geração de empregos diretos (agricultura capital-intensiva, mecanização plena)
-   - **Paradoxo persistente:** Municípios com PIB per capita extraordinário (Aliança R$ 116k, Cariri R$ 115k) apresentam IDHM "Médio" (0,66)
+   - **Paradoxo persistente:** Municípios com PIB per capita extraordinário (Aliança R$ 116k, Cariri R$ 115k, Crixás R$ 45k) apresentam IDHM "Médio" (0,64-0,66) e alta pobreza
    - Concentração de renda: Agronegócio patronal x agricultura familiar marginalizada
+   - **Crixás do Tocantins:** 83% das famílias em pobreza (2010), Gini 0,504, apenas 88 empregos formais apesar do PIB per capita elevado
 
 2. **Dependência Crítica de Commodities Agrícolas**
-   - **Monoc cultura de soja:** 750-850k ton/ano representam quase toda a base exportadora
+   - **Monocultura de soja:** 770-870k ton/ano representam quase toda a base exportadora
    - Vulnerabilidade extrema a oscilações de preços internacionais (China, mercado global)
    - Falta de diversificação econômica (exceto Gurupi com serviços)
    - Risco de crises setoriais profundas
 
 3. **Assimetria Regional Extrema**
-   - **Concentração em Gurupi:** 60% da população, maioria dos serviços, educação superior, saúde
+   - **Concentração em Gurupi:** 59,6% da população, maioria dos serviços, educação superior, saúde
    - **Municípios pequenos:** Dependência total de Gurupi para serviços essenciais (saúde, educação, comércio especializado)
    - Esvaziamento contínuo dos municípios menores (migração para Gurupi ou outras regiões)
+   - **Crixás do Tocantins:** Declínio populacional de -6% entre 2010-2022, sem agência bancária, sem leitos hospitalares
 
 4. **Infraestrutura Social Ainda Deficiente**
-   - **Educação:** Qualidade insuficiente nos municípios menores (IDEB <4,5 no ensino médio)
-   - **Saúde:** Alta complexidade inexistente (dependência de Palmas, Goiânia ou Brasília)
-   - **Saneamento:** Esgotamento sanitário praticamente inexistente (apenas soluções individuais, muitas inadequadas)
+   - **Educação:** Qualidade insuficiente nos municípios menores (IDEB <4,5 no ensino médio). Crixás: distorção idade-série de 30,4% no ensino médio
+   - **Saúde:** Alta complexidade inexistente (dependência de Palmas, Goiânia ou Brasília). Crixás: zero leitos, mortalidade infantil de 50‰
+   - **Saneamento:** Esgotamento sanitário praticamente inexistente (apenas soluções individuais, muitas inadequadas). Crixás: lixão operante, apenas 10,4% com rede de esgoto
    - Gurupi: Melhor infraestrutura, mas ainda com desafios (rede de esgoto parcial)
 
 5. **Êxodo de Jovens dos Municípios Menores**
@@ -912,6 +987,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Uso intensivo de agrotóxicos (poluição de recursos hídricos)
    - Degradação de solos e assoreamento de rios
    - Perda irreversível de biodiversidade
+   - Lixões operantes em municípios menores (Crixás do Tocantins)
 
 7. **Custos Logísticos Ainda Elevados**
    - Dependência exclusiva do transporte rodoviário via BR-153
@@ -929,10 +1005,11 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 2. **Agroindustrialização e Agregação de Valor**
    - **Processamento de soja:** Óleo, biodiesel, farelo (atração de esmagadoras)
-   - **Frigoríficos de bovinos:** Integração com pecuária regional (750-850k cabeças)
+   - **Frigoríficos de bovinos:** Integração com pecuária regional (800-900k cabeças)
    - **Laticínios:** Processamento de leite (produção crescente)
    - **Agroindústrias de pescado:** Beneficiamento de tambaqui e pintado (aquicultura)
    - **Instalação em Gurupi:** Vantagens logísticas, mão de obra, infraestrutura
+   - **Unidades descentralizadas:** Potencial para beneficiamento de grãos e carne em municípios como Crixás do Tocantins, com crédito disponível e matéria-prima local
 
 3. **Intensificação Sustentável da Produção Agropecuária**
    - **ILPF (Integração Lavoura-Pecuária-Floresta):** Aumento de produtividade, conservação, diversificação
@@ -963,12 +1040,14 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - **Circuitos curtos:** Feiras em Gurupi, PAA, PNAE
    - Produção orgânica/agroecológica (demanda crescente)
    - Cooperativismo e associativismo
+   - Retomada da aquicultura em municípios com potencial (Crixás do Tocantins)
 
 8. **Turismo Integrado**
    - Ecoturismo: Cerrado, chapadas, recursos hídricos
    - Turismo rural: Integração com fazendas produtivas
    - **Base em Gurupi:** Hotelaria, gastronomia, guias
    - Rotas regionais: Jalapão (TO), Chapada das Mesas (MA)
+   - Turismo rural e pesca esportiva em municípios como Crixás do Tocantins
 
 #### **AMEAÇAS (Threats)**
 
@@ -1000,7 +1079,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 6. **Êxodo Continuado de Capital Humano**
    - Perda de jovens qualificados
    - Dificuldade de atrair profissionais especializados
-   - Envelhecimento e esvaziamento de municípios menores
+   - Envelhecimento e esvaziamento de municípios menores (Crixás: -6% entre 2010-2022)
 
 7. **Barreiras Sanitárias e Fitossanitárias**
    - Surtos de doenças (febre aftosa, peste suína)
@@ -1026,6 +1105,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Assistência técnica especializada
    - Estruturação de cadeia produtiva (ração, alevinos, processamento)
    - Acesso a mercados (restaurantes, supermercados, exportação)
+   - Retomada da aquicultura em Crixás do Tocantins (produção que atingiu 49.300 kg em 2021 e zerou em 2022-2023)
 
 3. **Certificação de Produtos Sustentáveis:**
    - Soja certificada (Proterra, Rainforest Alliance)
@@ -1070,11 +1150,16 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Parcerias com empresas (compensação ambiental)
    - Créditos de carbono
 
+5. **Erradicação de Lixões:**
+   - Construção de aterro sanitário regional compartilhado para municípios menores, incluindo Crixás do Tocantins
+   - Implantação de coleta seletiva e programas de reciclagem
+
 **Indicadores de Sucesso:**
 - Área em ILPF: 100.000 ha até 2030
 - Desmatamento ilegal: Redução de 50% até 2027
 - Matas ciliares recuperadas: 10.000 ha até 2030
 - Propriedades participantes de PSA: 200 até 2028
+- Lixões erradicados: 100% até 2027
 
 ### EIXO 3: Infraestrutura Logística e Conectividade
 
@@ -1096,6 +1181,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Banda larga rural (adesão a programas federais/estaduais)
    - Internet pública em escolas, postos de saúde, centros comunitários
    - Capacitação digital
+   - Prioridade para municípios com conectividade crítica (Crixás do Tocantins: apenas 58% com 4G, 45 acessos de banda larga fixa)
 
 4. **Articulação para Ferrovia Norte-Sul (ramal):**
    - Estudos de viabilidade de ramal conectando região à Ferrovia Norte-Sul
@@ -1123,6 +1209,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Mapeamento de atrativos naturais (chapadas, cachoeiras, trilhas)
    - Infraestrutura mínima (trilhas sinalizadas, mirantes)
    - Capacitação de condutores ambientais
+   - Potencial de turismo rural e pesca esportiva em Crixás do Tocantins
 
 3. **Infraestrutura Turística:**
    - Incentivos para pousadas, restaurantes, agências de turismo
@@ -1151,11 +1238,13 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Infraestrutura escolar (bibliotecas, laboratórios, internet)
    - Programas de reforço escolar
    - Meta: IDEB Anos Iniciais de 5,0 para 6,0 até 2027
+   - Programa de correção de fluxo escolar prioritário em Crixás do Tocantins (distorção idade-série de 30,4% no ensino médio)
 
 2. **Educação Técnica Profissionalizante:**
    - Escola técnica regional (cursos: Agropecuária, Informática, Administração, Turismo)
    - Parcerias com SENAR, SENAI, SENAC
    - Capacitação para setores estratégicos (agronegócio, turismo, agroindústria)
+   - Polo presencial de curso técnico em Agronegócio (IFTO) em municípios sem oferta de ensino superior
 
 3. **Ampliação do Acesso ao Ensino Superior:**
    - Atração de campus universitário público (UFT, IF Tocantins)
@@ -1171,6 +1260,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - IDEB Anos Finais: 4,0 → 5,0 (2027)
 - Jovens em cursos técnicos: 500/ano até 2027
 - Campus universitário ou polo IF: 1 até 2028
+- Distorção idade-série EM em Crixás do Tocantins: de 30,4% para 15% até 2027
 
 ### EIXO 6: Saúde e Saneamento Básico
 
@@ -1187,23 +1277,28 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Ampliação do Hospital Regional de Dianópolis
    - Policlínicas regionais (exames, consultas especializadas)
    - Central de regulação
+   - **Prioridade emergencial:** Implantação de leitos hospitalares em Crixás do Tocantins (atualmente zero leitos, mortalidade infantil de 50‰). UPA 24h ou hospital de pequeno porte via PPP ou convênio estadual
 
 3. **Universalização do Saneamento Básico:**
    - Prioridade: Sistemas de esgotamento sanitário nas sedes municipais
    - Meta: 50% de cobertura até 2030
    - Tratamento de água: 100% até 2028
    - Destinação adequada de resíduos sólidos (consórcio regional)
+   - Ampliação da rede de água em Crixás do Tocantins (atualmente 68,4%, abaixo da média regional)
+   - Erradicação do lixão de Crixás do Tocantins via aterro sanitário compartilhado
 
 4. **Redução de Mortalidade por Causas Evitáveis:**
    - Campanhas de prevenção (câncer, doenças cardiovasculares)
    - Vacinação universal
    - Combate a doenças de veiculação hídrica (investimento em saneamento)
+   - Normalização das coberturas vacinais em Crixás do Tocantins (poliomielite 78,3% e febre amarela 71,4% abaixo da meta de 95%)
 
 **Indicadores de Sucesso:**
 - Cobertura de ESF: 80% → 100% até 2026
 - Tempo de espera por consultas especializadas: -50%
 - Cobertura de esgoto: 10% → 50% até 2030
 - Mortalidade infantil: -20% até 2028
+- Leitos hospitalares em Crixás do Tocantins: 0 → 10 até 2028
 
 ---
 
@@ -1241,8 +1336,8 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Estrutura Proposta:**
 
-1. **Conselho Regional de Desenvolvimento de Dianópolis:**
-   - Composição: Prefeitos, representantes do setor produtivo, sociedade civil, universidades
+1. **Conselho Regional de Desenvolvimento de Gurupi:**
+   - Composição: Prefeitos dos 14 municípios, representantes do setor produtivo, sociedade civil, universidades
    - Periodicidade: Reuniões trimestrais
    - Atribuição: Planejamento regional, monitoramento de metas, articulação política
 
@@ -1273,30 +1368,30 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 ## 12. CONSIDERAÇÕES FINAIS
 
-A Microrregião de Gurupi representa o **segundo maior polo econômico e populacional do estado do Tocantins**, caracterizada por uma **dualidade estrutural distintiva**: de um lado, **Gurupi** (85.125 hab) consolidada como **hub regional de serviços, educação superior e saúde**; de outro, **12 municípios pequenos e médios** (1.577 a 9.317 hab) com **economia agropecuária altamente tecnificada e capital-intensiva**, gerando PIB per capita extraordinário (Aliança do Tocantins: R$ 116.268, Cariri: R$ 115.073).
+A Microrregião de Gurupi representa o **segundo maior polo econômico e populacional do estado do Tocantins**, caracterizada por uma **dualidade estrutural distintiva**: de um lado, **Gurupi** (85.125 hab) consolidada como **hub regional de serviços, educação superior e saúde**; de outro, **13 municípios pequenos e médios** (1.470 a 9.317 hab) com **economia agropecuária altamente tecnificada e capital-intensiva**, gerando PIB per capita extraordinário (Aliança do Tocantins: R$ 116.268, Cariri: R$ 115.073, Crixás do Tocantins: R$ 44.965).
 
 **Síntese dos Contrastes:**
 
 **Forças Econômicas Excepcionais:**
-- **Produção de soja:** 750.000-850.000 toneladas/ano (uma das maiores do estado)
+- **Produção de soja:** 770.000-870.000 toneladas/ano (uma das maiores do estado)
 - **Exportações recordes:** ~US$ 500-600 milhões/ano (Alvorada US$ 149,3 mi, Figueirópolis US$ 109,6 mi, Cariri US$ 90,8 mi)
-- **Rebanho bovino:** 750.000-850.000 cabeças
-- **Crédito rural:** R$ 800 milhões - R$ 1 bilhão/ano (Peixe: R$ 413,7 mi)
+- **Rebanho bovino:** 800.000-900.000 cabeças
+- **Crédito rural:** R$ 850 milhões - R$ 1,05 bilhão/ano (Peixe: R$ 413,7 mi, Crixás: R$ 57,2 mi)
 - **Gurupi:** PIB R$ 2,6 bilhões (4º do estado), polo de serviços consolidado
 
 **Assimetrias e Desafios Sociais:**
-- **Paradoxo persistente:** Municípios com PIB per capita excepcional apresentam IDHM "Médio" (concentração de renda)
-- **Polarização extrema:** 60% da população em Gurupi, municípios menores em esvaziamento
-- **Saneamento:** Esgotamento sanitário crítico (soluções individuais inadequadas)
+- **Paradoxo persistente:** Municípios com PIB per capita excepcional apresentam IDHM "Médio" (concentração de renda). Crixás do Tocantins exemplifica: PIB per capita R$ 44.965, porém 83% das famílias em pobreza e zero leitos hospitalares
+- **Polarização extrema:** 59,6% da população em Gurupi, municípios menores em esvaziamento
+- **Saneamento:** Esgotamento sanitário crítico (soluções individuais inadequadas), lixões operantes
 - **Dependência de commodities:** Vulnerabilidade a oscilações de preços internacionais
 
 **Vantagens Competitivas Singulares:**
 - **Gurupi como diferencial:** Único polo de educação superior do sul tocantinense (25 cursos), maior capacidade de saúde regional (248 leitos)
 - **Localização estratégica:** BR-153 (Belém-Brasília), melhor infraestrutura rodoviária do estado
-- **IDHM superior:** 12 dos 13 municípios com IDHM "Médio" ou "Alto"
+- **IDHM superior:** 13 dos 14 municípios com IDHM "Médio" ou "Alto"
 
 **O Desafio Central:**
-Transformar **Gurupi em catalisador de desenvolvimento regional**, reduzindo assimetrias, diversificando a economia dos municípios menores, e convertendo **crescimento econômico do agronegócio em desenvolvimento humano inclusivo e sustentável**.
+Transformar **Gurupi em catalisador de desenvolvimento regional**, reduzindo assimetrias, diversificando a economia dos municípios menores, e convertendo **crescimento econômico do agronegócio em desenvolvimento humano inclusivo e sustentável**. A inclusão de Crixás do Tocantins na análise reforça a urgência deste desafio: o município concentra todas as contradições da microrregião — crescimento do PIB de 91%, crédito rural de R$ 57,2 milhões e soja em expansão, convivendo com zero leitos hospitalares, lixão, pobreza generalizada e declínio demográfico.
 
 **Caminhos Estratégicos Prioritários:**
 
@@ -1305,20 +1400,23 @@ Transformar **Gurupi em catalisador de desenvolvimento regional**, reduzindo ass
    - Ampliar saúde referenciada (hospital regional de maior complexidade)
    - Criar parque tecnológico do agronegócio (startups agtech, P&D)
 
-2. **Agroindustrialização Concentrada em Gurupi:**
+2. **Agroindustrialização Concentrada em Gurupi e Descentralizada:**
    - Atrair esmagadoras de soja, frigoríficos, laticínios, agroindústrias de pescado
    - Aproveitar vantagens logísticas (BR-153) e infraestrutura consolidada
+   - Implantar unidades de beneficiamento em municípios produtores (incluindo Crixás do Tocantins)
    - Gerar empregos formais, diversificar economia
 
 3. **Sustentabilidade e Produtividade:**
    - ILPF, Agricultura 4.0, certificação sustentável
    - PSA, mercado de créditos de carbono
    - Conservação do cerrado remanescente
+   - Erradicação de lixões nos municípios menores
 
 4. **Redução de Assimetrias Regionais:**
    - Políticas de fixação de jovens nos municípios menores
    - Fortalecimento da agricultura familiar via cooperativismo
    - Infraestrutura digital (conectividade rural)
+   - Implantação de leitos hospitalares em municípios sem cobertura (Crixás do Tocantins)
 
 5. **Infraestrutura e Logística:**
    - Manutenção de estradas vicinais (escoamento agrícola)
@@ -1326,7 +1424,7 @@ Transformar **Gurupi em catalisador de desenvolvimento regional**, reduzindo ass
    - Melhorar acesso à Ferrovia Norte-Sul (futuro)
 
 **Implementação:**
-- **Liderança de Gurupi:** Consórcio Intermunicipal com sede em Gurupi
+- **Liderança de Gurupi:** Consórcio Intermunicipal com sede em Gurupi, abrangendo os 14 municípios
 - Articulação com governos estadual e federal
 - Parcerias com UnirG, setor produtivo, FAET, FAETO
 - Monitoramento via Observatório Regional baseado em Gurupi
@@ -1334,11 +1432,11 @@ Transformar **Gurupi em catalisador de desenvolvimento regional**, reduzindo ass
 **Visão de Futuro:**
 A Microrregião de Gurupi pode consolidar-se como **modelo nacional de polo regional estruturado**, onde **Gurupi funciona como epicentro de serviços, educação, saúde e agroindustrialização**, enquanto **municípios vizinhos especializam-se em agropecuária sustentável de alta tecnologia**, com **distribuição equitativa dos benefícios econômicos** e **conservação ambiental do cerrado**.
 
-O sucesso desta visão depende de **Gurupi assumir protagonismo regional**, investindo em infraestrutura que beneficie todos os municípios, atraindo agroindústrias transformadoras, formando capital humano qualificado, e liderando a transição para um **modelo de desenvolvimento equilibrado, inclusivo e ambientalmente responsável**.
+O sucesso desta visão depende de **Gurupi assumir protagonismo regional**, investindo em infraestrutura que beneficie todos os 14 municípios, atraindo agroindústrias transformadoras, formando capital humano qualificado, e liderando a transição para um **modelo de desenvolvimento equilibrado, inclusivo e ambientalmente responsável**.
 
 ---
 
 **Elaboração:** Sistema de Inteligência Territorial - Caderno Tocantins 2026
 **Fontes:** Fichas Municipais Completas Deepseek V3, IBGE, MDIC, DATASUS, INEP, ANATEL, SICOR/BACEN, RAIS/CAGED
-**Versão:** 1.1 - Revisada (Fase 1.1 - Agregação Municipal)
+**Versão:** 1.2 - Revisada (Fase 1.1 - Agregação Municipal com inclusão de Crixás do Tocantins)
 **Data:** Fevereiro de 2026
