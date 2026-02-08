@@ -1,6 +1,6 @@
 # TOCANTÍNIA — Ficha Municipal
 
-**Código IBGE**: 1721109 | **Microrregião**: Porto Nacional | **Área**: 2.610 km² | **Bioma**: Cerrado
+**Código IBGE**: 1721109 | **Microrregião**: Porto Nacional  | **Área**: 2.610 km² | **Bioma**: Cerrado
 
 ---
 

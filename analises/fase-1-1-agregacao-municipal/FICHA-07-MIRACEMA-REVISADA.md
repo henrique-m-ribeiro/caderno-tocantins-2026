@@ -1,17 +1,17 @@
 # FICHA 07: MICRORREGIÃO DE MIRACEMA DO TOCANTINS
 
 **Sistema de Inteligência Territorial - Caderno Tocantins 2026**
-**Versão 1.1 - Revisada com Dados Consolidados (Fase 1.1)**
+**Versão 1.2 - Revisada com 24 Municípios Consolidados (Fase 1.1)**
 
 ---
 
 ## DADOS GERAIS DA MICRORREGIÃO
 
-**Municípios:** Abreulândia, Araguacema, Barrolândia, Bernardo Sayão, Brasilândia do Tocantins, Caseara, Colméia, Couto Magalhães, Goianorte, Guaraí, Juarina, Miracema do Tocantins, Miranorte, Pequizeiro, Presidente Kennedy, Rio dos Bois, Tabocão, Tupirama, Tupiratins (19 municípios)
+**Municípios:** Abreulândia, Araguacema, Barrolândia, Bernardo Sayão, Brasilândia do Tocantins, Caseara, Colméia, Couto Magalhães, **Divinópolis do Tocantins**, **Dois Irmãos do Tocantins**, Goianorte, Guaraí, **Itaporã do Tocantins**, Juarina, **Marianópolis do Tocantins**, Miracema do Tocantins, Miranorte, **Monte Santo do Tocantins**, Pequizeiro, Presidente Kennedy, Rio dos Bois, Tabocão, Tupirama, Tupiratins (24 municípios)
 
-**População Total (2022):** 119.638 habitantes
-**Área Total:** 26.504,75 km²
-**Densidade Demográfica:** 4,51 hab/km² (próxima à média estadual)
+**População Total (2022):** ~142.404 habitantes
+**Área Total:** ~36.744 km²
+**Densidade Demográfica:** ~3,87 hab/km² (abaixo da média estadual de ~5,7 hab/km²)
 **Fonte dos Dados:** Fichas Municipais Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -20,24 +20,28 @@
 
 ### 1.1. Características Gerais
 
-A Microrregião de Miracema do Tocantins, situada no **centro-oeste do estado**, às margens do **Rio Tocantins** e ao longo da **BR-153 (rodovia Belém-Brasília)**, representa um território de **transição econômica acelerada**: historicamente baseado em **pecuária extensiva** e agricultura familiar, a região vive **expansão rápida do agronegócio mecanizado** (soja, milho) nos últimos anos, mantendo ainda forte presença da economia tradicional. Com 19 municípios distribuídos em 26.504 km², a microrregião caracteriza-se por **dupla polarização** - **Guaraí** (24.775 hab) e **Miracema do Tocantins** (18.566 hab) como centros regionais - e **pulverização de municípios pequenos** (12 com menos de 5.000 habitantes).
+A Microrregião de Miracema do Tocantins, situada no **centro-oeste do estado**, às margens do **Rio Tocantins** e ao longo da **BR-153 (rodovia Belém-Brasília)**, representa um território de **transição econômica acelerada**: historicamente baseado em **pecuária extensiva** e agricultura familiar, a região vive **expansão rápida do agronegócio mecanizado** (soja, milho) nos últimos anos, mantendo ainda forte presença da economia tradicional. Com 24 municípios distribuídos em ~36.744 km², a microrregião caracteriza-se por **dupla polarização** - **Guaraí** (24.775 hab) e **Miracema do Tocantins** (18.566 hab) como centros regionais - e **pulverização de municípios pequenos** (17 com menos de 10.000 habitantes). A incorporação dos cinco municípios restantes - **Divinópolis do Tocantins**, **Dois Irmãos do Tocantins**, **Itaporã do Tocantins**, **Marianópolis do Tocantins** e **Monte Santo do Tocantins** - amplia significativamente o perfil agropecuário da microrregião, adicionando ~22.766 habitantes, ~10.239 km² de área e uma produção expressiva de soja (~239.749 toneladas adicionais), com destaque para **Marianópolis do Tocantins**, cujo PIB per capita de R$ 91.006 é o mais alto de toda a microrregião (3x a média estadual).
 
 **Perfil Demográfico Distintivo:**
-- População de 119.638 habitantes, representando **7,6% da população estadual**
-- Densidade de 4,51 hab/km², **próxima à média estadual** (~5,7 hab/km²)
-- **Dupla polarização:** Guaraí (24.775 hab) + Miracema do Tocantins (18.566 hab) = 36% da população regional
-- **Pulverização extrema:** 12 municípios com menos de 5.000 habitantes (63% dos municípios)
-- Taxa de urbanização elevada: Maioria dos municípios >75%
+- População de ~142.404 habitantes, representando **~9,1% da população estadual**
+- Densidade de ~3,87 hab/km², **abaixo da média estadual** (~5,7 hab/km²), refletindo a incorporação de municípios com vastas extensões territoriais (Dois Irmãos 3.748 km², Divinópolis 2.358 km², Marianópolis 2.090 km²)
+- **Dupla polarização:** Guaraí (24.775 hab) + Miracema do Tocantins (18.566 hab) = 30% da população regional
+- **Pulverização extrema:** 17 municípios com menos de 10.000 habitantes (71% dos municípios), dos quais 14 com menos de 5.000 habitantes
+- Taxa de urbanização variável: municípios da BR-153 >75%, mas novos municípios com urbanização baixa - **Dois Irmãos do Tocantins (48,1%)**, Marianópolis (55,9%), Monte Santo (55,1%)
+- **Dinâmicas demográficas contrastantes:** Monte Santo (+14,9%) e Divinópolis (+10,4%) em crescimento; Dois Irmãos (-11,6%) e Itaporã (-1,7%, -51,1% desde 1991) em declínio grave
 
 **Contexto Econômico - Transição em Curso:**
 A microrregião apresenta **economia em transformação acelerada**, com convivência de modelos tradicionais e modernos:
 
 **1. Agronegócio em Expansão Explosiva (municípios selecionados):**
+- **Marianópolis do Tocantins:** PIB per capita R$ 91.006 (**o mais alto da microrregião, 3x média estadual**) - soja 120.946t, milho 96.194t, crédito rural R$ 169,3 mi - "ilha de prosperidade agroexportadora em mar de vulnerabilidades"
 - **Caseara:** PIB per capita R$ 70.637 (soja, milho), crescimento econômico recente
-- **Juarina:** PIB per capita R$ 71.373 (um dos mais altos da microrregião)
+- **Juarina:** PIB per capita R$ 71.373 (agricultura mecanizada consolidada)
 - **Tupirama:** PIB per capita R$ 60.880, agronegócio consolidado
+- **Divinópolis do Tocantins:** PIB per capita R$ 35.676, soja 70.458t, milho 47.890t, rebanho bovino 145.993 cabeças, crédito rural R$ 133,8 mi - crescimento PIB +107%
 - **Abreulândia:** Soja (38.818 ton), milho (24.615 ton), rebanho bovino (93.525 cabeças)
 - **Araguacema:** Soja expandindo rapidamente (41.620 ha), PIB dobrou (2019-2021)
+- **Dois Irmãos do Tocantins:** Soja 39.600t, bovinos 218.500 cabeças, crédito rural R$ 174,1 mi - apesar de declínio populacional de -11,6%
 
 **2. Centros Regionais de Serviços:**
 - **Guaraí:** Maior município, PIB R$ 880 milhões, PIB per capita R$ 29.950, IDHM 0,741 ("Alto")
@@ -45,8 +49,8 @@ A microrregião apresenta **economia em transformação acelerada**, com conviv�
 - Função: Comércio, serviços, saúde, educação para municípios menores
 
 **3. Pecuária Bovina Tradicional (Persistente):**
-- Rebanho regional estimado: 800.000-1.000.000 de cabeças
-- Municípios com grandes rebanhos: Abreulândia (93.525), Araguacema, Barrolândia (79.618)
+- Rebanho regional estimado: **1.300.000-1.600.000 de cabeças** (incorporando os 5 novos municípios com ~588.481 cabeças adicionais)
+- Municípios com grandes rebanhos: **Dois Irmãos do Tocantins (218.500)**, **Divinópolis do Tocantins (145.993)**, **Itaporã do Tocantins (123.633)**, **Monte Santo do Tocantins (100.353)**, Abreulândia (93.525), Barrolândia (79.618), Araguacema
 - Modelo predominante: Extensivo, em transição para integração lavoura-pecuária
 
 **Localização Estratégica:**
@@ -57,7 +61,7 @@ A microrregião apresenta **economia em transformação acelerada**, com conviv�
 
 **Posição Geográfica:**
 - Centro-oeste do Tocantins, ao longo do Rio Tocantins e da BR-153
-- Bioma predominante: Cerrado (savana brasileira) com transições para Amazônia (Araguacema)
+- Bioma predominante: Cerrado (savana brasileira) com transições para Amazônia (Araguacema, **Itaporã do Tocantins** - bioma amazônico de transição)
 - Bacia hidrográfica: Rio Tocantins (médio curso), Rio Araguaia (Araguacema)
 - Relevo: Planícies aluviais, baixos platôs, áreas de várzea
 
@@ -99,9 +103,9 @@ Com a criação do Tocantins (1988), vários municípios foram emancipados nas d
 **Transição Econômica Recente (2000-2024):**
 A partir dos anos 2000, a microrregião iniciou **transição acelerada** de economia pecuarista tradicional para **agronegócio mecanizado**:
 - Chegada de produtores do Sul e Centro-Oeste atraídos por terras disponíveis
-- Expansão da soja em municípios estratégicos: Caseara, Juarina, Abreulândia, Araguacema
+- Expansão da soja em municípios estratégicos: **Marianópolis do Tocantins** (120.946t), Caseara, Juarina, **Divinópolis do Tocantins** (70.458t), Abreulândia, Araguacema, **Dois Irmãos do Tocantins** (39.600t)
 - Convivência de modelos: Pecuária extensiva persistente + agricultura moderna emergente
-- Crescimento explosivo do PIB per capita em municípios agrícolas (Caseara: R$ 70.637, Juarina: R$ 71.373)
+- Crescimento explosivo do PIB per capita em municípios agrícolas: **Marianópolis: R$ 91.006** (3x média estadual), Juarina: R$ 71.373, Caseara: R$ 70.637
 
 **Questões Fundiárias:**
 - Regularização fundiária relativamente avançada
@@ -121,56 +125,65 @@ A partir dos anos 2000, a microrregião iniciou **transição acelerada** de eco
 - **Colméia (8.713 hab):** Centro emergente, agropecuária diversificada
 
 **Municípios Agrícolas de Alto PIB per capita (economia moderna):**
+- **Marianópolis do Tocantins (4.615 hab):** PIB per capita R$ 91.006 (**maior da microrregião, 3x média estadual**) - potência sojeira (120.946t soja, 96.194t milho)
 - **Juarina (2.411 hab):** PIB per capita R$ 71.373 (agricultura mecanizada)
 - **Caseara (5.213 hab):** PIB per capita R$ 70.637 (soja, milho em expansão)
 - **Tupirama (1.696 hab):** PIB per capita R$ 60.880 (agronegócio consolidado)
+- **Divinópolis do Tocantins (7.024 hab):** PIB per capita R$ 35.676 (soja 70.458t, pecuária 145.993 cabeças)
 
 **Municípios de Transição (5.000-10.000 hab):**
 - Barrolândia (8.688 hab): Pecuária (79.618 cabeças), agricultura emergente
-- Couto Magalhães (5.241 hab): Agropecuária tradicional
+- **Divinópolis do Tocantins (7.024 hab):** Crescimento +10,4%, soja 70.458t, milho 47.890t, bovinos 145.993, IDHM 0,683 - paradoxo de crescimento econômico sem desenvolvimento social inclusivo
 - Araguacema (6.942 hab): Soja em expansão (41.620 ha), turismo (Rio Araguaia)
+- **Dois Irmãos do Tocantins (6.327 hab):** Declínio populacional grave (-11,6%), IDHM 0,583 (BAIXO), maioria rural (48,1% urbano), bovinos 218.500 cabeças, soja 39.600t - 86% famílias em pobreza
+- Pequizeiro (6.117 hab): Agricultura familiar, pecuária
+- Couto Magalhães (5.241 hab): Agropecuária tradicional
 
 **Pequenos Municípios (<5.000 hab):**
-11 municípios caracterizados por **economia agropecuária tradicional ou em transição**:
+14 municípios caracterizados por **economia agropecuária tradicional ou em transição**, com paradoxos profundos entre produção agropecuária e indicadores sociais:
+- **Marianópolis do Tocantins (4.615 hab):** PIB per capita R$ 91.006 (**maior da microrregião**) - soja 120.946t, milho 96.194t, crédito rural R$ 169,3 mi, mas 80% famílias em pobreza, saneamento 0,2% esgoto, IDEB EM 3,5
 - **Abreulândia (2.409 hab):** Soja (38.818 ton), milho (24.615 ton), rebanho (93.525 cabeças)
 - **Bernardo Sayão (3.917 hab):** Agricultura familiar, pecuária
 - **Brasilândia do Tocantins (3.690 hab):** Agropecuária tradicional
 - **Goianorte (3.623 hab):** Pecuária, comércio local
-- **Juarina (2.411 hab):** Agronegócio moderno (PIB per capita R$ 71.373)
-- **Pequizeiro (6.117 hab):** Agricultura familiar, pecuária
 - **Presidente Kennedy (3.120 hab):** Agropecuária tradicional
 - **Rio dos Bois (2.648 hab):** Agricultura familiar
 - **Tabocão (2.514 hab):** Pecuária, agricultura de subsistência
-- **Tupirama (1.696 hab):** Agronegócio moderno (PIB per capita R$ 60.880)
+- **Juarina (2.411 hab):** Agronegócio moderno (PIB per capita R$ 71.373)
+- **Itaporã do Tocantins (2.404 hab):** Colapso demográfico (-51,1% desde 1991), bovinos 123.633 cabeças, 77,5% empregos na administração pública, 85% famílias em pobreza, 23% pop. com 65+ anos, bioma Amazônia (transição)
+- **Monte Santo do Tocantins (2.396 hab):** Crescimento +14,9%, PIB per capita R$ 19.173, soja 8.745t, bovinos 100.353 cabeças, crédito rural R$ 81,0 mi (+307%) - paradoxo: PIB dobrou (+105%) mas 90% famílias em pobreza, zero leitos hospitalares, 1 médico, cobertura vacinal colapsada (48%)
 - **Tupiratins (2.269 hab):** Agricultura tradicional
+- **Tupirama (1.696 hab):** Agronegócio moderno (PIB per capita R$ 60.880)
 
 #### Distribuição Territorial
 
 | Porte Populacional | Nº Municípios | % Municípios | População Total | % População |
 |-------------------|---------------|--------------|-----------------|-------------|
-| Acima de 10.000 | 3 | 15,8% | 56.537 | 47,3% |
-| 5.000 a 10.000 | 4 | 21,1% | 28.597 | 23,9% |
-| 2.000 a 5.000 | 11 | 57,9% | 33.808 | 28,3% |
-| Menos de 2.000 | 1 | 5,3% | 696 | 0,6% |
+| Acima de 10.000 | 3 | 12,5% | 56.537 | 39,7% |
+| 5.000 a 10.000 | 7 | 29,2% | 48.928 | 34,4% |
+| 2.000 a 5.000 | 13 | 54,2% | 35.243 | 24,8% |
+| Menos de 2.000 | 1 | 4,2% | 1.696 | 1,2% |
 
 **Observação Crítica:**
-A Microrregião de Miracema apresenta **dualidade econômica acentuada**: municípios com economia moderna (Juarina, Caseara, Tupirama) possuem PIB per capita altíssimo apesar da pequena população, enquanto municípios maiores (Guaraí, Miracema) têm economia baseada em serviços e administração pública.
+A Microrregião de Miracema apresenta **dualidade econômica acentuada e ampliada** com a incorporação dos 5 novos municípios: municípios com economia moderna (Marianópolis, Juarina, Caseara, Tupirama, Divinópolis) possuem PIB per capita altíssimo apesar da pequena população, enquanto municípios maiores (Guaraí, Miracema) têm economia baseada em serviços e administração pública. A dualidade se aprofunda com casos extremos como **Marianópolis** (PIB per capita R$ 91.006 mas 80% famílias em pobreza) e **Dois Irmãos do Tocantins** (IDHM 0,583 - Baixo, 86% famílias em pobreza, declínio populacional de -11,6%).
 
 #### Rankings por PIB per capita 2021
 
-**Top 10 Municípios:**
-1. Juarina: R$ 71.373
-2. Caseara: R$ 70.637
-3. Tupirama: R$ 60.880
-4. Guaraí: R$ 29.950
-5. Miracema do Tocantins: R$ 28.804
-6. Miranorte: ~R$ 25.000-28.000 (estimativa)
-7. Barrolândia: ~R$ 23.000-26.000 (estimativa)
-8. Araguacema: ~R$ 22.000-25.000 (estimativa, crescimento recente)
-9. Colméia: ~R$ 20.000-23.000 (estimativa)
-10. Abreulândia: ~R$ 18.000-22.000 (estimativa)
+**Top 12 Municípios:**
+1. **Marianópolis do Tocantins: R$ 91.006** (3x média estadual - soja 120.946t, milho 96.194t)
+2. Juarina: R$ 71.373
+3. Caseara: R$ 70.637
+4. Tupirama: R$ 60.880
+5. **Divinópolis do Tocantins: R$ 35.676** (soja 70.458t, bovinos 145.993)
+6. **Dois Irmãos do Tocantins: R$ 30.134** (soja 39.600t, bovinos 218.500)
+7. Guaraí: R$ 29.950
+8. Miracema do Tocantins: R$ 28.804
+9. Miranorte: ~R$ 25.000-28.000 (estimativa)
+10. **Itaporã do Tocantins: R$ 25.055** (pecuária, 123.633 bovinos)
+11. Barrolândia: ~R$ 23.000-26.000 (estimativa)
+12. Araguacema: ~R$ 22.000-25.000 (estimativa, crescimento recente)
 
-**Observação:** Os 3 municípios com maior PIB per capita têm menos de 6.000 habitantes, refletindo economia de commodities agrícolas mecanizadas.
+**Observação:** Os 5 municípios com maior PIB per capita têm menos de 6.000 habitantes, refletindo economia de commodities agrícolas mecanizadas. **Marianópolis** lidera com PIB per capita 3x superior à média estadual, superando até mesmo Juarina e Caseara, porém com indicadores sociais dramáticos (80% famílias em pobreza, 0,2% esgoto, IDEB EM 3,5). **Monte Santo do Tocantins** (R$ 19.173) fica entre os menores, apesar do PIB ter dobrado (+105%).
 
 ---
 
@@ -185,10 +198,11 @@ A microrregião apresenta dinâmica demográfica **relativamente estável**, com
 - Agricultura mecanizada: Baixa absorção de mão de obra rural
 
 **Padrões Municipais:**
-- **Municípios em crescimento:** Guaraí, Miranorte (atração regional, comércio e serviços)
+- **Municípios em crescimento:** Guaraí, Miranorte (atração regional, comércio e serviços), **Monte Santo do Tocantins (+14,9%)**, **Divinópolis do Tocantins (+10,4%)**, **Marianópolis do Tocantins (+6,0%)**
 - **Municípios estáveis:** Miracema do Tocantins, Colméia, Barrolândia
-- **Municípios em estagnação/declínio:** Pequenos municípios agrícolas (Tupirama, Juarina, Presidente Kennedy) e tradicionais (Bernardo Sayão, Tabocão)
-- **Urbanização acelerada:** Esvaziamento rural com concentração nas sedes municipais (taxa de urbanização >75-80%)
+- **Municípios em declínio moderado:** Pequenos municípios agrícolas (Tupirama, Juarina, Presidente Kennedy) e tradicionais (Bernardo Sayão, Tabocão), **Itaporã do Tocantins (-1,7%)**
+- **Municípios em declínio grave:** **Dois Irmãos do Tocantins (-11,6%)** - perda de 830 habitantes entre 2010-2022; **Itaporã do Tocantins** - colapso histórico de -51,1% desde 1991 (de 4.916 para 2.404 habitantes), com 23% da população acima de 65 anos (envelhecimento extremo)
+- **Urbanização acelerada mas desigual:** Municípios da BR-153 com urbanização >75-80%, mas **Dois Irmãos (48,1%)**, **Monte Santo (55,1%)** e **Marianópolis (55,9%)** mantêm maioria ou proporção significativa de população rural
 
 **Perfil Etário:**
 - Estrutura etária em transição: Redução de jovens (0-14 anos), aumento de adultos (15-59 anos) e idosos (60+)
@@ -197,21 +211,29 @@ A microrregião apresenta dinâmica demográfica **relativamente estável**, com
 
 ### 2.2. Urbanização e Distribuição Espacial
 
-**Taxa de Urbanização Média:** Aproximadamente 75-85% (acima da média estadual)
+**Taxa de Urbanização Média:** Aproximadamente 68-78% (variável, com incorporação de municípios mais rurais)
 
 **Municípios Altamente Urbanizados (>80%):**
 - Guaraí: ~85% (concentração em sede urbana)
 - Miracema do Tocantins: ~80-85%
 - Miranorte: ~80%
 - Colméia: ~75-80%
+- **Divinópolis do Tocantins: 74,6%** (urbanização intermediária)
+
+**Municípios com Urbanização Baixa (<60%) - Novos:**
+- **Dois Irmãos do Tocantins: 48,1%** (maioria da população ainda rural - caso excepcional na microrregião)
+- **Monte Santo do Tocantins: 55,1%** (população dividida quase igualmente entre rural e urbano)
+- **Marianópolis do Tocantins: 55,9%** (paradoxo: maior PIB per capita da microrregião mas urbanização abaixo de 60%)
+- **Itaporã do Tocantins: 65,5%** (urbanização intermediária, bioma Amazônia de transição)
 
 **Padrão de Ocupação:**
 - **Concentração urbana ao longo da BR-153:** População concentrada nas sedes municipais conectadas pela rodovia (Guaraí, Miracema, Miranorte, Colméia)
-- **Esvaziamento rural:** Agricultura mecanizada dispensa mão de obra residente; pecuária extensiva com gestão remota
+- **Esvaziamento rural seletivo:** Agricultura mecanizada dispensa mão de obra residente; pecuária extensiva com gestão remota
+- **Persistência rural nos novos municípios:** Dois Irmãos (48,1%), Monte Santo (55,1%) e Marianópolis (55,9%) mantêm presença rural significativa, ligada à pecuária extensiva e agricultura familiar
 - **População rural remanescente:** Agricultura familiar de subsistência, pequenas propriedades
 
 **Implicação Territorial:**
-Vastas extensões rurais com densidade baixa, ocupadas por médias e grandes propriedades agropecuárias. Proprietários frequentemente residem nas sedes municipais ou em outros estados.
+Vastas extensões rurais com densidade baixa (~3,87 hab/km²), ocupadas por médias e grandes propriedades agropecuárias. Os 5 novos municípios adicionam ~10.239 km² de área predominantemente rural, reduzindo a densidade média da microrregião. **Dois Irmãos do Tocantins** (3.748 km²) é o maior município em área, com densidade de apenas 1,7 hab/km². Proprietários frequentemente residem nas sedes municipais ou em outros estados.
 
 ### 2.3. Fluxos Migratórios
 
@@ -236,9 +258,9 @@ Vastas extensões rurais com densidade baixa, ocupadas por médias e grandes pro
 ### 3.1. Estrutura Econômica Regional
 
 **PIB Regional Consolidado (estimativa baseada em dados municipais 2021):**
-- **PIB Total:** Aproximadamente R$ 3,2-3,8 bilhões
-- **PIB per capita médio:** R$ 26.000-30.000 (próximo à média estadual, com grande variação interna)
-- **Participação no PIB Estadual:** ~8-9%
+- **PIB Total:** Aproximadamente R$ 4,1-4,7 bilhões (incorporando ~R$ 862,7 milhões dos 5 novos municípios: Marianópolis R$ 252,3 mi, Divinópolis R$ 249,2 mi, Dois Irmãos R$ 216,1 mi, Monte Santo R$ 75,0 mi, Itaporã R$ 70,0 mi)
+- **PIB per capita médio:** R$ 29.000-33.000 (elevado pela incorporação de Marianópolis com R$ 91.006, mas com variação interna extrema: R$ 19.173 em Monte Santo a R$ 91.006 em Marianópolis)
+- **Participação no PIB Estadual:** ~10-11%
 
 **Composição Setorial Média:**
 1. **Serviços:** 45-50% do VAB regional
@@ -246,18 +268,18 @@ Vastas extensões rurais com densidade baixa, ocupadas por médias e grandes pro
    - Comércio regional (varejo, insumos agrícolas, veículos)
    - Serviços de saúde e educação
 
-2. **Agropecuária:** 35-40% do VAB regional (em crescimento acelerado)
-   - Soja: 100.000-150.000 toneladas/ano (estimativa, crescimento explosivo recente)
-   - Milho: 50.000-70.000 toneladas/ano
-   - Pecuária bovina: 800.000-1.000.000 cabeças
+2. **Agropecuária:** 40-48% do VAB regional (em crescimento acelerado, proporção ampliada pela incorporação dos 5 novos municípios predominantemente agropecuários)
+   - Soja: **340.000-400.000 toneladas/ano** (incorporando ~239.749t adicionais: Marianópolis 120.946t, Divinópolis 70.458t, Dois Irmãos 39.600t, Monte Santo 8.745t)
+   - Milho: **200.000-250.000 toneladas/ano** (Marianópolis 96.194t, Divinópolis 47.890t, Monte Santo 8.721t adicionais)
+   - Pecuária bovina: **1.300.000-1.600.000 cabeças** (incorporando ~588.481 cabeças: Dois Irmãos 218.500, Divinópolis 145.993, Itaporã 123.633, Monte Santo 100.353)
 
 3. **Indústria:** 10-15% do VAB
    - Agroindústria incipiente (beneficiamento de grãos, laticínios)
    - Construção civil (obras públicas, residências)
    - Indústria de transformação muito limitada
 
-**Dependência Moderada de Transferências:**
-A microrregião apresenta **dependência significativa de transferências federais** (FPM, Fundeb), especialmente nos municípios pequenos. Municípios agrícolas (Caseara, Juarina) têm maior arrecadação de ICMS, mas a maioria depende majoritariamente de FPM.
+**Dependência Elevada de Transferências:**
+A microrregião apresenta **dependência significativa de transferências federais** (FPM, Fundeb), especialmente nos municípios pequenos. Municípios agrícolas (Caseara, Juarina, Marianópolis) têm maior arrecadação de ICMS, mas a maioria depende majoritariamente de FPM. Os 5 novos municípios amplificam este padrão: **Dois Irmãos (~80%)**, **Marianópolis (~75%)**, **Monte Santo (~73%)**, **Divinópolis (~70%)** e Itaporã apresentam dependência elevada de transferências, mesmo aqueles com produção agropecuária significativa - evidenciando que a riqueza gerada pelo agronegócio não se traduz proporcionalmente em arrecadação local.
 
 ### 3.2. Principais Atividades Econômicas
 
@@ -266,18 +288,22 @@ A microrregião apresenta **dependência significativa de transferências federa
 **Dimensão da Atividade:**
 
 **Soja (cultura em expansão acelerada):**
-- **Produção Regional:** 100.000-150.000 toneladas/ano (crescimento explosivo recente)
+- **Produção Regional:** **340.000-400.000 toneladas/ano** (crescimento explosivo recente, com ~239.749t adicionais dos 5 novos municípios)
 - **Principais produtores:**
+  - **Marianópolis do Tocantins: 120.946 toneladas** (**maior produtor da microrregião**, soja + milho 96.194t, crédito rural R$ 169,3 mi)
+  - **Divinópolis do Tocantins: 70.458 toneladas** (expansão +217%, milho 47.890t, crédito rural R$ 133,8 mi)
   - **Araguacema:** 41.620 ha plantados, produção em expansão rápida, PIB dobrou (2019-2021)
+  - **Dois Irmãos do Tocantins: 39.600 toneladas** (crédito rural R$ 174,1 mi, apesar de declínio populacional)
   - **Abreulândia:** 38.818 toneladas, área em expansão
   - **Caseara:** Produção consolidada, PIB per capita R$ 70.637
   - **Juarina:** Agricultura mecanizada, PIB per capita R$ 71.373
+  - **Monte Santo do Tocantins: 8.745 toneladas** (emergente, crédito rural R$ 81,0 mi - +307%)
   - **Tupirama:** Agronegócio consolidado, PIB per capita R$ 60.880
 
 **Milho:**
-- **Produção Regional:** 50.000-70.000 toneladas/ano
+- **Produção Regional:** **200.000-250.000 toneladas/ano** (incorporando Marianópolis 96.194t, Divinópolis 47.890t, Monte Santo 8.721t)
 - Cultivo principalmente em segunda safra (safrinha) após soja
-- **Principais produtores:** Abreulândia (24.615 t), Araguacema, Caseara
+- **Principais produtores:** **Marianópolis do Tocantins (96.194 t - maior produtor)**, **Divinópolis do Tocantins (47.890 t)**, Abreulândia (24.615 t), **Monte Santo do Tocantins (8.721 t)**, Araguacema, Caseara
 
 **Características do Modelo Produtivo:**
 - **Tecnificação elevada:** Uso intensivo de maquinário, insumos, irrigação (em alguns casos)
@@ -293,8 +319,12 @@ A microrregião apresenta **dependência significativa de transferências federa
 #### Pecuária Bovina - Setor Tradicional Persistente
 
 **Dimensão da Atividade:**
-- **Rebanho Regional:** 800.000-1.000.000 cabeças (estimativa consolidada)
+- **Rebanho Regional:** **1.300.000-1.600.000 cabeças** (estimativa consolidada, incorporando ~588.481 cabeças dos 5 novos municípios)
 - **Maiores rebanhos municipais:**
+  - **Dois Irmãos do Tocantins: 218.500 cabeças** (**maior rebanho da microrregião**)
+  - **Divinópolis do Tocantins: 145.993 cabeças**
+  - **Itaporã do Tocantins: 123.633 cabeças** (crescimento pecuário + estagnação demográfica)
+  - **Monte Santo do Tocantins: 100.353 cabeças** (+45% de crescimento)
   - **Abreulândia:** 93.525 cabeças
   - **Barrolândia:** 79.618 cabeças
   - **Araguacema:** Rebanho significativo (dados não especificados)
@@ -316,14 +346,19 @@ A microrregião apresenta **dependência significativa de transferências federa
 A microrregião apresenta **acesso crescente ao crédito rural**, especialmente nos municípios agrícolas, mas com forte concentração em médios e grandes produtores.
 
 **Municípios com Acesso Consolidado:**
+- **Dois Irmãos do Tocantins: R$ 174,1 milhões** (2023) - maior volume entre os novos municípios
+- **Marianópolis do Tocantins: R$ 169,3 milhões** (2023) - compatível com produção de 120.946t soja
+- **Divinópolis do Tocantins: R$ 133,8 milhões** (2023) - expansão acompanhando soja +217%
+- **Monte Santo do Tocantins: R$ 81,0 milhões** (2023) - crescimento extraordinário de +307%
 - **Caseara, Juarina, Tupirama:** Financiamentos para custeio de soja, milho, máquinas agrícolas
 - **Araguacema, Abreulândia:** Crédito em expansão acompanhando conversão de pastagens em lavouras
 - **Barrolândia, Guaraí:** Financiamento para pecuária bovina, melhoramento de pastagens
 
 **Volume Regional Estimado:**
-- Financiamentos totais 2023: R$ 200-300 milhões
+- Financiamentos totais 2023: **R$ 760-900 milhões** (incorporando ~R$ 558,2 milhões dos 5 novos municípios: Dois Irmãos R$ 174,1 mi, Marianópolis R$ 169,3 mi, Divinópolis R$ 133,8 mi, Monte Santo R$ 81,0 mi, Itaporã - dados não especificados)
 - Concentração: Custeio de safra (soja, milho), investimentos em máquinas e infraestrutura
 - Fontes: Banco do Brasil, Sicredi, cooperativas de crédito
+- **Destaque:** O crédito rural de Monte Santo cresceu +307%, evidenciando a rápida transformação produtiva de municípios antes exclusivamente pecuaristas
 
 **Desafio Persistente:**
 Pequenos produtores familiares têm **acesso limitado ao crédito** (burocracia, falta de garantias, assistência técnica insuficiente), perpetuando desigualdades e dificultando diversificação produtiva.
@@ -334,18 +369,23 @@ Pequenos produtores familiares têm **acesso limitado ao crédito** (burocracia,
 
 | Posição | Município | PIB per capita (R$) | Principal Motor Econômico |
 |---------|-----------|---------------------|---------------------------|
-| 1º | Juarina | 71.373 | Agricultura mecanizada (soja) |
-| 2º | Caseara | 70.637 | Soja, milho em expansão |
-| 3º | Tupirama | 60.880 | Agronegócio consolidado |
-| 4º | Guaraí | 29.950 | Comércio, serviços, agro |
-| 5º | Miracema do Tocantins | 28.804 | Serviços, administração |
-| 6º | Miranorte | ~26.000 (est.) | Comércio, agropecuária |
-| 7º | Barrolândia | ~24.000 (est.) | Pecuária, agricultura |
-| 8º | Araguacema | ~23.000 (est.) | Soja em expansão |
-| 9º | Colméia | ~21.000 (est.) | Agropecuária diversificada |
-| 10º | Abreulândia | ~20.000 (est.) | Soja, milho, pecuária |
+| 1º | **Marianópolis do Tocantins** | **91.006** | **Soja (120.946t), milho (96.194t)** |
+| 2º | Juarina | 71.373 | Agricultura mecanizada (soja) |
+| 3º | Caseara | 70.637 | Soja, milho em expansão |
+| 4º | Tupirama | 60.880 | Agronegócio consolidado |
+| 5º | **Divinópolis do Tocantins** | **35.676** | **Soja (70.458t), pecuária (145.993 cab)** |
+| 6º | **Dois Irmãos do Tocantins** | **30.134** | **Soja (39.600t), pecuária (218.500 cab)** |
+| 7º | Guaraí | 29.950 | Comércio, serviços, agro |
+| 8º | Miracema do Tocantins | 28.804 | Serviços, administração |
+| 9º | Miranorte | ~26.000 (est.) | Comércio, agropecuária |
+| 10º | **Itaporã do Tocantins** | **25.055** | **Pecuária (123.633 cab), adm. pública** |
+| 11º | Barrolândia | ~24.000 (est.) | Pecuária, agricultura |
+| 12º | Araguacema | ~23.000 (est.) | Soja em expansão |
+| 13º | Colméia | ~21.000 (est.) | Agropecuária diversificada |
+| 14º | Abreulândia | ~20.000 (est.) | Soja, milho, pecuária |
+| 15º | **Monte Santo do Tocantins** | **19.173** | **Pecuária (100.353 cab), soja emergente** |
 
-**Observação:** Os 3 municípios com maior PIB per capita têm menos de 6.000 habitantes, evidenciando concentração econômica em agricultura mecanizada.
+**Observação:** Os 4 municípios com maior PIB per capita têm menos de 6.000 habitantes, evidenciando concentração econômica em agricultura mecanizada. **Marianópolis** lidera com PIB per capita 3x superior à média estadual, mas com 80% de famílias em pobreza. A amplitude é extrema: de R$ 19.173 (Monte Santo) a R$ 91.006 (Marianópolis) - razão de 4,7x entre o menor e o maior.
 
 #### IDHM 2010 - Rankings
 
@@ -354,29 +394,40 @@ Pequenos produtores familiares têm **acesso limitado ao crédito** (burocracia,
 
 **Municípios com IDHM "Médio" (0,600-0,699):**
 - Miracema do Tocantins: 0,684
+- **Divinópolis do Tocantins: 0,683** (apesar de PIB per capita R$ 35.676, paradoxo social - IDEB caiu de 6,0 para 5,3)
 - Miranorte: ~0,670 (estimativa)
+- **Itaporã do Tocantins: 0,650** (colapso demográfico -51,1% desde 1991, 85% famílias em pobreza)
 - Colméia: ~0,650 (estimativa)
 - Barrolândia: ~0,640 (estimativa)
 - Araguacema: ~0,635 (estimativa)
+- **Marianópolis do Tocantins: 0,631** (PIB per capita R$ 91.006 mas IDHM mediano - contradição extrema)
 - Caseara: ~0,630 (estimativa)
+- **Monte Santo do Tocantins: 0,620** (PIB dobrou, mas 90% famílias em pobreza, zero leitos hospitalares)
+
+**Municípios com IDHM "Baixo" (<0,600):**
+- **Dois Irmãos do Tocantins: 0,583** (**único município com IDHM Baixo na microrregião** - mortalidade infantil 24,4‰, 86% famílias em pobreza, declínio populacional -11,6%)
 
 **Municípios com IDHM Médio-Baixo (<0,630):**
 - Maioria dos municípios pequenos: Abreulândia, Bernardo Sayão, Brasilândia, Goianorte, Presidente Kennedy, Rio dos Bois, Tabocão, Tupirama, Tupiratins
 
-**Observação Crítica:** Municípios com PIB per capita altíssimo (Juarina, Caseara, Tupirama) provavelmente não apresentam IDHM proporcionalmente alto, refletindo:
-- Concentração de renda em agronegócio patronal
-- Investimento insuficiente em educação e saúde
-- Pequena população residente (gestão remota de propriedades)
+**Observação Crítica:** A incorporação dos 5 novos municípios amplifica dramaticamente o paradoxo riqueza-pobreza da microrregião. **Marianópolis do Tocantins** possui o maior PIB per capita (R$ 91.006) mas IDHM de apenas 0,631 e 80% de famílias em pobreza. **Dois Irmãos do Tocantins** é o único município com IDHM "Baixo" (0,583), com mortalidade infantil alarmante de 24,4‰ e 86% de famílias em pobreza. O padrão confirma concentração de renda extrema no agronegócio patronal com:
+- Concentração de renda em agronegócio patronal (soja mecanizada gera PIB mas não distribui renda)
+- Investimento insuficiente em educação e saúde (saneamento 0,2% em Marianópolis, zero leitos em Monte Santo)
+- Pequena população residente com vulnerabilidades sociais profundas (gestão remota de propriedades)
 
 #### Crescimento Econômico Recente (2017-2021)
 
 **Municípios com Maior Crescimento do PIB:**
+- **Marianópolis do Tocantins:** PIB per capita R$ 91.006, produção de soja 120.946t e milho 96.194t - consolidação como maior economia per capita da microrregião
+- **Divinópolis do Tocantins:** PIB +107%, soja +217%, crédito rural R$ 133,8 mi - expansão agrícola acelerada
 - **Araguacema:** PIB dobrou (2019-2021), impulsionado por expansão da soja (41.620 ha)
+- **Monte Santo do Tocantins:** PIB +105%, crédito rural +307% (R$ 81,0 mi), soja 8.745t e bovinos 100.353 (+45%)
+- **Dois Irmãos do Tocantins:** PIB per capita +114%, soja 39.600t, crédito rural R$ 174,1 mi - apesar do declínio populacional
 - **Caseara:** Crescimento acelerado do PIB per capita (R$ 70.637)
 - **Juarina:** Consolidação como polo agrícola (PIB per capita R$ 71.373)
 - **Abreulândia:** Expansão de soja e milho
 
-**Driver Principal:** Expansão da área plantada de soja (conversão de pastagens degradadas) e aumento dos preços internacionais de commodities (2019-2021).
+**Driver Principal:** Expansão da área plantada de soja (conversão de pastagens degradadas) e aumento dos preços internacionais de commodities (2019-2021). Os 5 novos municípios adicionam ~239.749 toneladas de soja à produção regional, com destaque para Marianópolis (120.946t), Divinópolis (70.458t) e Dois Irmãos (39.600t). O crédito rural expandiu explosivamente: Monte Santo +307%, contribuindo para a transformação produtiva da microrregião.
 
 ---
 
@@ -394,11 +445,13 @@ Pequenos produtores familiares têm **acesso limitado ao crédito** (burocracia,
 - **Desafio:** Escolas rurais enfrentam dificuldades (fechamento por esvaziamento rural, transporte escolar de longas distâncias)
 
 **Qualidade Educacional:**
-Padrão regional sugere:
+Padrão regional sugere desempenho heterogêneo, com casos preocupantes de regressão nos novos municípios:
 - **Anos Iniciais:** Desempenho mediano (IDEB ~4,5-5,5)
 - **Anos Finais e Ensino Médio:** Desempenho abaixo da meta (<4,5-5,0)
 - **Guaraí:** Melhor desempenho regional (IDHM Educação mais elevado)
-- Fatores limitantes: Rotatividade de professores, infraestrutura deficiente, contexto socioeconômico
+- **Divinópolis do Tocantins:** Paradoxo educacional - **IDEB regrediu de 6,0 para 5,3** apesar do crescimento econômico (PIB +107%), demonstrando que expansão do agronegócio não se traduz automaticamente em melhoria educacional
+- **Marianópolis do Tocantins:** **IDEB Ensino Médio de 3,5** (muito baixo), incompatível com o PIB per capita de R$ 91.006 - caso emblemático de riqueza econômica sem investimento educacional correspondente
+- Fatores limitantes: Rotatividade de professores, infraestrutura deficiente, contexto socioeconômico, baixa urbanização nos novos municípios (Dois Irmãos 48,1%, Monte Santo 55,1%) dificultando acesso escolar
 
 ### 4.2. Educação Superior
 
@@ -441,6 +494,11 @@ Analfabetismo funcional elevado, especialmente em áreas rurais e população id
 **Desafio de Fixação:**
 Dificuldade de atração e fixação de médicos e especialistas, especialmente em municípios menores (oferta limitada de serviços urbanos, remuneração inferior a grandes centros).
 
+**Casos Críticos nos Novos Municípios:**
+- **Monte Santo do Tocantins:** **Zero leitos hospitalares e apenas 1 médico** para 2.396 habitantes - um dos piores indicadores do estado. Cobertura vacinal colapsada: apenas **48% pentavalente** (meta OMS: 95%). PIB dobrou (+105%) mas infraestrutura de saúde permanece inexistente. Apenas 1 domicílio com esgoto adequado em todo o município.
+- **Dois Irmãos do Tocantins:** **Mortalidade infantil de 24,4‰** (alarmante, bem acima da média nacional de ~12‰). IDHM 0,583 (Baixo). Declínio populacional de -11,6% reflete, em parte, condições de saúde precárias.
+- **Itaporã do Tocantins:** 85% famílias em pobreza, 23% da população com 65+ anos (demanda crescente de saúde geriátrica sem estrutura correspondente)
+
 ### 5.2. Indicadores de Saúde
 
 **Esperança de Vida ao Nascer:**
@@ -454,16 +512,24 @@ Melhoria significativa entre 1991-2010:
 - **Miracema, Miranorte:** Indicadores intermediários
 
 **Mortalidade Infantil:**
-Redução drástica:
+Redução drástica na maioria dos municípios, mas com exceções alarmantes:
 - Anos 1990: 55-65 por mil nascidos vivos
 - 2010: 15-20 por mil nascidos vivos
 - Redução média: 65-70%
+- **EXCEÇÃO CRÍTICA - Dois Irmãos do Tocantins: 24,4‰** (mortalidade infantil alarmante, muito acima da média estadual, indicando falhas graves na atenção materno-infantil, saneamento e acesso a serviços de saúde)
+- **Monte Santo do Tocantins:** Cobertura vacinal colapsada (48% pentavalente) e zero leitos hospitalares representam risco sanitário grave para gestantes e recém-nascidos
 
-**Fatores de Melhoria:**
+**Fatores de Melhoria (maioria dos municípios):**
 - Expansão da atenção básica (ESF)
 - Programas de vacinação universal
 - Melhoria no saneamento básico (água tratada)
 - Transferências de renda (Bolsa Família, aposentadorias rurais)
+
+**Fatores de Persistência/Agravamento (novos municípios):**
+- **Saneamento precário:** Marianópolis (0,2% esgoto), Monte Santo (1 domicílio com esgoto)
+- **Infraestrutura inexistente:** Monte Santo (zero leitos, 1 médico)
+- **Cobertura vacinal insuficiente:** Monte Santo (48% pentavalente)
+- **Baixa urbanização:** Dois Irmãos (48,1%), Monte Santo (55,1%) - população dispersa dificulta acesso
 
 ### 5.3. Saneamento Básico
 
@@ -478,8 +544,10 @@ Redução drástica:
 - Municípios menores: 70-80% (sedes urbanas)
 
 **Esgotamento Sanitário:**
-- **Situação crítica generalizada:** Maioria dos municípios sem rede coletora de esgoto
-- Soluções individuais predominantes (fossas sépticas, muitas inadequadas)
+- **Situação crítica generalizada e agravada:** Maioria dos municípios sem rede coletora de esgoto. A incorporação dos 5 novos municípios evidencia situação ainda mais dramática:
+  - **Marianópolis do Tocantins: apenas 0,2% dos domicílios com esgoto via rede** - 97,5% utilizam fossa rudimentar. PIB per capita de R$ 91.006 coexiste com saneamento de nível precário.
+  - **Monte Santo do Tocantins: apenas 1 (um) domicílio com esgoto adequado** em todo o município - situação análoga à ausência total de infraestrutura sanitária
+- Soluções individuais predominantes (fossas sépticas, muitas inadequadas - em Marianópolis, 97,5% são fossas rudimentares)
 - Exceção parcial: Guaraí e Miracema possuem alguma infraestrutura de esgoto na sede (cobertura <30%)
 
 **Coleta de Resíduos Sólidos:**
@@ -498,7 +566,8 @@ Redução drástica:
 Análise das fichas municipais revela **concentração fundiária crescente** nos municípios agrícolas, com coexistência de modelos:
 
 **Padrões Dominantes:**
-- **Municípios agrícolas (Caseara, Juarina, Tupirama, Abreulândia):** Predominância de médias e grandes propriedades (>200 ha)
+- **Municípios agrícolas consolidados (Marianópolis, Caseara, Juarina, Tupirama, Abreulândia, Divinópolis):** Predominância de médias e grandes propriedades (>200 ha) - Marianópolis e Divinópolis reforçam este grupo com suas produções expressivas de soja
+- **Municípios pecuaristas de grande escala (Dois Irmãos, Itaporã, Monte Santo):** Grandes propriedades voltadas à pecuária extensiva, com conversão crescente para soja
 - **Municípios tradicionais (Guaraí, Miracema, Miranorte):** Mescla de pequenas, médias e grandes propriedades
 - **Municípios familiares (Bernardo Sayão, Tabocão, Rio dos Bois):** Maior presença de pequenas propriedades (<50 ha)
 
@@ -535,8 +604,9 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 
 **Cobertura Vegetal:**
 - **Cerrado:** Bioma predominante, significativamente convertido em lavouras e pastagens
-- **Transição Cerrado-Amazônia:** Araguacema possui vegetação de transição
-- **Desmatamento:** Pressão crescente por expansão de soja (Caseara, Juarina, Araguacema, Abreulândia)
+- **Transição Cerrado-Amazônia:** Araguacema e **Itaporã do Tocantins** possuem vegetação de transição amazônica, ampliando a importância ambiental da microrregião
+- **Desmatamento:** Pressão crescente por expansão de soja (Caseara, Juarina, Araguacema, Abreulândia, **Marianópolis, Divinópolis, Dois Irmãos, Monte Santo**)
+- **Queimadas:** **Dois Irmãos do Tocantins registrou 84 focos de queimadas em 2023** (dado alarmante, refletindo prática persistente de uso do fogo na pecuária extensiva e desmatamento)
 - **Áreas remanescentes:** Fragmentos de cerrado, matas ciliares (muitas degradadas)
 
 **Conversão de Uso do Solo:**
@@ -612,7 +682,7 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 **Cerrado no Centro-Oeste Tocantinense:**
 - Savana brasileira com biodiversidade expressiva (segundo bioma mais rico do país)
 - Vegetação: Cerrado stricto sensu, cerradão, veredas, matas de galeria
-- **Transição Cerrado-Amazônia:** Araguacema possui vegetação de transição (maior biodiversidade)
+- **Transição Cerrado-Amazônia:** Araguacema e **Itaporã do Tocantins** possuem vegetação de transição amazônica (maior biodiversidade)
 - Fauna: Lobo-guará, veado-campeiro, aves (ema, seriema), répteis
 
 **Serviços Ecossistêmicos:**
@@ -624,9 +694,10 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 ### 8.2. Pressões Ambientais
 
 **Desmatamento:**
-- **Taxa crescente:** Conversão de cerrado nativo em lavouras de soja e pastagens
-- **Municípios críticos:** Caseara, Juarina, Araguacema, Abreulândia (expansão agrícola acelerada)
+- **Taxa crescente e ampliada:** Conversão de cerrado nativo em lavouras de soja e pastagens, agora com 5 novos municípios intensificando a pressão
+- **Municípios críticos:** Caseara, Juarina, Araguacema, Abreulândia, **Marianópolis do Tocantins** (120.946t soja), **Divinópolis do Tocantins** (soja +217%), **Dois Irmãos do Tocantins** (84 focos de queimadas em 2023)
 - **Impactos:** Perda de biodiversidade, fragmentação de habitats, erosão, assoreamento de rios
+- **Bioma Amazônico ameaçado:** **Itaporã do Tocantins**, em zona de transição para Amazônia, apresenta pecuária intensiva (123.633 bovinos) com risco de conversão de remanescentes florestais
 
 **Uso de Agrotóxicos:**
 - Agricultura tecnificada (soja): Uso intensivo de herbicidas (glifosato), fungicidas, inseticidas
@@ -640,6 +711,7 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 **Queimadas:**
 - Uso tradicional de fogo para limpeza de áreas (agricultura familiar, renovação de pastagens)
 - Incêndios descontrolados em períodos de seca (agosto-outubro)
+- **Dois Irmãos do Tocantins: 84 focos de queimadas em 2023** - um dos municípios com maior incidência, refletindo a combinação de pecuária extensiva (218.500 bovinos) com práticas de manejo por fogo em 3.748 km² de território
 - Impactos: Perda de vegetação, emissões de gases de efeito estufa, problemas respiratórios
 
 ### 8.3. Gestão Ambiental
@@ -673,21 +745,25 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 #### 1. Transição Econômica Desordenada e Desigual
 
 **Problema:**
-- Expansão explosiva do agronegócio em municípios selecionados (Caseara, Juarina, Araguacema) gera PIB elevado, mas benefícios concentrados
+- Expansão explosiva do agronegócio em municípios selecionados (Marianópolis, Caseara, Juarina, Divinópolis, Araguacema) gera PIB elevado, mas benefícios concentrados
 - Convivência conflituosa entre modelo tradicional (pecuária extensiva) e modelo moderno (soja mecanizada)
-- Desigualdade interna: Municípios agrícolas (PIB per capita R$ 70.000) vs. municípios tradicionais (PIB per capita R$ 20.000-25.000)
+- Desigualdade interna **extrema e ampliada:** Marianópolis (PIB per capita R$ 91.006) vs. Monte Santo (R$ 19.173) - razão de 4,7x
+- **Paradoxo riqueza-pobreza:** Marianópolis (PIB per capita 3x média estadual, mas 80% famílias em pobreza, 0,2% esgoto); Dois Irmãos (PIB per capita +114%, mas IDHM 0,583 Baixo, 86% famílias em pobreza)
 
 **Impactos:**
 - Migração de jovens de municípios tradicionais para cidades maiores ou Palmas
-- Sub-investimento em educação e saúde em municípios pequenos
+- **Declínio populacional grave:** Dois Irmãos (-11,6%), Itaporã (-51,1% desde 1991)
+- Sub-investimento em educação e saúde em municípios pequenos (Marianópolis IDEB EM 3,5; Monte Santo zero leitos; Divinópolis IDEB caiu de 6,0 para 5,3)
 - Dependência crescente de ciclos de preços de commodities (soja)
 
 #### 2. Pressão Ambiental Crescente por Expansão Agrícola
 
 **Situação:**
-- Desmatamento acelerado de cerrado nativo em municípios agrícolas (Caseara, Juarina, Araguacema, Abreulândia)
-- Conversão rápida de pastagens degradadas em lavouras de soja
+- Desmatamento acelerado de cerrado nativo em municípios agrícolas (Marianópolis, Divinópolis, Caseara, Juarina, Araguacema, Abreulândia, Dois Irmãos, Monte Santo)
+- Conversão rápida de pastagens degradadas em lavouras de soja - agora com ~239.749t adicionais dos 5 novos municípios
 - Uso intensivo de agrotóxicos (glifosato, fungicidas) com risco de contaminação do Rio Tocantins
+- **Queimadas persistentes:** Dois Irmãos com 84 focos (2023) em 3.748 km² de território
+- **Bioma Amazônico sob pressão:** Itaporã do Tocantins em zona de transição, com pecuária intensiva (123.633 bovinos)
 
 **Consequências:**
 - Perda de biodiversidade e fragmentação de habitats de cerrado
@@ -721,15 +797,21 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 
 **Educação:**
 - Qualidade insuficiente (IDEB <5,0 na maioria)
+- **Marianópolis: IDEB EM 3,5** (muito baixo, incompatível com PIB per capita de R$ 91.006)
+- **Divinópolis: IDEB regrediu de 6,0 para 5,3** apesar de PIB +107%
 - Ausência de ensino superior (apenas polos EAD)
 - Emigração de jovens para Palmas, Araguaína
 
 **Saúde:**
 - Acesso limitado a média/alta complexidade (referência em Palmas a 150-250 km)
+- **Monte Santo: zero leitos hospitalares, apenas 1 médico**, cobertura vacinal 48% pentavalente
+- **Dois Irmãos: mortalidade infantil 24,4‰** (alarmante)
 - Dificuldade de fixação de médicos em municípios pequenos
 
 **Saneamento:**
 - Esgotamento sanitário praticamente inexistente (mesmo em Guaraí e Miracema)
+- **Marianópolis: apenas 0,2% esgoto via rede** (97,5% fossa rudimentar), apesar de PIB per capita R$ 91.006
+- **Monte Santo: apenas 1 domicílio com esgoto adequado** em todo o município
 
 ### 9.2. Oportunidades de Desenvolvimento
 
@@ -789,11 +871,12 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 #### **FORÇAS (Strengths)**
 
 1. **Agronegócio em Expansão Explosiva (Municípios Selecionados)**
-   - Produção regional de soja: 100.000-150.000 toneladas/ano (crescimento acelerado)
-   - Municípios líderes: Araguacema (41.620 ha), Abreulândia (38.818 t), Caseara, Juarina
-   - PIB per capita excepcional: Juarina (R$ 71.373), Caseara (R$ 70.637), Tupirama (R$ 60.880)
-   - Rebanho bovino: 800.000-1.000.000 cabeças (Abreulândia 93.525, Barrolândia 79.618)
-   - Crescimento do PIB: Araguacema dobrou (2019-2021)
+   - Produção regional de soja: **340.000-400.000 toneladas/ano** (crescimento acelerado, com ~239.749t dos novos municípios)
+   - Municípios líderes: **Marianópolis (120.946t)**, **Divinópolis (70.458t)**, Araguacema (41.620 ha), **Dois Irmãos (39.600t)**, Abreulândia (38.818 t), Caseara, Juarina
+   - PIB per capita excepcional: **Marianópolis (R$ 91.006)**, Juarina (R$ 71.373), Caseara (R$ 70.637), Tupirama (R$ 60.880), **Divinópolis (R$ 35.676)**
+   - Rebanho bovino: **1.300.000-1.600.000 cabeças** (Dois Irmãos 218.500, Divinópolis 145.993, Itaporã 123.633, Monte Santo 100.353, Abreulândia 93.525, Barrolândia 79.618)
+   - Crédito rural expressivo: Dois Irmãos R$ 174,1 mi, Marianópolis R$ 169,3 mi, Divinópolis R$ 133,8 mi, Monte Santo R$ 81,0 mi (+307%)
+   - Crescimento do PIB: Araguacema dobrou (2019-2021), Monte Santo +105%, Divinópolis +107%
 
 2. **Localização Estratégica no Estado**
    - **BR-153 (Belém-Brasília):** Atravessa toda a microrregião, conecta norte-sul do Tocantins
@@ -824,30 +907,35 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 #### **FRAQUEZAS (Weaknesses)**
 
 1. **Transição Econômica Desordenada e Desigual**
-   - Crescimento concentrado em poucos municípios agrícolas (Caseara, Juarina, Araguacema)
-   - Desigualdade interna extrema: PIB per capita R$ 71.373 (Juarina) vs. R$ 20.000 (municípios tradicionais)
-   - Baixa geração de empregos diretos (agricultura mecanizada)
-   - Municípios tradicionais estagnados (falta de diversificação)
+   - Crescimento concentrado em municípios agrícolas (Marianópolis, Caseara, Juarina, Divinópolis, Araguacema)
+   - Desigualdade interna extrema **e ampliada**: PIB per capita R$ 91.006 (Marianópolis) vs. R$ 19.173 (Monte Santo) - razão de 4,7x
+   - **Paradoxo estrutural:** Marianópolis (PIB per capita 3x média estadual, mas 80% famílias em pobreza); Dois Irmãos (PIB per capita +114%, mas IDHM Baixo 0,583)
+   - Baixa geração de empregos diretos (agricultura mecanizada); Itaporã tem 77,5% dos empregos na administração pública
+   - Municípios tradicionais estagnados ou em declínio (Dois Irmãos -11,6%, Itaporã -51,1% desde 1991)
 
 2. **Dependência Crescente de Soja (Vulnerabilidade)**
    - Municípios agrícolas altamente dependentes de preços internacionais de soja
    - Falta de agroindustrialização (exportação de commodity in natura)
    - Risco: Oscilações de preços, eventos climáticos (secas)
 
-3. **Infraestrutura Social Deficiente**
-   - Educação: Qualidade insuficiente (IDEB <5,0), ausência de ensino superior público
-   - Saúde: Acesso limitado a média/alta complexidade (referência em Palmas a 150-250 km)
-   - Saneamento: Esgoto praticamente inexistente (mesmo em Guaraí e Miracema)
+3. **Infraestrutura Social Deficiente - Agravada pelos Novos Municípios**
+   - Educação: Qualidade insuficiente (IDEB <5,0), Marianópolis IDEB EM 3,5, Divinópolis IDEB regrediu de 6,0 para 5,3, ausência de ensino superior público
+   - Saúde: Monte Santo **zero leitos hospitalares e 1 médico**, cobertura vacinal 48%; Dois Irmãos mortalidade infantil 24,4‰; acesso limitado a média/alta complexidade (referência em Palmas a 150-250 km)
+   - Saneamento: Marianópolis **0,2% esgoto** (97,5% fossa rudimentar), Monte Santo **1 domicílio com esgoto**; esgoto praticamente inexistente mesmo em Guaraí e Miracema
 
-4. **Êxodo de Jovens e Estagnação Demográfica (Municípios Pequenos)**
+4. **Êxodo de Jovens, Declínio e Envelhecimento Demográfico**
    - Migração para Palmas, Araguaína, Goiânia (ensino superior, empregos)
    - Perda de capital humano qualificado
+   - **Declínio populacional grave:** Dois Irmãos (-11,6%), Itaporã (-1,7%, -51,1% desde 1991)
+   - **Envelhecimento extremo:** Itaporã com 23% da população acima de 65 anos
    - Envelhecimento populacional em municípios tradicionais
 
-5. **Pressão Ambiental Crescente**
-   - Desmatamento acelerado em municípios agrícolas (Caseara, Juarina, Araguacema, Abreulândia)
+5. **Pressão Ambiental Crescente e Ampliada**
+   - Desmatamento acelerado em municípios agrícolas (Marianópolis, Divinópolis, Caseara, Juarina, Araguacema, Abreulândia, Dois Irmãos, Monte Santo)
+   - **Queimadas:** Dois Irmãos 84 focos (2023) em 3.748 km²
    - Uso intensivo de agrotóxicos (contaminação de água, solo)
    - Degradação de matas ciliares e assoreamento do Rio Tocantins
+   - **Bioma amazônico sob pressão:** Itaporã do Tocantins em zona de transição
 
 6. **Custos Logísticos Elevados**
    - Dependência do transporte rodoviário (frete até Porto de Itaqui-MA ~800 km)
@@ -861,11 +949,12 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 
 #### **OPORTUNIDADES (Opportunities)**
 
-1. **Consolidação Sustentável da Expansão Agrícola**
-   - ILPF: Recuperação de pastagens degradadas, aumento de produtividade
-   - Agricultura de precisão: Eficiência no uso de insumos, redução de agrotóxicos
-   - Certificação sustentável: Acesso a mercados premium (soja responsável, carne carbono neutro)
-   - Zoneamento agrícola: Ordenar expansão, proteger áreas sensíveis
+1. **Consolidação Sustentável da Expansão Agrícola (Escala Ampliada)**
+   - ILPF: Recuperação de pastagens degradadas nos 5 novos municípios (~10.239 km² adicionais), aumento de produtividade
+   - Agricultura de precisão: Eficiência no uso de insumos, redução de agrotóxicos (especialmente em Marianópolis, Divinópolis e Dois Irmãos, onde crédito rural já é expressivo)
+   - Certificação sustentável: Acesso a mercados premium (soja responsável, carne carbono neutro) - rebanho ampliado para 1,3-1,6 milhão de cabeças aumenta potencial
+   - Zoneamento agrícola: Ordenar expansão, proteger áreas sensíveis (especialmente bioma amazônico em Itaporã)
+   - **Conversão do paradoxo riqueza-pobreza em oportunidade:** Direcionar parte da riqueza gerada (Marianópolis PIB R$ 252 mi, Divinópolis R$ 249 mi) para investimento social local
 
 2. **Agroindustrialização (Geração de Empregos e Renda)**
    - Processamento de soja (óleo, farelo, biodiesel) aproveitando BR-153
@@ -927,9 +1016,10 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
    - Variações cambiais (impacto em exportações de soja)
    - Políticas ambientais restritivas sem compensação (CAR, Reserva Legal)
 
-6. **Êxodo Continuado de Jovens (Esvaziamento de Municípios Pequenos)**
+6. **Êxodo Continuado e Colapso Demográfico de Municípios Pequenos**
    - Perda de jovens qualificados para Palmas, Araguaína, grandes centros
    - Dificuldade de atrair e fixar profissionais (médicos, professores, engenheiros)
+   - **Risco de inviabilidade municipal:** Itaporã (-51,1% desde 1991, 2.404 hab, 23% idosos) e Dois Irmãos (-11,6%, IDHM Baixo) podem se tornar inviáveis como unidades administrativas autônomas
    - Envelhecimento e esvaziamento de municípios tradicionais
 
 7. **Barreiras Sanitárias e Pragas Agrícolas**
@@ -1203,24 +1293,38 @@ Análise das fichas municipais revela **concentração fundiária crescente** no
 
 ## 12. CONSIDERAÇÕES FINAIS
 
-A Microrregião de Miracema do Tocantins representa um **território em transição econômica acelerada** no contexto tocantinense: historicamente baseada em **pecuária extensiva e agricultura familiar**, a região vive nos últimos 10-15 anos **expansão explosiva do agronegócio mecanizado** (soja, milho) em municípios selecionados, enquanto mantém forte presença da economia tradicional em outros. Com 19 municípios, 119.638 habitantes e dupla polarização (Guaraí + Miracema do Tocantins), a microrregião caracteriza-se pela **convivência - nem sempre harmoniosa - de modelos econômicos distintos** e pela **desigualdade interna acentuada** entre municípios agrícolas modernos e municípios tradicionais estagnados.
+A Microrregião de Miracema do Tocantins representa um **território em transição econômica acelerada** no contexto tocantinense: historicamente baseada em **pecuária extensiva e agricultura familiar**, a região vive nos últimos 10-15 anos **expansão explosiva do agronegócio mecanizado** (soja, milho) em municípios selecionados, enquanto mantém forte presença da economia tradicional em outros. Com **24 municípios**, **~142.404 habitantes** e dupla polarização (Guaraí + Miracema do Tocantins), a microrregião caracteriza-se pela **convivência - nem sempre harmoniosa - de modelos econômicos distintos** e pela **desigualdade interna acentuada e ampliada** entre municípios agrícolas modernos e municípios tradicionais estagnados ou em declínio.
+
+**Impacto da Incorporação dos 5 Novos Municípios:**
+A integração de **Divinópolis do Tocantins**, **Dois Irmãos do Tocantins**, **Itaporã do Tocantins**, **Marianópolis do Tocantins** e **Monte Santo do Tocantins** alterou significativamente o perfil da microrregião:
+- **Escala territorial ampliada:** +10.239 km² (de 26.505 para ~36.744 km²), reduzindo a densidade para ~3,87 hab/km²
+- **Potência agropecuária reforçada:** +~239.749t de soja (Marianópolis 120.946t, Divinópolis 70.458t, Dois Irmãos 39.600t), +~588.481 cabeças de bovinos, crédito rural adicional de ~R$ 558 mi
+- **Paradoxo riqueza-pobreza aprofundado:** Marianópolis (PIB per capita R$ 91.006 mas 80% famílias em pobreza), Dois Irmãos (IDHM 0,583 Baixo, mortalidade infantil 24,4‰, 86% famílias em pobreza)
+- **Vulnerabilidades sociais ampliadas:** Monte Santo (zero leitos hospitalares, 1 médico, cobertura vacinal 48%), Marianópolis (0,2% esgoto), declínio demográfico de Dois Irmãos (-11,6%) e Itaporã (-51,1% desde 1991)
 
 **Síntese da Dualidade Regional:**
 
 **Municípios em Expansão Agrícola Explosiva:**
+- **Marianópolis do Tocantins:** PIB per capita R$ 91.006 (3x média estadual), soja 120.946t, milho 96.194t - "ilha de prosperidade agroexportadora em mar de vulnerabilidades"
 - **Juarina, Caseara, Tupirama:** PIB per capita R$ 60.000-71.000 (soja mecanizada, milho)
+- **Divinópolis do Tocantins:** PIB +107%, soja 70.458t (+217%), bovinos 145.993 cabeças
 - **Araguacema:** PIB dobrou (2019-2021), 41.620 ha de soja
+- **Dois Irmãos do Tocantins:** Soja 39.600t, bovinos 218.500, crédito R$ 174,1 mi - apesar de declínio populacional
 - **Abreulândia:** Soja (38.818 t), milho (24.615 t), rebanho bovino (93.525 cabeças)
-- Produção regional de soja: 100.000-150.000 toneladas/ano (crescimento acelerado)
+- **Monte Santo do Tocantins:** PIB +105%, soja 8.745t (emergente), bovinos 100.353 (+45%), crédito rural +307%
+- Produção regional de soja: **340.000-400.000 toneladas/ano** (crescimento acelerado, com ~239.749t dos 5 novos municípios)
 
 **Polos Regionais de Serviços:**
 - **Guaraí:** 24.775 hab, PIB R$ 880 milhões, IDHM 0,741 ("Alto" - único da microrregião)
 - **Miracema do Tocantins:** 18.566 hab, PIB R$ 642 milhões, centro administrativo
 - Função: Comércio, saúde, educação para municípios menores
 
-**Municípios Tradicionais Estagnados:**
+**Municípios Tradicionais Estagnados ou em Declínio:**
 - Maioria dos municípios pequenos (<5.000 hab): Pecuária extensiva, agricultura familiar
-- Desafios: Êxodo de jovens, estagnação econômica, dependência de FPM
+- **Dois Irmãos do Tocantins:** Caso mais grave - declínio populacional de -11,6%, IDHM 0,583 (Baixo), mortalidade infantil 24,4‰, 86% famílias em pobreza, maioria rural (48,1% urbano)
+- **Itaporã do Tocantins:** Colapso demográfico (-51,1% desde 1991), 23% idosos, 85% famílias em pobreza, 77,5% empregos na administração pública
+- **Monte Santo do Tocantins:** PIB dobrou mas 90% famílias em pobreza, zero leitos hospitalares, cobertura vacinal 48%
+- Desafios: Êxodo de jovens, estagnação econômica, dependência de FPM e transferências (70-80%)
 - PIB per capita: R$ 18.000-25.000 (abaixo da média estadual)
 
 **O Desafio Central:**
@@ -1250,13 +1354,15 @@ Transformar **transição econômica desordenada** em **desenvolvimento ordenado
 **Visão de Futuro:**
 A Microrregião de Miracema do Tocantins pode consolidar-se como **modelo de transição econômica bem-sucedida**, onde **agronegócio moderno e sustentável** coexiste com **valorização da agricultura familiar**, onde **municípios agrícolas prósperos** compartilham riqueza com **municípios tradicionais**, e onde **crescimento econômico** se traduz em **desenvolvimento humano pleno** (educação, saúde, qualidade de vida).
 
-O sucesso desta transformação depende de **escolhas estratégicas conscientes nos próximos 5-10 anos**: ordenar a expansão agrícola COM proteção ambiental, diversificar a economia COM agroindustrialização, incluir municípios tradicionais COM políticas de apoio, e investir em educação, saúde e infraestrutura COM recursos gerados pelo agronegócio.
+**A incorporação dos 5 novos municípios torna esta missão simultaneamente mais urgente e mais viável:** mais urgente porque amplia a escala das vulnerabilidades (Dois Irmãos com IDHM Baixo, Monte Santo sem leitos hospitalares, Marianópolis com 0,2% de esgoto, Itaporã em colapso demográfico); mais viável porque amplia a base produtiva (produção de soja quase triplicada, rebanho bovino expandido para 1,3-1,6 milhão de cabeças, crédito rural adicional de ~R$ 558 milhões) e, portanto, o potencial de geração de recursos para investimento social.
 
-A alternativa - perpetuar a transição desordenada - levará a **desigualdades crescentes, degradação ambiental irreversível e esvaziamento de municípios tradicionais**. O momento de agir é agora.
+O sucesso desta transformação depende de **escolhas estratégicas conscientes nos próximos 5-10 anos**: ordenar a expansão agrícola COM proteção ambiental (especialmente o bioma amazônico de transição em Itaporã), diversificar a economia COM agroindustrialização, incluir municípios em declínio (Dois Irmãos, Itaporã) COM políticas emergenciais, resolver o paradoxo riqueza-pobreza de Marianópolis COM mecanismos de redistribuição local, e investir em educação, saúde e infraestrutura COM recursos gerados pelo agronegócio.
+
+A alternativa - perpetuar a transição desordenada - levará a **desigualdades crescentes, degradação ambiental irreversível, colapso demográfico de municípios vulneráveis (Itaporã já perdeu metade da população desde 1991) e inviabilidade administrativa de pequenos municípios**. O momento de agir é agora.
 
 ---
 
 **Elaboração:** Sistema de Inteligência Territorial - Caderno Tocantins 2026
 **Fontes:** Fichas Municipais Completas Deepseek V3, IBGE, MDIC, DATASUS, INEP, ANATEL, SICOR/BACEN, RAIS/CAGED
-**Versão:** 1.1 - Revisada (Fase 1.1 - Agregação Municipal)
+**Versão:** 1.2 - Revisada com 24 Municípios (Fase 1.1 - Agregação Municipal)
 **Data:** Fevereiro de 2026

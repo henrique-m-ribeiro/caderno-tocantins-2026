@@ -1,6 +1,6 @@
 # JUARINA — Ficha Municipal
 
-**Código IBGE**: 1711803 | **Microrregião**: Miracema do Tocantins | **Área**: 483 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1711803 | **Microrregião**: Miracema do Tocantins  | **Área**: 483 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

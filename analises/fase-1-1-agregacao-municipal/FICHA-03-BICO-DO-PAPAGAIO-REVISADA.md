@@ -1,17 +1,17 @@
 # FICHA 03: MICRORREGIÃO DE BICO DO PAPAGAIO
 
 **Sistema de Inteligência Territorial - Caderno Tocantins 2026**
-**Versão 1.1 - Revisada com Dados Consolidados (Fase 1.1)**
+**Versão 1.2 - Revisada com Dados Consolidados (Fase 1.1) — Inclusão de Maurilândia do Tocantins**
 
 ---
 
 ## DADOS GERAIS DA MICRORREGIÃO
 
-**Municípios:** Aguiarnópolis, Ananás, Angico, Araguatins, Augustinópolis, Axixá do Tocantins, Buriti do Tocantins, Cachoeirinha, Carrasco Bonito, Darcinópolis, Esperantina, Itaguatins, Luzinópolis, Nazaré, Palmeiras do Tocantins, Praia Norte, Riachinho, Sampaio, Santa Terezinha do Tocantins, São Bento do Tocantins, São Miguel do Tocantins, São Sebastião do Tocantins, Sítio Novo do Tocantins, Tocantinópolis (24 municípios)
+**Municípios:** Aguiarnópolis, Ananás, Angico, Araguatins, Augustinópolis, Axixá do Tocantins, Buriti do Tocantins, Cachoeirinha, Carrasco Bonito, Darcinópolis, Esperantina, Itaguatins, Luzinópolis, Maurilândia do Tocantins, Nazaré, Palmeiras do Tocantins, Praia Norte, Riachinho, Sampaio, Santa Terezinha do Tocantins, São Bento do Tocantins, São Miguel do Tocantins, São Sebastião do Tocantins, Sítio Novo do Tocantins, Tocantinópolis (25 municípios)
 
-**População Total (2022):** 199.652 habitantes
-**Área Total:** 15.033,00 km²
-**Densidade Demográfica:** 13,28 hab/km²
+**População Total (2022):** 203.122 habitantes
+**Área Total:** 15.769,00 km²
+**Densidade Demográfica:** 12,88 hab/km²
 **Fonte dos Dados:** Fichas Municipais Completas Deepseek V3 (15-25 páginas cada)
 
 ---
@@ -20,13 +20,13 @@
 
 ### 1.1. Características Gerais
 
-A Microrregião do Bico do Papagaio, situada no extremo norte do estado do Tocantins, representa um território marcado por **intensa fragmentação municipal, baixa densidade demográfica e significativa dispersão populacional**. Com 24 municípios distribuídos em 15.033 km², a região forma uma tríplice fronteira com os estados do Pará e Maranhão, configuração geográfica que lhe confere o nome característico.
+A Microrregião do Bico do Papagaio, situada no extremo norte do estado do Tocantins, representa um território marcado por **intensa fragmentação municipal, baixa densidade demográfica e significativa dispersão populacional**. Com 25 municípios distribuídos em 15.769 km², a região forma uma tríplice fronteira com os estados do Pará e Maranhão, configuração geográfica que lhe confere o nome característico.
 
 **Perfil Demográfico Distintivo:**
-- População de 199.652 habitantes, representando aproximadamente 12% da população estadual
-- Densidade média de 13,28 hab/km², uma das mais baixas do estado
+- População de 203.122 habitantes, representando aproximadamente 13% da população estadual
+- Densidade média de 12,88 hab/km², uma das mais baixas do estado
 - Maior número de municípios entre todas as microrregiões tocantinenses
-- Extrema fragmentação administrativa: 18 municípios com menos de 10.000 habitantes
+- Extrema fragmentação administrativa: 19 municípios com menos de 10.000 habitantes
 - Ausência de centro urbano dominante (maior município tem 31.918 habitantes)
 
 **Contexto Histórico Singular:**
@@ -90,20 +90,20 @@ Histórico de conflitos fundiários, grilagem e disputas entre grandes fazendeir
 9 municípios com economias diversificadas em agricultura familiar, pecuária e serviços básicos
 
 **Municípios de Pequeno Porte (<5.000 hab):**
-11 municípios caracterizados por extrema dependência de transferências governamentais, economia de subsistência e infraestrutura limitada
+12 municípios caracterizados por extrema dependência de transferências governamentais, economia de subsistência e infraestrutura limitada — incluindo Maurilândia do Tocantins (3.470 hab), cuja aquicultura consolidada (295 t de tambacu/tambatinga) constitui exceção positiva ao perfil de baixa diversificação econômica típico desta faixa
 
 #### Distribuição Territorial
 
 | Porte Populacional | Nº Municípios | % Municípios | População Total | % População |
 |-------------------|---------------|--------------|-----------------|-------------|
-| Acima de 20.000 | 2 | 8,3% | 54.533 | 27,3% |
-| 10.000 a 20.000 | 6 | 25,0% | 81.319 | 40,7% |
-| 5.000 a 10.000 | 5 | 20,8% | 32.738 | 16,4% |
-| Menos de 5.000 | 11 | 45,8% | 31.062 | 15,6% |
+| Acima de 20.000 | 2 | 8,0% | 54.533 | 26,8% |
+| 10.000 a 20.000 | 6 | 24,0% | 81.319 | 40,0% |
+| 5.000 a 10.000 | 5 | 20,0% | 32.738 | 16,1% |
+| Menos de 5.000 | 12 | 48,0% | 34.532 | 17,0% |
 
 **Observações Críticas:**
-- Quase metade dos municípios (45,8%) tem menos de 5.000 habitantes
-- Concentração populacional: 68% da população em apenas 8 municípios
+- Quase metade dos municípios (48,0%) tem menos de 5.000 habitantes
+- Concentração populacional: 67% da população em apenas 8 municípios
 - Fragmentação administrativa extrema compromete economias de escala em serviços públicos
 
 ---
@@ -123,10 +123,11 @@ A microrregião apresenta dinâmica demográfica marcada por **estagnação em m
 
 **Municípios em Estabilização/Declínio:**
 - Municípios menores apresentam tendência de estabilização ou leve declínio
+- Maurilândia do Tocantins: Crescimento lento e constante de +0,2% a.a. (2000-2021), indicando estabilização demográfica
 - Êxodo rural persiste, mas urbanização não se traduz em crescimento urbano significativo
 
 **Perfil Etário:**
-- Razão de dependência entre 55-65% (alta proporção de jovens e idosos)
+- Razão de dependência entre 55-67% (alta proporção de jovens e idosos; Maurilândia registra 67,3)
 - Estrutura etária ainda jovem, mas com envelhecimento progressivo
 - Desafio: prover educação e emprego para população jovem
 
@@ -136,6 +137,9 @@ A microrregião apresenta dinâmica demográfica marcada por **estagnação em m
 
 **Municípios Altamente Urbanizados (>80%):**
 - Axixá do Tocantins, Tocantinópolis, Augustinópolis
+
+**Municípios com Perfil Intermediário (60-80%):**
+- Maurilândia do Tocantins (64,0%), entre outros
 
 **Municípios com Perfil Rural (40-60%):**
 - Darcinópolis, Itaguatins, Esperantina, Santa Terezinha
@@ -165,15 +169,15 @@ A microrregião apresenta dinâmica demográfica marcada por **estagnação em m
 ### 3.1. Estrutura Econômica Regional
 
 **PIB Regional Consolidado (estimativa baseada em dados municipais 2021):**
-- **PIB Total:** Aproximadamente R$ 3,2-3,5 bilhões
+- **PIB Total:** Aproximadamente R$ 3,3-3,6 bilhões
 - **PIB per capita médio:** R$ 16.000-20.000 (variação significativa entre municípios)
 - **Participação no PIB Estadual:** ~7-8%
 
 **Composição Setorial Média:**
 1. **Agropecuária:** 40-50% do VAB regional
-   - Pecuária bovina: Rebanho regional estimado em 750.000-850.000 cabeças
+   - Pecuária bovina: Rebanho regional estimado em 770.000-870.000 cabeças
    - Agricultura: Mandioca, soja (crescimento recente), milho, arroz
-   - Aquicultura: Tambaqui e espécies híbridas (setor emergente)
+   - Aquicultura: Tambaqui, tambacu, tambatinga e espécies híbridas (setor emergente com polos consolidados)
 
 2. **Serviços:** 35-40% do VAB
    - Administração pública (maior empregador)
@@ -186,7 +190,7 @@ A microrregião apresenta dinâmica demográfica marcada por **estagnação em m
    - Indústria de transformação incipiente
 
 **Dependência de Transferências Governamentais:**
-- FPM, FUNDEB e programas sociais representam 70-85% das receitas municipais
+- FPM, FUNDEB e programas sociais representam 70-85% das receitas municipais (em casos extremos como Maurilândia do Tocantins, a dependência alcança ~99%)
 - Transferências constitucionais cresceram em média 50-60% entre 2019-2023
 - Baixa capacidade de arrecadação própria (ISS, IPTU)
 
@@ -195,9 +199,10 @@ A microrregião apresenta dinâmica demográfica marcada por **estagnação em m
 #### Pecuária Bovina
 
 **Dimensão da Atividade:**
-- **Rebanho Regional:** ~750.000 a 850.000 cabeças (estimativa consolidada)
+- **Rebanho Regional:** ~770.000 a 870.000 cabeças (estimativa consolidada)
 - **Maior rebanho municipal:** Araguatins (205.842 cabeças)
 - **Crescimento 2019-2023:** Média de 15-25% nos principais municípios
+- Maurilândia do Tocantins contribui com rebanho de 20.229 cabeças, além de produção leiteira relevante (~2,6 milhões de litros/ano)
 
 **Características:**
 - Sistema extensivo predominante
@@ -215,8 +220,8 @@ A microrregião apresenta dinâmica demográfica marcada por **estagnação em m
 **Culturas Permanentes e Temporárias:**
 
 **Mandioca (cultura mais importante):**
-- Produção regional: ~35.000-40.000 toneladas/ano
-- Maiores produtores: Araguatins (4.455 t), Nazaré (3.500 t), Angico (3.600 t)
+- Produção regional: ~40.000-45.000 toneladas/ano
+- Maiores produtores: Maurilândia do Tocantins (4.939 t), Araguatins (4.455 t), Angico (3.600 t), Nazaré (3.500 t)
 - Base da agricultura familiar, processamento em farinheiras artesanais
 
 **Soja (expansão recente):**
@@ -233,29 +238,34 @@ A microrregião apresenta dinâmica demográfica marcada por **estagnação em m
 #### Aquicultura
 
 **Setor em Forte Expansão:**
-- Produção de tambaqui, tambacu e tambatinga em tanques-rede e viveiros
-- Exemplos de crescimento: Praia Norte (4.000 kg em 2019 → 28.400 kg em 2023)
+- Produção de tambaqui, tambacu, tambatinga e espécies híbridas em tanques-rede e viveiros
+- **Maurilândia do Tocantins:** Polo consolidado com 295 toneladas de tambacu/tambatinga (2020), crescimento de +24,6% desde 2018 — destaque regional com potencial para agroindustrialização do pescado
+- **Praia Norte:** Crescimento expressivo de 4.000 kg (2019) para 28.400 kg (2023)
 - Potencial hídrico: Rios Araguaia, Tocantins e reservatórios
 
 **Desafios:**
 - Assistência técnica insuficiente
 - Logística de distribuição
 - Regularização ambiental
+- Necessidade de infraestrutura de processamento (filetagem, congelamento) para agregação de valor local
 
 ### 3.3. Acesso ao Crédito Rural
 
 **Evolução do Financiamento:**
-Análise das fichas municipais revela expansão significativa do crédito rural entre 2019-2023:
+Análise das fichas municipais revela expansão significativa do crédito rural entre 2019-2023 na maioria dos municípios, embora com retração em alguns:
 
 **Exemplos de Crescimento:**
 - **Darcinópolis:** R$ 10,2 milhões → R$ 66,4 milhões (+550%)
 - **Palmeiras do Tocantins:** Aumento de 48% no período
 - **Sítio Novo:** Crescimento expressivo acompanhando expansão da soja
 
+**Exemplos de Retração:**
+- **Maurilândia do Tocantins:** Queda acentuada no número de financiamentos — de 108 (2016) para 17 (2020); PRONAF reduziu de 223 para 8 contratos (2013-2020), limitando investimentos da agricultura familiar
+
 **Volume Regional Estimado:**
 - Financiamentos totais 2023: R$ 150-200 milhões
 - Concentração: Municípios com agricultura tecnificada (soja, pecuária de corte)
-- Acesso limitado: Pequenos produtores em municípios periféricos
+- Acesso limitado: Pequenos produtores em municípios periféricos, com retração preocupante em casos como Maurilândia
 
 ### 3.4. Rankings e Benchmarking Municipal
 
@@ -271,6 +281,7 @@ Análise das fichas municipais revela expansão significativa do crédito rural 
 
 **Municípios com PIB per capita abaixo da média estadual (<R$ 25.000):**
 - Esperantina (R$ 10.525,18)
+- Maurilândia do Tocantins (R$ 10.764,00) — segundo menor da microrregião
 - Carrasco Bonito (R$ 12.139,52)
 - Riachinho (R$ 13.181,00)
 - Buriti do Tocantins (R$ 13.881,00)
@@ -288,6 +299,7 @@ Análise das fichas municipais revela expansão significativa do crédito rural 
 - Esperantina (0,570)
 - Riachinho (0,572)
 - São Sebastião do Tocantins (0,573)
+- Maurilândia do Tocantins (0,580) — componente Educação em patamar "Muito Baixo" (0,498)
 - Darcinópolis (0,581)
 - Praia Norte (0,583)
 
@@ -300,10 +312,12 @@ Análise das fichas municipais revela expansão significativa do crédito rural 
 - **Cachoeirinha:** +74,5%
 - **Buriti do Tocantins:** +70,5%
 - **Darcinópolis, Palmeiras do Tocantins:** +48%
+- **Maurilândia do Tocantins:** +39% (PIB total: R$ 26,3 mi → R$ 36,6 mi entre 2014-2018), impulsionado pela agropecuária e aquicultura
 
 **Drivers de Crescimento:**
 - Expansão da soja (Darcinópolis, Sítio Novo)
 - Crescimento da pecuária
+- Aquicultura (destaque: Maurilândia do Tocantins, Praia Norte)
 - Aumento das transferências governamentais
 
 ---
@@ -323,6 +337,7 @@ Análise das fichas municipais revela expansão significativa do crédito rural 
 - São Miguel do Tocantins: 84,4%
 
 **Desafios persistentes:**
+- Maurilândia do Tocantins: 79,5% de alfabetização (bem abaixo das médias estadual de 88,1% e nacional de 91%), com estagnação desde 2010
 - Analfabetismo funcional elevado em população acima de 40 anos
 - Acesso limitado a creches e pré-escola em áreas rurais
 
@@ -340,6 +355,7 @@ Análise das fichas municipais revela expansão significativa do crédito rural 
 
 **Desafios:**
 - Acesso ao ensino superior extremamente limitado
+- Municípios como Maurilândia do Tocantins não possuem qualquer instituição de ensino superior, intensificando a evasão de jovens
 - Emigração de jovens para cursar graduação em outros centros
 - Baixa oferta de ensino técnico profissionalizante
 
@@ -349,6 +365,12 @@ Análise das fichas municipais revela expansão significativa do crédito rural 
 - **Anos Iniciais (5º ano):** 4,5-5,5 (abaixo da meta nacional)
 - **Anos Finais (9º ano):** 3,8-4,5 (crítico)
 - **Ensino Médio:** 3,5-4,0 (muito abaixo da meta)
+
+**Exemplo Municipal — Maurilândia do Tocantins (2023):**
+- IDEB Anos Iniciais: 4,5 (meta: 4,9)
+- IDEB Anos Finais: 3,8 (meta: 4,7)
+- IDEB Ensino Médio: 4,0 (meta: 5,0)
+- Distorção idade-série alarmante: 28,8% no ensino médio, 29,5% nos anos finais, 20,5% nos anos iniciais
 
 **Fatores Limitantes:**
 - Alta rotatividade de professores
@@ -363,14 +385,14 @@ Análise das fichas municipais revela expansão significativa do crédito rural 
 ### 5.1. Infraestrutura e Acesso
 
 **Rede Assistencial:**
-- **Atenção Básica:** Unidades Básicas de Saúde (UBS) em todas as sedes municipais
+- **Atenção Básica:** Unidades Básicas de Saúde (UBS) em todas as sedes municipais (Maurilândia do Tocantins dispõe de 3 UBS, 1 Academia da Saúde e 1 unidade de Vigilância)
 - **Média Complexidade:** Hospital Regional em Tocantinópolis (capacidade limitada)
 - **Alta Complexidade:** Inexistente (referência em Araguaína ou Palmas)
 
 **Cobertura de Equipes de Saúde da Família (ESF):**
 - Cobertura elevada nas sedes municipais (>80%)
 - Cobertura irregular em áreas rurais dispersas
-- Dificuldade de fixação de médicos
+- Dificuldade de fixação de médicos (Maurilândia conta com apenas 4 médicos e 28 profissionais de saúde)
 
 ### 5.2. Indicadores de Saúde
 
@@ -385,14 +407,19 @@ Análise das fichas municipais mostra **melhoria expressiva**:
 - Palmeiras do Tocantins: 75,3 → 17,0 por mil
 - Bernardo Sayão: 57,3 → 22,2 por mil
 
+**Casos Persistentes:**
+- Maurilândia do Tocantins: Mortalidade infantil de 23,3 por mil (dado de 2017), acima da média estadual (~13,4 por mil), agravada pela ausência total de leitos hospitalares no município
+
 **Esperança de Vida:**
 - Aumento generalizado: ~60 anos (1991) → ~73-76 anos (2010)
 - Componente Longevidade do IDHM: Maioria dos municípios alcançou patamar "Alto" (0,750-0,799)
+- Maurilândia do Tocantins: IDHM Longevidade de 0,724 (patamar "Alto"), indicando melhoria consistente
 
 **Desafios Persistentes:**
 - Acesso limitado a especialidades médicas
 - Longas distâncias para atendimento de média/alta complexidade
 - Saneamento básico precário (impacto em doenças de veiculação hídrica)
+- Queda preocupante na cobertura vacinal em municípios menores (exemplo: BCG em Maurilândia caiu de 90% em 2019 para 70% em 2020)
 
 ### 5.3. Saneamento Básico: Gargalo Crítico
 
@@ -403,16 +430,19 @@ Análise das fichas municipais mostra **melhoria expressiva**:
 - Buriti do Tocantins: 80,6%
 
 **Municípios com cobertura crítica:**
+- Maurilândia do Tocantins: 63,0% dos domicílios com água via rede geral
 - Diversos municípios menores com cobertura abaixo de 60%
 - Áreas rurais: Dependência de poços e nascentes sem tratamento
 
 **Esgotamento Sanitário:**
 - **Situação crítica generalizada:** Maioria dos municípios sem rede coletora de esgoto
+- Maurilândia do Tocantins: 0,0% de esgoto via rede, 96,4% dos domicílios com banheiro utilizam fossa rudimentar, 28% dos domicílios sem banheiro
 - Soluções individuais predominantes (fossas sépticas, muitas inadequadas)
 - Impacto: Contaminação de recursos hídricos, doenças infecciosas
 
 **Coleta de Resíduos Sólidos:**
 - Cobertura razoável nas sedes municipais (>80%)
+- Maurilândia do Tocantins: Apenas 51% dos domicílios com coleta, lixão como destinação final, 42% queimam lixo na propriedade
 - Áreas rurais: Coleta inexistente ou irregular
 - Destinação final: Lixões a céu aberto em muitos municípios (passivo ambiental)
 
@@ -429,6 +459,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 - **Ananás:** 90% da área dos estabelecimentos (105 mil ha) em propriedades >1.000 ha
 - **Buriti do Tocantins:** 77% dos estabelecimentos até 200 ha (distribuição relativamente pulverizada)
 - **Darcinópolis, Itaguatins:** Predominância de médias e grandes propriedades
+- **Maurilândia do Tocantins:** Fragmentação progressiva — tamanho médio dos estabelecimentos caiu de 75 ha (2006) para 40,5 ha (2017), com 304 estabelecimentos em 12.317 ha; 97% das terras são próprias, facilitando regularização e acesso a crédito
 
 **Distribuição Típica:**
 - Pequenas propriedades (<50 ha): Numerosas, mas ocupam pequena área total
@@ -441,16 +472,17 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 - Cultivos de subsistência: Mandioca, milho, feijão, arroz
 - Fruticultura: Banana, melancia, abacaxi
 - Criações: Aves, suínos, pequenos rebanhos bovinos
+- Aquicultura familiar: Produção de tambacu/tambatinga em municípios como Maurilândia do Tocantins
 
 **Desafios:**
 - Assistência técnica insuficiente
-- Acesso limitado a crédito (PRONAF)
+- Acesso limitado a crédito (PRONAF) — em Maurilândia, contratos PRONAF caíram de 223 (2013) para 8 (2020)
 - Infraestrutura de estradas vicinais precária
 - Comercialização: Dependência de atravessadores
 
 **Potenciais:**
 - Produção orgânica/agroecológica
-- Agroindústria familiar (farinha, polpas, queijos)
+- Agroindústria familiar (farinha, polpas, queijos, processamento de pescado)
 - Cadeias curtas de comercialização
 
 ### 6.3. Uso do Solo e Recursos Naturais
@@ -459,6 +491,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 - Transição Amazônia-Cerrado: Biodiversidade significativa
 - Desmatamento: Pressão por expansão agropecuária
 - Áreas protegidas: Limitadas
+- Maurilândia do Tocantins: 3.773 ha de matas preservadas com potencial para manejo sustentável e créditos ambientais
 
 **Recursos Hídricos:**
 - Bacias do Araguaia e Tocantins: Abundância hídrica
@@ -507,6 +540,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 - Araguatins: 63-74% da população
 - Augustinópolis, Axixá, Carrasco Bonito: 73-90%
 - Santa Terezinha, Cachoeirinha: 76-85%
+- Maurilândia do Tocantins: ~78% da população
 
 **Desafios:**
 - Áreas rurais: Cobertura limitada ou inexistente
@@ -516,12 +550,14 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 **Crescimento dos Acessos (2019-2023):**
 - Araguaína: +65% (principal polo regional)
 - Axixá do Tocantins: +252% (117 → 414 acessos)
+- Maurilândia do Tocantins: 54 acessos (2023), penetração muito baixa, mas telefonia móvel em crescimento (1.779 → 2.610 acessos entre 2019-2021)
 - Expansão em diversos municípios, mas **ainda muito limitada em termos absolutos**
 
 **Situação Geral:**
 - Penetração da banda larga: Baixa (<10% domicílios na maioria dos municípios)
 - Áreas rurais: Acesso praticamente inexistente
 - Impacto: Exclusão digital, limitações para educação, negócios, serviços públicos digitais
+- Nota positiva: Maurilândia possui ausência de agências bancárias (apenas 1 casa lotérica), reforçando a importância da conectividade digital para inclusão financeira
 
 ---
 
@@ -537,6 +573,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 **Áreas Prioritárias para Conservação:**
 - Margens do Rio Araguaia (corredor ecológico)
 - Remanescentes florestais: Fragmentação crescente
+- Maurilândia do Tocantins: 3.773 ha de matas preservadas (potencial para pagamento por serviços ambientais e créditos de carbono)
 
 ### 8.2. Pressões Ambientais
 
@@ -548,6 +585,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 **Queimadas:**
 - Uso indiscriminado do fogo para limpeza de áreas
 - Períodos de seca: Incêndios florestais descontrolados
+- Maurilândia do Tocantins: Padrão irregular com picos preocupantes (91 focos em 2017, 90 em 2015), indicando pressão antrópica constante sobre o Cerrado — com impacto direto sobre a qualidade hídrica essencial à aquicultura local
 - Impactos: Perda de biodiversidade, emissões de GEE, problemas respiratórios
 
 **Degradação de Recursos Hídricos:**
@@ -564,7 +602,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 
 **Desafios:**
 - Regularização ambiental de propriedades rurais (CAR)
-- Destinação adequada de resíduos sólidos
+- Destinação adequada de resíduos sólidos (lixões ativos em municípios como Maurilândia do Tocantins representam contaminação de solo e lençol freático)
 - Educação ambiental: Ausente ou incipiente
 
 **Oportunidades:**
@@ -581,9 +619,10 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 #### 1. Fragmentação Municipal e Ineficiência Administrativa
 
 **Problema:**
-- 24 municípios, 11 com menos de 5.000 habitantes
+- 25 municípios, 12 com menos de 5.000 habitantes
 - Estruturas administrativas municipais replicadas ineficientemente
 - Capacidade técnica limitada, dependência de consultores externos
+- Casos extremos de dependência fiscal (Maurilândia: ~99% de transferências, arrecadação própria de apenas R$ 92.748)
 
 **Impactos:**
 - Baixa qualidade de serviços públicos
@@ -593,7 +632,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 #### 2. Dependência de Transferências Governamentais
 
 **Situação:**
-- 70-85% das receitas municipais oriundas de FPM e outras transferências
+- 70-85% das receitas municipais oriundas de FPM e outras transferências (até ~99% em Maurilândia do Tocantins)
 - Arrecadação própria irrisória
 - Vulnerabilidade fiscal extrema
 
@@ -615,14 +654,16 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 - Pecuária extensiva de baixa eficiência
 - Agricultura familiar sem assistência técnica
 - Infraestrutura de armazenagem e beneficiamento insuficiente
+- Retração do crédito rural em municípios menores (exemplo: Maurilândia)
 
 #### 5. Questões Sociais
 
 **Vulnerabilidades:**
 - IDHM entre os mais baixos do estado
-- Educação: Qualidade insuficiente, evasão escolar
-- Saúde: Acesso limitado a média e alta complexidade
+- Educação: Qualidade insuficiente, evasão escolar (Maurilândia: taxa de alfabetização de 79,5%, IDHM Educação de 0,498)
+- Saúde: Acesso limitado a média e alta complexidade (municípios sem qualquer leito hospitalar)
 - Êxodo de jovens qualificados
+- Pobreza persistente: em Maurilândia, 92% das famílias em condição de pobreza (2010)
 
 ### 9.2. Oportunidades de Desenvolvimento
 
@@ -631,7 +672,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 **Potenciais:**
 - Soja: Expansão em áreas com aptidão agrícola, cuidando da regularização ambiental
 - Pecuária intensiva: Tecnificação de pastagens, confinamento, melhoramento genético
-- Aquicultura: Aproveitamento dos recursos hídricos abundantes (Araguaia, Tocantins)
+- Aquicultura: Aproveitamento dos recursos hídricos abundantes (Araguaia, Tocantins) — com polo já consolidado em Maurilândia do Tocantins (295 t de tambacu/tambatinga) e potencial para agroindustrialização do pescado
 - Produtos da sociobiodiversidade: Babaçu, pequi, buriti (cadeias de valor agregado)
 
 #### 2. Turismo Histórico e Ecológico
@@ -657,7 +698,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 
 **Ações:**
 - Titulação de terras em assentamentos rurais
-- Crédito facilitado (PRONAF)
+- Crédito facilitado (PRONAF) — com reversão urgente da retração observada em municípios como Maurilândia
 - Assistência técnica de qualidade (EMATER, cooperativas)
 - Agroindústrias familiares
 
@@ -674,8 +715,8 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 #### **FORÇAS (Strengths)**
 
 1. **Base Agropecuária Consolidada e em Expansão**
-   - Rebanho bovino regional de 750.000-850.000 cabeças
-   - Produção diversificada: Soja (25.000-30.000 t), mandioca (35.000-40.000 t), milho
+   - Rebanho bovino regional de 770.000-870.000 cabeças
+   - Produção diversificada: Soja (25.000-30.000 t), mandioca (40.000-45.000 t), milho
    - VAB da agropecuária cresceu em média 100-180% entre 2017-2021 em vários municípios
    - Expansão do crédito rural: Volume regional de R$ 150-200 milhões (2023)
 
@@ -695,50 +736,60 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Componente Longevidade do IDHM: Maioria alcançou patamar "Alto"
 
 5. **Terras Disponíveis para Expansão Produtiva**
-   - Densidade demográfica baixa (13,28 hab/km²)
+   - Densidade demográfica baixa (12,88 hab/km²)
    - Espaço para expansão ordenada de atividades agropecuárias
    - Potencial para assentamentos rurais e agricultura familiar
+   - Alta proporção de terras próprias em municípios como Maurilândia (97%), facilitando regularização e acesso a crédito
 
 6. **Crescimento do Empreendedorismo Local**
-   - Aumento de MEIs em diversos municípios (média +60% entre 2019-2023)
+   - Aumento de MEIs em diversos municípios (média +60% entre 2019-2023; Maurilândia: +3.766% entre 2010-2021, de 3 para 117 optantes)
    - Diversificação de atividades econômicas (comércio, serviços)
+
+7. **Aquicultura como Vetor de Diversificação Econômica**
+   - Polo consolidado em Maurilândia do Tocantins (295 t de tambacu/tambatinga), Praia Norte e São Bento
+   - Crescimento consistente: +24,6% em Maurilândia (2018-2020), Praia Norte 4.000 kg → 28.400 kg (2019-2023)
+   - Potencial para agroindustrialização e geração de empregos formais
 
 #### **FRAQUEZAS (Weaknesses)**
 
 1. **Fragmentação Municipal Extrema e Ineficiência Administrativa**
-   - 24 municípios, 45,8% com menos de 5.000 habitantes
+   - 25 municípios, 48,0% com menos de 5.000 habitantes
    - Estruturas administrativas replicadas ineficientemente
    - Capacidade técnica municipal limitada
 
 2. **Dependência Crítica de Transferências Governamentais**
-   - 70-85% das receitas municipais oriundas de FPM/FUNDEB
-   - Arrecadação própria irrisória (geralmente <5% da receita)
+   - 70-85% das receitas municipais oriundas de FPM/FUNDEB (até ~99% em Maurilândia do Tocantins)
+   - Arrecadação própria irrisória (geralmente <5% da receita; Maurilândia: ~0,95%)
    - Vulnerabilidade fiscal extrema
 
 3. **Infraestrutura de Saneamento Crítica**
    - Esgotamento sanitário: Praticamente inexistente em rede coletora
    - Abastecimento de água: Irregular em muitos municípios
-   - Resíduos sólidos: Lixões a céu aberto, poluição ambiental
+   - Resíduos sólidos: Lixões a céu aberto, poluição ambiental (Maurilândia: lixão ativo, 42% queimam lixo)
 
 4. **IDHM entre os Mais Baixos do Estado**
    - Faixa 0,570-0,681 (nenhum município com IDHM "Alto")
    - Educação: Qualidade insuficiente, IDEB baixo
    - Renda: Dependência de transferências, economia de subsistência
+   - Maurilândia: IDHM Educação de 0,498 ("Muito Baixo"), 92% das famílias em pobreza (2010)
 
 5. **Acesso Limitado a Serviços de Saúde de Média/Alta Complexidade**
    - Referência em Araguaína ou Palmas (400-550 km)
    - Dificuldade de fixação de médicos
    - Hospital Regional em Tocantinópolis: Capacidade limitada
+   - Municípios sem qualquer leito hospitalar (exemplo: Maurilândia do Tocantins)
 
 6. **Conectividade Digital Deficiente**
-   - Banda larga: Penetração <10% domicílios na maioria dos municípios
+   - Banda larga: Penetração <10% domicílios na maioria dos municípios (Maurilândia: 54 acessos)
    - Áreas rurais: Acesso praticamente inexistente
    - Exclusão digital: Impacto em educação, negócios, serviços públicos
+   - Ausência de agências bancárias em municípios menores
 
 7. **Baixa Produtividade Agropecuária**
    - Pecuária extensiva: Baixo rendimento, degradação de pastagens
    - Agricultura familiar: Assistência técnica insuficiente, dependência de atravessadores
    - Infraestrutura de armazenagem, beneficiamento e logística precária
+   - Retração do crédito rural em municípios periféricos (PRONAF em Maurilândia: 223 → 8 contratos)
 
 #### **OPORTUNIDADES (Opportunities)**
 
@@ -749,7 +800,8 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 
 2. **Desenvolvimento da Aquicultura Comercial**
    - Recursos hídricos abundantes (Araguaia, Tocantins)
-   - Crescimento já observado em municípios como Praia Norte, São Bento
+   - Crescimento já observado em municípios como Praia Norte, São Bento e Maurilândia do Tocantins (295 t consolidadas)
+   - Potencial de agroindustrialização: Polo de processamento de pescado em Maurilândia pode gerar empregos formais e agregar valor à cadeia produtiva
    - Mercado consumidor regional e nacional
 
 3. **Turismo Histórico, Cultural e Ecológico**
@@ -773,7 +825,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 
 7. **Regularização Fundiária e Fortalecimento da Agricultura Familiar**
    - Titulação de terras em assentamentos
-   - Acesso facilitado ao PRONAF
+   - Acesso facilitado ao PRONAF (reversão da retração observada em municípios como Maurilândia)
    - Agroindústrias familiares (agregação de valor)
 
 #### **AMEAÇAS (Threats)**
@@ -792,6 +844,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Pressão por expansão agropecuária
    - Perda de biodiversidade
    - Impacto em recursos hídricos (assoreamento, poluição)
+   - Queimadas recorrentes com picos severos (Maurilândia: 91 focos em 2017) ameaçam qualidade hídrica essencial à aquicultura
 
 4. **Concorrência por Investimentos com Outras Regiões**
    - Regiões com melhor infraestrutura atraem mais investimentos
@@ -825,11 +878,12 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Compartilhamento de ambulâncias, equipamentos de diagnóstico
    - Central de regulação regional para especialidades
    - Contratação conjunta de médicos especialistas
+   - Retaguarda hospitalar para municípios sem leitos (como Maurilândia do Tocantins)
 
 2. **Consórcio de Resíduos Sólidos:**
-   - Aterro sanitário regional compartilhado
+   - Aterro sanitário regional compartilhado (prioridade: eliminar lixões ativos)
    - Coleta seletiva e reciclagem
-   - Encerramento de lixões municipais
+   - Encerramento de lixões municipais (inclusive Maurilândia do Tocantins)
 
 3. **Central de Compras Compartilhadas:**
    - Economia de escala em aquisições (merenda, medicamentos, material de construção)
@@ -841,7 +895,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Gestão integrada de recursos hídricos
 
 **Indicadores de Sucesso:**
-- Número de municípios participantes de consórcios (meta: 20+ até 2026)
+- Número de municípios participantes de consórcios (meta: 22+ até 2026)
 - Redução de custos administrativos (meta: 15-20%)
 - Melhoria de indicadores de saúde e saneamento
 
@@ -859,6 +913,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Prioridade: Sistemas de esgotamento sanitário nas sedes municipais
    - Meta: 50% de cobertura até 2030 (atualmente ~5-10%)
    - Soluções descentralizadas em áreas rurais (fossas sépticas biodigestoras)
+   - Ação emergencial em Maurilândia do Tocantins: Elaboração do Plano Municipal de Saneamento e PGIRS
 
 3. **Expansão da Conectividade Digital:**
    - Adesão a programas estaduais/federais de banda larga rural
@@ -868,6 +923,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 4. **Armazéns e Estruturas de Beneficiamento:**
    - Construção de armazéns regionais (redução de perdas pós-colheita)
    - Agroindústrias coletivas (farinheiras, laticínios, processamento de pescado)
+   - Polo de processamento de pescado em Maurilândia do Tocantins (filetagem, congelamento)
 
 **Indicadores de Sucesso:**
 - Km de estradas recuperadas (meta: 500 km até 2027)
@@ -891,12 +947,14 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Acesso facilitado a crédito (linhas específicas)
    - Regularização ambiental simplificada
    - Desenvolvimento de cadeia de valor (processamento, distribuição)
+   - Consolidação do polo aquícola de Maurilândia do Tocantins como referência regional: ATER especializada, marca local "Peixe de Maurilândia" para PAA/PNAE, polo de processamento via PPP ou cooperativa
 
 3. **Fortalecimento da Agricultura Familiar:**
    - Ampliação da ATER (Assistência Técnica e Extensão Rural)
    - Programa de agroindústrias familiares (farinha, polpas, queijos)
    - Acesso a mercados institucionais (PNAE, PAA)
    - Certificação orgânica e agroecológica
+   - Reversão da retração do PRONAF em municípios periféricos
 
 4. **Produtos da Sociobiodiversidade:**
    - Cadeias de valor: Babaçu (óleo, sabão, carvão), pequi, buriti
@@ -920,6 +978,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Infraestrutura escolar: Bibliotecas, laboratórios, internet
    - Monitoramento de resultados (IDEB municipal)
    - Meta: IDEB Anos Iniciais de 5,0 para 6,0 até 2027
+   - Programa de correção de fluxo escolar para reduzir distorção idade-série (especialmente em municípios como Maurilândia, com 28,8% no ensino médio)
 
 2. **Ampliação do Acesso ao Ensino Superior:**
    - Expansão do campus UFT Tocantinópolis (novos cursos: Agronomia, Enfermagem, Administração)
@@ -930,6 +989,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Escolas técnicas regionais (cursos: Agropecuária, Informática, Enfermagem, Administração)
    - Parcerias com SENAR, SENAI, SENAC
    - Qualificação para setores estratégicos (aquicultura, turismo, agroindústria)
+   - Curso técnico em Aquicultura (parceria IFTO, EaD com polo presencial em Maurilândia do Tocantins)
 
 4. **Alfabetização Digital:**
    - Inclusão digital de jovens e adultos
@@ -951,11 +1011,13 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Ampliação de Equipes de Saúde da Família (cobertura de 100% em áreas rurais)
    - Capacitação de agentes comunitários de saúde
    - Telemedicina (consultas com especialistas via internet)
+   - Busca ativa para doenças como hanseníase em municípios com casos persistentes (Maurilândia: 5 casos novos em 2019 e 2020)
 
 2. **Estruturação de Rede Regional de Média Complexidade:**
    - Ampliação do Hospital Regional de Tocantinópolis
    - Policlínicas regionais (exames, consultas especializadas)
    - Central de regulação para referência e contrarreferência
+   - Retaguarda hospitalar de emergência para municípios sem leitos
 
 3. **Programa Emergencial de Saneamento Básico:**
    - Esgotamento sanitário nas sedes municipais (início imediato)
@@ -963,7 +1025,7 @@ Análise das fichas municipais revela **concentração fundiária significativa*
    - Resíduos sólidos: Consórcio regional (encerramento de lixões até 2025)
 
 4. **Promoção da Saúde e Prevenção de Doenças:**
-   - Campanhas de vacinação e educação em saúde
+   - Campanhas de vacinação e educação em saúde (reversão da queda vacinal)
    - Combate a doenças de veiculação hídrica (investimento em saneamento)
    - Programas de atividade física e alimentação saudável
 
@@ -1071,26 +1133,27 @@ Análise das fichas municipais revela **concentração fundiária significativa*
 
 ## 12. CONSIDERAÇÕES FINAIS
 
-A Microrregião do Bico do Papagaio representa um **território de contrastes e complexidades**, onde **fragmentação administrativa extrema convive com potenciais significativos ainda subaproveitados**. Com 24 municípios dispersos em 15.033 km², abrigando 199.652 habitantes (12% da população estadual), a região enfrenta desafios estruturais profundos que limitam seu desenvolvimento:
+A Microrregião do Bico do Papagaio representa um **território de contrastes e complexidades**, onde **fragmentação administrativa extrema convive com potenciais significativos ainda subaproveitados**. Com 25 municípios dispersos em 15.769 km², abrigando 203.122 habitantes (aproximadamente 13% da população estadual), a região enfrenta desafios estruturais profundos que limitam seu desenvolvimento:
 
 **Desafios Estruturais:**
-1. **Fragmentação municipal:** 45,8% dos municípios com menos de 5.000 habitantes, resultando em ineficiência administrativa e baixa capacidade técnica
-2. **Dependência fiscal:** 70-85% das receitas municipais oriundas de transferências governamentais
+1. **Fragmentação municipal:** 48,0% dos municípios com menos de 5.000 habitantes, resultando em ineficiência administrativa e baixa capacidade técnica
+2. **Dependência fiscal:** 70-85% das receitas municipais oriundas de transferências governamentais (até ~99% em municípios como Maurilândia do Tocantins)
 3. **Infraestrutura crítica:** Saneamento básico praticamente inexistente, estradas vicinais precárias, exclusão digital generalizada
-4. **Indicadores sociais:** IDHM entre 0,570-0,681 (nenhum município alcançando patamar "Alto")
+4. **Indicadores sociais:** IDHM entre 0,570-0,681 (nenhum município alcançando patamar "Alto"); casos de extrema vulnerabilidade como Maurilândia (92% das famílias em pobreza, 2010)
 5. **Isolamento relativo:** Distâncias de 400-550 km da capital, limitando acesso a serviços especializados
 
 **Potenciais e Ativos Estratégicos:**
-1. **Base agropecuária consolidada:** Rebanho de 750.000-850.000 cabeças bovinas, produção diversificada (soja, mandioca, milho), crescimento do crédito rural
-2. **Recursos naturais abundantes:** Transição Amazônia-Cerrado (biodiversidade), rios Araguaia e Tocantins (aquicultura, turismo), produtos da sociobiodiversidade
-3. **Identidade histórico-cultural:** Legado da Guerrilha do Araguaia, cultura ribeirinha, diversidade étnica
-4. **Melhoria de indicadores de longevidade:** Esperança de vida aumentou de ~60 para 73-76 anos, mortalidade infantil caiu 60-70%
+1. **Base agropecuária consolidada:** Rebanho de 770.000-870.000 cabeças bovinas, produção diversificada (soja, mandioca, milho), crescimento do crédito rural
+2. **Aquicultura emergente:** Polo consolidado em Maurilândia do Tocantins (295 t de tambacu/tambatinga), Praia Norte e São Bento, com potencial para agroindustrialização e geração de empregos formais
+3. **Recursos naturais abundantes:** Transição Amazônia-Cerrado (biodiversidade), rios Araguaia e Tocantins (aquicultura, turismo), produtos da sociobiodiversidade
+4. **Identidade histórico-cultural:** Legado da Guerrilha do Araguaia, cultura ribeirinha, diversidade étnica
+5. **Melhoria de indicadores de longevidade:** Esperança de vida aumentou de ~60 para 73-76 anos, mortalidade infantil caiu 60-70%
 
 **Caminhos para o Desenvolvimento:**
 
-O futuro do Bico do Papagaio depende fundamentalmente da capacidade de **superar a fragmentação através de cooperação intermunicipal**, **investir em infraestrutura crítica** (saneamento, conectividade, estradas) e **potencializar ativos regionais** (agropecuária sustentável, turismo, sociobiodiversidade).
+O futuro do Bico do Papagaio depende fundamentalmente da capacidade de **superar a fragmentação através de cooperação intermunicipal**, **investir em infraestrutura crítica** (saneamento, conectividade, estradas) e **potencializar ativos regionais** (agropecuária sustentável, aquicultura, turismo, sociobiodiversidade).
 
-As **seis estratégias prioritárias** propostas nesta ficha — (1) cooperação intermunicipal, (2) infraestrutura, (3) agropecuária sustentável, (4) educação, (5) saúde e (6) turismo — representam um **caminho integrado de desenvolvimento**, que reconhece as vulnerabilidades regionais, mas aposta nos potenciais latentes.
+As **seis estratégias prioritárias** propostas nesta ficha — (1) cooperação intermunicipal, (2) infraestrutura, (3) agropecuária sustentável, (4) educação, (5) saúde e (6) turismo — representam um **caminho integrado de desenvolvimento**, que reconhece as vulnerabilidades regionais, mas aposta nos potenciais latentes. A inclusão de Maurilândia do Tocantins nesta revisão reforça a importância da aquicultura como vetor de diversificação econômica regional e evidencia os desafios persistentes de saneamento, educação e dependência fiscal nos municípios de menor porte.
 
 **Implementação:**
 - Articulação estadual/federal para financiamento de infraestrutura
@@ -1098,11 +1161,11 @@ As **seis estratégias prioritárias** propostas nesta ficha — (1) cooperaçã
 - Participação da sociedade civil, setor produtivo e universidades
 - Monitoramento sistemático de indicadores e avaliação de resultados
 
-O **Bico do Papagaio pode transformar sua posição periférica em vantagem estratégica**, posicionando-se como **território de inovação em cooperação intermunicipal, agropecuária sustentável e turismo histórico-ecológico**. Esta transformação exige visão de longo prazo, gestão técnica qualificada e, sobretudo, **compromisso político com o desenvolvimento regional integrado e sustentável**.
+O **Bico do Papagaio pode transformar sua posição periférica em vantagem estratégica**, posicionando-se como **território de inovação em cooperação intermunicipal, agropecuária sustentável, aquicultura integrada e turismo histórico-ecológico**. Esta transformação exige visão de longo prazo, gestão técnica qualificada e, sobretudo, **compromisso político com o desenvolvimento regional integrado e sustentável**.
 
 ---
 
 **Elaboração:** Sistema de Inteligência Territorial - Caderno Tocantins 2026
 **Fontes:** Fichas Municipais Completas Deepseek V3, IBGE, DATASUS, INEP, ANATEL, SICOR/BACEN, RAIS/CAGED
-**Versão:** 1.1 - Revisada (Fase 1.1 - Agregação Municipal)
+**Versão:** 1.2 - Revisada (Fase 1.1 - Agregação Municipal — Inclusão de Maurilândia do Tocantins)
 **Data:** Fevereiro de 2026

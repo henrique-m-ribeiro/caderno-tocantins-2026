@@ -1,6 +1,6 @@
 # PORTO NACIONAL — Ficha Municipal
 
-**Código IBGE**: 1718204 | **Microrregião**: Porto Nacional | **Área**: 4.435 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718204 | **Microrregião**: Porto Nacional  | **Área**: 4.435 km² | **Bioma**: Cerrado
 
 ---
 

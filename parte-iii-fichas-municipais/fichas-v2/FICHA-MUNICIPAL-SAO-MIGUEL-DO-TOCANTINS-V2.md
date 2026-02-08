@@ -1,6 +1,6 @@
 # SÃO MIGUEL DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1720200 | **Microrregião**: Bico do Papagaio | **Área**: 407 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720200 | **Microrregião**: Bico do Papagaio  | **Área**: 407 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # BANDEIRANTES DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1703057 | **Microrregião**: Miracema do Tocantins | **Área**: 1.541 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703057 | **Microrregião**: Araguaína  | **Área**: 1.541 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # DIANÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1707009 | **Microrregião**: Dianópolis | **Área**: 3.318 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707009 | **Microrregião**: Dianópolis  | **Área**: 3.318 km² | **Bioma**: Cerrado
 
 ---
 

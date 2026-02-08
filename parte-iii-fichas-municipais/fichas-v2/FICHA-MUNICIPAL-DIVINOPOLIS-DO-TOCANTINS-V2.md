@@ -1,6 +1,6 @@
 # DIVINÓPOLIS DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1707108 | **Microrregião**: Miracema do Tocantins | **Área**: 2.358,3 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707108 | **Microrregião**: Miracema do Tocantins  | **Área**: 2.358,3 km² | **Bioma**: Cerrado
 
 ---
 

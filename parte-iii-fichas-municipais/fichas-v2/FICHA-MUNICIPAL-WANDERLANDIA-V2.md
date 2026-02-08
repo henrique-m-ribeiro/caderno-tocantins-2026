@@ -1,6 +1,6 @@
 # WANDERLÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1722081 | **Microrregião**: Araguaína | **Área**: 1.365 km² | **Bioma**: Cerrado/Amazônia
+**Código IBGE**: 1722081 | **Microrregião**: Araguaína  | **Área**: 1.365 km² | **Bioma**: Cerrado/Amazônia
 
 ---
 

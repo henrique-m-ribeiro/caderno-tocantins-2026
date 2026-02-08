@@ -1,6 +1,6 @@
 # ARAPOEMA — Ficha Municipal
 
-**Código IBGE**: 1702307 | **Microrregião**: Araguaína | **Área**: 1.558 km² | **Bioma**: Amazônia
+**Código IBGE**: 1702307 | **Microrregião**: Araguaína  | **Área**: 1.558 km² | **Bioma**: Amazônia
 
 ---
 

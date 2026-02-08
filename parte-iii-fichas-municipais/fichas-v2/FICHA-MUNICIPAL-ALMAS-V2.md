@@ -1,6 +1,6 @@
 # ALMAS — Ficha Municipal
 
-**Código IBGE**: 1700251 | **Microrregião**: Dianópolis | **Área**: 4.007 km² | **Bioma**: Cerrado
+**Código IBGE**: 1700251 | **Microrregião**: Dianópolis  | **Área**: 4.007 km² | **Bioma**: Cerrado
 
 ---
 

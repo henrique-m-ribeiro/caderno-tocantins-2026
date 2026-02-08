@@ -1,6 +1,6 @@
 # SANTA RITA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1718899 | **Microrregião**: Gurupi | **Área**: 3.281 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718899 | **Microrregião**: Gurupi  | **Área**: 3.281 km² | **Bioma**: Cerrado
 
 ---
 

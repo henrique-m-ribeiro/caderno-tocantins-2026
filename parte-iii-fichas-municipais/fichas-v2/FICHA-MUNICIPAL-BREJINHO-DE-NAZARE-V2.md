@@ -1,6 +1,6 @@
 # BREJINHO DE NAZARÉ — Ficha Municipal
 
-**Código IBGE**: 1703701 | **Microrregião**: Porto Nacional | **Área**: 1.723 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703701 | **Microrregião**: Gurupi  | **Área**: 1.723 km² | **Bioma**: Cerrado
 
 ---
 

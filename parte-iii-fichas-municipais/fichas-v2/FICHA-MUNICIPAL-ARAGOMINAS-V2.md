@@ -1,6 +1,6 @@
 # ARAGOMINAS — Ficha Municipal
 
-**Codigo IBGE**: 1701301 | **Microrregiao**: Araguaina | **Area**: 1.168 km2 | **Bioma**: Cerrado / Amazonia
+**Codigo IBGE**: 1701301 | **Microrregiao**: Araguaína  | **Area**: 1.168 km2 | **Bioma**: Cerrado / Amazonia
 
 ---
 

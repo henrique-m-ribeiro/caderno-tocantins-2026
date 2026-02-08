@@ -1,6 +1,6 @@
 # SÃO SALVADOR DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1720259 | **Microrregião**: Dianópolis | **Área**: 1.425 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720259 | **Microrregião**: Gurupi  | **Área**: 1.425 km² | **Bioma**: Cerrado
 
 ---
 

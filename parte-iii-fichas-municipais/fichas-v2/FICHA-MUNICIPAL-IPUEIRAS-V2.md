@@ -1,6 +1,6 @@
 # IPUEIRAS — Ficha Municipal
 
-**Código IBGE**: 1710508 | **Microrregião**: Porto Nacional | **Área**: 821 km² | **Bioma**: Cerrado
+**Código IBGE**: 1710508 | **Microrregião**: Porto Nacional  | **Área**: 821 km² | **Bioma**: Cerrado
 
 ---
 

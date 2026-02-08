@@ -1,6 +1,6 @@
 # CENTENÁRIO — Ficha Municipal
 
-**Código IBGE**: 1704105 | **Microrregião**: Jalapão | **Área**: 1.953 km² | **Bioma**: Cerrado
+**Código IBGE**: 1704105 | **Microrregião**: Jalapão  | **Área**: 1.953 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # DOIS IRMÃOS DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1707207 | **Microrregião**: Porto Nacional | **Área**: 3.748 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707207 | **Microrregião**: Miracema do Tocantins  | **Área**: 3.748 km² | **Bioma**: Cerrado
 
 ---
 

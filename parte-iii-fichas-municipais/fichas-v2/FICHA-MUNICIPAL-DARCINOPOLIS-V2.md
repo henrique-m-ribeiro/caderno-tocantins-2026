@@ -1,6 +1,6 @@
 # DARCINÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1706506 | **Microrregião**: Bico do Papagaio | **Área**: 1.642 km² | **Bioma**: Cerrado e Amazônia (transição)
+**Código IBGE**: 1706506 | **Microrregião**: Bico do Papagaio  | **Área**: 1.642 km² | **Bioma**: Cerrado e Amazônia (transição)
 
 ---
 

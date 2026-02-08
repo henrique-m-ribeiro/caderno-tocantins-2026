@@ -1,6 +1,6 @@
 # LAJEADO — Ficha Municipal
 
-**Código IBGE**: 1712009 | **Microrregião**: Porto Nacional | **Área**: 318 km² | **Bioma**: Cerrado
+**Código IBGE**: 1712009 | **Microrregião**: Porto Nacional  | **Área**: 318 km² | **Bioma**: Cerrado
 
 ---
 

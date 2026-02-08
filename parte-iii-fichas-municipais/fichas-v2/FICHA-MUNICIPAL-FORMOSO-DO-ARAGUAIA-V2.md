@@ -1,6 +1,6 @@
 # FORMOSO DO ARAGUAIA — Ficha Municipal
 
-**Código IBGE**: 1708205 | **Microrregião**: Gurupi | **Área**: 13.432 km² | **Bioma**: Cerrado
+**Código IBGE**: 1708205 | **Microrregião**: Rio Formoso  | **Área**: 13.432 km² | **Bioma**: Cerrado
 
 ---
 

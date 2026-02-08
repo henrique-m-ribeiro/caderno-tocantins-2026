@@ -1,6 +1,6 @@
 # BURITI DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1703800 | **Microrregião**: Bico do Papagaio | **Área**: 253 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703800 | **Microrregião**: Bico do Papagaio  | **Área**: 253 km² | **Bioma**: Cerrado
 
 ---
 

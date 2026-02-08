@@ -1,6 +1,6 @@
 # CRISTALÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1706107 | **Microrregião**: Gurupi | **Área**: 1.851 km² | **Bioma**: Cerrado
+**Código IBGE**: 1706107 | **Microrregião**: Rio Formoso  | **Área**: 1.851 km² | **Bioma**: Cerrado
 
 ---
 

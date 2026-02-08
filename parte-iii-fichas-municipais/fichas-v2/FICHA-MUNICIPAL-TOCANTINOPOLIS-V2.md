@@ -1,6 +1,6 @@
 # TOCANTINÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1721109 | **Microrregião**: Bico do Papagaio | **Área**: 1.084 km² | **Bioma**: Cerrado
+**Código IBGE**: 1721109 | **Microrregião**: Bico do Papagaio  | **Área**: 1.084 km² | **Bioma**: Cerrado
 
 ---
 

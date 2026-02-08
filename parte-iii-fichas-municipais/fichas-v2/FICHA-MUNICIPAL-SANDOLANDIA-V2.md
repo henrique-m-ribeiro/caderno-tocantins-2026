@@ -1,6 +1,6 @@
 # SANDOLÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1718840 | **Microrregião**: Gurupi | **Área**: 3.528,6 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718840 | **Microrregião**: Rio Formoso  | **Área**: 3.528,6 km² | **Bioma**: Cerrado
 
 ---
 

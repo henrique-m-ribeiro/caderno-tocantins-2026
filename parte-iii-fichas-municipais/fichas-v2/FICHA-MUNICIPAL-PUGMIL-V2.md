@@ -1,6 +1,6 @@
 # PUGMIL — Ficha Municipal
 
-**Código IBGE**: 1718455 | **Microrregião**: Porto Nacional | **Área**: 401 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718455 | **Microrregião**: Rio Formoso  | **Área**: 401 km² | **Bioma**: Cerrado
 
 ---
 

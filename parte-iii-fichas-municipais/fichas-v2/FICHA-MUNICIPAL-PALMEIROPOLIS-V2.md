@@ -1,6 +1,6 @@
 # PALMEIRÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1715705 | **Microrregião**: Dianópolis | **Área**: 1.709 km² | **Bioma**: Cerrado
+**Código IBGE**: 1715705 | **Microrregião**: Gurupi  | **Área**: 1.709 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # SÃO BENTO DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1720200 | **Microrregião**: Bico do Papagaio | **Área**: 1.100 km² | **Bioma**: Cerrado/Amazônia
+**Código IBGE**: 1720200 | **Microrregião**: Bico do Papagaio  | **Área**: 1.100 km² | **Bioma**: Cerrado/Amazônia
 
 ---
 

@@ -1,6 +1,6 @@
 # ANANÁS — Ficha Municipal
 
-**Código IBGE**: 1701002 | **Microrregião**: Bico do Papagaio | **Área**: 1.581 km² | **Bioma**: Cerrado
+**Código IBGE**: 1701002 | **Microrregião**: Bico do Papagaio  | **Área**: 1.581 km² | **Bioma**: Cerrado
 
 ---
 

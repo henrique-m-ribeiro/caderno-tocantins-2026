@@ -1,6 +1,6 @@
 # RIO SONO — Ficha Municipal
 
-**Código IBGE**: 1718758 | **Microrregião**: Porto Nacional | **Área**: 6.346 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718758 | **Microrregião**: Jalapão  | **Área**: 6.346 km² | **Bioma**: Cerrado
 
 ---
 

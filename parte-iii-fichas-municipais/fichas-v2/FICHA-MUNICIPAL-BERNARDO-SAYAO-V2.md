@@ -1,6 +1,6 @@
 # BERNARDO SAYÃO — Ficha Municipal
 
-**Código IBGE**: 1703206 | **Microrregião**: Araguaína | **Área**: 924 km² | **Bioma**: Amazônia
+**Código IBGE**: 1703206 | **Microrregião**: Miracema do Tocantins  | **Área**: 924 km² | **Bioma**: Amazônia
 
 ---
 

@@ -1,6 +1,6 @@
 # ITAPORÃ DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1711100 | **Microrregião**: Porto Nacional | **Área**: 970 km² | **Bioma**: Amazônia
+**Código IBGE**: 1711100 | **Microrregião**: Miracema do Tocantins  | **Área**: 970 km² | **Bioma**: Amazônia
 
 ---
 

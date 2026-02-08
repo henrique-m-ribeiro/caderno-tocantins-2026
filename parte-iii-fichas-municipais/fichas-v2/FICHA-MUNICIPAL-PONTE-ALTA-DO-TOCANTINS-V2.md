@@ -1,6 +1,6 @@
 # PONTE ALTA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1717909 | **Microrregião**: Região do Jalapão | **Área**: 6.543 km² | **Bioma**: Cerrado
+**Código IBGE**: 1717909 | **Microrregião**: Jalapão  | **Área**: 6.543 km² | **Bioma**: Cerrado
 
 ---
 

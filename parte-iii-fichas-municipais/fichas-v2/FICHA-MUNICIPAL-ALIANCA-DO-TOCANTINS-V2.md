@@ -1,6 +1,6 @@
 # ALIANÇA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1700350 | **Microrregião**: Gurupi | **Área**: 1.581 km² | **Bioma**: Cerrado
+**Código IBGE**: 1700350 | **Microrregião**: Gurupi  | **Área**: 1.581 km² | **Bioma**: Cerrado
 
 ---
 

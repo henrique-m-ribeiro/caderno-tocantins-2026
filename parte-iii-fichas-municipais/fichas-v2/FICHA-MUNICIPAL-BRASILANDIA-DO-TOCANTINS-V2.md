@@ -1,6 +1,6 @@
 # BRASILÂNDIA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1703602 | **Microrregião**: Colinas do Tocantins | **Área**: 646 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1703602 | **Microrregião**: Miracema do Tocantins  | **Área**: 646 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

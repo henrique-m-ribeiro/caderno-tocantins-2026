@@ -1,6 +1,6 @@
 # BARRA DO OURO — Ficha Municipal
 
-**Código IBGE**: 1703073 | **Microrregião**: Bico do Papagaio | **Área**: 1.106 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703073 | **Microrregião**: Jalapão  | **Área**: 1.106 km² | **Bioma**: Cerrado
 
 ---
 

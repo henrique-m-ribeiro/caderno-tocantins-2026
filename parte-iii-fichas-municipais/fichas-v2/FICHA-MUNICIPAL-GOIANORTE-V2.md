@@ -1,6 +1,6 @@
 # GOIANORTE — Ficha Municipal
 
-**Código IBGE**: 1708304 | **Microrregião**: Araguacema | **Área**: 1.797 km² | **Bioma**: Cerrado
+**Código IBGE**: 1708304 | **Microrregião**: Miracema do Tocantins  | **Área**: 1.797 km² | **Bioma**: Cerrado
 
 ---
 

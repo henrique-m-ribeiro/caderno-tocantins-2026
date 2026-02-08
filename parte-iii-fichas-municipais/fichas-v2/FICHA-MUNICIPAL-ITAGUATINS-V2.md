@@ -1,6 +1,6 @@
 # ITAGUATINS — Ficha Municipal
 
-**Código IBGE**: 1710706 | **Microrregião**: Bico do Papagaio | **Área**: 730 km² | **Bioma**: Cerrado
+**Código IBGE**: 1710706 | **Microrregião**: Bico do Papagaio  | **Área**: 730 km² | **Bioma**: Cerrado
 
 ---
 

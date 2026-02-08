@@ -1,6 +1,6 @@
 # BABAÇULÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1703008 | **Microrregião**: Bico do Papagaio | **Área**: 1.790 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703008 | **Microrregião**: Araguaína  | **Área**: 1.790 km² | **Bioma**: Cerrado
 
 ---
 

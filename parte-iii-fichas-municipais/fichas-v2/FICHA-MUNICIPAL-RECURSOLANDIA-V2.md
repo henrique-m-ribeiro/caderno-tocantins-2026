@@ -1,6 +1,6 @@
 # RECURSOLÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1718501 | **Microrregião**: — | **Área**: 2.216 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718501 | **Microrregião**: Jalapão  | **Área**: 2.216 km² | **Bioma**: Cerrado
 
 ---
 

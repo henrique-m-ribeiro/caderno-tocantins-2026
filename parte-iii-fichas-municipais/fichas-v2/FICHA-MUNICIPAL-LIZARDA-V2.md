@@ -1,6 +1,6 @@
 # LIZARDA — Ficha Municipal
 
-**Código IBGE**: 1712405 | **Microrregião**: Porto Nacional | **Área**: 5.723 km² | **Bioma**: Cerrado
+**Código IBGE**: 1712405 | **Microrregião**: Jalapão  | **Área**: 5.723 km² | **Bioma**: Cerrado
 
 ---
 

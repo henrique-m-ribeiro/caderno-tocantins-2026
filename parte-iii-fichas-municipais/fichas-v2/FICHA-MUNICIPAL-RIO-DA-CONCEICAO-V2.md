@@ -1,6 +1,6 @@
 # RIO DA CONCEIÇÃO — Ficha Municipal
 
-**Código IBGE**: 1718659 | **Microrregião**: Dianópolis | **Área**: 846 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718659 | **Microrregião**: Dianópolis  | **Área**: 846 km² | **Bioma**: Cerrado
 
 ---
 

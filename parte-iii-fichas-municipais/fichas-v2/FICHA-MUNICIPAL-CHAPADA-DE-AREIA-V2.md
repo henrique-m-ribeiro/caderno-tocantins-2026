@@ -1,6 +1,6 @@
 # CHAPADA DE AREIA — Ficha Municipal
 
-**Código IBGE**: 1704600 | **Microrregião**: Gurupi | **Área**: 659 km² | **Bioma**: Cerrado
+**Código IBGE**: 1704600 | **Microrregião**: Rio Formoso  | **Área**: 659 km² | **Bioma**: Cerrado
 
 ---
 

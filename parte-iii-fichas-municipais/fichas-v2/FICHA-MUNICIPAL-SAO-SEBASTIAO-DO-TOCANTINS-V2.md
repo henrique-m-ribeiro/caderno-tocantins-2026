@@ -1,6 +1,6 @@
 # SÃO SEBASTIÃO DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1720309 | **Microrregião**: Extremo Norte | **Área**: 290 km² | **Bioma**: Amazônia
+**Código IBGE**: 1720309 | **Microrregião**: Bico do Papagaio  | **Área**: 290 km² | **Bioma**: Amazônia
 
 ---
 

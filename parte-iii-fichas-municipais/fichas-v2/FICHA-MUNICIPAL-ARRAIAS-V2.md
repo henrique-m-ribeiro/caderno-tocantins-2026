@@ -1,6 +1,6 @@
 # ARRAIAS — Ficha Municipal
 
-**Código IBGE**: 1702406 | **Microrregião**: Dianópolis | **Área**: 5.803,68 km² | **Bioma**: Cerrado
+**Código IBGE**: 1702406 | **Microrregião**: Dianópolis  | **Área**: 5.803,68 km² | **Bioma**: Cerrado
 
 ---
 

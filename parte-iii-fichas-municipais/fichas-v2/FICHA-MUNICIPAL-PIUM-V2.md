@@ -1,6 +1,6 @@
 # PIUM — Ficha Municipal
 
-**Código IBGE**: 1717503 | **Microrregião**: Araguaia | **Área**: 10.004 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1717503 | **Microrregião**: Rio Formoso  | **Área**: 10.004 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

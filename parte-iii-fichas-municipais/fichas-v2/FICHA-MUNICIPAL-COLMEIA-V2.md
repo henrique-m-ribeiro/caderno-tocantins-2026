@@ -1,6 +1,6 @@
 # COLMÉIA — Ficha Municipal
 
-**Código IBGE**: 1716703 | **Microrregião**: Miracema do Tocantins | **Área**: 1.161 km² | **Bioma**: Cerrado e Amazônia (transição)
+**Código IBGE**: 1716703 | **Microrregião**: Miracema do Tocantins  | **Área**: 1.161 km² | **Bioma**: Cerrado e Amazônia (transição)
 
 ---
 

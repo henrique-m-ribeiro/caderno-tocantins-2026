@@ -1,6 +1,6 @@
 # BOM JESUS DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1703305 | **Microrregião**: Porto Nacional | **Área**: 2.817 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703305 | **Microrregião**: Porto Nacional  | **Área**: 2.817 km² | **Bioma**: Cerrado
 
 ---
 

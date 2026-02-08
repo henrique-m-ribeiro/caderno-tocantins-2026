@@ -1,6 +1,6 @@
 # TAIPAS DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1720937 | **Microrregião**: Dianópolis | **Área**: 1.105,40 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720937 | **Microrregião**: Dianópolis  | **Área**: 1.105,40 km² | **Bioma**: Cerrado
 
 ---
 

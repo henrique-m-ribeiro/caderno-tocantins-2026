@@ -1,6 +1,6 @@
 # GOIATINS — Ficha Municipal
 
-**Código IBGE**: 1707652 | **Microrregião**: Porto Nacional | **Área**: 6.415 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707652 | **Microrregião**: Jalapão  | **Área**: 6.415 km² | **Bioma**: Cerrado
 
 ---
 

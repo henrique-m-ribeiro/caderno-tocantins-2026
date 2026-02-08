@@ -1,6 +1,6 @@
 # CHAPADA DA NATIVIDADE — Ficha Municipal
 
-**Código IBGE**: 1705102 | **Microrregião**: Porto Nacional | **Área**: 1.641 km² | **Bioma**: Cerrado
+**Código IBGE**: 1705102 | **Microrregião**: Dianópolis  | **Área**: 1.641 km² | **Bioma**: Cerrado
 
 ---
 

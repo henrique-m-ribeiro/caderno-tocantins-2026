@@ -1,6 +1,6 @@
 # SANTA MARIA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1718881 | **Microrregião**: Guaraí | **Área**: 1.412 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718881 | **Microrregião**: Porto Nacional  | **Área**: 1.412 km² | **Bioma**: Cerrado
 
 ---
 

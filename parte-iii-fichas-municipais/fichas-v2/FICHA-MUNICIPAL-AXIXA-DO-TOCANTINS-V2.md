@@ -1,6 +1,6 @@
 # AXIXÁ DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1702901 | **Microrregião**: Bico do Papagaio | **Área**: 154 km² | **Bioma**: Cerrado
+**Código IBGE**: 1702901 | **Microrregião**: Bico do Papagaio  | **Área**: 154 km² | **Bioma**: Cerrado
 
 ---
 

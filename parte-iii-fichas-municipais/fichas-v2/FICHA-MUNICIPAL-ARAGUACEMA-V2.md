@@ -1,6 +1,6 @@
 # ARAGUACEMA — Ficha Municipal
 
-**Código IBGE**: 1701903 | **Microrregião**: Duerê | **Área**: 2.775 km² | **Bioma**: Cerrado
+**Código IBGE**: 1701903 | **Microrregião**: Miracema do Tocantins  | **Área**: 2.775 km² | **Bioma**: Cerrado
 
 ---
 

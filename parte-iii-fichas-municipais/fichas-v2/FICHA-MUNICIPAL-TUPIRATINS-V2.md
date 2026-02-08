@@ -1,6 +1,6 @@
 # TUPIRATINS — Ficha Municipal
 
-**Código IBGE**: 1721307 | **Microrregião**: — | **Área**: 889 km² | **Bioma**: Cerrado
+**Código IBGE**: 1721307 | **Microrregião**: Miracema do Tocantins  | **Área**: 889 km² | **Bioma**: Cerrado
 
 ---
 

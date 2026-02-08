@@ -1,6 +1,6 @@
 # CARRASCO BONITO — Ficha Municipal
 
-**Código IBGE**: 1703891 | **Microrregião**: Bico do Papagaio | **Área**: 190 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1703891 | **Microrregião**: Bico do Papagaio  | **Área**: 190 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

@@ -1,6 +1,6 @@
 # AUGUSTINÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1702554 | **Microrregião**: Bico do Papagaio | **Área**: 389 km² | **Bioma**: Cerrado
+**Código IBGE**: 1702554 | **Microrregião**: Bico do Papagaio  | **Área**: 389 km² | **Bioma**: Cerrado
 
 ---
 

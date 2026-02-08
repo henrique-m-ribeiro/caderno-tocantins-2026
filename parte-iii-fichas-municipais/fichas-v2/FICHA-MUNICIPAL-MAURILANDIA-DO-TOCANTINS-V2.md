@@ -1,6 +1,6 @@
 # MAURILÂNDIA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1712801 | **Microrregião**: Bico do Papagaio | **Área**: 736 km² | **Bioma**: Cerrado
+**Código IBGE**: 1712801 | **Microrregião**: Bico do Papagaio  | **Área**: 736 km² | **Bioma**: Cerrado
 
 ---
 

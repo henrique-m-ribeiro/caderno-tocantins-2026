@@ -1,6 +1,6 @@
 # COUTO MAGALHÃES — Ficha Municipal
 
-**Código IBGE**: 1706001 | **Microrregião**: Araguaína | **Área**: 1.584 km² | **Bioma**: Cerrado e Amazônia
+**Código IBGE**: 1706001 | **Microrregião**: Miracema do Tocantins  | **Área**: 1.584 km² | **Bioma**: Cerrado e Amazônia
 
 ---
 

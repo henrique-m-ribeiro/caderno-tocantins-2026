@@ -1,6 +1,6 @@
 # AURORA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1702703 | **Microrregião**: Dianópolis | **Área**: 696 km² | **Bioma**: Cerrado
+**Código IBGE**: 1702703 | **Microrregião**: Dianópolis  | **Área**: 696 km² | **Bioma**: Cerrado
 
 ---
 

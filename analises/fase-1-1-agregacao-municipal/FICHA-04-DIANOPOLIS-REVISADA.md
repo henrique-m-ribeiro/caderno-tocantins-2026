@@ -1,18 +1,18 @@
 # FICHA 04: MICRORREGIÃO DE DIANÓPOLIS
 
 **Sistema de Inteligência Territorial - Caderno Tocantins 2026**
-**Versão 1.1 - Revisada com Dados Consolidados (Fase 1.1)**
+**Versão 1.2 - Revisada e Ampliada com 20 Municípios (Fase 1.1)**
 
 ---
 
 ## DADOS GERAIS DA MICRORREGIÃO
 
-**Municípios:** Almas, Arraias, Aurora do Tocantins, Chapada da Natividade, Combinado, Dianópolis, Lavandeira, Natividade, Novo Alegre, Novo Jardim, Paranã, Ponte Alta do Bom Jesus, Porto Alegre do Tocantins, Rio da Conceição, Santa Rosa do Tocantins, São Valério da Natividade, Taguatinga, Taipas do Tocantins (18 municípios - nota: São Valério aparece duplicado na tabela)
+**Municípios:** Almas, Arraias, Aurora do Tocantins, Chapada da Natividade, Combinado, Conceição do Tocantins, Dianópolis, Lavandeira, Natividade, Novo Alegre, Novo Jardim, Paranã, Pindorama do Tocantins, Ponte Alta do Bom Jesus, Porto Alegre do Tocantins, Rio da Conceição, Santa Rosa do Tocantins, São Valério da Natividade, Taguatinga, Taipas do Tocantins (20 municípios)
 
-**População Total (2022):** 109.121 habitantes (considerando dados sem duplicação)
-**Área Total:** 45.383,96 km²
-**Densidade Demográfica:** 2,40 hab/km² (a mais baixa do estado)
-**Fonte dos Dados:** Fichas Municipais Completas Deepseek V3 (15-25 páginas cada)
+**População Total (2022):** 117.486 habitantes
+**Área Total:** 49.475,96 km²
+**Densidade Demográfica:** 2,37 hab/km² (a mais baixa do estado)
+**Fonte dos Dados:** Fichas Municipais Completas V2 (15-25 páginas cada)
 
 ---
 
@@ -20,25 +20,25 @@
 
 ### 1.1. Características Gerais
 
-A Microrregião de Dianópolis, situada no sudeste do estado do Tocantins, representa um **território marcado pela mais baixa densidade demográfica estadual (2,40 hab/km²) e extraordinário dinamismo do agronegócio**, especialmente na produção de soja e pecuária bovina. Com 18 municípios distribuídos em 45.383,96 km² (área equivalente à Suíça), a região configura-se como **fronteira agrícola consolidada**, combinando vastas extensões de cerrado convertidas em lavouras tecnificadas com remanescentes de patrimônio histórico do ciclo do ouro colonial.
+A Microrregião de Dianópolis, situada no sudeste do estado do Tocantins, representa um **território marcado pela mais baixa densidade demográfica estadual (2,37 hab/km²) e extraordinário dinamismo do agronegócio**, especialmente na produção de soja e pecuária bovina. Com 20 municípios distribuídos em 49.475,96 km² (área superior à da Suíça), a região configura-se como **fronteira agrícola consolidada**, combinando vastas extensões de cerrado convertidas em lavouras tecnificadas com remanescentes de patrimônio histórico do ciclo do ouro colonial.
 
 **Perfil Demográfico Distintivo:**
-- População de 109.121 habitantes, representando aproximadamente 7% da população estadual
-- Densidade média de 2,40 hab/km², a **mais baixa entre todas as microrregiões tocantinenses**
+- População de 117.486 habitantes, representando aproximadamente 8% da população estadual
+- Densidade média de 2,37 hab/km², a **mais baixa entre todas as microrregiões tocantinenses**
 - Vasta extensão territorial: Segunda maior área entre as microrregiões do estado
-- Concentração urbana expressiva: Maioria dos municípios com alta taxa de urbanização (>70%)
-- Distribuição populacional desigual: Polo em Dianópolis (17.739 hab), 9 municípios com menos de 5.000 habitantes
+- Concentração urbana expressiva: Maioria dos municípios com alta taxa de urbanização (>70%), embora municípios como Pindorama do Tocantins (64,7%) e Paranã (59,1%) apresentem urbanização mais moderada
+- Distribuição populacional desigual: Polo em Dianópolis (17.739 hab), 14 municípios com menos de 5.000 habitantes
 
 **Contexto Econômico Singular:**
 Dianópolis destaca-se como **motor do agronegócio tocantinense**, apresentando indicadores econômicos excepcionais:
 - **PIB per capita médio regional:** R$ 20.000-30.000 (acima da média estadual)
 - **Municípios com PIB per capita extraordinário:** Porto Alegre do Tocantins (R$ 68.063), São Valério da Natividade (R$ 44.080), Chapada da Natividade (R$ 44.736)
 - **Exportações agrícolas:** Santa Rosa do Tocantins exportou US$ 309,2 milhões em 2023 (crescimento de 96% desde 2019)
-- **Expansão da soja:** Produção regional estimada em 250.000-300.000 toneladas/ano
-- **Rebanho bovino:** Aproximadamente 1,2-1,5 milhão de cabeças
+- **Expansão da soja:** Produção regional estimada em 265.000-320.000 toneladas/ano, com expansão acelerada em municípios como Pindorama do Tocantins (+443% desde 2019) e introdução recente em Conceição do Tocantins
+- **Rebanho bovino:** Aproximadamente 1,3-1,6 milhão de cabeças, com contribuições expressivas de Conceição do Tocantins (54.767 cabeças) e Pindorama do Tocantins (66.278 cabeças)
 
 **Patrimônio Histórico:**
-A região abriga **Natividade**, fundada em 1734 durante o ciclo do ouro, uma das cidades históricas mais antigas do estado, com potencial turístico ainda subexplorado relacionado à arquitetura colonial e memória da mineração aurífera.
+A região abriga **Natividade**, fundada em 1734 durante o ciclo do ouro, uma das cidades históricas mais antigas do estado, com potencial turístico ainda subexplorado relacionado à arquitetura colonial e memória da mineração aurífera. **Conceição do Tocantins**, fundada em 1755, também carrega herança histórica significativa, com potencial turístico vinculado ao entorno do Jalapão.
 
 ### 1.2. Localização e Acessibilidade
 
@@ -55,7 +55,7 @@ A região abriga **Natividade**, fundada em 1734 durante o ciclo do ouro, uma da
 - **Estradas vicinais:** Rede extensa para escoamento da produção agrícola
 
 **Distâncias dos Principais Centros:**
-- Palmas (capital): 320-400 km (maioria dos municípios)
+- Palmas (capital): 320-400 km (maioria dos municípios); Conceição do Tocantins situa-se a 294 km
 - Gurupi (polo sul): 250-350 km
 - Luís Eduardo Magalhães-BA (centro agrícola regional): 150-250 km
 - Barreiras-BA (hub logístico): 200-300 km
@@ -68,10 +68,10 @@ A região abriga **Natividade**, fundada em 1734 durante o ciclo do ouro, uma da
 ### 1.3. Contexto Histórico e Institucional
 
 **Ocupação Colonial e Ciclo do Ouro:**
-A ocupação do sudeste tocantinense remonta ao século XVIII, impulsionada pela descoberta de ouro aluvial. **Natividade**, fundada em 1734, tornou-se centro administrativo e comercial do ciclo aurífero. Arraias e outras localidades também prosperaram com a mineração. O esgotamento das jazidas no século XIX provocou longo período de estagnação econômica, com economia de subsistência baseada em pecuária extensiva e agricultura familiar.
+A ocupação do sudeste tocantinense remonta ao século XVIII, impulsionada pela descoberta de ouro aluvial. **Natividade**, fundada em 1734, tornou-se centro administrativo e comercial do ciclo aurífero. **Conceição do Tocantins**, fundada em 1755, e Arraias e outras localidades também prosperaram com a mineração. O esgotamento das jazidas no século XIX provocou longo período de estagnação econômica, com economia de subsistência baseada em pecuária extensiva e agricultura familiar.
 
 **Renascimento Econômico (década de 1990-2000):**
-A chegada da **agricultura moderna** nas décadas de 1990-2000 transformou radicalmente a região. Produtores oriundos do Sul e Centro-Oeste, atraídos por terras planas e baratas, introduziram o cultivo de soja em larga escala. Municípios como **Santa Rosa do Tocantins, São Valério da Natividade, Almas e Taguatinga** tornaram-se polos do agronegócio mecanizado.
+A chegada da **agricultura moderna** nas décadas de 1990-2000 transformou radicalmente a região. Produtores oriundos do Sul e Centro-Oeste, atraídos por terras planas e baratas, introduziram o cultivo de soja em larga escala. Municípios como **Santa Rosa do Tocantins, São Valério da Natividade, Almas e Taguatinga** tornaram-se polos do agronegócio mecanizado. Mais recentemente, **Pindorama do Tocantins** emergiu como nova fronteira da soja, com crescimento de 443% na produção entre 2019-2023, e **Conceição do Tocantins** iniciou a introdução da cultura em 2023 (310 ha).
 
 **Emancipações Municipais:**
 Vários municípios foram criados nas décadas de 1980-1990 com a divisão territorial após a criação do estado do Tocantins (1988), refletindo o crescimento populacional e econômico.
@@ -80,6 +80,7 @@ Vários municípios foram criados nas décadas de 1980-1990 com a divisão terri
 - Regularização fundiária avançada em comparação com outras regiões
 - Predominância de grandes e médias propriedades tituladas
 - Menor incidência de conflitos agrários em relação ao norte do estado
+- Concentração fundiária significativa: em Conceição do Tocantins, 51,1% da área está em apenas 23 estabelecimentos acima de 1.000 ha; em Pindorama do Tocantins, 99,7% das terras são próprias
 
 ### 1.4. Análise Comparativa Municipal
 
@@ -98,33 +99,92 @@ Vários municípios foram criados nas décadas de 1980-1990 com a divisão terri
 - Almas (6.499 hab): Agronegócio dinâmico (soja, pecuária)
 
 **Pequenos Municípios Agrícolas (<5.000 hab):**
-13 municípios caracterizados por **economia agropecuária altamente produtiva**, com PIB per capita elevado apesar da pequena população. Exemplos:
+14 municípios caracterizados por **economia agropecuária altamente produtiva em sua maioria**, com PIB per capita elevado apesar da pequena população. Exemplos:
 - **Porto Alegre do Tocantins (2.866 hab):** PIB per capita R$ 68.063 (soja em expansão)
 - **Chapada da Natividade (3.117 hab):** PIB per capita R$ 44.736 (soja, milho, pecuária)
 - **São Valério da Natividade (4.422 hab):** PIB per capita R$ 44.080 (78.228 toneladas de soja em 2023)
+- **Pindorama do Tocantins (4.478 hab):** PIB per capita R$ 29.605 (soja +443%, pecuária bovina 66.278 cabeças)
+- **Conceição do Tocantins (3.887 hab):** PIB per capita R$ 16.666 (pecuária bovina 54.767 cabeças, soja em introdução recente)
+
+**Nota:** Pindorama do Tocantins exemplifica o modelo de crescimento econômico sem desenvolvimento humano: PIB cresceu 73,7% (2017-2021), mas empregos formais despencaram 65% (de 91 para 32 postos). Conceição do Tocantins enfrenta colapso demográfico severo (-34,5% desde 1991), com apenas 380 empregos formais e mortalidade infantil três vezes superior à média estadual (38,5‰).
 
 #### Distribuição Territorial
 
 | Porte Populacional | Nº Municípios | % Municípios | População Total | % População |
 |-------------------|---------------|--------------|-----------------|-------------|
-| Acima de 10.000 | 4 | 22,2% | 52.579 | 48,2% |
-| 5.000 a 10.000 | 2 | 11,1% | 15.253 | 14,0% |
-| 2.000 a 5.000 | 9 | 50,0% | 36.089 | 33,1% |
-| Menos de 2.000 | 3 | 16,7% | 5.200 | 4,8% |
+| Acima de 10.000 | 4 | 20,0% | 52.579 | 44,8% |
+| 5.000 a 10.000 | 2 | 10,0% | 15.253 | 13,0% |
+| 2.000 a 5.000 | 11 | 55,0% | 44.454 | 37,8% |
+| Menos de 2.000 | 3 | 15,0% | 5.200 | 4,4% |
 
 **Observação Crítica:**
-Diferentemente de outras microrregiões, Dianópolis apresenta **concentração econômica em pequenos municípios altamente produtivos**, onde o PIB per capita supera municípios médios e grandes. Este padrão reflete a economia de commodities agrícolas, onde valor adicionado não se traduz proporcionalmente em população residente.
+Diferentemente de outras microrregiões, Dianópolis apresenta **concentração econômica em pequenos municípios altamente produtivos**, onde o PIB per capita supera municípios médios e grandes. Este padrão reflete a economia de commodities agrícolas, onde valor adicionado não se traduz proporcionalmente em população residente. Contudo, nem todos os pequenos municípios seguem este padrão: **Conceição do Tocantins** (PIB per capita R$ 16.666, bem abaixo da média estadual) demonstra que a riqueza do agronegócio não se distribui uniformemente, com 86% das famílias em situação de pobreza (2010).
 
 #### Rankings por PIB per capita 2021
 
-**Top 5 Municípios:**
-1. Porto Alegre do Tocantins: R$ 68.063
-2. Chapada da Natividade: R$ 44.736
-3. São Valério da Natividade: R$ 44.080
-4. Almas: R$ 39.643
-5. Rio da Conceição: R$ 29.846
+**Top 10 Municípios:**
 
-**Observação:** Todos são municípios pequenos (<7.000 hab) com economia agropecuária tecnificada.
+| Posição | Município | PIB per capita (R$) | Principal Motor Econômico |
+|---------|-----------|---------------------|---------------------------|
+| 1º | Porto Alegre do Tocantins | 68.063,36 | Soja (expansão explosiva) |
+| 2º | Chapada da Natividade | 44.736,71 | Soja, milho, pecuária |
+| 3º | São Valério da Natividade | 44.080,82 | Soja (78.228 ton) |
+| 4º | Almas | 39.643,82 | Soja, pecuária |
+| 5º | Rio da Conceição | 29.846,56 | Agropecuária (VAB +210%) |
+| 6º | Pindorama do Tocantins | 29.605,00 | Soja (+443%), pecuária (+42%) |
+| 7º | Dianópolis | 28.401,58 | Comércio, serviços, agro |
+| 8º | Novo Jardim | 26.217,62 | Soja (expansão recente) |
+| 9º | Arraias | 21.263,55 | Pecuária (281.522 cabeças) |
+| 10º | Taguatinga | 18.758,26 | Agropecuária diversificada |
+
+**Observação:** 7 dos 10 municípios têm população inferior a 5.000 habitantes, evidenciando concentração econômica em agricultura de commodities. Pindorama do Tocantins ingressa no ranking com PIB per capita próximo à média estadual (R$ 29.619), impulsionado pela explosão da soja. Conceição do Tocantins (R$ 16.666, 16º na microrregião) permanece abaixo da média, refletindo modelo pecuário extensivo de menor produtividade relativa.
+
+#### IDHM 2010 - Rankings
+
+**Municípios com IDHM "Alto" (≥0,700):**
+1. **Dianópolis:** 0,701 (único município da microrregião com IDHM "Alto")
+
+**Municípios com IDHM "Médio" (0,600-0,699):**
+- Novo Alegre: 0,699
+- Combinado: 0,697
+- Aurora do Tocantins: 0,677
+- Natividade: 0,673
+- Lavandeira: 0,660
+- Arraias: 0,651
+- Porto Alegre do Tocantins: 0,645
+- São Valério: 0,643
+- Almas: 0,636
+- Taguatinga: 0,634
+
+**Municípios com IDHM "Baixo" (<0,600 ou limítrofe):**
+- Rio da Conceição: 0,608
+- Pindorama do Tocantins: 0,605
+- Ponte Alta do Bom Jesus: 0,603
+- Taipas do Tocantins: 0,601
+- Novo Jardim: 0,596
+- Paranã: 0,595
+- Santa Rosa do Tocantins: 0,595
+- Conceição do Tocantins: 0,592
+
+**Paradoxo:** Municípios com PIB per capita elevado (Santa Rosa, São Valério, Almas, Pindorama do Tocantins) não apresentam IDHM correspondentemente alto, refletindo:
+- Concentração de renda (agronegócio patronal)
+- Investimento insuficiente em educação e saúde municipais
+- Êxodo de população qualificada
+- No caso de Pindorama do Tocantins: PIB per capita de R$ 29.605 coexiste com IDHM de apenas 0,605 e 87% das famílias em pobreza (2010)
+- No caso de Conceição do Tocantins: IDHM de 0,592 com 86% das famílias em pobreza, mortalidade infantil de 38,5‰ e componente Educação de apenas 0,478 (Muito Baixo)
+
+#### Crescimento Econômico Recente (2017-2021)
+
+**Municípios com Maior Crescimento do PIB:**
+- **Chapada da Natividade:** +123%
+- **Pindorama do Tocantins:** +73,7% (impulsionado pela explosão da soja: +443% na produção)
+- **Porto Alegre do Tocantins:** +62%
+- **Lavandeira:** +64%
+- **Novo Jardim:** +48%
+- **Almas:** PIB per capita dobrou
+- **Conceição do Tocantins:** +36,4% (VAB agropecuário +129,5%, impulsionado por pecuária e crédito rural)
+
+**Driver Principal:** Expansão da área plantada de soja e aumento dos preços internacionais de commodities. Pindorama do Tocantins ilustra essa dinâmica: área de soja expandiu de 972 para 4.600 ha entre 2019-2023, e o crédito rural saltou de R$ 10,5 milhões para R$ 41,1 milhões (+291%).
 
 ---
 
@@ -137,30 +197,37 @@ A microrregião apresenta dinâmica demográfica peculiar, marcada por **crescim
 
 **Padrões Municipais:**
 - **Municípios em estabilização/leve crescimento:** Dianópolis, Taguatinga, Arraias
-- **Municípios em declínio:** Vários municípios pequenos apresentam perda populacional por emigração de jovens
-- **Urbanização acelerada:** Esvaziamento rural com concentração nas sedes municipais
+- **Municípios em declínio acentuado:** Conceição do Tocantins (-34,5% desde 1991, de 5.930 para 3.887 hab), representando o caso mais grave de esvaziamento demográfico da microrregião
+- **Municípios em estagnação prolongada:** Pindorama do Tocantins (-9,5% desde 1991), Paranã (+1,97% em 31 anos)
+- **Urbanização acelerada:** Esvaziamento rural com concentração nas sedes municipais; Pindorama urbanizou-se de 37,4% (1991) para 64,7% (2022)
 
 **Perfil Etário:**
 - Estrutura etária em transição: Redução de jovens, aumento de adultos e idosos
-- Razão de dependência: Tendência de redução (população economicamente ativa crescente proporcionalmente)
+- Envelhecimento acelerado: Conceição do Tocantins apresenta 23,4% da população com 65+ anos; Pindorama do Tocantins, 19,7% (índice de envelhecimento de 141 idosos para cada 100 crianças)
+- Razão de dependência elevada: Conceição (67,5) e Pindorama (67,6) acima da média regional
 - Desafio: Retenção de jovens qualificados (oferta limitada de ensino superior e diversificação econômica)
 
 ### 2.2. Urbanização e Distribuição Espacial
 
-**Taxa de Urbanização Média:** Aproximadamente 75-80% (uma das mais altas do estado)
+**Taxa de Urbanização Média:** Aproximadamente 70-80%
 
 **Municípios Altamente Urbanizados (>80%):**
 - Rio da Conceição: 90,7%
+- Natividade: 83,1%
 - Almas: 81,5%
 - Dianópolis, Taguatinga: ~75-80%
 
+**Municípios com Urbanização Moderada (<70%):**
+- Pindorama do Tocantins: 64,7% (urbanização crescente, de 37,4% em 1991)
+- Paranã: 59,1%
+
 **Padrão de Ocupação:**
 - **Concentração urbana em pequenas sedes:** População concentrada em vilas e cidades pequenas
-- **Esvaziamento rural:** Agricultura mecanizada dispensa mão de obra residente
+- **Esvaziamento rural:** Agricultura mecanizada dispensa mão de obra residente; Conceição do Tocantins exemplifica com população rural de apenas 1.057 habitantes em 2.531 km² de área
 - **População rural remanescente:** Principalmente em agricultura familiar de subsistência
 
 **Implicação Territorial:**
-Vastas extensões rurais com densidade populacional próxima de zero, ocupadas por grandes propriedades agropecuárias com gestão remota (proprietários residem em cidades ou outros estados).
+Vastas extensões rurais com densidade populacional próxima de zero, ocupadas por grandes propriedades agropecuárias com gestão remota (proprietários residem em cidades ou outros estados). Conceição do Tocantins, com densidade de 1,5 hab/km², exemplifica esta ocupação rarefeita.
 
 ### 2.3. Fluxos Migratórios
 
@@ -178,6 +245,8 @@ Vastas extensões rurais com densidade populacional próxima de zero, ocupadas p
 - Aposentados rurais que retornam após anos trabalhando em outras regiões
 - Produtores rurais de outras regiões atraídos por terras disponíveis
 
+**Alerta Demográfico:** Conceição do Tocantins projeta queda abaixo de 3.500 habitantes até 2030 caso a taxa atual de -0,6% ao ano persista, o que pode inviabilizar a manutenção de serviços públicos básicos.
+
 ---
 
 ## 3. ECONOMIA E DESENVOLVIMENTO
@@ -185,28 +254,28 @@ Vastas extensões rurais com densidade populacional próxima de zero, ocupadas p
 ### 3.1. Estrutura Econômica Regional
 
 **PIB Regional Consolidado (estimativa baseada em dados municipais 2021):**
-- **PIB Total:** Aproximadamente R$ 3,0-3,5 bilhões
+- **PIB Total:** Aproximadamente R$ 3,2-3,7 bilhões
 - **PIB per capita médio:** R$ 25.000-30.000 (bem acima da média estadual)
 - **Participação no PIB Estadual:** ~8-10%
 
 **Composição Setorial Média:**
 1. **Agropecuária:** 50-60% do VAB regional (maior proporção do estado)
-   - Soja: 250.000-300.000 toneladas/ano
-   - Milho: 80.000-100.000 toneladas/ano
-   - Pecuária bovina: 1,2-1,5 milhão de cabeças
+   - Soja: 265.000-320.000 toneladas/ano
+   - Milho: 90.000-110.000 toneladas/ano
+   - Pecuária bovina: 1,3-1,6 milhão de cabeças
 
 2. **Serviços:** 30-35% do VAB
-   - Administração pública (menor peso relativo que em outras microrregiões)
+   - Administração pública (menor peso relativo que em outras microrregiões, exceto em municípios como Conceição do Tocantins onde representa 44,2% dos empregos formais e Pindorama do Tocantins com 77,8%)
    - Comércio de insumos agrícolas, máquinas e implementos
    - Serviços técnicos ao agronegócio
 
 3. **Indústria:** 10-15% do VAB
    - Agroindústria (beneficiamento de grãos, laticínios)
    - Construção civil
-   - Indústria de transformação incipiente
+   - Indústria de transformação incipiente (apenas 2,2% do VAB em Conceição do Tocantins e 1,7% em Pindorama do Tocantins)
 
 **Menor Dependência de Transferências:**
-Diferentemente de outras microrregiões, Dianópolis apresenta **maior capacidade de arrecadação própria** devido ao ICMS sobre circulação de commodities agrícolas. Ainda assim, municípios pequenos dependem majoritariamente de FPM.
+Diferentemente de outras microrregiões, Dianópolis apresenta **maior capacidade de arrecadação própria** devido ao ICMS sobre circulação de commodities agrícolas. Ainda assim, municípios pequenos dependem majoritariamente de FPM. Os casos mais extremos incluem **Conceição do Tocantins** (89,5% de dependência de transferências, com FPM respondendo por 57,9% da receita total) e **Pindorama do Tocantins** (~68% de dependência).
 
 ### 3.2. Principais Atividades Econômicas
 
@@ -215,18 +284,20 @@ Diferentemente de outras microrregiões, Dianópolis apresenta **maior capacidad
 **Dimensão da Atividade:**
 
 **Soja (cultura dominante):**
-- **Produção Regional:** 250.000-300.000 toneladas/ano
+- **Produção Regional:** 265.000-320.000 toneladas/ano
 - **Principais produtores:**
   - **Santa Rosa do Tocantins:** 120.500 toneladas (2023), 49.846 ha colhidos
   - **São Valério da Natividade:** 78.228 toneladas, 21.609 ha
   - **Chapada da Natividade:** ~45.000 toneladas
   - **Natividade:** 17.700 toneladas (crescimento de 153% entre 2019-2023)
+  - **Pindorama do Tocantins:** 13.616 toneladas (2023), crescimento extraordinário de 443% desde 2019, área expandida de 972 para 4.600 ha
   - **Almas, Taguatinga, Arraias:** Produção consolidada
+  - **Conceição do Tocantins:** 992 toneladas (2023), cultura recém-introduzida em 310 ha com produtividade de 3,0 t/ha — representa a fronteira mais recente de expansão da soja na microrregião
 
 **Milho:**
-- **Produção Regional:** 80.000-100.000 toneladas/ano
+- **Produção Regional:** 90.000-110.000 toneladas/ano
 - Cultivo principalmente em segunda safra (safrinha) após soja
-- **Principais produtores:** Santa Rosa do Tocantins (35.500 t), Chapada da Natividade (24.000 t)
+- **Principais produtores:** Santa Rosa do Tocantins (35.500 t), Chapada da Natividade (24.000 t), Pindorama do Tocantins (8.736 t, crescimento de 563% desde 2019)
 
 **Características do Modelo Produtivo:**
 - **Tecnificação elevada:** Uso intensivo de maquinário, insumos, irrigação (em alguns casos)
@@ -237,21 +308,24 @@ Diferentemente de outras microrregiões, Dianópolis apresenta **maior capacidad
 **Exportações:**
 - **Santa Rosa do Tocantins:** US$ 309,2 milhões exportados em 2023 (+96% desde 2019)
 - Principais destinos: China (soja), Europa (grãos certificados)
+- **Nota:** Conceição do Tocantins e Pindorama do Tocantins não registram exportações diretas (balança comercial zerada), refletindo produção primária sem agregação de valor e comercialização via intermediários
 
 #### Pecuária Bovina
 
 **Dimensão da Atividade:**
-- **Rebanho Regional:** 1,2-1,5 milhão de cabeças (estimativa consolidada)
+- **Rebanho Regional:** 1,3-1,6 milhão de cabeças (estimativa consolidada)
 - **Maiores rebanhos municipais:**
-  - **Paranã:** 253.044 cabeças (5º maior rebanho do TO, +83,5% entre 2019-2023)
   - **Arraias:** 281.522 cabeças (+42% desde 2019)
+  - **Paranã:** 253.044 cabeças (5º maior rebanho do TO, +83,5% entre 2019-2023)
   - **Taguatinga:** 150.942 cabeças
   - **Natividade:** 109.404 cabeças
+  - **Pindorama do Tocantins:** 66.278 cabeças (+42,4% desde 2019)
+  - **Conceição do Tocantins:** 54.767 cabeças
 
 **Sistemas Produtivos:**
 - **Pecuária extensiva:** Predominante, pastagens plantadas
 - **Pecuária semi-intensiva:** Crescimento em propriedades médias (confinamento parcial)
-- **Produção de leite:** Atividade complementar (Arraias: 11,6 milhões litros; Paranã: 4,1 milhões)
+- **Produção de leite:** Atividade complementar relevante (Arraias: 11,6 milhões litros; Paranã: 4,1 milhões; Natividade: 4,1 milhões; Conceição do Tocantins: 3,045 milhões de litros)
 
 **Integração Lavoura-Pecuária:**
 - Rotação de áreas: Pastagens degradadas convertidas em lavouras, áreas agrícolas em recuperação com pastagens
@@ -262,7 +336,9 @@ Diferentemente de outras microrregiões, Dianópolis apresenta **maior capacidad
 **Setor Emergente:**
 Produção de peixes nativos (tambaqui, tambacu, pintado) em tanques-rede e viveiros:
 - **Chapada da Natividade:** 98.000 kg (2023)
+- **Pindorama do Tocantins:** 88.000 kg/ano (potencial de quadruplicar com tecnologia)
 - **Lavandeira, Novo Jardim:** Produção consolidada e crescente
+- **Natividade:** ~25.000 kg (tambaqui, piau, pintado)
 
 **Potencial:**
 - Recursos hídricos (reservatórios, rios)
@@ -275,16 +351,19 @@ Produção de peixes nativos (tambaqui, tambacu, pintado) em tanques-rede e vive
 A microrregião beneficia-se de **acesso privilegiado ao crédito rural**, reflexo da consolidação do agronegócio e garantias patrimoniais dos produtores.
 
 **Exemplos de Crescimento:**
+- **Conceição do Tocantins:** Crescimento extraordinário de 941,3% (de R$ 2,3 milhões para R$ 23,5 milhões entre 2019-2023)
+- **Paranã:** Crescimento de 330% (R$ 120,8 milhões em 2023)
+- **Pindorama do Tocantins:** Crescimento de 291% (de R$ 10,5 milhões para R$ 41,1 milhões entre 2019-2023)
 - **Almas:** Crescimento de 135% no VAB agropecuário (2017-2021), impulsionado por crédito
 - **Ponte Alta do Bom Jesus:** Forte injeção de crédito bancário rural
 - **Santa Rosa, São Valério, Taguatinga:** Financiamentos anuais na ordem de dezenas de milhões
 
 **Volume Regional Estimado:**
-- Financiamentos totais 2023: R$ 300-400 milhões
+- Financiamentos totais 2023: R$ 360-460 milhões
 - Concentração: Custeio de safra (soja, milho), investimentos em máquinas e infraestrutura
 
 **Desafio:**
-Pequenos produtores familiares têm acesso limitado ao crédito (burocracia, falta de garantias), perpetuando desigualdades.
+Pequenos produtores familiares têm acesso limitado ao crédito (burocracia, falta de garantias), perpetuando desigualdades. Em Conceição do Tocantins, a explosão do crédito (+941%) não se traduziu em distribuição de renda (86% das famílias em pobreza).
 
 ### 3.4. Rankings e Benchmarking Municipal
 
@@ -297,24 +376,24 @@ Pequenos produtores familiares têm acesso limitado ao crédito (burocracia, fal
 | 3º | São Valério da Natividade | 44.080,82 | Soja (78.228 ton) |
 | 4º | Almas | 39.643,82 | Soja, pecuária |
 | 5º | Rio da Conceição | 29.846,56 | Agropecuária (VAB +210%) |
-| 6º | Dianópolis | 28.401,58 | Comércio, serviços, agro |
-| 7º | Novo Jardim | 26.217,62 | Soja (expansão recente) |
-| 8º | Arraias | 21.263,55 | Pecuária (281.522 cabeças) |
-| 9º | Taguatinga | 18.758,26 | Agropecuária diversificada |
-| 10º | Paranã | 18.663,11 | Pecuária (253.044 cabeças) |
+| 6º | Pindorama do Tocantins | 29.605,00 | Soja (+443%), pecuária (+42%) |
+| 7º | Dianópolis | 28.401,58 | Comércio, serviços, agro |
+| 8º | Novo Jardim | 26.217,62 | Soja (expansão recente) |
+| 9º | Arraias | 21.263,55 | Pecuária (281.522 cabeças) |
+| 10º | Taguatinga | 18.758,26 | Agropecuária diversificada |
 
-**Observação:** 6 dos 10 municípios têm população inferior a 5.000 habitantes, evidenciando concentração econômica em agricultura de commodities.
+**Observação:** 7 dos 10 municípios têm população inferior a 5.000 habitantes, evidenciando concentração econômica em agricultura de commodities. Pindorama do Tocantins (6ª posição) exemplifica o padrão regional: PIB per capita próximo à média estadual convivendo com 87% de famílias em pobreza e apenas 32 empregos formais. Conceição do Tocantins (R$ 16.666, 16ª posição) permanece significativamente abaixo da média.
 
 #### IDHM 2010 - Rankings
 
 **Municípios com IDHM "Alto" (≥0,700):**
 1. **Dianópolis:** 0,701 (único município da microrregião com IDHM "Alto")
 
-**Municípios com IDHM "Médio" (0,600-0,699):**
+**Municípios com IDHM "Médio" (0,634-0,699):**
 - Novo Alegre: 0,699
 - Combinado: 0,697
-- Natividade: 0,673
 - Aurora do Tocantins: 0,677
+- Natividade: 0,673
 - Lavandeira: 0,660
 - Arraias: 0,651
 - Porto Alegre do Tocantins: 0,645
@@ -322,29 +401,35 @@ Pequenos produtores familiares têm acesso limitado ao crédito (burocracia, fal
 - Almas: 0,636
 - Taguatinga: 0,634
 
-**Municípios com IDHM "Baixo" (<0,600):**
+**Municípios com IDHM "Baixo" (<0,634):**
+- Rio da Conceição: 0,608
+- Pindorama do Tocantins: 0,605
+- Ponte Alta do Bom Jesus: 0,603
+- Taipas do Tocantins: 0,601
+- Novo Jardim: 0,596
 - Paranã: 0,595
 - Santa Rosa do Tocantins: 0,595
-- Novo Jardim: 0,596
-- Taipas do Tocantins: 0,601
-- Ponte Alta do Bom Jesus: 0,603
-- Rio da Conceição: 0,608
+- Conceição do Tocantins: 0,592
 
-**Paradoxo:** Municípios com PIB per capita elevado (Santa Rosa, São Valério, Almas) não apresentam IDHM correspondentemente alto, refletindo:
+**Paradoxo:** Municípios com PIB per capita elevado (Santa Rosa, São Valério, Almas, Pindorama do Tocantins) não apresentam IDHM correspondentemente alto, refletindo:
 - Concentração de renda (agronegócio patronal)
 - Investimento insuficiente em educação e saúde municipais
 - Êxodo de população qualificada
+- **Pindorama do Tocantins** (PIB per capita R$ 29.605, IDHM 0,605): crescimento econômico de 73,7% convive com IDHM Educação de apenas 0,521 e pobreza estrutural (87% das famílias)
+- **Conceição do Tocantins** (PIB per capita R$ 16.666, IDHM 0,592): IDHM Educação de 0,478 (Muito Baixo), mortalidade infantil de 38,5‰ e 86% das famílias em pobreza
 
 #### Crescimento Econômico Recente (2017-2021)
 
 **Municípios com Maior Crescimento do PIB:**
 - **Chapada da Natividade:** +123%
+- **Pindorama do Tocantins:** +73,7%
 - **Porto Alegre do Tocantins:** +62%
 - **Lavandeira:** +64%
 - **Novo Jardim:** +48%
 - **Almas:** PIB per capita dobrou
+- **Conceição do Tocantins:** +36,4% (modesto em comparação, mas com VAB agropecuário +129,5%)
 
-**Driver Principal:** Expansão da área plantada de soja e aumento dos preços internacionais de commodities.
+**Driver Principal:** Expansão da área plantada de soja e aumento dos preços internacionais de commodities. A explosão do crédito rural em municípios como Conceição do Tocantins (+941,3%) e Pindorama do Tocantins (+291%) evidencia a capitalização acelerada do setor agropecuário.
 
 ---
 
@@ -360,11 +445,15 @@ Pequenos produtores familiares têm acesso limitado ao crédito (burocracia, fal
 - Rede municipal (ensino fundamental): Sedes municipais e algumas escolas rurais
 - Rede estadual (ensino médio): Concentrada em Dianópolis, Taguatinga, Arraias, Paranã
 - **Desafio:** Escolas rurais enfrentam dificuldades (fechamento por falta de alunos, transporte escolar de longas distâncias)
+- **Conceição do Tocantins:** 6 estabelecimentos, 78 docentes, rede 100% pública
+- **Pindorama do Tocantins:** 7 estabelecimentos, 99 docentes, rede 100% pública, sem ensino superior no município
 
 **Qualidade Educacional:**
-Dados específicos de IDEB não foram detalhados nas fichas municipais, mas o padrão regional sugere:
-- **Anos Iniciais:** Desempenho mediano (4,5-5,5)
-- **Anos Finais e Ensino Médio:** Desempenho crítico (<4,5)
+Dados do IDEB 2023 revelam padrão regional de desempenho abaixo das metas nacionais:
+- **Anos Iniciais:** Desempenho mediano (4,3-5,3), com destaque negativo para Pindorama do Tocantins (4,4, queda de 20% desde 2013) e Paranã (4,3)
+- **Anos Finais:** Desempenho crítico (4,1-5,1), com Conceição do Tocantins em 4,1 e Pindorama do Tocantins em 4,5
+- **Ensino Médio:** Situação alarmante — Conceição do Tocantins (3,7), Paranã (3,8), Pindorama do Tocantins (3,9), todos bem abaixo da meta nacional de 4,2
+- **Distorção idade-série:** Conceição do Tocantins 35,8% no EM (a mais alta da microrregião), Pindorama do Tocantins 28,5%, Natividade 27,0%
 - Fatores limitantes: Rotatividade de professores, infraestrutura deficiente, contexto socioeconômico
 
 ### 4.2. Educação Superior
@@ -373,6 +462,8 @@ Dados específicos de IDEB não foram detalhados nas fichas municipais, mas o pa
 - Ausência de campus universitário público na microrregião
 - Instituições privadas em Dianópolis: Cursos presenciais e EAD (Pedagogia, Administração, Direito)
 - **Polos EAD:** Expansão de ensino à distância em municípios maiores
+- **Conceição do Tocantins:** 2 cursos presenciais + 2 polos EAD (apenas 63 matrículas em 2023)
+- **Pindorama do Tocantins:** Nenhuma IES no município — ausência total de ensino superior
 
 **Consequências:**
 - Emigração de jovens para cursar graduação em Palmas, Gurupi, Goiânia, Brasília
@@ -381,11 +472,13 @@ Dados específicos de IDEB não foram detalhados nas fichas municipais, mas o pa
 
 ### 4.3. Alfabetização
 
-**Indicadores Positivos:**
+**Indicadores em Evolução:**
 Análise das fichas municipais mostra melhoria expressiva nas taxas de alfabetização:
 - **População 15+ anos:** 80-90% alfabetizada (maioria dos municípios)
 - **Jovens 15-19 anos:** >95% alfabetizados
 - **Analfabetismo:** Concentrado em população acima de 50 anos
+- **Conceição do Tocantins:** 83,5% (avanço de +6,7 p.p. desde 2010, mas idosos 60+ apenas 58,2%)
+- **Pindorama do Tocantins:** 87,3% (avanço de +5,4 p.p. desde 2010)
 
 **Desafio Persistente:**
 Analfabetismo funcional elevado, especialmente em áreas rurais e população idosa.
@@ -400,37 +493,41 @@ Analfabetismo funcional elevado, especialmente em áreas rurais e população id
 - **Atenção Básica:** Unidades Básicas de Saúde (UBS) em todas as sedes municipais
 - **Média Complexidade:** Hospital Regional em Dianópolis (referência para microrregião)
 - **Alta Complexidade:** Inexistente (referência em Palmas, Goiânia ou Brasília)
+- **Conceição do Tocantins:** 2 UBS, 2 unidades de apoio-diagnose, 1 Academia da Saúde — porém **zero leitos hospitalares**, obrigando deslocamento para qualquer internação
+- **Pindorama do Tocantins:** 2 UBS, 2 Academias da Saúde, 1 Hospital Geral com 15 leitos (expansão de 6 para 15 entre 2020-2024)
 
 **Cobertura de Equipes de Saúde da Família (ESF):**
 - Cobertura elevada nas sedes municipais
 - Áreas rurais: Cobertura limitada devido à dispersão populacional extrema
 
 **Desafio de Fixação:**
-Dificuldade de atração e fixação de médicos e especialistas (isolamento relativo, oferta limitada de serviços urbanos, remuneração comparativamente inferior a grandes centros).
+Dificuldade de atração e fixação de médicos e especialistas (isolamento relativo, oferta limitada de serviços urbanos, remuneração comparativamente inferior a grandes centros). Conceição do Tocantins conta com **apenas 1 médico** para 3.887 habitantes; Pindorama do Tocantins dispõe de 3 clínicos e 8 enfermeiros para 4.478 habitantes.
 
 ### 5.2. Indicadores de Saúde
 
 **Esperança de Vida ao Nascer:**
 Melhoria significativa entre 1991-2010:
 - Anos 1990: ~58-62 anos
-- 2010: ~71-76 anos
+- 2010: ~69-76 anos
 - Ganho médio: 10-15 anos em duas décadas
 
 **Exemplos:**
 - **Ponte Alta do Bom Jesus:** 58,9 → 74,2 anos (+15,3 anos)
+- **Conceição do Tocantins:** 60,6 → 69,3 anos (+8,7 anos)
 - **Porto Alegre do Tocantins:** 60,6 → 72,1 anos
 - **Paranã:** 61,4 → 71,6 anos (+10,2 anos)
 
 **Mortalidade Infantil:**
-Redução drástica:
-- Anos 1990: 60-70 por mil nascidos vivos
-- 2010: 15-25 por mil nascidos vivos
-- Redução média: 65-70%
+Redução drástica na maioria dos municípios nas décadas anteriores, porém com **reversão alarmante em casos recentes:**
+- **Tendência histórica (1990-2010):** Redução de 65-70% (de 60-70‰ para 15-25‰)
+- **Situação atual preocupante:** Conceição do Tocantins (38,5‰ em 2022, **três vezes a média estadual**), Pindorama do Tocantins (32,3‰ em 2022, **2,6 vezes a média nacional**), Natividade (29,1‰ em 2021), Paranã (28,4‰ em 2022)
+- A mortalidade infantil elevada nestes municípios está diretamente correlacionada à precariedade do saneamento básico e à insuficiência da rede de saúde
 
-**Exemplo:**
-- **Porto Alegre do Tocantins:** 61,1 → 21,9 por mil (-64%)
+**Cobertura Vacinal — Alerta Crítico:**
+- **Conceição do Tocantins:** BCG a 78,2% (meta OMS: 95%)
+- **Pindorama do Tocantins:** BCG colapsou de 87,9% para 24,5% entre 2020-2022 — situação de emergência sanitária
 
-**Fatores de Melhoria:**
+**Fatores de Melhoria Histórica:**
 - Expansão da atenção básica (ESF)
 - Programas de vacinação
 - Melhoria no saneamento básico
@@ -443,21 +540,32 @@ Redução drástica:
 - Novo Jardim: 100%
 - São Valério da Natividade: 95,1%
 - Santa Rosa do Tocantins: ~90%
-
-**Municípios com cobertura intermediária (70-90%):**
-- Natividade: 81% (evolução de 18% em 1991)
 - Combinado: 90,5%
+
+**Municípios com cobertura intermediária (55-90%):**
+- Natividade: 81% (evolução de 18% em 1991)
+- Pindorama do Tocantins: 58,6%
+- Paranã: 55,4%
+
+**Municípios com cobertura crítica (<50%):**
+- **Conceição do Tocantins: 37,9%** (a maioria da população depende de poços, situação mais precária da microrregião em abastecimento de água)
 
 **Esgotamento Sanitário:**
 - **Situação crítica generalizada:** Maioria dos municípios sem rede coletora de esgoto
 - Soluções individuais predominantes (fossas sépticas, muitas inadequadas)
+- **Conceição do Tocantins:** Apenas 3,9% com esgoto via rede, 70,9% com fossa rudimentar; 13,0% dos domicílios sem banheiro
+- **Pindorama do Tocantins:** Apenas 4,3% com esgoto adequado, 86,7% com fossa rudimentar
+- **Paranã:** Apenas 0,4% com rede de esgoto
+- **Natividade:** Apenas 0,9% com esgoto via rede
 - Exceção: Dianópolis possui alguma infraestrutura de esgoto na sede
 
 **Coleta de Resíduos Sólidos:**
 - **Cobertura elevada nas sedes municipais:** >80-95%
 - **São Valério:** 97,2% com coleta direta
+- **Conceição do Tocantins:** 70,6% (lixão como destino final)
+- **Pindorama do Tocantins:** 66,2% (lixão; 30,3% queimam lixo na propriedade)
 - **Áreas rurais:** Coleta inexistente ou irregular
-- **Destinação final:** Lixões a céu aberto ainda presentes (passivo ambiental)
+- **Destinação final:** Lixões a céu aberto ainda presentes em toda a microrregião (passivo ambiental)
 
 ---
 
@@ -471,6 +579,9 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 **Padrões Dominantes:**
 - **Santa Rosa do Tocantins:** 71% da área em propriedades >200 ha
 - **Arraias:** 74% das terras em condições próprias (propriedade consolidada)
+- **Conceição do Tocantins:** 51,1% da área em apenas 23 estabelecimentos acima de 1.000 ha — concentração extrema
+- **Pindorama do Tocantins:** 99,7% das terras próprias, tamanho médio caiu de 265 para 127 ha (fragmentação com aumento de 102% no número de estabelecimentos)
+- **Paranã:** 57 estabelecimentos acima de 2.500 ha controlam 33,1% da área total
 - **Taguatinga, Almas, São Valério:** Predominância de médias e grandes propriedades
 
 **Distribuição Típica:**
@@ -495,11 +606,12 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - **Crédito:** Dificuldade de acesso ao PRONAF (burocracia, falta de garantias)
 - **Infraestrutura:** Estradas vicinais precárias, ausência de estruturas de beneficiamento
 - **Esvaziamento rural:** Jovens migram para cidades ou outras regiões
+- **Exclusão progressiva:** Em Conceição do Tocantins, o número de estabelecimentos caiu 24,6% entre 2006-2017 (de 351 para 265), sinalizando saída de pequenos produtores
 
 **Potenciais:**
 - Produção orgânica/agroecológica
 - Agroindústrias familiares (polpas, farinhas, queijos)
-- Turismo rural (integração com patrimônio histórico de Natividade)
+- Turismo rural (integração com patrimônio histórico de Natividade e Conceição do Tocantins)
 
 ### 6.3. Uso do Solo e Recursos Naturais
 
@@ -511,6 +623,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 **Conversão de Uso do Solo:**
 - Tendência: Pastagens degradadas → Lavouras de soja
 - Expansão de fronteira agrícola em áreas de cerrado nativo (pressão ambiental)
+- **Pindorama do Tocantins:** Área de soja expandiu de 972 para 4.600 ha entre 2019-2023
 
 **Recursos Hídricos:**
 - **Rios:** Alto curso do Tocantins e afluentes
@@ -557,13 +670,18 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Telefonia Móvel:**
 - Cobertura razoável nas sedes municipais (3G/4G)
+- **Conceição do Tocantins:** ~71,6% da população com 4G
+- **Pindorama do Tocantins:** ~70% da população com 4G
 - Áreas rurais: Cobertura limitada ou inexistente
 
 **Banda Larga Fixa:**
 - **Situação:** Penetração baixa, concentrada em sedes municipais maiores
 - **Dianópolis, Taguatinga:** Oferta comercial de banda larga
-- **Municípios pequenos:** Acesso limitado, velocidades baixas
+- **Municípios pequenos:** Acesso extremamente limitado — Conceição do Tocantins possui apenas 61 acessos e Pindorama do Tocantins apenas 113 acessos de banda larga fixa
 - **Áreas rurais:** Praticamente inexistente
+
+**Exclusão Financeira:**
+Conceição do Tocantins e Pindorama do Tocantins não possuem agências bancárias (apenas postos de atendimento), agravando a exclusão financeira da população.
 
 **Impacto:**
 - Exclusão digital limita acesso a serviços, educação online, teletrabalho
@@ -590,7 +708,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Desmatamento:**
 - **Taxa elevada:** Conversão de cerrado nativo em lavouras de soja e pastagens
-- **Municípios críticos:** Santa Rosa, São Valério, Almas (expansão agrícola acelerada)
+- **Municípios críticos:** Santa Rosa, São Valério, Almas (expansão agrícola acelerada); Natividade perdeu 57% de matas naturais entre 2006-2017 (de 98.465 para 42.654 ha)
 - **Impactos:** Perda de biodiversidade, fragmentação de habitats, erosão, assoreamento de rios
 
 **Uso de Agrotóxicos:**
@@ -605,6 +723,9 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 **Queimadas:**
 - Uso tradicional de fogo para limpeza de áreas
 - Incêndios descontrolados em períodos de seca
+- **Conceição do Tocantins:** 123 focos em 2023 (tendência decrescente desde 217 em 2014, mas ainda expressivo)
+- **Natividade:** 31 focos em 2023 (+158% em relação a 2022), tendência preocupante
+- **Pindorama do Tocantins:** Apenas 4 focos em 2023 (redução drástica de 63 em 2020) — exemplo positivo de controle
 - Impactos: Perda de vegetação, emissões de gases de efeito estufa, problemas respiratórios
 
 ### 8.3. Gestão Ambiental
@@ -618,6 +739,11 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - **CAR (Cadastro Ambiental Rural):** Adesão crescente, mas ainda incompleta
 - **Reserva Legal e APPs:** Cumprimento irregular, fiscalização deficiente
 - **Licenciamento ambiental:** Morosidade, acúmulo de processos
+
+**Áreas Preservadas:**
+- **Conceição do Tocantins:** 48.133 ha de matas preservadas (43% da área dos estabelecimentos) — potencial expressivo para serviços ambientais e créditos de carbono
+- **Pindorama do Tocantins:** 16.219 ha de matas preservadas — oportunidade para certificação ambiental
+- **Paranã:** 161.758 ha (33,8% da área total)
 
 **Desafios:**
 - Conciliar expansão agrícola com conservação ambiental
@@ -641,6 +767,8 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Crescimento econômico baseado em commodities agrícolas gera PIB elevado, mas benefícios concentrados
 - Pequena população empregada diretamente (agricultura mecanizada)
 - Desigualdade: PIB per capita alto coexiste com IDHM médio/baixo
+- **Caso emblemático — Pindorama do Tocantins:** PIB cresceu 73,7% enquanto empregos formais despencaram 65% (de 91 para 32 postos); 87% das famílias em pobreza
+- **Caso crítico — Conceição do Tocantins:** PIB agropecuário cresceu 129,5% mas população caiu 34,5% desde 1991; 86% das famílias em pobreza
 
 **Impactos:**
 - Migração de jovens (falta de oportunidades diversificadas)
@@ -674,7 +802,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Desafio:**
 - Economia dependente de soja e pecuária
-- Ausência de indústrias de transformação
+- Ausência de indústrias de transformação (base industrial ínfima: 2,2% do VAB em Conceição do Tocantins e 1,7% em Pindorama do Tocantins)
 - Setor de serviços limitado a comércio básico
 
 **Riscos:**
@@ -684,15 +812,26 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 #### 5. Deficiências em Serviços Sociais
 
 **Educação:**
-- Qualidade insuficiente (IDEB baixo)
-- Ausência de ensino superior na região
+- Qualidade insuficiente (IDEB baixo em toda a microrregião; Conceição do Tocantins com EM 3,7 e distorção de 35,8%)
+- Ausência de ensino superior na região (Pindorama do Tocantins sem nenhuma IES)
 
 **Saúde:**
-- Acesso limitado a média/alta complexidade
+- Mortalidade infantil alarmante: Conceição do Tocantins (38,5‰), Pindorama do Tocantins (32,3‰), Natividade (29,1‰), Paranã (28,4‰)
+- Cobertura vacinal em colapso: Pindorama do Tocantins com BCG a 24,5%
+- Acesso limitado a média/alta complexidade; Conceição do Tocantins sem nenhum leito hospitalar
 - Dificuldade de fixação de profissionais
 
 **Saneamento:**
-- Esgotamento sanitário praticamente inexistente
+- Esgotamento sanitário praticamente inexistente (Conceição 3,9%, Pindorama 4,3%, Paranã 0,4%, Natividade 0,9%)
+- Conceição do Tocantins com apenas 37,9% de água encanada
+
+#### 6. Colapso Demográfico em Municípios Pequenos
+
+**Desafio Emergente:**
+- Conceição do Tocantins perdeu 34,5% da população desde 1991, com projeção de queda abaixo de 3.500 habitantes até 2030
+- Pindorama do Tocantins estagnada há três décadas (-9,5% desde 1991)
+- Envelhecimento acelerado: Conceição com 23,4% de idosos (65+), Pindorama com índice de envelhecimento de 141 idosos para cada 100 crianças
+- Risco de inviabilização de serviços públicos básicos em municípios menores
 
 ### 9.2. Oportunidades de Desenvolvimento
 
@@ -702,13 +841,14 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - **ILPF (Integração Lavoura-Pecuária-Floresta):** Aumento de produtividade, recuperação de pastagens, conservação ambiental
 - **Agricultura de precisão:** Uso eficiente de insumos, redução de impactos ambientais
 - **Certificação sustentável:** Acesso a mercados premium (orgânicos, low-carbon, soja responsável)
+- **Expansão ordenada da soja:** Municípios como Pindorama do Tocantins e Conceição do Tocantins demonstram potencial de expansão que, se acompanhada de sustentabilidade ambiental, pode ampliar a base econômica regional
 
 #### 2. Agregação de Valor na Cadeia Agroindustrial
 
 **Potenciais:**
 - Indústrias de processamento de soja (óleo, farelo, biodiesel)
-- Frigoríficos e laticínios (pecuária)
-- Agroindústrias de pescado (aquicultura)
+- Frigoríficos e laticínios (pecuária) — especialmente relevante para Conceição do Tocantins (54.767 bovinos, 3,045 milhões litros de leite) e Pindorama do Tocantins (66.278 bovinos)
+- Agroindústrias de pescado (aquicultura, com destaque para Pindorama do Tocantins: 88 mil kg/ano)
 
 **Benefícios:**
 - Geração de empregos locais
@@ -719,6 +859,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Ativos:**
 - **Natividade:** Cidade histórica (arquitetura colonial, igrejas barrocas, museus)
+- **Conceição do Tocantins:** Fundada em 1755, patrimônio histórico colonial, proximidade do Jalapão
 - **Patrimônio do ciclo do ouro:** Minas históricas, trilhas, ruínas
 - **Ecoturismo:** Chapadas, cachoeiras, observação de fauna e flora do cerrado
 
@@ -745,16 +886,24 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Expansão de banda larga rural (programas estaduais/federais)
 - Agricultura de precisão (gestão remota de lavouras)
 - Educação online, telemedicina, e-commerce
+- Superação da exclusão digital em municípios como Conceição do Tocantins (61 acessos de banda larga) e Pindorama do Tocantins (113 acessos)
+
+#### 6. Serviços Ambientais e Créditos de Carbono
+
+**Potencial específico:**
+- **Conceição do Tocantins:** 48.133 ha de matas preservadas — oportunidade para PSA e créditos de carbono
+- **Pindorama do Tocantins:** 16.219 ha de matas preservadas e tendência positiva de redução de queimadas
+- **Paranã:** 161.758 ha de matas preservadas
 
 ### 9.3. SWOT Regional Detalhado
 
 #### **FORÇAS (Strengths)**
 
 1. **Agronegócio Pujante e Tecnificado**
-   - Produção regional de soja: 250.000-300.000 toneladas/ano
+   - Produção regional de soja: 265.000-320.000 toneladas/ano
    - Exportações: Santa Rosa exportou US$ 309,2 milhões (2023)
-   - Rebanho bovino: 1,2-1,5 milhão de cabeças
-   - Crescimento do VAB agropecuário: 100-200% entre 2017-2021 em vários municípios
+   - Rebanho bovino: 1,3-1,6 milhão de cabeças (incluindo 66.278 em Pindorama e 54.767 em Conceição)
+   - Crescimento do VAB agropecuário: 100-200% entre 2017-2021 em vários municípios; Pindorama do Tocantins +197%, Conceição do Tocantins +129,5%
 
 2. **PIB per capita Elevado**
    - Média regional R$ 25.000-30.000 (acima da média estadual)
@@ -766,26 +915,32 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Acesso a portos de Salvador e Ilhéus (menor distância que norte do Tocantins)
 
 4. **Disponibilidade de Terras**
-   - Densidade demográfica de 2,40 hab/km² (mais baixa do estado)
+   - Densidade demográfica de 2,37 hab/km² (mais baixa do estado)
    - Espaço para expansão ordenada de atividades produtivas
    - Potencial para projetos de ILPF e reflorestamento
 
 5. **Melhoria Consistente de Indicadores de Longevidade**
    - Esperança de vida: Aumento de 10-15 anos entre 1991-2010
-   - Mortalidade infantil: Redução de 65-70%
-   - Componente Longevidade do IDHM: Patamares "Alto" e "Muito Alto" em vários municípios
+   - Mortalidade infantil: Redução histórica de 65-70% (embora com reversão recente em alguns municípios)
+   - Componente Longevidade do IDHM: Patamares "Alto" e "Muito Alto" em vários municípios (Conceição 0,739; Pindorama 0,733)
 
 6. **Patrimônio Histórico Singular**
    - Natividade (fundada 1734): Potencial turístico histórico-cultural
+   - Conceição do Tocantins (fundada 1755): Patrimônio colonial e proximidade do Jalapão
    - Memória do ciclo do ouro
    - Arquitetura colonial preservada
+
+7. **Crédito Rural em Forte Expansão**
+   - Volume regional estimado em R$ 360-460 milhões (2023)
+   - Crescimentos extraordinários: Conceição do Tocantins +941%, Paranã +330%, Pindorama do Tocantins +291%
+   - Base financeira para agroindustrialização e diversificação
 
 #### **FRAQUEZAS (Weaknesses)**
 
 1. **Modelo Econômico Concentrador**
    - Benefícios do crescimento econômico concentrados em grandes proprietários
    - Baixa geração de empregos diretos (agricultura mecanizada)
-   - Desigualdade: PIB alto x IDHM médio/baixo
+   - Desigualdade: PIB alto x IDHM médio/baixo; 86-88% das famílias em pobreza em municípios como Conceição, Pindorama e Paranã
 
 2. **Dependência de Commodities Agrícolas**
    - Vulnerabilidade a oscilações de preços internacionais (soja, milho, boi)
@@ -793,17 +948,18 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Risco de crises setoriais
 
 3. **Infraestrutura Social Deficiente**
-   - Educação: Qualidade insuficiente, ausência de ensino superior
-   - Saúde: Acesso limitado a média/alta complexidade
-   - Saneamento: Esgoto praticamente inexistente
+   - Educação: Qualidade insuficiente (IDEB EM: Conceição 3,7; Paranã 3,8; Pindorama 3,9), ausência de ensino superior
+   - Saúde: Mortalidade infantil alarmante (Conceição 38,5‰, Pindorama 32,3‰); Conceição sem leitos hospitalares; cobertura vacinal em colapso (Pindorama BCG 24,5%)
+   - Saneamento: Esgoto praticamente inexistente (3,9% em Conceição, 4,3% em Pindorama)
 
-4. **Êxodo de Jovens e Estagnação Demográfica**
+4. **Êxodo de Jovens e Colapso Demográfico**
    - Migração para estudos e trabalho em outras regiões
    - Perda de capital humano qualificado
-   - Envelhecimento populacional
+   - Conceição do Tocantins: -34,5% desde 1991, projeção de inviabilidade demográfica até 2030
+   - Envelhecimento populacional acelerado (Conceição 23,4% idosos, Pindorama índice de envelhecimento 141)
 
 5. **Pressão Ambiental Elevada**
-   - Desmatamento acelerado do cerrado
+   - Desmatamento acelerado do cerrado (Natividade perdeu 57% de matas naturais em 11 anos)
    - Uso intensivo de agrotóxicos
    - Degradação de recursos hídricos
 
@@ -812,8 +968,9 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Estradas vicinais precárias
    - Distâncias longas até portos (mesmo com vantagem relativa da Bahia)
 
-7. **Exclusão Digital**
-   - Banda larga: Cobertura baixa, especialmente em áreas rurais
+7. **Exclusão Digital e Financeira**
+   - Banda larga: Cobertura baixa, especialmente em áreas rurais (Conceição: 61 acessos, Pindorama: 113 acessos)
+   - Ausência de agências bancárias em municípios pequenos (Conceição e Pindorama sem agências)
    - Limitação para gestão agrícola moderna, educação, serviços
 
 #### **OPORTUNIDADES (Opportunities)**
@@ -824,12 +981,13 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Certificação sustentável: Acesso a mercados premium
 
 2. **Agroindustrialização**
-   - Processamento de soja (óleo, biodiesel)
-   - Frigoríficos, laticínios
-   - Agroindústrias de pescado (aquicultura em expansão)
+   - Processamento de soja (óleo, biodiesel) — relevante para Pindorama (13.616 t)
+   - Frigoríficos, laticínios — relevante para Conceição (54.767 bovinos, 3 milhões litros leite) e Pindorama (66.278 bovinos)
+   - Agroindústrias de pescado (aquicultura em expansão: Pindorama 88 mil kg/ano)
 
 3. **Turismo Histórico e Ecológico**
    - Natividade: Turismo de patrimônio histórico
+   - Conceição do Tocantins: Patrimônio colonial e entorno do Jalapão
    - Ecoturismo: Cerrado, chapadas, cachoeiras
    - Integração com rotas regionais (Jalapão, Chapada das Mesas-MA)
 
@@ -844,7 +1002,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - E-commerce para produtos locais
 
 6. **Pagamento por Serviços Ambientais**
-   - Conservação de remanescentes de cerrado
+   - Conservação de remanescentes de cerrado (Conceição: 48.133 ha, Pindorama: 16.219 ha, Paranã: 161.758 ha)
    - Recuperação de áreas degradadas
    - Carbono neutro/negativo (mercado de créditos de carbono)
 
@@ -864,6 +1022,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Secas prolongadas: Impacto em produtividade agrícola
    - Eventos extremos: Chuvas intensas, erosão
    - Aumento de temperaturas: Stress hídrico
+   - Conceição do Tocantins registrou 123 focos de queimadas em 2023, refletindo vulnerabilidade climática
 
 3. **Degradação Ambiental Irreversível**
    - Desmatamento contínuo: Perda de biodiversidade, serviços ecossistêmicos
@@ -880,15 +1039,21 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Variações cambiais (impacto em exportações)
    - Políticas ambientais restritivas sem compensação
 
-6. **Êxodo Continuado de Capital Humano**
+6. **Êxodo Continuado e Inviabilidade Demográfica**
    - Perda de jovens qualificados
    - Dificuldade de atrair profissionais especializados
    - Envelhecimento e esvaziamento de municípios menores
+   - Risco de inviabilidade administrativa em Conceição do Tocantins (projeção <3.500 hab até 2030)
 
 7. **Barreiras Sanitárias e Fitossanitárias**
    - Surtos de doenças (febre aftosa, peste suína)
    - Pragas agrícolas (ferrugem asiática, cigarrinha)
    - Restrições a exportações
+
+8. **Crises de Saúde Pública**
+   - Surtos de arboviroses: Pindorama do Tocantins registrou 43 casos de Chikungunya e 31 de dengue em 2024 (crescimento de 2.050%)
+   - Colapso vacinal: BCG em Pindorama a 24,5% (risco de retorno de tuberculose)
+   - Mortalidade infantil em patamares inadmissíveis (Conceição 38,5‰, Pindorama 32,3‰)
 
 ---
 
@@ -902,13 +1067,14 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 1. **Atração de Agroindústrias de Processamento:**
    - Incentivos fiscais municipais/estaduais para instalação de esmagadoras de soja, fábricas de biodiesel
-   - Frigoríficos de médio porte com certificação sanitária
-   - Laticínios cooperativados
+   - Frigoríficos de médio porte com certificação sanitária — prioridade para Conceição do Tocantins (54.767 bovinos) e Pindorama do Tocantins (66.278 bovinos)
+   - Laticínios cooperativados — especialmente relevante para Conceição do Tocantins (3,045 milhões litros de leite)
 
 2. **Desenvolvimento da Aquicultura Comercial:**
    - Assistência técnica especializada
    - Estruturação de cadeia produtiva (ração, alevinos, processamento)
    - Acesso a mercados (restaurantes, supermercados, exportação)
+   - **Pindorama do Tocantins:** Potencial de quadruplicar a produção atual de 88 mil kg/ano com tecnologia adequada
 
 3. **Certificação de Produtos Sustentáveis:**
    - Soja certificada (Proterra, Rainforest Alliance)
@@ -921,7 +1087,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Acesso ao PNAE (merenda escolar) e PAA
 
 **Indicadores de Sucesso:**
-- Número de agroindústrias instaladas: 5-10 até 2028
+- Número de agroindústrias instaladas: 5-10 até 2028 (incluindo pelo menos 1 em Conceição e 1 em Pindorama)
 - Produção de aquicultura: +100% até 2027
 - Agricultores familiares com acesso a mercados institucionais: 30% até 2027
 - Área certificada sustentável: 50.000 ha até 2029
@@ -951,7 +1117,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 4. **Pagamento por Serviços Ambientais:**
    - Programa regional de PSA (conservação de cerrado, sequestro de carbono)
    - Parcerias com empresas (compensação ambiental)
-   - Créditos de carbono
+   - Créditos de carbono — explorar potencial de Conceição do Tocantins (48.133 ha de matas preservadas) e Pindorama do Tocantins (16.219 ha)
 
 **Indicadores de Sucesso:**
 - Área em ILPF: 100.000 ha até 2030
@@ -979,6 +1145,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Banda larga rural (adesão a programas federais/estaduais)
    - Internet pública em escolas, postos de saúde, centros comunitários
    - Capacitação digital
+   - Prioridade para municípios com menor conectividade (Conceição do Tocantins: 61 acessos, Pindorama: 113 acessos)
 
 4. **Articulação para Ferrovia Norte-Sul (ramal):**
    - Estudos de viabilidade de ramal conectando região à Ferrovia Norte-Sul
@@ -996,11 +1163,12 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 **Ações Prioritárias:**
 
-1. **Estruturação do Roteiro Turístico de Natividade:**
+1. **Estruturação do Roteiro Turístico de Natividade e Conceição do Tocantins:**
    - Restauração e musealização de patrimônio histórico (igrejas, casarões, minas)
    - Sinalização turística
    - Capacitação de guias locais
    - Centro de interpretação do ciclo do ouro
+   - Integração de Conceição do Tocantins como porta de entrada ao Jalapão
 
 2. **Ecoturismo no Cerrado:**
    - Mapeamento de atrativos naturais (chapadas, cachoeiras, trilhas)
@@ -1018,7 +1186,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Parcerias com operadoras
 
 **Indicadores de Sucesso:**
-- Fluxo turístico em Natividade: +100% até 2028
+- Fluxo turístico em Natividade e Conceição: +100% até 2028
 - Empregos no setor: 300 postos até 2027
 - Renda do turismo: R$ 10-15 milhões/ano até 2029
 - Patrimônio histórico restaurado: 80% até 2029
@@ -1033,16 +1201,18 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Formação continuada de professores
    - Infraestrutura escolar (bibliotecas, laboratórios, internet)
    - Programas de reforço escolar
+   - Enfrentamento da distorção idade-série: Conceição do Tocantins (35,8% no EM), Pindorama do Tocantins (28,5%), Natividade (27,0%)
    - Meta: IDEB Anos Iniciais de 5,0 para 6,0 até 2027
 
 2. **Educação Técnica Profissionalizante:**
    - Escola técnica regional (cursos: Agropecuária, Informática, Administração, Turismo)
    - Parcerias com SENAR, SENAI, SENAC
    - Capacitação para setores estratégicos (agronegócio, turismo, agroindústria)
+   - Implantação de Ensino Médio Integrado ao Técnico em Agropecuária e Agroindústria em Conceição do Tocantins e Pindorama do Tocantins (parceria IFTO/SENAR)
 
 3. **Ampliação do Acesso ao Ensino Superior:**
    - Atração de campus universitário público (UFT, IF Tocantins)
-   - Polos de EAD em municípios estratégicos
+   - Polos de EAD em municípios estratégicos (prioridade para Pindorama do Tocantins, atualmente sem nenhuma IES)
    - Bolsas de estudo para jovens de baixa renda
 
 4. **Alfabetização Digital:**
@@ -1055,9 +1225,9 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Jovens em cursos técnicos: 500/ano até 2027
 - Campus universitário ou polo IF: 1 até 2028
 
-### EIXO 6: Saúde e Saneamento Básico
+### EIXO 6: Saúde, Saneamento Básico e Enfrentamento de Emergências Sanitárias
 
-**Objetivo:** Ampliar acesso a serviços de saúde de qualidade e universalizar saneamento básico
+**Objetivo:** Ampliar acesso a serviços de saúde de qualidade, universalizar saneamento básico e enfrentar emergências sanitárias identificadas
 
 **Ações Prioritárias:**
 
@@ -1065,28 +1235,33 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
    - Ampliação de ESF para 100% de cobertura
    - Capacitação de agentes comunitários
    - Telemedicina (consultas com especialistas)
+   - **Prioridade:** Fixação de médicos em Conceição do Tocantins (atualmente apenas 1 médico para 3.887 habitantes)
 
 2. **Estruturação de Rede Regional de Média Complexidade:**
    - Ampliação do Hospital Regional de Dianópolis
    - Policlínicas regionais (exames, consultas especializadas)
    - Central de regulação
+   - **Urgência:** Implantação de leitos hospitalares em Conceição do Tocantins (atualmente zero leitos)
 
 3. **Universalização do Saneamento Básico:**
    - Prioridade: Sistemas de esgotamento sanitário nas sedes municipais
    - Meta: 50% de cobertura até 2030
    - Tratamento de água: 100% até 2028
-   - Destinação adequada de resíduos sólidos (consórcio regional)
+   - Destinação adequada de resíduos sólidos (consórcio regional para eliminação de lixões)
+   - **Conceição do Tocantins:** Elevar água encanada de 37,9% para 60% e esgoto de 3,9% para 40% até 2027
+   - **Pindorama do Tocantins:** Elevar esgoto adequado de 4,3% para 60% até 2030
 
-4. **Redução de Mortalidade por Causas Evitáveis:**
-   - Campanhas de prevenção (câncer, doenças cardiovasculares)
-   - Vacinação universal
-   - Combate a doenças de veiculação hídrica (investimento em saneamento)
+4. **Enfrentamento de Emergências Sanitárias:**
+   - **Recuperação da cobertura vacinal:** Campanha intensiva com busca ativa domiciliar, especialmente em Pindorama do Tocantins (BCG colapsou para 24,5%)
+   - **Redução da mortalidade infantil:** Força-tarefa materno-infantil em Conceição do Tocantins (38,5‰), Pindorama do Tocantins (32,3‰), Natividade (29,1‰) e Paranã (28,4‰)
+   - **Combate a arboviroses:** Brigadas de combate ao Aedes aegypti em Pindorama do Tocantins (43 casos Chikungunya, 31 dengue em 2024)
 
 **Indicadores de Sucesso:**
 - Cobertura de ESF: 80% → 100% até 2026
 - Tempo de espera por consultas especializadas: -50%
 - Cobertura de esgoto: 10% → 50% até 2030
-- Mortalidade infantil: -20% até 2028
+- Mortalidade infantil: Redução para menos de 20‰ em todos os municípios até 2028
+- Cobertura vacinal: ≥95% para todas as vacinas até 2026
 
 ---
 
@@ -1107,6 +1282,7 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Taxa de mortalidade infantil (anual - DATASUS)
 - Taxa de alfabetização (anual - PNAD)
 - Cobertura de ESF (anual - e-Gestor AB)
+- Cobertura vacinal (anual - DATASUS) — com monitoramento especial para municípios em situação crítica
 
 **Indicadores de Infraestrutura:**
 - Cobertura de saneamento básico (anual - SNIS)
@@ -1120,12 +1296,17 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 - Propriedades com CAR (anual - SICAR)
 - Focos de queimadas (anual - INPE)
 
+**Indicadores Demográficos (novo):**
+- Evolução populacional por município (anual - IBGE estimativas)
+- Índice de envelhecimento (decenal - Censo)
+- Saldo migratório estimado
+
 ### 11.2. Governança Regional
 
 **Estrutura Proposta:**
 
 1. **Conselho Regional de Desenvolvimento de Dianópolis:**
-   - Composição: Prefeitos, representantes do setor produtivo, sociedade civil, universidades
+   - Composição: Prefeitos dos 20 municípios, representantes do setor produtivo, sociedade civil, universidades
    - Periodicidade: Reuniões trimestrais
    - Atribuição: Planejamento regional, monitoramento de metas, articulação política
 
@@ -1156,39 +1337,45 @@ Análise das fichas municipais revela **forte concentração fundiária** típic
 
 ## 12. CONSIDERAÇÕES FINAIS
 
-A Microrregião de Dianópolis representa um **paradoxo territorial singular no contexto tocantinense**: detém a **mais baixa densidade demográfica do estado (2,40 hab/km²)**, mas figura entre as **regiões economicamente mais dinâmicas**, com PIB per capita regional médio de R$ 25.000-30.000 e municípios individuais alcançando patamares extraordinários (Porto Alegre do Tocantins: R$ 68.063).
+A Microrregião de Dianópolis, com seus **20 municípios**, representa um **paradoxo territorial singular no contexto tocantinense**: detém a **mais baixa densidade demográfica do estado (2,37 hab/km²)**, mas figura entre as **regiões economicamente mais dinâmicas**, com PIB per capita regional médio de R$ 25.000-30.000 e municípios individuais alcançando patamares extraordinários (Porto Alegre do Tocantins: R$ 68.063).
 
 **Síntese dos Contrastes:**
 
 **Forças Econômicas:**
-- Produção de soja: 250.000-300.000 toneladas/ano
+- Produção de soja: 265.000-320.000 toneladas/ano (incluindo a expansão explosiva de Pindorama do Tocantins: +443%)
 - Exportações: US$ 309,2 milhões (Santa Rosa, 2023)
-- Rebanho bovino: 1,2-1,5 milhão de cabeças
-- Crescimento do VAB agropecuário: 100-200% (2017-2021) em vários municípios
+- Rebanho bovino: 1,3-1,6 milhão de cabeças (incluindo Pindorama: 66.278, Conceição: 54.767)
+- Crescimento do VAB agropecuário: 100-200% (2017-2021) em vários municípios; Pindorama +197%, Conceição +129,5%
+- Crédito rural regional: R$ 360-460 milhões (2023), com expansões extraordinárias (Conceição +941%, Pindorama +291%)
 
 **Fragilidades Sociais:**
 - Apenas 1 município com IDHM "Alto" (Dianópolis: 0,701)
-- 6 municípios com IDHM "Baixo" (<0,600)
-- Saneamento básico crítico (esgoto praticamente inexistente)
+- 8 municípios com IDHM "Baixo" (incluindo Conceição do Tocantins: 0,592 e Pindorama do Tocantins: 0,605)
+- Saneamento básico crítico (esgoto: Conceição 3,9%, Pindorama 4,3%, Paranã 0,4%, Natividade 0,9%)
 - Educação e saúde com qualidade insuficiente
+- Mortalidade infantil alarmante em vários municípios (Conceição 38,5‰, Pindorama 32,3‰, Natividade 29,1‰, Paranã 28,4‰)
+- Colapso vacinal em Pindorama do Tocantins (BCG 24,5%)
+- Colapso demográfico em Conceição do Tocantins (-34,5% desde 1991)
 
 **O Desafio Central:**
-Transformar **crescimento econômico concentrado** em **desenvolvimento humano inclusivo e sustentável**.
+Transformar **crescimento econômico concentrado** em **desenvolvimento humano inclusivo e sustentável**. A inclusão de Conceição do Tocantins e Pindorama do Tocantins na análise microrregional torna ainda mais evidente o paradoxo: municípios com agronegócio em forte expansão que não traduzem riqueza em qualidade de vida para suas populações.
 
 **Caminhos Estratégicos:**
 
-1. **Diversificação e Agregação de Valor:** Reduzir dependência de commodities através de agroindustrialização, aquicultura, turismo
+1. **Diversificação e Agregação de Valor:** Reduzir dependência de commodities através de agroindustrialização (frigoríficos, laticínios, processamento de soja), aquicultura e turismo — com atenção especial para Conceição e Pindorama, que possuem rebanhos bovinos expressivos e produção leiteira sem agregação de valor
 
-2. **Sustentabilidade Ambiental:** Implementar ILPF, certificação sustentável, PSA para conciliar produção e conservação
+2. **Sustentabilidade Ambiental:** Implementar ILPF, certificação sustentável, PSA para conciliar produção e conservação — aproveitar áreas preservadas de Conceição (48.133 ha) e Pindorama (16.219 ha) para créditos de carbono
 
-3. **Infraestrutura:** Investir em logística (estradas, armazenagem) e conectividade digital
+3. **Infraestrutura:** Investir em logística (estradas, armazenagem) e conectividade digital — priorizar municípios com maior exclusão digital
 
-4. **Inclusão Social:** Melhorar educação, saúde, saneamento com recursos gerados pelo agronegócio
+4. **Inclusão Social:** Melhorar educação, saúde, saneamento com recursos gerados pelo agronegócio — enfrentamento emergencial da mortalidade infantil e do colapso vacinal
 
-5. **Valorização do Patrimônio:** Desenvolver turismo histórico-cultural (Natividade) e ecoturismo (cerrado)
+5. **Valorização do Patrimônio:** Desenvolver turismo histórico-cultural (Natividade, Conceição do Tocantins) e ecoturismo (cerrado)
+
+6. **Enfrentamento do Colapso Demográfico:** Políticas de retenção populacional em municípios com esvaziamento crítico, geração de empregos locais via agroindustrialização
 
 **Implementação:**
-- Liderança do Conselho Regional de Desenvolvimento
+- Liderança do Conselho Regional de Desenvolvimento (20 municípios)
 - Articulação com governos estadual e federal
 - Parcerias com setor produtivo e universidades
 - Monitoramento rigoroso de indicadores
@@ -1196,11 +1383,11 @@ Transformar **crescimento econômico concentrado** em **desenvolvimento humano i
 **Visão de Futuro:**
 Dianópolis pode consolidar-se como **referência nacional em agronegócio sustentável, modelo de conciliação entre produtividade econômica e conservação ambiental**, ao mesmo tempo em que investe seus ganhos econômicos em **educação, saúde e qualidade de vida**, transformando riqueza econômica em desenvolvimento humano pleno.
 
-O sucesso desta transformação depende de **escolhas políticas conscientes, gestão técnica qualificada e compromisso com o longo prazo**, superando a tentação de perpetuar o modelo atual de crescimento sem desenvolvimento.
+O sucesso desta transformação depende de **escolhas políticas conscientes, gestão técnica qualificada e compromisso com o longo prazo**, superando a tentação de perpetuar o modelo atual de crescimento sem desenvolvimento. A realidade de Conceição do Tocantins e Pindorama do Tocantins — crescimento agropecuário expressivo coexistindo com colapso demográfico, pobreza estrutural e indicadores de saúde alarmantes — constitui alerta inequívoco da urgência dessa transformação.
 
 ---
 
 **Elaboração:** Sistema de Inteligência Territorial - Caderno Tocantins 2026
-**Fontes:** Fichas Municipais Completas Deepseek V3, IBGE, MDIC, DATASUS, INEP, ANATEL, SICOR/BACEN, RAIS/CAGED
-**Versão:** 1.1 - Revisada (Fase 1.1 - Agregação Municipal)
+**Fontes:** Fichas Municipais V2, IBGE, MDIC, DATASUS, INEP, ANATEL, SICOR/BACEN, RAIS/CAGED, SEPLAN/TO
+**Versão:** 1.2 - Revisada e Ampliada (Fase 1.1 - Agregação Municipal - 20 Municípios)
 **Data:** Fevereiro de 2026

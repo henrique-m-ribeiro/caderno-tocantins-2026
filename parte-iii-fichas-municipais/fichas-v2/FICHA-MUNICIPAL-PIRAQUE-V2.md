@@ -1,6 +1,6 @@
 # PIRAQUÊ — Ficha Municipal
 
-**Código IBGE**: 1717206 | **Microrregião**: Araguaína | **Área**: 1.363 km² | **Bioma**: Cerrado/Amazônia
+**Código IBGE**: 1717206 | **Microrregião**: Araguaína  | **Área**: 1.363 km² | **Bioma**: Cerrado/Amazônia
 
 ---
 

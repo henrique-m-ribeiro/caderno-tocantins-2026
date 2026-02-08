@@ -1,6 +1,6 @@
 # PALMAS — Ficha Municipal
 
-**Código IBGE**: 1721000 | **Microrregião**: Porto Nacional | **Área**: 2.227 km² | **Bioma**: Cerrado
+**Código IBGE**: 1721000 | **Microrregião**: Porto Nacional  | **Área**: 2.227 km² | **Bioma**: Cerrado
 
 ---
 

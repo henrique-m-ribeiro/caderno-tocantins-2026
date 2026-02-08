@@ -1,6 +1,6 @@
 # SÍTIO NOVO DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1720804 | **Microrregião**: Bico do Papagaio | **Área**: 307 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720804 | **Microrregião**: Bico do Papagaio  | **Área**: 307 km² | **Bioma**: Cerrado
 
 ---
 

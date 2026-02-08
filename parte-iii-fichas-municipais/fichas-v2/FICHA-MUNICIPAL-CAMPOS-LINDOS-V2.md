@@ -1,6 +1,6 @@
 # CAMPOS LINDOS — Ficha Municipal
 
-**Código IBGE**: 1703842 | **Microrregião**: Jalapão | **Área**: 3.234 km² | **Bioma**: Cerrado
+**Código IBGE**: 1703842 | **Microrregião**: Jalapão  | **Área**: 3.234 km² | **Bioma**: Cerrado
 
 ---
 

@@ -1,6 +1,6 @@
 # COLINAS DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1705508 | **Microrregião**: Porto Nacional | **Área**: 842 km² | **Bioma**: Cerrado
+**Código IBGE**: 1705508 | **Microrregião**: Araguaína  | **Área**: 842 km² | **Bioma**: Cerrado
 
 ---
 

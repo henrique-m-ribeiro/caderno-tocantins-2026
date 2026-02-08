@@ -1,6 +1,6 @@
 # ALVORADA — Ficha Municipal
 
-**Código IBGE**: 1700707 | **Microrregião**: Gurupi | **Área**: 1.207 km² | **Bioma**: Cerrado
+**Código IBGE**: 1700707 | **Microrregião**: Gurupi  | **Área**: 1.207 km² | **Bioma**: Cerrado
 
 ---
 

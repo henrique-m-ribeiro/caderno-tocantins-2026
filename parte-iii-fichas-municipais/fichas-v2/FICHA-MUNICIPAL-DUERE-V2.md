@@ -1,6 +1,6 @@
 # DUERÉ — Ficha Municipal
 
-**Código IBGE**: 1707306 | **Microrregião**: Gurupi | **Área**: 3.421 km² | **Bioma**: Cerrado
+**Código IBGE**: 1707306 | **Microrregião**: Rio Formoso  | **Área**: 3.421 km² | **Bioma**: Cerrado
 
 ---
 

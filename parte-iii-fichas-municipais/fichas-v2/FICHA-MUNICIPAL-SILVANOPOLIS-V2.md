@@ -1,6 +1,6 @@
 # SILVANÓPOLIS — Ficha Municipal
 
-**Código IBGE**: 1720655 | **Microrregião**: Porto Nacional | **Área**: 1.259 km² | **Bioma**: Cerrado
+**Código IBGE**: 1720655 | **Microrregião**: Porto Nacional  | **Área**: 1.259 km² | **Bioma**: Cerrado
 
 ---
 

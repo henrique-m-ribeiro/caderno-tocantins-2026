@@ -1,6 +1,6 @@
 # NOVO ALEGRE — Ficha Municipal
 
-**Código IBGE**: 1715002 | **Microrregião**: — | **Área**: 200,1 km² | **Bioma**: Cerrado
+**Código IBGE**: 1715002 | **Microrregião**: Dianópolis  | **Área**: 200,1 km² | **Bioma**: Cerrado
 
 ---
 

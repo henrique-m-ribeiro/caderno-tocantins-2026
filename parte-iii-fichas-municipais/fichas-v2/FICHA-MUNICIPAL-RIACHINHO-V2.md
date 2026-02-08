@@ -1,6 +1,6 @@
 # RIACHINHO — Ficha Municipal
 
-**Código IBGE**: 1718709 | **Microrregião**: Bico do Papagaio | **Área**: 512 km² | **Bioma**: Cerrado e Amazônia (transição)
+**Código IBGE**: 1718709 | **Microrregião**: Bico do Papagaio  | **Área**: 512 km² | **Bioma**: Cerrado e Amazônia (transição)
 
 ---
 

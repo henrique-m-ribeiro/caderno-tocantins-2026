@@ -1,6 +1,6 @@
 # NOVA ROSALÂNDIA — Ficha Municipal
 
-**Código IBGE**: 1718907 | **Microrregião**: Porto Nacional | **Área**: 515 km² | **Bioma**: Cerrado
+**Código IBGE**: 1718907 | **Microrregião**: Rio Formoso  | **Área**: 515 km² | **Bioma**: Cerrado
 
 ---
 

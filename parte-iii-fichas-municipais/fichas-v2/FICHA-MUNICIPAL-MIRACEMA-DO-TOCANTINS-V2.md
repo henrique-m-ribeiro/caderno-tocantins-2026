@@ -1,6 +1,6 @@
 # MIRACEMA DO TOCANTINS — Ficha Municipal
 
-**Código IBGE**: 1713205 | **Microrregião**: Porto Nacional | **Área**: 2.664 km² | **Bioma**: Cerrado
+**Código IBGE**: 1713205 | **Microrregião**: Miracema do Tocantins  | **Área**: 2.664 km² | **Bioma**: Cerrado
 
 ---
 
