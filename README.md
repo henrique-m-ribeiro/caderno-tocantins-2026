@@ -9,11 +9,13 @@
 
 Sistema de Inteligência Territorial para subsidiar a campanha eleitoral ao governo do Estado do Tocantins em 2026.
 
+> **Contexto Acadêmico:** Este repositório é parte do projeto de doutorado em Ciência Política de Henrique Marques Ribeiro (orientador: Prof. Fernando Filgueiras), que investiga **Inteligência Territorial e IA na Gestão Pública** através de pesquisa-ação. Todo artefato aqui produzido possui dupla leitura: produto prático (cadernos territoriais) e dado de pesquisa (evidência de produção em escala com IA). Veja [CLAUDE.md](./CLAUDE.md) para instruções detalhadas de contexto e governança.
+
 ---
 
 ## Sobre o Projeto
 
-O **Caderno Tocantins 2026** é um sistema de inteligência territorial que apresenta análises multidimensionais sobre as **8 microrregiões** e **139 municípios** do Estado do Tocantins. O projeto utiliza o framework **IA-Collab-OS**, dados oficiais de múltiplas fontes governamentais e inteligência artificial para produzir diagnósticos estratégicos que apoiam a tomada de decisão em políticas públicas.
+O **Caderno Tocantins 2026** é um sistema de inteligência territorial que apresenta análises multidimensionais sobre as **8 microrregiões** e **139 municípios** do Estado do Tocantins. O projeto utiliza o framework **[IA-Collab-OS](https://github.com/henrique-m-ribeiro/ia-collab-os)** (v2.2), dados oficiais de múltiplas fontes governamentais e inteligência artificial para produzir diagnósticos estratégicos que apoiam a tomada de decisão em políticas públicas.
 
 ### Objetivos
 
@@ -164,6 +166,7 @@ O projeto utiliza o **IA-Collab-OS** (Intelligent Automation Collaborative Opera
 ```
 caderno-tocantins-2026/
 │
+├── CLAUDE.md                                    # Instruções para agentes IA + contexto acadêmico
 ├── README.md                                    # Este arquivo
 ├── volumes-finalizados/                         # VOLUMES PUBLICADOS
 │   ├── volume-1/                                # Vol 1: Visão Estadual (V1.1)
@@ -243,6 +246,19 @@ caderno-tocantins-2026/
 
 ---
 
+## Repositórios Relacionados
+
+Este repositório faz parte de um ecossistema de pesquisa-ação sobre Superinteligência Territorial:
+
+| Repositório | Função | Relação |
+|-------------|--------|---------|
+| **[doutorado](https://github.com/henrique-m-ribeiro/doutorado)** | Hub acadêmico | Organização acadêmica, governança e protocolo PA |
+| **[ia-collab-os](https://github.com/henrique-m-ribeiro/ia-collab-os)** | Framework | Metodologia v2.2 aplicada na produção |
+| **[tocantins-integrado](https://github.com/henrique-m-ribeiro/tocantins-integrado)** | Sistema técnico | Pausado; forneceu dados e métodos |
+| **[framework-v6-mvp](https://github.com/henrique-m-ribeiro/framework-v6-mvp)** | Predecessora | Análises dimensionais do Ciclo 1 |
+
+---
+
 ## Contribuindo
 
 Este é um repositório privado para uso estratégico. Para contribuir:
@@ -265,10 +281,11 @@ Este projeto contém informações estratégicas de campanha e é de uso restrit
 ## Contato
 
 **Responsável Técnico:** Henrique Marques Ribeiro
-**Framework:** [IA-Collab-OS](https://github.com/henrique-m-ribeiro/ia-collab-os)
+**Framework:** [IA-Collab-OS v2.2](https://github.com/henrique-m-ribeiro/ia-collab-os)
+**Repositório Hub:** [doutorado](https://github.com/henrique-m-ribeiro/doutorado)
 
 ---
 
-**Última atualização:** 08 de fevereiro de 2026
-**Versão:** 2.0.0 (9 Volumes Finalizados)
+**Última atualização:** 13 de fevereiro de 2026
+**Versão:** 2.1.0 (9 Volumes Finalizados + CLAUDE.md incorporado)
 **Status:** Volume 1 (V1.1) + Volumes 2-9 (V1.0) — Todos Publicados

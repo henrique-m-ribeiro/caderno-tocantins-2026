@@ -1,5 +1,7 @@
 # HANDOFF - PRÓXIMA SESSÃO
 
+> **NOTA DE STATUS (13/02/2026):** Este handoff foi redigido em 06/02/2026, antes da finalização dos Volumes 2-9 (08/02/2026). Desde então, todos os 9 volumes foram publicados, o repositório recebeu o arquivo CLAUDE.md com contexto acadêmico, e os documentos de referência foram atualizados. As decisões pendentes sobre "opção de execução A/B/C" referem-se a fases futuras de refinamento (Volume 1 v2.0, fichas simplificadas, base de dados CSV completa), que permanecem planejadas para o Ciclo 4 ou pós-qualificação. Consulte CHANGELOG.md para o histórico completo.
+
 **De:** Session `01RiFRbB4LEyeb9tvvFBdhpF` (Claude Code - Sonnet 4.5)
 **Para:** Próxima Sessão
 **Data:** 06 de Fevereiro de 2026

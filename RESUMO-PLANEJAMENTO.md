@@ -1,7 +1,9 @@
 # RESUMO EXECUTIVO - PLANEJAMENTO FASES FINAIS
 
+> **NOTA DE STATUS (13/02/2026):** Este planejamento foi redigido em 06/02/2026, antes da finalização dos Volumes 2-9 (08/02/2026). Com a publicação dos 9 volumes, o projeto atingiu o marco principal de produção. As fases descritas abaixo referem-se a trabalho de refinamento futuro (Volume 1 v2.0, fichas simplificadas de 3 páginas, base de dados CSV completa com 824 indicadores) — planejado para o Ciclo 4 ou pós-qualificação. Consulte CHANGELOG.md para o estado atual.
+
 **Data:** 06 de Fevereiro de 2026
-**Status Atual:** 141/279 documentos Volume 2 (50.5%)
+**Status Atual:** 9 volumes finalizados e publicados (08/02/2026) — fases abaixo referem-se a refinamento futuro
 **Documento Completo:** [PLANEJAMENTO-FASES-FINAIS.md](./PLANEJAMENTO-FASES-FINAIS.md)
 
 ---
