@@ -26,6 +26,45 @@ O **Caderno Tocantins 2026** é um documento estratégico que apresenta análise
 
 ---
 
+## 🌐 Ecossistema de Repositórios
+
+Este projeto faz parte de um **ecossistema integrado** de superinteligência territorial composto por 3 repositórios complementares:
+
+### 📊 caderno-tocantins-2026 (VOCÊ ESTÁ AQUI)
+**Produção de Conteúdo e Dados Estruturados**
+
+- ✅ Volume 1 v2.0: Análise consolidada (579 KB, 12.572 linhas)
+- ✅ 139 fichas municipais (Deepseek V3)
+- ✅ Dados CSV/JSON (37-76 indicadores por município)
+- ✅ Documentação de pesquisa-ação (handoffs, ADRs, reflexões)
+
+**Tecnologias:** Markdown, Shell Scripts, Python, Git
+
+### 🖥️ [tocantins-integrado](https://github.com/henrique-m-ribeiro/tocantins-integrado)
+**Dashboard Web Interativo**
+
+- ✅ Visualização de dados por município/microrregião
+- ✅ MVP funcional com dados estáticos
+- ✅ Interface Next.js + React
+- ✅ Parser Node.js (1.000+ linhas)
+
+**Tecnologias:** Next.js, Node.js, TypeScript
+
+**Status:** MVP Funcional (dados estáticos consumidos deste repositório)
+
+### 📚 [doutorado](https://github.com/henrique-m-ribeiro/doutorado)
+**Governança Acadêmica e Pesquisa-Ação**
+
+- ✅ Planos de ciclos de pesquisa-ação
+- ✅ ADRs centralizados para análise de tese
+- ✅ Reflexões metodológicas e diários de campo
+
+**Tecnologias:** Markdown, Framework IA-Collab-OS
+
+**Documentação completa:** [docs/ARQUITETURA-ECOSSISTEMA.md](./docs/ARQUITETURA-ECOSSISTEMA.md)
+
+---
+
 ## 🎉 VOLUME 1 FINALIZADO E PUBLICADO
 
 **Status:** ✅ 100% CONCLUÍDO
@@ -196,17 +235,19 @@ Com as **139 fichas municipais completas** em mãos, agora executaremos:
 
 **TOTAL DO PROJETO:** ~3.350 páginas de análise + base de dados estruturada
 
-### ✋ Próximos Passos
+### ✋ Próximos Passos (Caderno Tocantins 2026)
 
-**Aguardando Decisão:**
-1. Aprovar planejamento para iniciar Fase 1
-2. Definir prioridades de execução (todas as fases ou caminho mais rápido?)
-3. Alocar recursos e tempo
+**Escopo deste repositório:**
+- ⏳ **Refatoração V02:** Expansão de 38 → 65 indicadores (PDFs SEPLAN-TO)
+- ⏳ **Volume 2:** Fichas municipais individuais (139 municípios)
+- ⏳ **Validação com stakeholders:** Apresentação para SEPLAN-TO, prefeituras, universidades
 
-**Opções de Execução:**
-- **Opção A - Completo:** Todas as 6 fases (máxima qualidade, mais tempo)
-- **Opção B - Direto ao Vol.2:** Fases 3.2→4→5→6 (publicação mais rápida)
-- **Opção C - Híbrido:** Fases críticas agora, aprofundamento depois
+**Fora do escopo (outros repositórios):**
+- ✅ **Dashboard web:** Já existe no repo [tocantins-integrado](https://github.com/henrique-m-ribeiro/tocantins-integrado) (MVP funcional com dados estáticos)
+- ⏳ **API REST:** Planejada para integração futura entre repositórios
+- ⏳ **Sistema de atualização contínua:** Refresh periódico de dados
+
+**Ver ecossistema completo:** [docs/ARQUITETURA-ECOSSISTEMA.md](./docs/ARQUITETURA-ECOSSISTEMA.md)
 
 ---
 
