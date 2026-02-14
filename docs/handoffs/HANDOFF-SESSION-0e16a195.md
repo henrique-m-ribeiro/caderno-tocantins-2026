@@ -364,12 +364,26 @@ A sessão iniciou com a instrução:
 
 ### Médio Prazo (1-2 meses)
 
-7. **Dashboard Interativo**
-   - Escolha de ferramenta (Power BI, Tableau, ou open-source)
-   - Design de visualizações
-   - Conexão com dados consolidados
+**📝 Nota sobre Dashboard (Atualização Fevereiro 2026):**
 
-8. **API de Dados**
+⚠️ **Dashboard já implementado:** O dashboard mencionado como "médio prazo" neste handoff (escrito em Fevereiro de 2026 antes da implementação) **JÁ EXISTE** no repositório [tocantins-integrado](https://github.com/henrique-m-ribeiro/tocantins-integrado).
+
+**Status atual:**
+- ✅ Dashboard MVP funcional com dados estáticos (Next.js)
+- ✅ Parser Node.js (1.000+ linhas) processando 139 municípios
+- ✅ JSON (1.9 MB) gerado a partir dos handbooks
+
+**Este handoff reflete o estado ANTES da implementação do dashboard.**
+
+---
+
+7. **Dashboard Interativo** ✅ **IMPLEMENTADO**
+   - ~~Escolha de ferramenta~~ → Next.js escolhido
+   - ~~Design de visualizações~~ → MVP funcional
+   - ~~Conexão com dados~~ → Parser Node.js implementado
+   - **Repositório:** https://github.com/henrique-m-ribeiro/tocantins-integrado
+
+8. **API de Dados** ⏳ **PENDENTE**
    - Estruturação de API REST para acesso programático
    - Endpoints por município, microrregião, indicador
    - Documentação para desenvolvedores
