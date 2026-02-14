@@ -10,14 +10,18 @@ Esta pasta contém a documentação de governança do projeto Caderno Tocantins 
 └── sessions/         # Avaliações e entregas de cada sessão
 ```
 
-## Metodologia: IA Collab OS
+## Contexto Acadêmico
 
-O projeto utiliza a metodologia **IA Collab OS** (Inteligência Artificial Collaborative Operating System), que combina:
+Este repositório é parte do projeto de doutorado em Ciência Política de Henrique Marques Ribeiro (orientador: Prof. Fernando Filgueiras), que investiga **Inteligência Territorial e IA na Gestão Pública** através de pesquisa-ação. Veja [CLAUDE.md](../CLAUDE.md) para instruções detalhadas de contexto, governança e relação com os repositórios `doutorado` e `ia-collab-os`.
 
-- **Colaboração Humano-IA**: Trabalho conjunto entre analistas e sistemas de IA
-- **Iteração Incremental**: Desenvolvimento em versões (V1.0, V2.0, etc.)
+## Metodologia: IA-Collab-OS v2.2
+
+O projeto utiliza a metodologia **[IA-Collab-OS](https://github.com/henrique-m-ribeiro/ia-collab-os)** v2.2 (Intelligent Automation Collaborative Operating System), que combina:
+
+- **Colaboração Humano-IA**: Trabalho conjunto entre analistas e sistemas de IA (213 agentes orquestrados)
+- **Iteração Incremental**: Desenvolvimento em versões (V1.0, V1.1, V2.0, etc.)
 - **Transparência Total**: Documentação de lacunas e limitações
-- **Rastreabilidade Completa**: Registro de fontes e metodologias
+- **Rastreabilidade Completa**: Registro de fontes e metodologias (177 commits, 53 PRs)
 - **Avaliação Sistemática**: Notas de qualidade (0-10) para cada entrega
 
 ## Princípios de Governança
@@ -123,8 +127,30 @@ Antes de aprovar uma ficha regional, verificar:
 
 ## Histórico de Entregas
 
+### Volumes Finalizados
+
+| Volume | Conteúdo | Data | Versão | Status |
+|--------|----------|------|--------|--------|
+| Vol. 1 | Visão Estadual + 8 Microrregiões | 31/01/2026 | V1.1 | ✅ Publicado |
+| Vol. 2 | Microrregião Porto Nacional (11 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+| Vol. 3 | Microrregião Araguaína (17 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+| Vol. 4 | Microrregião Bico do Papagaio (25 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+| Vol. 5 | Microrregião Miracema do Tocantins (24 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+| Vol. 6 | Microrregião Gurupi (14 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+| Vol. 7 | Microrregião Dianópolis (20 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+| Vol. 8 | Microrregião Jalapão (15 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+| Vol. 9 | Microrregião Rio Formoso (13 mun.) | 08/02/2026 | V1.0 | ✅ Publicado |
+
+**Total:** 9 volumes | ~1.150 páginas | 139 municípios | 8 microrregiões
+
+### Fichas Regionais (Produção Inicial)
+
 | Microrregião | Data | Versão | Nota | Status |
 |--------------|------|--------|------|--------|
+| Porto Nacional | Jan/2026 | V1.1 | — | ✅ Integrada ao Vol. 1 |
+| Araguaína | Jan/2026 | V1.1 | — | ✅ Integrada ao Vol. 1 |
+| Bico do Papagaio | Jan/2026 | V1.1 | — | ✅ Integrada ao Vol. 1 |
+| Miracema do Tocantins | Jan/2026 | V1.1 | — | ✅ Integrada ao Vol. 1 |
 | Gurupi | Jan/2026 | V1.0 | 9.5/10 | ✅ Aprovada |
 | Dianópolis | Jan/2026 | V1.0 | 9.2/10 | ✅ Aprovada |
 | Jalapão | Jan/2026 | V1.0 | 9.5/10 | ✅ Aprovada |
@@ -139,4 +165,4 @@ Para propor melhorias na governança:
 
 ---
 
-**Última atualização:** 23 de janeiro de 2026
+**Última atualização:** 13 de fevereiro de 2026
