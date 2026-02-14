@@ -27,7 +27,52 @@ O **Caderno Tocantins 2026** é um sistema de inteligência territorial que apre
 
 ---
 
-## 9 VOLUMES FINALIZADOS E PUBLICADOS
+## 🌐 Ecossistema de Repositórios
+
+Este projeto faz parte de um **ecossistema integrado** de superinteligência territorial composto por 3 repositórios complementares:
+
+### 📊 caderno-tocantins-2026 (VOCÊ ESTÁ AQUI)
+**Produção de Conteúdo e Dados Estruturados**
+
+- ✅ Volume 1 v2.0: Análise consolidada (579 KB, 12.572 linhas)
+- ✅ 139 fichas municipais (Deepseek V3)
+- ✅ Dados CSV/JSON (37-76 indicadores por município)
+- ✅ Documentação de pesquisa-ação (handoffs, ADRs, reflexões)
+
+**Tecnologias:** Markdown, Shell Scripts, Python, Git
+
+### 🖥️ [tocantins-integrado](https://github.com/henrique-m-ribeiro/tocantins-integrado)
+**Dashboard Web Interativo**
+
+- ✅ Visualização de dados por município/microrregião
+- ✅ MVP funcional com dados estáticos
+- ✅ Interface Next.js + React
+- ✅ Parser Node.js (1.000+ linhas)
+
+**Tecnologias:** Next.js, Node.js, TypeScript
+
+**Status:** MVP Funcional (dados estáticos consumidos deste repositório)
+
+### 📚 [doutorado](https://github.com/henrique-m-ribeiro/doutorado)
+**Governança Acadêmica e Pesquisa-Ação**
+
+- ✅ Planos de ciclos de pesquisa-ação
+- ✅ ADRs centralizados para análise de tese
+- ✅ Reflexões metodológicas e diários de campo
+
+**Tecnologias:** Markdown, Framework IA-Collab-OS
+
+**Documentação completa:** [docs/ARQUITETURA-ECOSSISTEMA.md](./docs/ARQUITETURA-ECOSSISTEMA.md)
+
+---
+
+## 🎉 VOLUME 1 FINALIZADO E PUBLICADO
+
+**Status:** ✅ 100% CONCLUÍDO
+**Data:** 31 de Janeiro de 2026
+**Versão:** 1.1 - Consolidada
+
+### 📄 Documento Principal
 
 **Status:** ✅ TODOS OS 9 VOLUMES CONCLUÍDOS
 **Data:** 08 de Fevereiro de 2026
@@ -134,16 +179,53 @@ Cada volume contém:
 
 ## Fontes de Dados
 
-O projeto utiliza dados de fontes oficiais:
+| Fase | Nome | Duração | Entregas Principais |
+|------|------|---------|---------------------|
+| **1** | Consolidação Ascendente | 1-2 sem | 8 fichas regionais + Panorama Estadual revisados |
+| **2** | Volume 1 v2.0 | 3-5 dias | Volume 1 aprimorado (~130-150 pág) |
+| **3** | Refinamento Municipal | 2-3 sem | Fichas v2.0 com análise comparativa + Base CSV |
+| **4** | Volume 2 - Estruturação | 3-5 dias | Estrutura fichas simplificadas (3 pág) definida |
+| **5** | Volume 2 - Produção | 1-2 sem | 139 fichas simplificadas organizadas |
+| **6** | Publicação Final | 1 sem | Volume 2 completo publicado |
 
-- **IBGE** — Instituto Brasileiro de Geografia e Estatística ([Cidades](https://cidades.ibge.gov.br/), [SIDRA](https://sidra.ibge.gov.br/))
-- **INEP/MEC** — Instituto Nacional de Estudos e Pesquisas Educacionais ([IDEB](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb))
-- **DATASUS** — Ministério da Saúde ([SIM](https://datasus.saude.gov.br/))
-- **SNIS** — Sistema Nacional de Informações sobre Saneamento ([Portal](http://www.snis.gov.br/))
-- **CONAB** — Companhia Nacional de Abastecimento
-- **TSE** — Tribunal Superior Eleitoral (dados eleitorais 2024)
-- **SEPLAN-TO** — Secretaria de Planejamento do Tocantins (Perfis Socioeconômicos Municipais, 8ª Edição, 2024)
-- **PNUD** — Atlas do Desenvolvimento Humano no Brasil
+### 📅 Cronograma Estimado
+
+- **Início:** 10 de Fevereiro de 2026
+- **Conclusão:** Meados de Abril de 2026
+- **Duração:** 4-6 semanas (130-190 horas de esforço)
+
+### 🎁 Entregas Finais Previstas
+
+**Volume 1 v2.0:**
+- ~130-150 páginas (vs. 100-110 do v1.1)
+- Análises aprofundadas com dados dos 139 municípios
+- Rankings e análises comparativas
+
+**Volume 2 v1.0:**
+- 139 fichas simplificadas (3 páginas cada = 417 páginas)
+- Base de dados completa (139 × 824 indicadores)
+- Organizadas por 8 microrregiões
+
+**Produtos Auxiliares:**
+- 139 fichas completas v2.0 (18-20 páginas cada, com análise comparativa)
+- Base de dados CSV e Excel
+- Dicionários e guias de uso
+
+**TOTAL DO PROJETO:** ~3.350 páginas de análise + base de dados estruturada
+
+### ✋ Próximos Passos (Caderno Tocantins 2026)
+
+**Escopo deste repositório:**
+- ⏳ **Refatoração V02:** Expansão de 38 → 65 indicadores (PDFs SEPLAN-TO)
+- ⏳ **Volume 2:** Fichas municipais individuais (139 municípios)
+- ⏳ **Validação com stakeholders:** Apresentação para SEPLAN-TO, prefeituras, universidades
+
+**Fora do escopo (outros repositórios):**
+- ✅ **Dashboard web:** Já existe no repo [tocantins-integrado](https://github.com/henrique-m-ribeiro/tocantins-integrado) (MVP funcional com dados estáticos)
+- ⏳ **API REST:** Planejada para integração futura entre repositórios
+- ⏳ **Sistema de atualização contínua:** Refresh periódico de dados
+
+**Ver ecossistema completo:** [docs/ARQUITETURA-ECOSSISTEMA.md](./docs/ARQUITETURA-ECOSSISTEMA.md)
 
 ---
 
