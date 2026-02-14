@@ -7,54 +7,88 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 ## [Não Lançado]
 
-### Em Desenvolvimento - Volume 2
-- 🚀 **Estratégia Deepseek V3 para Volume 2** - Definida em 31/01/2026
-  - Geração de 139 fichas municipais completas (análise aprofundada sem limite de páginas)
-  - Extração de todos os indicadores dos Perfis Socioeconômicos SEPLAN-TO
-  - Criação de base de dados expandida com 824 colunas por município
-  - Meta: 279 documentos (139 fichas + 139 CSVs + 1 dicionário de referência)
-  - Estimativa: 55-60 horas de trabalho em 6 semanas
-  - **Progresso Atual:** 141/279 documentos (50.5%)
+### Próxima Fase (Ciclo 4 ou Pós-Qualificação)
+- ⏳ **Validação territorial** com atores locais (Etapa 3 do Plano de Fortalecimento)
+- ⏳ **Teste de compreensibilidade** com gestores públicos
+- ⏳ **Revisão colaborativa** com equipe de campanha/gabinete
+- ⏳ **Eventual atualização** com dados de 2026 (Censo IBGE)
+- ⏳ **Volume 1 v2.0** — consolidação ascendente com base nas 139 fichas municipais
+- 📋 Planejamento detalhado em `PLANEJAMENTO-FASES-FINAIS.md` e `RESUMO-PLANEJAMENTO.md`
 
-### 📋 Planejamento (06/02/2026)
-- 🎯 **PLANEJAMENTO COMPLETO DAS FASES FINAIS CRIADO**
-  - Documento: `PLANEJAMENTO-FASES-FINAIS.md` (detalhado, 40+ páginas)
-  - Resumo: `RESUMO-PLANEJAMENTO.md` (executivo, 5 páginas)
-  - **Estratégia:** Consolidação ascendente (município → região → estado) + refinamento
-  - **6 Fases definidas:**
-    1. **Consolidação Ascendente** - Revisar fichas regionais e panorama estadual
-    2. **Volume 1 v2.0** - Publicar versão aprimorada do Volume 1
-    3. **Refinamento Municipal** - Adicionar visão comparativa + gerar CSVs completos
-    4. **Volume 2 - Estruturação** - Definir fichas simplificadas (3 páginas)
-    5. **Volume 2 - Produção** - Gerar 139 fichas simplificadas
-    6. **Publicação Final** - Consolidar e publicar Volume 2 completo
-  - **Cronograma:** 4-6 semanas (130-190 horas de esforço)
-  - **Entregas Finais:**
-    * Volume 1 v2.0: ~130-150 páginas (vs. 100-110 do v1.1)
-    * Volume 2 v1.0: 139 fichas simplificadas (3 pág × 139 = 417 pág)
-    * Base de dados completa: 139 municípios × 824 indicadores
-    * Fichas completas v2.0: 139 × 18-20 páginas (com análise comparativa)
-  - **Total do Projeto:** ~3.350 páginas + base estruturada
-  - **Pontos de decisão:** 6 aprovações ao longo das fases
-  - **Status:** ⏳ Aguardando aprovação para iniciar Fase 1
+## [2.1.0] - 2026-02-13
 
-### ✅ Concluído (06/02/2026)
-- 🎉 **TODAS AS 139 FICHAS MUNICIPAIS COMPLETAS**
-  - Localização: `parte-iii-fichas-municipais/deepseek-v3/fichas-completas/`
-  - Cobertura: 100% dos municípios do Tocantins
-  - Formato: Análise socioeconômica aprofundada (15+ páginas por município)
-  - Estrutura padronizada:
-    * Resumo Executivo com diagnóstico-síntese
-    * Dados Fundamentais (população, economia, social)
-    * Análise SWOT detalhada
-    * 9 Dimensões de Análise (demografia, educação, saúde, economia, agricultura, infraestrutura, meio ambiente, finanças, desenvolvimento social)
-    * Diagnóstico Integrado conectando múltiplas dimensões
-    * Diretrizes Estratégicas municipais
-    * Agenda de Implementação priorizada
-    * Alertas e Riscos identificados
-  - Geradas via Deepseek V3 a partir dos Perfis Socioeconômicos SEPLAN-TO
-  - Total estimado: ~2.085 páginas de análise (139 × 15 páginas)
-  - **Marco importante:** Metade do Volume 2 concluída!
+### Incorporação do CLAUDE.md e Revisão de Documentos de Referência
+- ✅ **CLAUDE.md incorporado** ao repositório (origem: `doutorado/temp-claude-md-files/`)
+  - Contexto acadêmico da pesquisa-ação (Ciclo 3)
+  - Instruções obrigatórias para agentes IA
+  - Mapa de documentos de referência local e externo
+  - Relação com repositórios `doutorado`, `ia-collab-os`, `tocantins-integrado`, `framework-v6-mvp`
+  - Lacunas acadêmicas conhecidas documentadas
+  - Convenções de produção e reflexão (proporção 90/10)
+- ✅ **README.md atualizado**
+  - Contexto acadêmico adicionado (doutorado em Ciência Política, pesquisa-ação)
+  - Referência ao CLAUDE.md incluída
+  - Seção "Repositórios Relacionados" adicionada (4 repositórios do ecossistema)
+  - Referência ao framework IA-Collab-OS v2.2 atualizada
+  - Árvore de estrutura do repositório atualizada com CLAUDE.md
+- ✅ **CHANGELOG.md reestruturado**
+  - Entrada [2.0.0] adicionada para marco dos 9 volumes finalizados (08/02/2026)
+  - Seção "Não Lançado" atualizada para refletir fases futuras reais
+  - Documentação de sessão (06-08/02/2026) registrada
+- ✅ **.governance/README.md atualizado**
+  - Histórico de entregas completo (9 volumes + todas as microrregiões)
+  - Referência ao framework IA-Collab-OS v2.2
+  - Contexto acadêmico integrado
+- ✅ **HANDOFF-PROXIMA-SESSAO.md e RESUMO-PLANEJAMENTO.md** — notas de status adicionadas
+
+## [2.0.0] - 2026-02-08
+
+### ✅ TODOS OS 9 VOLUMES FINALIZADOS E PUBLICADOS
+
+#### Marco Principal
+- 🎉 **9 VOLUMES COMPLETOS** — ~1.150 páginas de análise territorial
+- 🎉 **139 municípios** do Tocantins cobertos integralmente
+- 🎉 **8 microrregiões** com volumes dedicados
+- 🎉 **213 agentes IA orquestrados** em uma única sessão (dado central para OE3)
+
+#### Volumes 2-9 — Fichas Municipais por Microrregião (08/02/2026)
+- ✅ **Volume 2 — Porto Nacional** (11 municípios, 248 KB)
+- ✅ **Volume 3 — Araguaína** (17 municípios, 358 KB)
+- ✅ **Volume 4 — Bico do Papagaio** (25 municípios, 484 KB)
+- ✅ **Volume 5 — Miracema do Tocantins** (24 municípios, 498 KB)
+- ✅ **Volume 6 — Gurupi** (14 municípios, 331 KB)
+- ✅ **Volume 7 — Dianópolis** (20 municípios, 419 KB)
+- ✅ **Volume 8 — Jalapão** (15 municípios, 319 KB)
+- ✅ **Volume 9 — Rio Formoso** (13 municípios, 250 KB)
+- Todos < 500 KB (compatíveis com Google Docs)
+- Localização: `volumes-finalizados/volume-{2..9}-*/`
+
+#### 139 Fichas Municipais V2 Condensadas (07/02/2026)
+- ✅ **139 fichas condensadas** (~5-7 páginas cada, ~250-350 linhas)
+- Estrutura: Dados Fundamentais → Resumo Executivo → SWOT → 8 Dimensões → Diagnóstico → Diretrizes → Alertas
+- ~45 indicadores por ficha com dados atuais e variação temporal
+- 61 labels de microrregião corrigidos
+- Localização: `parte-iii-fichas-municipais/fichas-v2/`
+
+#### 139 Fichas Municipais Completas (06/02/2026)
+- ✅ **139 fichas completas** (15+ páginas por município, ~2.085 páginas total)
+- Geradas via Deepseek V3 a partir dos Perfis Socioeconômicos SEPLAN-TO
+- Estrutura padronizada: Resumo Executivo, Dados Fundamentais, SWOT, 9 Dimensões, Diagnóstico Integrado, Diretrizes, Alertas
+- Localização: `parte-iii-fichas-municipais/deepseek-v3/fichas-completas/`
+
+#### Documentação de Sessão (06-08/02/2026)
+- ✅ **Planejamento estratégico** — 6 fases definidas (`PLANEJAMENTO-FASES-FINAIS.md`, 40+ páginas)
+- ✅ **Resumo executivo** — (`RESUMO-PLANEJAMENTO.md`, 5 páginas)
+- ✅ **Handoff de sessão** — (`HANDOFF-PROXIMA-SESSAO.md`)
+- ✅ **Reflexão de pesquisa-ação** — (`REFLEXAO-PESQUISA-ACAO-SESSION-01RiFRbB4LEyeb9tvvFBdhpF.md`)
+- ✅ **Caminho percorrido** — (`CAMINHO-PERCORRIDO-SESSION-01RiFRbB4LEyeb9tvvFBdhpF.md`)
+- ✅ **Relato de orquestração de 213 agentes** — contribuição central para OE3
+- ✅ **Plano de fortalecimento metodológico** — encerramento da sessão de produção
+
+#### 6 Fichas Microrregionais Revisadas (07/02/2026)
+- ✅ 11 municípios ausentes integrados às fichas microrregionais
+- ✅ Contagens e análises revisadas
+- Localização: `analises/fase-1-1-agregacao-municipal/`
 
 ### Adicionado (03/02/2026)
 - ✅ **Dicionário de Dados de Referência Criado**
@@ -461,4 +495,4 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 ---
 
 **Formato de Data:** AAAA-MM-DD
-**Última Atualização:** 2026-01-23
+**Última Atualização:** 2026-02-13

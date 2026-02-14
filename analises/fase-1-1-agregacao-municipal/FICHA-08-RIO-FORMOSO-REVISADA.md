@@ -818,17 +818,18 @@ Análise das fichas municipais revela **fortíssima concentração fundiária**,
 - Retenção de valor agregado na região
 - Diversificação econômica
 
-#### 3. Turismo Histórico e Ecológico
+#### 3. Turismo de Natureza e Agroturismo
 
 **Ativos:**
-- **Natividade:** Cidade histórica (arquitetura colonial, igrejas barrocas, museus)
-- **Patrimônio do ciclo do ouro:** Minas históricas, trilhas, ruínas
-- **Ecoturismo:** Chapadas, cachoeiras, observação de fauna e flora do cerrado
+- **Rio Araguaia:** Praias fluviais, pesca esportiva, observação de fauna aquática (lontras, aves)
+- **Ecoturismo no Cerrado:** Planícies aluviais, veredas, observação de fauna e flora
+- **Agroturismo educativo:** Visitação ao **Projeto Rio Formoso** (maior projeto de irrigação da América Latina em sua época), fazendas de arroz irrigado
+- **Turismo rural:** Integração com fazendas de pecuária e agricultura irrigada
 
 **Desenvolvimento Necessário:**
-- Infraestrutura turística (pousadas, restaurantes, sinalização)
-- Capacitação de guias e empreendedores
-- Marketing regional integrado
+- Infraestrutura turística (pousadas, restaurantes, sinalização ao longo do Rio Araguaia)
+- Capacitação de guias e empreendedores locais
+- Marketing regional integrado com rotas do Jalapão e Ilha do Bananal
 
 #### 4. Energia Renovável (Solar)
 
@@ -1109,7 +1110,7 @@ Análise das fichas municipais revela **fortíssima concentração fundiária**,
 - Matas ciliares recuperadas: 10.000 ha até 2030
 - Propriedades participantes de PSA: 200 até 2028
 
-### EIXO 3: Infraestrutura Logística e Conectividade
+### EIXO 4: Infraestrutura Logística e Conectividade
 
 **Objetivo:** Reduzir custos de transporte e ampliar conectividade digital
 
@@ -1140,40 +1141,40 @@ Análise das fichas municipais revela **fortíssima concentração fundiária**,
 - Domicílios com banda larga: 40% até 2028
 - Redução de custos de frete: 15-20%
 
-### EIXO 4: Turismo Histórico, Cultural e Ecológico
+### EIXO 5: Turismo de Natureza, Agroturismo e Cultura
 
-**Objetivo:** Desenvolver turismo como vetor de diversificação econômica e preservação patrimonial
+**Objetivo:** Desenvolver turismo como vetor de diversificação econômica, valorizando o Rio Araguaia e o patrimônio do Projeto Rio Formoso
 
 **Ações Prioritárias:**
 
-1. **Estruturação do Roteiro Turístico de Natividade:**
-   - Restauração e musealização de patrimônio histórico (igrejas, casarões, minas)
-   - Sinalização turística
-   - Capacitação de guias locais
-   - Centro de interpretação do ciclo do ouro
+1. **Estruturação do Roteiro Turístico do Rio Araguaia:**
+   - Mapeamento de praias fluviais, pontos de pesca esportiva e observação de fauna
+   - Sinalização turística ao longo do rio
+   - Capacitação de guias locais e condutores ambientais
+   - Centro de visitação do Projeto Rio Formoso (agroturismo educativo)
 
-2. **Ecoturismo no Cerrado:**
-   - Mapeamento de atrativos naturais (chapadas, cachoeiras, trilhas)
-   - Infraestrutura mínima (trilhas sinalizadas, mirantes)
+2. **Ecoturismo no Cerrado e Planícies Aluviais:**
+   - Mapeamento de atrativos naturais (veredas, várzeas, trilhas no cerrado)
+   - Infraestrutura mínima (trilhas sinalizadas, mirantes, pontos de observação de aves)
    - Capacitação de condutores ambientais
 
 3. **Infraestrutura Turística:**
-   - Incentivos para pousadas, restaurantes, agências de turismo
-   - Melhoria de acessos rodoviários aos atrativos
+   - Incentivos para pousadas, restaurantes e agências de turismo (Paraíso do Tocantins como hub)
+   - Melhoria de acessos rodoviários aos atrativos do Rio Araguaia
    - Sinalização turística regional
 
 4. **Marketing e Promoção:**
-   - Integração com rotas regionais (Jalapão, Chapada das Mesas-MA)
-   - Divulgação em feiras de turismo
+   - Integração com rotas regionais (Jalapão, Ilha do Bananal)
+   - Divulgação em feiras de turismo e pesca esportiva
    - Parcerias com operadoras
 
 **Indicadores de Sucesso:**
-- Fluxo turístico em Natividade: +100% até 2028
+- Fluxo turístico no Rio Araguaia (região): +100% até 2028
 - Empregos no setor: 300 postos até 2027
 - Renda do turismo: R$ 10-15 milhões/ano até 2029
-- Patrimônio histórico restaurado: 80% até 2029
+- Atrativos turísticos estruturados: 10 até 2028
 
-### EIXO 5: Educação e Qualificação Profissional
+### EIXO 6: Educação e Qualificação Profissional
 
 **Objetivo:** Melhorar qualidade educacional e formar competências para mercado de trabalho regional
 
@@ -1205,7 +1206,7 @@ Análise das fichas municipais revela **fortíssima concentração fundiária**,
 - Jovens em cursos técnicos: 500/ano até 2027
 - Campus universitário ou polo IF: 1 até 2028
 
-### EIXO 6: Saúde e Saneamento Básico
+### EIXO 7: Saúde e Saneamento Básico
 
 **Objetivo:** Ampliar acesso a serviços de saúde de qualidade e universalizar saneamento básico
 
@@ -1217,9 +1218,9 @@ Análise das fichas municipais revela **fortíssima concentração fundiária**,
    - Telemedicina (consultas com especialistas)
 
 2. **Estruturação de Rede Regional de Média Complexidade:**
-   - Ampliação do Hospital Regional de Dianópolis
-   - Policlínicas regionais (exames, consultas especializadas)
-   - Central de regulação
+   - Fortalecimento da infraestrutura hospitalar de Paraíso do Tocantins (85 estabelecimentos de saúde, polo regional)
+   - Policlínicas regionais (exames, consultas especializadas) em Formoso do Araguaia e Lagoa da Confusão
+   - Central de regulação integrada com Palmas (63 km de Paraíso)
 
 3. **Universalização do Saneamento Básico:**
    - Prioridade: Sistemas de esgotamento sanitário nas sedes municipais
@@ -1274,10 +1275,10 @@ Análise das fichas municipais revela **fortíssima concentração fundiária**,
 
 **Estrutura Proposta:**
 
-1. **Conselho Regional de Desenvolvimento de Dianópolis:**
-   - Composição: Prefeitos, representantes do setor produtivo, sociedade civil, universidades
+1. **Conselho Regional de Desenvolvimento de Rio Formoso:**
+   - Composição: Prefeitos dos 13 municípios, representantes do setor produtivo (irrigadores, pecuaristas, comércio), sociedade civil, universidades
    - Periodicidade: Reuniões trimestrais
-   - Atribuição: Planejamento regional, monitoramento de metas, articulação política
+   - Atribuição: Planejamento regional, monitoramento de metas, articulação política, gestão compartilhada de recursos hídricos
 
 2. **Câmaras Setoriais:**
    - Agronegócio e Agroindústria
